@@ -1547,10 +1547,7 @@ Jñāna–Vairāgya ko majbūt karta hai,
 aur bhakta ko Hari se ek kar deta hai।
 
 “Bhāgavata ko sunne wala aur sunāne wala—
-dono Kṛṣṇa ko praapt karte hain.”
-
-Agar chaho, main Chapter 4 (Bhāgavata-Saptāh Vidhi) ko
-👉 step-by-step, practical guide ke roop mein bana doon 🙏"""
+dono Kṛṣṇa ko praapt karte hain.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
