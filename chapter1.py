@@ -2000,14 +2000,121 @@ Dvārakā sirf nagri nahi, Bhagavān ka nivas hai"""
 
     # Chapter 11
     with st.expander("Chapter 11 - Kṛṣṇa’s Entrance into Dvārakā"):
-        text1 = """ """
+        text1 = """ 
+        Yeh adhyāy bhakti, milan aur ānanda ka hai.
+Yuddh aur kathin yātrā ke baad, Śrī Kṛṣṇa apni rajdhānī Dvārakā mein pravesh karte hain—aur poori nagarī prem se bhar jaati hai.
+
+🌊 Anarta desh aur śaṅkha-dhvani
+
+Apne desh Anarta pahunchkar, Kṛṣṇa
+Pāñcajanya śaṅkha phoonkte hain।
+Yeh dhvani:
+
+nagar ke logon ka dukh door karti hai
+
+bhay aur udaasi ko shānt karti hai
+
+Jaise suryodaya andhkaar ko mita deta hai,
+waise hi Kṛṣṇa ki dhvani hridayon ko prakāshit kar deti hai।"""
         create_image_text_layout(
-            "attached_assets/chapter1/11.1.jpg",
+            "attached_assets/chapter1/1.11.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        👥 Dvārakā-vāsiyon ka prem
+
+Log apne Prabhu ko dekhne daud padte hain।
+Unke bhaav bachchon jaise hain—
+nirbharta, suraksha aur prem se bhare hue।
+
+Ve kehte hain:
+
+“Aap hi hamare māta, pitā, mitra, guru aur Ishvar hain।
+Aapke charanon mein hi hamein sab kuch milta hai।”
+
+Unke liye, Kṛṣṇa se ek pal ki virah bhi
+karodon varshon ke samaan lagta hai।
+
+🏙️ Dvārakā ka divya saundarya
+
+Nagar saj chuki hai:
+
+kamal-talāvon aur upvanon se
+
+torano, dhvajon aur pushpon se
+
+har ghar ke dwar par kalash, deep, dahi, ann
+
+Dvārakā Bhogavatī (nāgon ki nagarī) ke saman surakshit hai—
+yahan Madhus, Vṛṣṇis, Andhakas jaise veer rehte hain।
+
+🛕 Parivār aur nagar ka swāgat
+
+Kṛṣṇa ka swāgat karne aate hain:
+
+Vasudeva, Devakī
+
+Balarāma
+
+Pradyumna, Sāmba, Akrūra, Ugrasena
+
+Brāhmaṇ, gāyak, nartak, vidvān
+
+Kṛṣṇa sabko:
+
+naman karte hain
+
+gale lagāte hain
+
+muskaan aur drishti se ādar dete hain
+
+Yeh darshan chaṇḍāl tak ko milta hai—
+yahi Bhagavān ki sarvavyāpt karuṇā hai।
+
+👩‍👩‍👦 Māon aur patniyon ka milan
+
+Māen Kṛṣṇa ko:
+
+god mein bithā leti hain
+
+ānkhon ke aansuon se snān karā deti hain
+
+Unki patniyan (hazāron raniyan):
+
+lajjā aur prem se bhar kar uṭh khadi hoti hain
+
+netron se, hriday se, aur bhāv se unka āliṅgan karti hain
+
+Lakṣmī jinhā charanon ko kabhi nahi chhodti,
+ve charan har pal naye lagte hain।
+
+🔱 Tatva-jñān (Gahra sandesh)
+
+Yeh adhyāy ek mahatvapūrṇ satya sikhata hai:
+
+Kṛṣṇa grihasth, rājā aur pati jaise lagte hain
+
+par ve prakṛti ke guṇon se asangat hain
+
+ve karmon mein rehte hue bhi akartā hain
+
+Log unhe apne jaisa samajh lete hain—
+yeh avidyā hai।
+
+Bhagavān:
+
+“Saṃsār mein rehte hue bhi
+saṃsār se bandhe nahi hote।”
+
+🌸 Is adhyāy ka saar
+
+Bhagavān ka aagman = bhay ka ant
+
+Bhakti mein virah bhi madhur hota hai
+
+Ishvar saath ho to nagar Vaikuṇṭh ban jaata hai"""
         create_image_text_layout(
             text_content=text2,
             layout="full"
@@ -2015,14 +2122,130 @@ Dvārakā sirf nagri nahi, Bhagavān ka nivas hai"""
 
     # Chapter 12
     with st.expander("Chapter 12 - Birth of Parīkṣit"):
-        text1 = """ """
+        text1 = """ 
+        🌱 Ek chamatkār se shuru hui kahani
+
+Yeh kahani hai ek aise balak ki,
+jo mar kar bhi jeevit hua.
+
+Uttarā ke garbh mein jo shishu tha,
+use Aśvatthāmā ke Brahmāstra ne jala diya tha.
+
+Sabko laga –
+ab Pāṇḍav vansh samāpt ho jayega.
+
+Par tab…
+Bhagavān swayam aaye."""
         create_image_text_layout(
-            "attached_assets/chapter1/12.1.jpg",
+            "attached_assets/chapter1/1.12.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🔥 Garbh mein darshan
+
+Jab aag charo taraf thi,
+shishu ne dekha—
+
+ek chhota sa divya purush,
+anguthe ke aakār ka.
+
+Śrī Kṛṣṇa
+– shyaam varṇ,
+– sunehra mukut,
+– chaar bhujāen,
+– haath mein gada.
+
+Woh shishu ke chaaro taraf ghoom rahe the,
+aur Brahmāstra ki aag bujha rahe the.
+
+Jaise suraj kohre ko hata deta hai,
+waise hi Kṛṣṇa ne mrityu ko hata diya.
+
+Phir…
+ve antardhyaan ho gaye.
+
+👶 Janm
+
+Shubh nakshatron mein,
+ek tejasvi balak ne janm liya.
+
+Woh balak tha –
+Parīkṣit
+Pāṇḍu vansh ka deepak.
+
+Yudhiṣṭhir ne khushi se:
+– daan diya
+– gaayen, sona, bhoomi, haathi, ghode diye
+– Brāhmaṇon se janm-kundali banwayi
+
+🕉️ Naam aur arth
+
+Brāhmaṇ bole:
+
+“Yeh balak mrityu se bacha hai,
+kyunki ise Viṣṇu ne raksha di.”
+
+Isliye iska naam pada:
+Viṣṇurāta –
+“Viṣṇu ka diya hua vardaan”.
+
+Aur log use kehne lage –
+Parīkṣit.
+
+Kyun?
+
+Kyuki jab yeh bada hua,
+yeh har chehre mein us divya purush ko dhoondhta tha
+jo isne garbh mein dekha tha.
+
+🔮 Bhavishyavāṇī
+
+Brāhmaṇon ne bhavishya bataya:
+
+Raja hoga Ikṣvāku jaisa
+
+Satya mein Rāma jaisa
+
+Daan mein Śibi jaisa
+
+Teerandazi mein Arjun jaisa
+
+Bhakti mein Prahlād jaisa
+
+Aur sabse mahatvapurn:
+
+Kali Yug ko niyantrit karega
+
+Mrityu ka samachar sun kar bhi bhay se nahi hilega
+
+Ganga ke tat par baith kar
+Śuka muni se Bhāgavata sunega
+
+Ant mein mokṣa paayega
+
+🌙 Balak ka bachpan
+
+Parīkṣit dheere-dheere bada hua,
+jaise shukla paksh ka chandra.
+
+Pyaar mein pala,
+sanskār mein bada,
+aur hriday se Kṛṣṇa-bhakt bana.
+
+🌼 Is adhyāy ka saar
+
+Bhagavān sirf mandir mein nahi,
+garbh mein bhi raksha karte hain
+
+Jo Ishvar ka hai,
+use mrityu bhi nahi chhoo sakti
+
+Bhakti ka beej
+janm se pehle hi ug sakta hai
+
+Agar chaho, main agla adhyāy bhi isi bhav mein suna sakta hoon:"""
         create_image_text_layout(
             text_content=text2,
             layout="full"
@@ -2030,14 +2253,182 @@ Dvārakā sirf nagri nahi, Bhagavān ka nivas hai"""
 
     # Chapter 13
     with st.expander("Chapter 13 - Discourse of Nārada"):
-        text1 = """ """
+        text1 = """ 
+        🌿 Vidura ka lautna
+
+Tīrth-yātra ke baad,
+jab Ātma-jñān poora ho gaya,
+tab Vidura
+Hastināpura wapas aaye.
+
+Unhone yeh gyaan paaya tha
+Maitreya se.
+
+Ab unke mann mein sirf ek cheez thi –
+Govinda ki bhakti.
+Sawalon ki zarurat khatam ho chuki thi."""
         create_image_text_layout(
-            "attached_assets/chapter1/13.1.jpg",
+            "attached_assets/chapter1/1.13.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🤍 Parivaar ka milan
+
+Vidura ko dekhkar:
+Yudhiṣṭhira,
+uske bhai,
+Dhṛtarāṣṭra, Kuntī, Gāndhārī,
+Draupadī, Subhadrā, Uttarā –
+sab bhaavuk ho gaye.
+
+Aisa laga jaise:
+shareer mein phir se prāṇ aa gaye ho.
+
+Aankhon se aansu nikle,
+par woh aansu dukh ke nahi,
+prem ke the.
+
+🕊️ Vidura ka gyaan
+
+Vidura ne sab kuch bataya –
+apni yātra, apna anubhav.
+
+Par ek baat…
+unhone chhupa li.
+
+👉 Yādav-vansh ka vināś.
+Kyunki woh baat sun kar
+yeh log toot jaate.
+
+Karuna unka swabhāv tha.
+
+⏳ Samay ka sanket
+
+Samay beetta gaya…
+raaj-sukh mein, par dheere-dheere.
+
+Vidura ne dekha –
+Budhāpa aa gaya hai.
+Mrityu door nahi.
+
+Tab unhone Dhṛtarāṣṭra se kaha:
+
+“He Rājan,
+ab rukna theek nahi.
+Samay sab kuch chheen leta hai.”
+
+Unhone kadvi par sach baat kahi:
+
+Putra mar gaye
+
+Shakti chali gayi
+
+Shareer toot raha hai
+
+Phir bhi tum
+shatru ke ghar ka ann le rahe ho?
+
+Yeh jeevan ka moh hai.
+
+🏔️ Vanaprastha ka marg
+
+Vidura ke shabdon ne
+Dhṛtarāṣṭra ke mann ke bandhan kaat diye.
+
+Woh Gāndhārī ke saath
+Himālay ki or nikal pade.
+
+Bina bataye.
+Bina shor.
+
+Sirf tyāg ke saath.
+
+😢 Yudhiṣṭhira ka dukh
+
+Jab Yudhiṣṭhira ne
+mahal mein Dhṛtarāṣṭra ko nahi dekha,
+toh unka hriday ghabra gaya.
+
+Sañjaya kuch bol na paaya.
+Aankhen bhar aayi.
+
+Tab…
+ākāsh se ek divya upasthiti hui.
+
+🎶 Nārada ka āgaman
+
+Aaye Nārada
+Tumburu ke saath.
+
+Yudhiṣṭhira ne vinamr ho kar poocha:
+
+“Mere pitā-tulya uncle kahan gaye?”
+
+🌌 Nārada ka upadeśa
+
+Nārada muskuraye, bole:
+
+“Rājan, shok mat karo.
+Sab kuch Bhagavān ke niyantran mein hai.”
+
+Unhone kaha:
+
+Milna aur bichhadna
+khiladi ke khel jaisa hai
+
+Yeh shareer
+pañch tatvon ka bana hai
+
+Jo khud doob raha ho,
+woh doosre ko kaise bacha sakta hai?
+
+“Jo ho raha hai,
+woh īśvar ki ichchhā se ho raha hai.”
+
+🔥 Dhṛtarāṣṭra ka ant
+
+Nārada ne bataya:
+
+Dhṛtarāṣṭra Saptasrota āśram mein hain
+
+Tapasya, upavās, yog mein leen
+
+Paach din mein
+unka shareer agni mein vilīn ho jayega
+
+Aur…
+
+Gāndhārī
+apne pati ke saath
+agni-pravesh karegi.
+
+Yeh dukh nahi,
+mokṣa ka dwaar hai.
+
+🌼 Vidura ka marg
+
+Yeh sab dekhkar,
+Vidura ke mann mein
+dukh aur aanand dono honge.
+
+Phir woh nikal jayenge –
+tīrth-yātra par.
+
+🌈 Adhyāy ka saar
+
+Moh sabse bada bandhan hai
+
+Gyaan jab aata hai,
+toh tyāg sambhav hota hai
+
+Jo Bhagavān ke bharose hai,
+use shok ki zarurat nahi
+
+Yudhiṣṭhira ne
+Nārada ke shabdon ko hriday mein bithaya,
+aur shok chhod diya."""
         create_image_text_layout(
             text_content=text2,
             layout="full"
@@ -2045,14 +2436,182 @@ Dvārakā sirf nagri nahi, Bhagavān ka nivas hai"""
 
     # Chapter 14
     with st.expander("Chapter 14 - Conjectures of Yudhiṣṭhira"):
-        text1 = """ """
+        text1 = """ 
+        ⏳ Arjuna ka der se lautna
+
+Kuch mahine pehle,
+Arjuna
+Dvārakā gaye the.
+
+Uddeshya tha –
+apne parivaar se milna,
+aur Kṛṣṇa
+ke kaarya aur bhāvon ko samajhna.
+
+Par…
+mahine beet gaye.
+Arjuna wapas nahi aaye.
+
+Tab Yudhiṣṭhira
+ke mann mein chinta jagi."""
         create_image_text_layout(
-            "attached_assets/chapter1/14.1.jpg",
+            "attached_assets/chapter1/1.14.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🌪️ Bhayanak apśakun
+
+Yudhiṣṭhira ne dekha:
+
+Rituon ka ulta chalna
+
+Logon mein lobh, krodh, jhooth
+
+Maa–baap, bhai–bhai, pati–patni mein jhagde
+
+Duniya mein tedhe raaste badhte hue
+
+Yeh sab dekhkar,
+unhone Bhīma
+se kaha:
+
+“Bhai,
+kuch theek nahi lag raha.”
+
+🕯️ Antarman ki aawaz
+
+Yudhiṣṭhira bole:
+
+“Saat mahine ho gaye.
+Arjuna ka koi sandesh nahi.”
+
+Unke mann mein ek bhayankar vichaar aaya:
+
+“Kya woh samay aa gaya hai
+jiske baare mein Nārada ne kaha tha?
+
+Kya Bhagavān Kṛṣṇa
+apni mānavi līlā samaapt
+karne wale hain?”
+
+⚡ Sharīrik sanket
+
+Yudhiṣṭhira ko
+apne sharīr mein bhi apśakun mehsoos hue:
+
+Baayaṅ jaṅgha, aankh aur bhuja ka phadakna
+
+Hriday ka kaampna
+
+Aur prakriti bhi jaise bol uthi:
+
+Giddhiya aur kutte ashubh dhvani kar rahe the
+
+Ghode ro rahe the
+
+Gaaye doodh nahi de rahi thi
+
+Bachche stanpān nahi kar rahe the
+
+🌑 Prakriti ka roop badalna
+
+Aur bhi darawni baatein hui:
+
+Surya feeka pad gaya
+
+Chandrama aur Surya ke ird-gird halke ghere
+
+Bhukamp aur bijli
+
+Khoon jaise barasate baadal
+
+Nadiyon aur manas ka vyakul hona
+
+Yudhiṣṭhira ne kaha:
+
+“Lagta hai
+dharti Bhagavān ke charanon ke bina
+shobhā-heen ho gayi hai.”
+
+🚪 Arjuna ka lautna
+
+Isi chinta ke beech…
+Arjuna wapas aaye.
+
+Par woh Arjuna jaise nahi the.
+
+Chehra peela
+
+Shareer kamzor
+
+Aankhon se aansu
+
+Sir jhuka hua
+
+Aur phir…
+
+Woh seedha
+Yudhiṣṭhira ke charanon mein gir pade.
+
+💔 Yudhiṣṭhira ka hriday kaamp utha
+
+Yudhiṣṭhira ko
+Nārada ke shabd yaad aa gaye.
+
+Unhone ghabra kar poochha:
+
+“Bhai…
+kya Dvārakā mein sab theek hai?”
+
+🏠 Parivaar ki chinta
+
+Yudhiṣṭhira ek-ek karke poochte gaye:
+
+Kya Yādav shant hain?
+
+Kya Vasudeva aur Devakī kushal hain?
+
+Kya Baladeva surakshit hain?
+
+Kya Pradyumna, Aniruddha, Sāmba sab theek hain?
+
+Kya Uddhava aur anya bhakt sukhi hain?
+
+Phir ant mein…
+
+“Kya Govinda
+Sudharmā sabhā mein
+apne mitron ke saath prasann hain?”
+
+😔 Arjuna ki chup
+
+Itne sawaalon ke baad bhi,
+Arjuna chup the.
+
+Yudhiṣṭhira ne dekha –
+unke tej mein kami thi.
+
+Aur dhire se bole:
+
+“Bhai…
+tum aise isliye ho
+kyunki tum apne sabse pyare
+mitra ko kho chuke ho?”
+
+🌫️ Adhyāy ka bhāv
+
+Is adhyāy mein:
+
+Viraha ka dard hai
+
+Bhagavān ke viyog ka andesha hai
+
+Kali Yug ke sanket dikh rahe hain
+
+Aur ek shant prashn –
+Kya Bhagavān apni līlā samaapt kar chuke hain?"""
         create_image_text_layout(
             text_content=text2,
             layout="full"
@@ -2060,14 +2619,161 @@ Dvārakā sirf nagri nahi, Bhagavān ka nivas hai"""
 
     # Chapter 15
     with st.expander("Chapter 15 - Ascent of the Pāṇḍavas to Heaven"):
-        text1 = """ """
+        text1 = """ 
+        🌑 Arjuna ka dukh – Kṛṣṇa-viyog
+
+Arjuna
+ab bol nahi pa rahe the.
+Kṛṣṇa se viraha ne unka tej chheen liya tha.
+
+Aansū rokte hue,
+unhone Yudhiṣṭhira
+se kaha:
+
+“Bhai…
+Hari ne mujhe chhod diya.
+
+Jis kṣaṇ se woh door hue,
+duniya shūnya ho gayi.”"""
         create_image_text_layout(
-            "attached_assets/chapter1/15.1.jpg",
+            "attached_assets/chapter1/1.15.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🔱 Kṛṣṇa ke saath bitaye pal
+
+Arjuna yaad karte gaye:
+
+Draupadī-svayaṃvara mein vijay
+
+Khāṇḍava-vana ki agni
+
+Maya sabhā ka nirmaṇ
+
+Rājasūya yajña
+
+Jarāsandha ka vadh (Bhīma ke dwārā)
+
+Dice sabhā mein Draupadī ka apmān – aur Kṛṣṇa ka rakṣak roop
+
+Durvāsā ke shāp se rakṣā
+
+Śiva se Pāśupata astra
+
+Kurukṣetra mein charioteer Kṛṣṇa
+
+Aur phir bole:
+
+“Sab kuch wahi tha…
+dhanush, rath, main khud…
+par Kṛṣṇa ke bina
+sab nirarthak ho gaya.”
+
+🩸 Yādava-vansh ka vināś
+
+Arjuna ne kathor satya bataya:
+
+“Dvārakā mein
+apne hi shāp aur madira ke prabhāv se
+Yādav ek-dūsre ko maar baithe.
+
+Bas chaar–paanch hi bache.”
+
+Yeh Bhagavān ki līlā thi—
+dharti ka bojh utārne ke liye.
+
+🕊️ Arjuna ka bodh
+
+Shok ke beech,
+Arjuna ko Bhagavad Gītā ka jñān
+phir smaran ho aaya.
+
+Unka mann shānt ho gaya.
+Bhakti se chitt nirmal hua.
+
+🌅 Yudhiṣṭhira ka nirṇay
+
+Yeh sun kar
+Yudhiṣṭhira ne tay kiya:
+
+Sansār ka kaam poora hua
+
+Kali-yug pravesh kar chuka hai
+
+Ab rajya ka tyāg hi dharm hai
+
+Unhone:
+
+Parīkṣit ko Hastināpura ka rājā banaya
+
+Śūrasena mein Vajra ko sthāpit kiya
+
+Yajña-agnī ko apne antar mein samāhit kiya
+
+🌿 Mahāprasthāna
+
+Phir hua tyāg:
+
+Reshmi vastra chhode
+
+Abhūṣaṇ tyāg
+
+Maun dhāraṇ
+
+Man → prāṇa → tattva → Brahman
+
+Yudhiṣṭhira
+uttar disha ki or chal pade—
+jahan se koi wapas nahi aata.
+
+🚶‍♂️🚶‍♂️🚶‍♂️🚶‍♂️🚶‍♂️ Pāṇḍav saath chale
+
+Bhīma, Arjuna, Nakula, Sahadeva—
+sab saath ho liye.
+
+Unka ek hi ādhār tha:
+
+Kṛṣṇa ke charaṇ-kamal
+hi antim sharaṇ hain.
+
+🌸 Draupadī aur Kuntī
+
+Kuntī
+ne Kṛṣṇa-bhakti mein hi sharīr tyāg diya
+
+Draupadī
+ne bhi man ko Vāsudeva mein sthir kar liya
+aur unmein hi līn ho gayi
+
+🌌 Antim siddhi
+
+Pāṇḍav—
+jo jeevan ke sab puruṣārtha
+poore kar chuke the—
+
+dharm
+
+artha
+
+kāma
+
+mokṣa
+
+Bhakti se shuddh mann ke saath
+Nārāyaṇa ke dhām ko prāpt hue.
+
+📜 Phala-śruti
+
+Jo vyakti
+is pavitra kathā ko
+shraddhā se suntā hai—
+
+uske hriday mein
+Hari-bhakti jaagrit hoti hai
+aur ant mein
+mokṣa prāpt hotā hai."""
         create_image_text_layout(
             text_content=text2,
             layout="full"
@@ -2075,14 +2781,147 @@ Dvārakā sirf nagri nahi, Bhagavān ka nivas hai"""
 
     # Chapter 16
     with st.expander("Chapter 16 - Dialogue between the Earth and Dharma"):
-        text1 = """ """
+        text1 = """ 
+        👑 Rājā Parīkṣit ka dhārmik śāsan
+
+Parīkṣit
+ne apne pitā-mahān puruṣon ki paramparā ke anusār rājya chalāyā.
+
+Guru Kṛpa ke nirdesh par
+
+Gaṅgā ke taṭ par 3 Aśvamedha yajña
+
+Sab dishaon ka digvijay
+
+Unke rājya mein dharm ka pālan pratyakṣ rūp se dikhāī detā thā."""
         create_image_text_layout(
-            "attached_assets/chapter1/16.1.jpg",
+            "attached_assets/chapter1/1.16.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        ⚔️ Kali ka pravesh
+
+Digvijay ke daurān Parīkṣit ne dekha:
+
+Ek Śūdra, rājā ke chihn pehne hue
+
+Gau (Bhūmi) aur Vṛṣabh (Dharma) ko laath maar raha hai
+
+Yahi tha Kali
+— Kali-yuga ka jīv roop.
+
+Parīkṣit ne use maarā nahi, balki bandh liya.
+Yeh rājā ke vivek aur maryādā ka pramāṇ hai
+(iska vistār agle adhyāy mein aata hai).
+
+🐂 Dharma aur Bhūmi ka rūpak
+
+Is ghatnā se pehle ek divya saṃvāda hotā hai:
+
+Dharma → ek bail, sirf ek pāon par khadā
+
+Bhūmi (Pṛthvī) → ek gāy, roti hui, kṣīṇ
+
+Yeh Bhāgavata Purāṇa ka gahra tattva-rūpak hai.
+
+❓ Dharma ke praśn
+
+Dharma puchhtā hai:
+
+Kya tum isliye dukhi ho kyunki
+
+main teen pāon kho chukā hoon?
+
+striyon, bacchon, Brāhmaṇon par atyāchār badh raha hai?
+
+varṇ aur āśram vyavasthā toot rahi hai?
+
+Ya phir isliye…
+
+Kṛṣṇa is dharti se vidā ho chuke hain?
+
+🌍 Bhūmi ka uttar – Kṛṣṇa-viraha
+
+Bhūmi kehti hai:
+
+“Hey Dharma,
+jab tak Kṛṣṇa
+is dharti par the,
+tum chaar pāon par sthir the.”
+
+Un chaar pāon ka arth:
+
+Satya
+
+Śauca (Pavitrata)
+
+Dayā
+
+Tapas (Saṃyam)
+
+Kṛṣṇa mein ye sab sahaj aur pūrṇa the.
+
+🌸 Kṛṣṇa ke guṇ (Bhūmi dwārā varṇit)
+
+Bhūmi ginaati hai:
+
+Satya, Karuṇā, Kṣamā
+
+Tyāg, Santoṣ, Dāna
+
+Śaurya, Bala, Vivek
+
+Saundarya, Vinaya, Yaś
+
+Jñāna, Vairāgya, Samatā
+
+“In guṇon ka āśray Kṛṣṇa the.
+Unke bina prajā andhī ho rahi hai.”
+
+👣 Bhagavān ke charaṇ-chihn
+
+Bhūmi kehti hai:
+
+Kṛṣṇa ke charaṇon ke chihn
+(kamal, vajra, dhvaj, aṅkuś)
+
+Mujhe alaukik samṛddhi dete the
+
+Ann, vanaspati, saundarya sab unse hi phalte the
+
+Par garv ke kāraṇ,
+Bhagavān ne mujhe tyāg diya.
+
+😔 Asli shok
+
+Bhūmi ka sabse bada dukh:
+
+“Main apne liye nahi ro rahi,
+main manuṣyon ke liye ro rahi hoon—
+jo ab Kali ke darśan se bhrasht honge,
+kyunki unke paas Kṛṣṇa nahi rahe.”
+
+🌊 Parīkṣit ka āgaman
+
+Isi saṃvāda ke ant mein:
+
+Rājarṣi Parīkṣit
+Sarasvatī ke pūrv taṭ par pahunchte hain.
+
+Yahin se Kali ko niyantrit karne ki kathā
+agla adhyāy shuru karta hai.
+
+🕉️ Is adhyāy ka kendrīya sandesh
+
+Kali-yuga ka kāraṇ sirf samay nahi,
+balki Bhagavān-viraha hai
+
+Dharm dheere-dheere ghattā hai
+
+Par jab tak Bhāgavata-bhakti rahe,
+tab tak rakṣā sambhav hai"""
         create_image_text_layout(
             text_content=text2,
             layout="full"
@@ -2090,14 +2929,167 @@ Dvārakā sirf nagri nahi, Bhagavān ka nivas hai"""
 
     # Chapter 17
     with st.expander("Chapter 17 - Punishment and Control of Kali"):
-        text1 = """ """
+        text1 = """ 
+        🔍 Drishya: Sarasvatī ke taṭ par anyaay
+
+Rājā Parīkṣit
+Sarasvatī ke pūrv moड़ par dekhte hain:
+
+Gau (Bhūmi) – kamzor, bachhṛe se viyog mein, roti hui
+
+Vṛṣabh (Dharma) – sirf ek pāon par kaanpte hue
+
+Ek Śūdra, rāj-chihn pehne, un dono ko laathi se peet raha
+
+Yeh Kali tha."""
         create_image_text_layout(
-            "attached_assets/chapter1/17.1.jpg",
+            "attached_assets/chapter1/1.17.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        ⚔️ Rājā ka garjan
+
+Parīkṣit ka svar megh-garjan jaisa:
+
+“Tum kaun ho jo mere rājya mein niraparādh prāṇiyon ko peet rahe ho?
+Rājā ka bhesh pehne hue tum karm se Śūdra ho!”
+
+Unka niṣkarṣ spaṣṭ tha:
+Kṛṣṇa aur Arjuna ke lok se vidā hone ke bād hi Kali ko sahas mila.
+
+🐂🐄 Dharma aur Bhūmi ki rakṣā
+
+Rājā ke vachan:
+
+“Hey Gau-mātā, mat ro.
+Jab tak main jeevit hoon, tumhāre saath anyaay nahi hoga.”
+
+“Hey Dharma, batao—tumhāre teen pāon kisne kaate?”
+
+Rāj-dharma ka mool siddhānt yahin hai:
+
+Duḥkhit ki rakṣā hi rājā ka param kartavya hai.
+
+🧠 Dharma ka gambhīr uttar
+
+Dharma (bail ke rūp mein) bolta hai:
+
+Duḥkh ka kāraṇ kaun hai—
+
+jīv khud?
+
+bhāgya?
+
+karm?
+
+prakṛti?
+
+ya īśvar kī māyā?
+
+Yeh Bhāgavata ka darśanik kṣaṇ hai—
+sab siddhānt apni-apni dr̥ṣṭi dete hain.
+
+🕊️ Parīkṣit ka nirṇay
+
+Rājā spasht karte hain:
+
+Satya, Śauca, Dayā, Tapas —
+yeh Kṛta-yuga mein Dharma ke chaar pāon the
+
+Ab Kali-yuga mein sirf Satya bacha hai
+
+Kali jhooth par palta hai
+aur is antim pāon ko bhi todna chāhta hai
+
+🗡️ Kali par daṇḍ
+
+Parīkṣit talvār uthāte hain.
+Kali:
+
+rāj-chihn chhod deta hai
+
+bhay se kaanpte hue
+
+rājā ke charaṇon mein gir jaata hai
+
+Rājā use maarte nahi.
+Yahin Parīkṣit ki mahānta prakaṭ hoti hai.
+
+🚫 Kali ko rājya se nikaalna
+
+Parīkṣit ka aadesh:
+
+“Tum mere rājya ke kisi bhi bhāg mein nahi rahoge.”
+
+Kyunki Kali ke saath aate hain:
+
+lobh (laalach)
+
+asatya
+
+chori
+
+jhagṛe
+
+ahankār
+
+adharma
+
+🏚️ Kali ke niyat sthān
+
+Rājā Kali ko 5 niyamit sthān dete hain:
+
+Jua (Gambling)
+
+Madira (Intoxication)
+
+Vyabhichār (Illicit relations)
+
+Hinsā / Pāśu-vadh (Slaughter)
+
+Sona (Gold) – lobh ka kendr
+
+Jo vyakti dhārmik jeevan chāhta hai,
+use in sthānon se door rehna chahiye.
+
+🐂🌍 Dharma aur Bhūmi ka punar-uddhār
+
+Parīkṣit:
+
+Dharma ke teen toote pāon jod dete hain
+
+Tapas
+
+Śauca
+
+Dayā
+
+Bhūmi ko punah samṛddhi dete hain
+
+Yeh rājā ka Kṛṣṇa-paramparā mein hone ka pramāṇ hai.
+
+👑 Dharma-rājya ki sthāpna
+
+Ant mein:
+
+Parīkṣit Hastināpura ke siṃhāsan par virājte hain
+
+Yudhiṣṭhira ki virāsat sambhalte hain
+
+Kali niyantrit hai, swatantra nahi
+
+🕉️ Is Adhyāy ka Saar
+
+Kali ko poori tarah mitaaya nahi ja sakta
+
+Lekin niyantrit zaroor kiya ja sakta hai
+
+Dhārmik rājā ke raaj mein
+Kali simā mein bandhā rehta hai
+
+Bhakti aur Satya Kali par sabse bada bandh hai"""
         create_image_text_layout(
             text_content=text2,
             layout="full"
@@ -2105,14 +3097,132 @@ Dvārakā sirf nagri nahi, Bhagavān ka nivas hai"""
 
     # Chapter 18
     with st.expander("Chapter 18 - Curse of the Brāhmaṇa"):
-        text1 = """ """
+        text1 = """ 
+        🌱 Adhyāy ka mūl sandarbh
+
+Yeh adhyāy Parīkṣit Mahārāj ke jeevan ka turning point hai.
+Yahin se Śrīmad Bhāgavata Purāṇa ka mahā-upadeś shuru hota hai.
+
+Parīkṣit:
+
+garbh mein Aśvatthāmā ke Brahmāstra se bachāe gaye
+
+poore jeevan Kṛṣṇa-bhakt rahe
+
+Kali ko niyantrit rakha
+
+phir bhi ek chhoti si bhool ke kāraṇ śrāpit hue"""
         create_image_text_layout(
-            "attached_assets/chapter1/18.1.jpg",
+            "attached_assets/chapter1/1.18.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🏹 (1) Van-vihār aur thakaan
+
+Ek din Parīkṣit shikār ke liye van mein gaye.
+
+bhookh aur pyaas se atyant peedit
+
+jal ka koi srot nahi mila
+
+ek āśram mein pravesh kiya
+
+Wahaan ek maun, dhyān-sthit ṛṣi Śamīka baithe the
+— netra band, brahma-sthiti mein līn.
+
+😠 (2) Kṣaṇik krodh – rājā ki bhool
+
+Parīkṣit ne:
+
+jal mānga
+
+par ṛṣi ne koi pratikriyā nahi di
+
+Thakaan + bhookh + ahankār
+→ kṣaṇik krodh
+
+Rājā ne:
+
+apne dhanush se
+
+ek mrit sarp (dead snake)
+
+ṛṣi ke gale mein daal diya
+
+⚠️ Yeh rājā ka paap nahi, balki manushya-bhāv se hui bhool thi.
+
+👦 (3) Putra Śṛṅgī ka ahankār
+
+Ṛṣi ke putra Śṛṅgī
+— chhota tha, par tejas aur ahankār se bhara.
+
+Usne kaha:
+
+“Ab jab Kṛṣṇa chale gaye,
+main kṣatriyon ko apni shakti dikhāunga!”
+
+Usne Kauśikī nadī ka jal grahaṇ kiya
+aur śrāpa de diya:
+
+🐍 “Takṣaka nāg, sātveṁ din rājā Parīkṣit ko dasega!”
+
+😢 (4) Pitā Śamīka ka karuṇ upadeś
+
+Jab ṛṣi Śamīka ne suna,
+unhone putra ko daantā, sarāha nahi.
+
+Unke vachan bahut gehre hain:
+
+“Yeh dand bahut adhik hai”
+
+“Rājā Ishvar ka pratinidhi hota hai”
+
+“Rājā ke bina duniya choron se bhar jaati hai”
+
+“Tumne ek mahā-bhakt ko śrāpit kar diya”
+
+Unhone Bhagavān se prārthanā ki:
+
+“Is balak ko kṣamā karein.”
+
+🧘 (5) Mahā-bhakt ki mahānta
+
+Yahaan adhyāy ka sabse sundar tattva aata hai:
+
+Bhagavān ke bhakt
+apmaan, dhokā, śrāpa, maar –
+kuchh bhi ho, pratishodh nahi lete.
+
+Parīkṣit:
+
+śrāpa sun kar bhaybhīt nahi hue
+
+rājya putra ko saump diya
+
+Gaṅgā tat par jaakar
+
+Śuka ko guru banaya
+
+Aur shuru hui:
+👉 Śrīmad Bhāgavata Kathā
+
+🕉️ Adhyāy ka gahan sandesh
+✨ 5 mūl shikṣāen:
+
+Kṣaṇik krodh bhi mahā-pariṇām la sakta hai
+
+Balak ka ahankār bhi bhayānak hota hai
+
+Rājā ka patan = samāj ka patan
+
+Bhagavata Purāṇa dukkh se janm leta hai
+
+Bhakt mrityu se nahi darta
+
+“Kṛṣṇa-kathā peene wale ko
+mrityu bhi amṛt lagti hai.”"""
         create_image_text_layout(
             text_content=text2,
             layout="full"
@@ -2120,14 +3230,148 @@ Dvārakā sirf nagri nahi, Bhagavān ka nivas hai"""
 
     # Chapter 19
     with st.expander("Chapter 19 - Arrival of Śuka"):
-        text1 = """ """
+        text1 = """ 
+        🌊 Adhyāy ka kendrīya bhāv
+
+Yeh adhyāy Bhāgavata Purāṇa ka pravesh-dwār hai.
+Yahin se Śuka–Parīkṣit samvād shuru hota hai — jo aage chal kar mokṣa-śāstra ban jaata hai.
+
+Is adhyāy mein teen baatein bahut spasht hoti hain:
+
+Pashchātāp (repentance) Parīkṣit ka
+
+Vairāgya + Bhakti ka milan
+
+Śuka ka divya prakatya — bina bulāe, par bilkul sahi samay par"""
         create_image_text_layout(
-            "attached_assets/chapter1/19.1.jpg",
+            "attached_assets/chapter1/1.19.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🧠 (1) Parīkṣit ka pashchātāp
+
+Parīkṣit apni bhool par gehra dukh mehsoos karte hain:
+
+“Mainne ek nirdosh Brāhmaṇa ka apmaan kiya”
+
+“Jo dand aana hai, mujh par hi aaye, mere putron par nahi”
+
+Takṣaka ke vish ko bhi kripā maante hain,
+kyunki woh vairāgya deta hai
+
+🔥 Yahaan rājā apne paap se nahi bhaagta, use sweekār karta hai.
+
+🕉️ (2) Gaṅgā tat par mahā-vrat
+
+Parīkṣit:
+
+rājya putra ko sauṁp dete hain
+
+Gaṅgā ke dakṣiṇ tat par baith jaate hain
+
+prāyopaveśa (upavās till death) ka vrat
+
+man, buddhi, sab Kṛṣṇa ke charaṇon mein
+
+Gaṅgā ko isliye chuna:
+
+Kṛṣṇa ke charaṇ-dhūl se pavitra
+
+Tulsi-raj se sugandhit
+
+lok–parlok dono ko shuddh karti hai
+
+👑 (3) Ṛṣiyon ka mahā-sammelan
+
+Jaise hi Parīkṣit baithte hain,
+poora brahmāṇḍ hil jaata hai.
+
+Aate hain:
+
+Vyāsa
+
+Nārada
+
+Atri, Vasiṣṭha, Bhṛgu, Viśvāmitra, Parāśara, Maitreya, Agastya…
+
+Deva-ṛṣi, rāja-ṛṣi, brahma-ṛṣi — sab
+
+🌼 Devtā pushp-vṛṣṭi karte hain
+🥁 Devalok mein dundubhi bajti hai
+
+Sab kehte hain:
+
+“Pāṇḍu-vansh ke liye yeh vairāgya koi ascharya nahi”
+
+❓ (4) Jeevan ka sabse bada prashn
+
+Parīkṣit ṛṣiyon se ek hi sawal poochte hain:
+
+“Mrityu ke nikat manushya ko kya karna chahiye
+jo nishpaap aur mokṣ-prad ho?”
+
+Yeh prashn:
+
+sirf Parīkṣit ka nahi
+
+har jeev ka prashn hai
+
+Is prashn ka uttar hi aage Śrīmad Bhāgavata banega.
+
+🌟 (5) Śuka ka āgaman
+
+Tabhi akasmāt pravesh hota hai ek yuvā ka—
+
+Śuka
+
+Unka varṇan:
+
+lagbhag 16 varṣ ka yuvā
+
+nagn, kisi āśram ya jāti ka chihn nahi
+
+sharīr sundar, Hari-sadr̥ś
+
+strī, bāl, mūrkh jinhe dekh kar hans rahe the
+
+par ṛṣiyon ne tatkṣaṇ pehchān liya
+
+Sab ṛṣi uth khade hue —
+jaise chandrama ke ird-gird tārāen.
+
+🙏 (6) Parīkṣit ka vinay
+
+Parīkṣit Śuka ke charaṇon mein natmastak hote hain:
+
+“Hum jaise kṣatriya aaj pavitra ho gaye”
+
+“Aapka darshan hi paapon ka naash karta hai”
+
+“Yeh sab Kṛṣṇa ki kripā hai”
+
+Aur phir final prashn:
+
+“Mrityu ke samay kya sunna chahiye,
+kya smaran karna chahiye,
+kya karna aur kya chhodna chahiye?”
+
+Yahin se:
+👉 Bhāgavata Purāṇa ka upadeś shuru hota hai
+
+🕯️ Adhyāy ka saar (Essence)
+✨ 5 mool shikṣāen:
+
+Mrityu bhay nahi, bodh laati hai
+
+Bhool sweekār karna hi prāyashchit hai
+
+Bhakti + Vairāgya = mokṣ ka dwār
+
+Sat-guru bina bulāe bhi aata hai
+
+Sahi prashn, sahi uttar ko kheench leta hai"""
         create_image_text_layout(
             text_content=text2,
             layout="full"
