@@ -930,14 +930,103 @@ Sachcha gyaan tab milta hai jab “main” mit jaata hai"""
 
     # Chapter 6
     with st.expander("Chapter 6 - Description of the Virāṭ Puruṣa—Exposition of the Puruṣa Sūkta"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 6 – Virāṭ Puruṣa ki Kahani (Hinglish Story Version)
+
+Bahut pehle ki baat hai.
+Ek bahut bada Divine Being tha.
+Usse Virāṭ Puruṣa kaha jaata tha.
+Poora universe uske body ka hissa tha."""
         create_image_text_layout(
             "attached_assets/chapter2/2.6.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🌸 Uska muh aur awaaz
+
+Virāṭ Puruṣa ka mouth hi sab bolne ki shakti tha.
+Usse aag (Fire) ka janm hua.
+Uski body ke har element se Vedic meters bane.
+Uski tongue se food, taste aur bhog aaye.
+Meetha, khatta, kadwa – sab usi se nikla.
+
+🌬️ Saans aur khushboo
+
+Uski naak se saari prāṇa vāyu nikli.
+Hawa ka devta Vāyu wahin se aaya.
+Smell se ausadhi, herbs aur plants bane.
+Jo bhi healing hai, uska source wahi tha.
+
+👀 Aankhen aur roshni
+
+Uski aankhon se roshni nikli.
+Suraj aur aasmaan wahi se bane.
+Har rang, har roop uski aankhon ka khel tha.
+Uske kaan se directions aur pavitra jagah bani.
+
+🤲 Body aur sparsh
+
+Uski skin se touch ka ehsaas aaya.
+Sacrifice aur yagna bhi wahi se aaye.
+Uske baal se ped, paudhe aur jungle bane.
+Uske nakhun aur daadhi se pahad aur bijli bani.
+
+🦶 Haath aur pair
+
+Uske arms duniya ki raksha karte the.
+Uske steps teen lokon ka sahara bane –
+Bhū, Bhuva aur Svar.
+Jo bhi sharan leta, use safety milti.
+
+🌧️ Creation ka raaz
+
+Uske sharir se paani, baarish aur creation hui.
+Bachchon ki khushi bhi wahi se aayi.
+Par kuch jagah se dukh aur andhera bhi nikla.
+Ye batata hai ki duniya mein achha aur bura dono hote hain.
+
+🌍 Poora jagat usi ka roop
+
+Devta, insaan, jaanwar, pakshi, ped –
+Sab Virāṭ Puruṣa ka hi hissa hain.
+Past, present, future –
+Sab uske andar samaaya hua hai.
+
+Jaise Suraj apne andar aur bahar dono jagah roshni deta hai,
+Waise hi Virāṭ Puruṣa andar aur bahar dono jagat ko jagmata hai.
+
+🧘 Mukti ka rasta
+
+Virāṭ Puruṣa moksha ka swami hai.
+Usse koi dar nahi.
+Usse karm ka bandhan bhi nahi.
+Wo sabke andar rehta hai, par sabse upar bhi.
+
+🌟 Sab kuch usi se
+
+Brahma create karta hai,
+Shiv destroy karta hai,
+Aur Vishnu protect karta hai –
+Par power Virāṭ Puruṣa ki hi hoti hai.
+
+🙏 Ant mein
+
+Brahma bhi kehta hai,
+“Main bhi nahi jaanta main kahan se aaya.”
+Virāṭ Puruṣa ki Māyā itni gehri hai
+Ki usse koi poori tarah samajh nahi sakta.
+
+Isliye sab uske charnon mein natmastak hote hain.
+Kyuki wahi sach, shakti aur shanti hai.
+
+✨ Moral (Seekh):
+
+Jo humein alag-alag lagta hai,
+asal mein sab ek hi shakti ka roop hai.
+Jab hum ye samajh jaate hain,
+to dar khatam ho jaata hai."""
         create_image_text_layout(
             text_content=text2,
             layout="full"
@@ -945,14 +1034,154 @@ Sachcha gyaan tab milta hai jab “main” mit jaata hai"""
 
     # Chapter 7
     with st.expander("Chapter 7 - Some Līlāvatāras and their work"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 7 – Bhagwān ke Līlāvatār (Hinglish Story Version)
+
+Brahmā ji bole:
+
+Bahut samay pehle,
+Bhagwān ne alag-alag roop liye.
+Har roop ka ek kaam tha.
+Har kaam mein daya, shakti aur nyāy chhupa tha."""
         create_image_text_layout(
             "attached_assets/chapter2/2.7.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🐗 Varāha Avatar
+
+Jab dharti samundar mein doob rahi thi,
+Bhagwān Varāha bane.
+Unhone dharti ko utha liya.
+Aur ek hi vaar mein Hiraṇyākṣa ka ant kar diya.
+
+🔥 Suyajña aur Kapila
+
+Phir Bhagwān Suyajña bane.
+Teenon lokon ka dukh door kiya.
+Isliye logon ne unhe Hari kaha.
+
+Ek baar wo Kapila bane.
+Unhone apni maa ko ātman ka gyaan diya.
+Maa ne isi janam mein moksha pa li.
+
+🧘 Dattātreya aur Sanat Kumar
+
+Atri rishi ke ghar Bhagwān Datta bane.
+Unke charnon ki dhool se log pavitra ho gaye.
+
+Srishti ke shuru mein,
+Bhagwān Sanat Kumar aur unke bhai bane.
+Unhone bhool chuke gyaan ko wapas diya.
+
+❄️ Nara–Nārāyaṇa
+
+Bhagwān Nara aur Nārāyaṇa bane.
+Unki tapasya itni gehri thi
+Ki Kāma dev bhi unhe hila na saka.
+
+⭐ Dhruva aur Pṛthu
+
+Chhote se Dhruva ko maa ke shabd chub gaye.
+Wo jungle gaya.
+Bhagwān ne use amarlok diya.
+
+King Pṛthu ke roop mein,
+Bhagwān ne dharti ko dhan se bhara.
+
+🐎 Hayagrīva, Matsya aur Kūrma
+
+Ek baar Bhagwān Hayagrīva bane.
+Unki saans se Vedic shabd nikle.
+
+Phir Matsya bane.
+Pralay mein sabko bachaya.
+Vedo ko sambhala.
+
+Aur jab samudra manthan hua,
+Wo Kūrma bane.
+Mandar parvat ko peeth par uthaya.
+
+🦁 Nṛsiṃha Avatar
+
+Jab devta dare hue the,
+Bhagwān Nṛsiṃha bane.
+Unhone Hiraṇyakaśipu ka ghamand tod diya.
+Bhakt Prahlād ko bachaya.
+
+🐘 Gajendra Moksha
+
+Ek haathi musibat mein tha.
+Usne Bhagwān ko yaad kiya.
+Hari aaye.
+Chakra chalaya.
+Aur haathi ko bachaya.
+
+👣 Vāmana Avatar
+
+Bhagwān Vāmana bane.
+Teen kadmon mein teenon lok naap liye.
+Raja Bali ne sab kuch de diya.
+Bhagwān khush ho gaye.
+
+⚕️ Dhanvantari
+
+Bhagwān Dhanvantari bane.
+Unhone Āyurveda diya.
+Naam lene se bhi rog door ho jaate.
+
+🪓 Paraśurāma
+
+Jab adharm badha,
+Bhagwān Paraśurāma bane.
+Unhone ahankari rājāon ka ant kiya.
+
+🏹 Rāma Avatar
+
+Phir Bhagwān Rāma bane.
+Pitā ki baat maani.
+Van gaye.
+Rāvaṇ ka vināsh kiya.
+Dharma jeet gaya.
+
+🦚 Kṛṣṇa aur Balarāma
+
+Phir wo Balarāma aur Kṛṣṇa bane.
+Bachpan mein hi asuron ka ant kiya.
+Govardhan utha liya.
+Kāliyā ko shant kiya.
+Gopālon ko bachaya.
+
+Maa Yaśodā ne unke muh mein
+14 lok dekhe.
+Tab samjhi –
+Ye sirf bacha nahi, Bhagwān hain.
+
+📜 Ved aur Kalki
+
+Insaan kam samajhne lage,
+Toh Bhagwān ne Ved baant diye.
+
+Aur jab Kali Yug badhega,
+Bhagwān fir aayenge.
+Adharm ko khatam karenge.
+
+🌈 Ant mein
+
+Bhagwān ke kaam ginne nahi ja sakte.
+Unki Māyā ko koi poori tarah nahi samajh sakta.
+
+Bas wahi samajh paata hai
+Jo prem aur bhakti se unke charnon mein jhukta hai.
+
+✨ Moral (Seekh):
+
+Jab jab dharti par dukh badhta hai,
+tab tab Bhagwān kisi na kisi roop mein aate hain.
+Bhakti, sachchai aur dharma
+hamesha jeette hain."""
         create_image_text_layout(
             text_content=text2,
             layout="full"
@@ -960,14 +1189,137 @@ Sachcha gyaan tab milta hai jab “main” mit jaata hai"""
 
     # Chapter 8
     with st.expander("Chapter 8 - Queries regarding the relation between the body, Soul and God, etc."):
-        text1 = """ """
+        text1 = """ 
+        Chapter 8 – Shareer, Aatma aur Bhagwān ke Beech ka Rishta (Hinglish Story Version)
+
+Raja Parīkṣit ne shant man se kaha:
+
+“O Brahman Dev,
+Aap Nārada ji ke shishya ho.
+Nārada ji Bhagwān ke gunon ko sabko dikhate hain.
+Unhone bahuton ko Parmatma ka sach samjhaya.
+
+Main bhi wahi sach jaanna chahta hoon.
+Hari ki kathayein bahut shubh aur pavitra hoti hain.”"""
         create_image_text_layout(
             "attached_assets/chapter2/2.8.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🌿 Antim ichchha
+
+Raja bole,
+“Mujhe aisa gyaan dijiye
+ki main apna man Kṛṣṇa mein laga kar
+shanti se apna sharir chhod saku.”
+
+Jo log shraddha se
+Bhagwān ki kathayein sunte hain,
+Bhagwān jaldi hi unke hriday mein bas jaate hain.
+
+Jaise sharad ritu gande pani ko saaf kar deti hai,
+Waise hi Kṛṣṇa
+dil ke saare paap dho dete hain.
+
+Aur jiska dil saaf ho jaata hai,
+wo Kṛṣṇa ke charnon ko
+kabhi nahi chhodta.
+Jaise koi musafir
+ghar laut kar fir kahin nahi jaata.
+
+🤔 Gehre sawal
+
+Parīkṣit ne poocha:
+
+“Aatma jo tattvon se bani nahi hai,
+wo shareer mein kaise bandh jaati hai?
+Kya ye bina kaaran hota hai
+ya karma ki wajah se?”
+
+“Bhagwān ka roop insaan jaisa kyon lagta hai?
+Agar roop milta-julta hai,
+toh bhagwān aur insaan mein antar kya hai?”
+
+“Jab Bhagwān apni Māyā hata dete hain,
+toh wo kahaan rehte hain?”
+
+⏳ Samay aur Srishti
+
+Unhone aur poocha:
+
+Kalpa kitna lamba hota hai?
+
+Samay kab lamba lagta hai, kab chhota?
+
+Devta, pitṛ aur insaan
+kitni umar jeete hain?
+
+“Karma humein
+kaunse lok mein le jaata hai?
+Swarg, narak ya dharti?”
+
+🌍 Jagat ke raaz
+
+Raja ne poocha:
+
+“Dharti, aakash, grah, nadi, pahad –
+sab ka janm kaise hua?”
+
+“Varṇa aur āśram kaise bane?
+Dharma har yug mein kaise badalta hai?”
+
+“Bhagwān ke avatār kaunse hain
+aur unke kaam kya hain?”
+
+🧘 Mukti ka rasta
+
+Unhone poocha:
+
+“Yoga ka sahi raasta kya hai?
+Aatma ka bandhan kaise toot-ta hai?
+Aur moksha kaise milti hai?”
+
+“Māyā kya hai?
+Aur Bhagwān uske saath kaise khelte hain?”
+
+🙏 Vinamr prarthna
+
+Ant mein Raja ne kaha:
+
+“Main vinamr hoon.
+Mujhe sab kuch kram se samjhaiye.
+Aap hi meri sharan ho.”
+
+“Meri saans chahe chali jaaye,
+par jab tak main
+Hari ki kathayein peeta rahunga,
+tab tak mujhe koi bhay nahi.”
+
+🌸 Śuka ji ka uttar
+
+Parīkṣit ke shabd sun kar
+Śuka ji bahut prasann hue.
+
+Unhone kaha,
+“Main tumhe Bhāgavata Purāṇa sunaunga.
+Ye Ved ke samaan pavitra hai.”
+
+Aur phir,
+Parīkṣit ke har prashn ka uttar
+katha ke roop mein
+aage badhne laga.
+
+✨ Moral (Seekh):
+
+Jab insaan sachche mann se
+prashn karta hai,
+aur ahankār chhod deta hai,
+tab gyaan khud chal kar aata hai.
+
+Bhagwān ko paane ka sabse saral rasta
+shraddha, bhakti aur kathā hai."""
         create_image_text_layout(
             text_content=text2,
             layout="full"
@@ -975,14 +1327,162 @@ Sachcha gyaan tab milta hai jab “main” mit jaata hai"""
 
     # Chapter 9
     with st.expander("Chapter 9 - Śuka‘s discourse—Catuḥślokī Bhāgavata (Chatushloki Bhagwat)"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 9 – Śuka ji ki Kathā (Catuḥślokī Bhāgavata) – Hinglish Story Version
+
+Śrī Śuka ji bole:
+
+🌱 Shareer aur Aatma ka sach
+
+“Oh Raja,
+Shareer aur Aatma ka rishta seedha nahi hota.
+Ye sirf Māyā ke through dikhta hai.
+Jaise sapne mein sab real lagta hai,
+par uthte hi sab khatam.”"""
         create_image_text_layout(
             "attached_assets/chapter2/2.9.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Māyā ke saath rehkar,
+Aatma kai roop le leti hai.
+Kabhi bacha, kabhi jawaan,
+kabhi devta, kabhi insaan.
+
+Aur phir wo sochne lagti hai:
+“Ye main hoon.”
+“Ye mera hai.”
+
+🌼 Asli mukti
+
+Jab Aatma
+apni asli shaan mein jeene lagti hai,
+Time aur Māyā se upar uth jaati hai.
+Tab “main” aur “mera”
+dono chhoot jaate hain.
+
+Aur Aatma
+apni poori roshni mein
+shant khadi ho jaati hai.
+
+🌸 Brahmā ji ki uljhan
+
+Bhagwān ne
+Brahmā ji ko apna asli roop dikhaya.
+Taaki wo samajh saken
+ki Parmatma aur Jīva alag hote hain.
+
+Brahmā ji kamal par baithe.
+Srishti banana chahte the.
+Par unhe raasta samajh nahi aa raha tha.
+
+🔔 “Tapa” ka sandesh
+
+Ek din,
+paane ke andar se
+ek awaaz aayi:
+“Tapa… Tapa…”
+
+Sirf do akshar.
+Par bahut gehra arth.
+
+Brahmā ji ne chaaron taraf dekha.
+Koi nahi tha.
+Tab unhone samjha –
+ye updesh hai.
+
+🧘 Kathor tapasya
+
+Brahmā ji ne
+man aur saans ko control kiya.
+Indriyon ko shant kiya.
+Aur hazaar divya varsh tak tapasya ki.
+
+Is tapasya se
+unhe srishti ka gyaan mila.
+
+🌈 Vaikuṇṭha ka darshan
+
+Bhagwān prasann hue.
+Unhone Brahmā ji ko
+Vaikuṇṭha lok dikhaya.
+
+Wahan na dukh tha,
+na bhay,
+na bhram.
+
+Wahan Time ka zor nahi chalta.
+Wahan Māyā ka raaj nahi.
+
+✨ Bhagwān ke sevak
+
+Wahan Bhagwān ke sevak the.
+Chamakte hue.
+Hari rang jaise panna.
+Chaar bhujaayein.
+Peeli vastra.
+Sone ke gehne.
+
+Unki chamak se
+Vaikuṇṭha aur roshan lagta tha.
+Jaise bijli se aasmaan chamak jaaye.
+
+🌺 Lakṣmī ji aur Hari
+
+Wahan Lakṣmī ji
+Bhagwān ke charnon ki seva karti hain.
+Jhoole par baith kar
+unke gun gaati hain.
+
+Bhramar bhi
+unki stuti mein gun-gun karte hain.
+
+🙏 Bhagwān ka roop
+
+Brahmā ji ne
+Bhagwān ko dekha.
+
+Chaar bhujaayein.
+Mukha par komal muskaan.
+Laal kamal jaise netra.
+Peela vastra.
+Chhaati par Śrīvatsa chinh.
+
+Wo apni hi shakti
+aur aanand mein magn the.
+
+💖 Brahmā ji ka prem
+
+Brahmā ji ka dil
+prem se bhar gaya.
+Aankhon se aansu behne lage.
+Rom-rom khil utha.
+
+Unhone Bhagwān ke
+charno mein pranām kiya.
+
+🌟 Bhagwān ka sparsh
+
+Bhagwān prasann hue.
+Unhone Brahmā ji ko
+apne haath se sparsh kiya.
+
+Aur muskurate hue bole –
+jaise koi
+apne priya ko
+sach ka raasta dikhata hai.
+
+✨ Moral (Seekh):
+
+Jab insaan tapasya, shraddha aur shant man se
+sach ko dhoondhta hai,
+to Bhagwān khud
+raasta dikha dete hain.
+
+“Main aur mera” chhoot jaaye,
+wahi asli gyaan hai."""
         create_image_text_layout(
             text_content=text2,
             layout="full"
@@ -990,14 +1490,210 @@ Sachcha gyaan tab milta hai jab “main” mit jaata hai"""
 
     # Chapter 10
     with st.expander("Chapter 10 - The Ten Characteristics of the Bhāgavata Purāṇa"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 10 – Bhāgavata Purāṇa ke Das Lakṣaṇ (Hinglish Story Version)
+
+Śrī Śuka ji bole:
+
+“Oh Raja,
+Bhāgavata Purāṇa ek aisi kathā hai
+jisme poori srishti ka raaz chhupa hai.”"""
         create_image_text_layout(
             "attached_assets/chapter2/2.10.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🔟 Das baatein jo Bhāgavata sikhata hai
+
+Bhāgavata Purāṇa mein 10 main vishay hote hain:
+
+Sarga – sookshm srishti
+
+Visarga – sthool srishti
+
+Sthāna – niyam aur vyavastha
+
+Poṣaṇa – sabki raksha
+
+Ūti – karmon se paida ichchha
+
+Manvantara – Manu ka samay
+
+Īśānukathā – Bhagwān ki kathayein
+
+Nirodha – sab ka lay
+
+Mukti – bandhan se chhutkara
+
+Āśraya – sabka aakhri sahara
+
+In pehle 9 ko samajhkar hi
+10ve satya tak pahuncha ja sakta hai.
+
+🌱 Srishti ka aaram se janm
+
+Jab guṇon ka santulan bigadta hai,
+tab paanch tattva bante hain.
+Indriyaan banti hain.
+Man aur buddhi banti hai.
+Ise kehte hain Sarga.
+
+Jab Virāṭ Puruṣa se
+poori duniya dikhti hai,
+wo Visarga hota hai.
+
+⚖️ Raksha aur niyam
+
+Bhagwān jab
+niyam chalate hain,
+use Sthāna kehte hain.
+
+Jab wo daya se
+sabki raksha karte hain,
+use Poṣaṇa kehte hain.
+
+🔄 Manu aur Karma
+
+Har yug mein
+Manu aata hai.
+Wo dharma ka raasta dikhata hai.
+Is samay ko Manvantara kehte hain.
+
+Karm se jo ichchha banti hai,
+use Ūti kehte hain.
+
+📖 Bhagwān ki kathā
+
+Bhagwān ke avatār,
+unke kaam,
+aur bhakton ki kahaniyaan –
+ye sab Īśānukathā hai.
+
+🌊 Lay aur Mukti
+
+Jab sab kuch
+Bhagwān mein hi mil jaata hai,
+use Nirodha kehte hain.
+
+Jab jhootha roop chhoot jaata hai
+aur aatma apne sach mein tik jaati hai,
+use Mukti kehte hain.
+
+🌟 Sabka mool
+
+Jis se srishti nikli,
+jisme palan hua,
+aur jisme lay hua –
+wo hi Āśraya hai.
+Wahi Parabrahma hai.
+
+👁️ Teen drishti
+
+Bhagwān teen roop mein dikhte hain:
+
+Adhyātmik – andar ki aatma
+
+Adhidaivik – devta roop
+
+Adhibhautik – sharirik roop
+
+Teenon milkar hi
+jeevan chalate hain.
+
+🌊 Nārāyaṇa ka janm
+
+Virāṭ Puruṣa ne
+Cosmic Egg ko toda.
+Shuddh jal banaya.
+Us jal par shayan kiya.
+
+Isliye unka naam pada
+Nārāyaṇa –
+jo jal mein vas karte hain.
+
+🧘 Indriyon ka janm
+
+Jab bhookh lagi –
+muh bana.
+Bolna chaha –
+vaani aayi.
+
+Sunnā chaha –
+kaan bane.
+Dekhna chaha –
+aankhen aayi.
+
+Chalna chaha –
+pair bane.
+Kaam chaha –
+haath bane.
+
+Sochna chaha –
+man aur hriday bana.
+
+Sab kuch
+ichchha se hi bana.
+
+🔥 Teen guṇ
+
+Karma teen guṇon se chalta hai:
+
+Sattva – shanti
+
+Rajas – gati
+
+Tamas – andhera
+
+Inse swarg, dharti
+aur narak ka raasta banta hai.
+
+🔄 Srishti, palan aur vināsh
+
+Bhagwān hi:
+
+banate hain
+
+bachate hain
+
+aur mitaate hain
+
+Kabhi dharma bankar,
+kabhi kaal bankar.
+
+🌈 Par sach kya hai?
+
+Sach ye hai –
+Bhagwān karta bhi hain aur nahi bhi.
+Ye sab Māyā ka khel hai.
+
+Parabrahma
+sab se pare hai.
+Naam, roop, kaam –
+sab se upar.
+
+🌺 Ant mein
+
+Śuka ji bole:
+
+“Raja,
+maine tumhe srishti ka roop dikhaya.
+Aage samay ka gyaan bhi dunga.”
+
+Aur phir kahani
+Vidura aur Maitreya ki taraf
+aage badhne lagi.
+
+✨ Moral (Seekh):
+
+Bhāgavata humein sikhata hai
+ki sab kuch badalta rehta hai,
+par jo sabka sahara hai,
+wahi kabhi nahi badalta.
+
+Usi mein tikna
+hi shanti aur mukti hai।"""
         create_image_text_layout(
             text_content=text2,
             layout="full"
