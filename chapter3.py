@@ -1317,7 +1317,16 @@ seedha hriday se Bhagwan tak 💛"""
 
     # Chapter 6
     with st.expander("Chapter 6 - Cosmology: Creation of the Universe"):
-        text1 = """ """
+        text1 = """ 
+        🌌 Chapter 6 – Brahmand ki Rachna (Creation of Universe)
+
+(Hinglish Moral Story Version – Simple & Emotional Tone)
+
+Bahut purane samay ki baat hai.
+Jab kuch bhi exist nahi karta tha… na dharti, na aasman, na insaan.
+
+Sirf Bhagwan the.
+Unhone decide kiya ki woh ek nayi duniya banayenge."""
         create_image_text_layout(
             "attached_assets/chapter3/3.6.jpg",
             text1,
@@ -1325,13 +1334,112 @@ seedha hriday se Bhagwan tak 💛"""
             image_position="left"
         )
 
-        text2 = """ """
+        text2 = """ 
+        ✨ Universe banane ki shuruaat
+
+Bhagwan ne apni shakti aur Time (Samay) ko saath liya.
+Phir unhone 23 basic tattvon (elements) mein entry ki.
+
+Yeh tattv alag-alag the.
+Inme creation ki power thi, lekin woh soyi hui thi.
+
+Bhagwan ne unhe jagaya.
+Aur unhe ek saath kaam karne ki shakti di.
+
+🧑‍🌟 Virat Purush ka janm
+
+Jab sab tattv ek saath aaye,
+Tab ek mahaan cosmic form bana — Virat Purush.
+
+Virat Purush ke andar poori duniya chhupi hui thi.
+Woh ek golden glow wala divine roop tha.
+
+Woh Brahmand ke cosmic egg mein hazaar saal tak raha.
+
+💫 Virat Purush ke andar sab kuch tha
+
+Virat Purush ne khud ko kai roop mein divide kiya:
+
+❤️ Ek roop — soul ke form mein heart mein
+
+🌬️ Dus roop — life energies (pranas)
+
+🌍 Teen roop — body, mind aur divine energy
+
+Isi Virat Purush ke andar saare jeev baste hain.
+
+👄 Body ke parts se duniya bani
+
+Bhagwan ne Virat Purush ke body parts se duniya aur indriya banayi.
+
+👉 Mouth se Fire aur Speech bani
+👉 Tongue se Taste
+👉 Nose se Smell
+👉 Eyes se Sight aur Light
+👉 Skin se Touch
+👉 Ears se Hearing
+
+🧠 Mind aur Heart ka janm
+
+👉 Brain se Intelligence bani
+👉 Heart se Mind aur emotions bane
+👉 Ego se insaan ko action karne ki feeling mili
+
+🌍 Teen lokon ka creation
+
+Virat Purush ke body se 3 worlds bane:
+
+Head se Heaven
+
+Feet se Earth
+
+Navel se Sky / Space
+
+👥 Samaj ki rachna
+
+Bhagwan ne samaj ke roles bhi create kiye:
+
+👉 Mouth se Brahmins – knowledge aur wisdom
+👉 Arms se Kshatriyas – protection aur bravery
+👉 Thighs se Vaishyas – farming aur business
+👉 Feet se Shudras – service aur support
+
+Sabka role important tha.
+Sab milkar society ko strong banate hain.
+
+🌟 Bhagwan ki Maya
+
+Sage ne kaha…
+
+Bhagwan ki power itni mysterious hai
+Ki usse samajhna bahut mushkil hai.
+
+Even bade sages bhi unki poori greatness samajh nahi paaye.
+
+🌼 Moral (Seekh)
+
+👉 Har cheez ek dusre se connected hai.
+👉 Har insaan ka ek unique role hota hai.
+👉 Ego aur greed se door rehna chahiye.
+👉 Bhagwan ki creation bahut deep aur magical hai.
+👉 Knowledge aur devotion life ko meaningful banate hain."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7
     with st.expander("Chapter 7 - Vidura’s Queries"):
-        text1 = """ """
+        text1 = """ 
+        🌿 Chapter 7 – Vidura ke Sawal (Deep Questions About God & Life)
+
+(Hinglish Moral Story Version – Simple, Emotional, Easy to Read)
+
+Ek din Vidura, jo bahut wise aur calm insaan the,
+sage Maitreya ki baatein dhyaan se sun rahe the.
+
+Unhone creation aur Bhagwan ki power ke baare mein bahut kuch suna.
+Lekin unke mann mein kuch doubts aa gaye.
+
+Isliye unhone respectfully Maitreya se sawal poochna shuru kiya."""
         create_image_text_layout(
             "attached_assets/chapter3/3.7.jpg",
             text1,
@@ -1339,13 +1447,149 @@ seedha hriday se Bhagwan tak 💛"""
             image_position="left"
         )
 
-        text2 = """ """
+        text2 = """ 
+        ❓ Vidura ka Pehla Sawal
+
+Vidura bole,
+
+“Bhagwan toh pure aur perfect hain.
+Unme koi change nahi hota.”
+
+“Phir woh kaise duniya banate hain?
+Kaise woh activity aur qualities mein involve ho sakte hain?”
+
+🧸 Child Example
+
+Vidura ne samjhaya:
+
+👉 Baccha toys dekhkar khelta hai
+👉 Usko khelne ki desire hoti hai
+
+Lekin Bhagwan toh already complete hain.
+Unhe kisi cheez ki zarurat nahi.
+
+“Toh phir Bhagwan creation kyun karte hain?”
+
+🌫️ Maya ka Mystery
+
+Vidura ne ek aur important sawal poocha:
+
+“Bhagwan ki Maya duniya banati hai.
+Maya logon ko confuse karti hai.”
+
+“Lekin agar soul pure aur immortal hai,
+toh woh Maya se kaise effect ho jata hai?”
+
+😔 Human Suffering ka Sawal
+
+Vidura bole,
+
+“Agar Bhagwan har body mein present hain,
+toh phir log dukh aur problems kyun face karte hain?”
+
+“Please meri confusion door karo.”
+
+😊 Maitreya ka Wise Answer
+
+Maitreya sage muskuraaye.
+Unhone pyaar se samjhaya.
+
+🌙 Dream Example
+
+Maitreya bole:
+
+“Jab insaan sapna dekhta hai,
+toh kabhi-kabhi use lagta hai ki uska sar kaat diya gaya.”
+
+Lekin reality mein kuch nahi hota.
+
+Waise hi duniya ka dukh bhi illusion ho sakta hai.
+
+🌊 Reflection Example
+
+Unhone ek aur example diya:
+
+👉 Paani mein moon ka reflection hilta dikhta hai
+👉 Lekin asli moon toh sky mein stable hota hai
+
+Waise hi body ke problems
+soul ke problems nahi hote.
+
+🧘 Solution kya hai?
+
+Maitreya ne kaha:
+
+👉 Bhagwan ki bhakti
+👉 Desire se door rehna
+👉 Bhagwan ka naam sunna aur sunana
+
+Ye sab gradually illusion ko hata dete hain.
+
+😌 Peace ka Secret
+
+Jab senses Bhagwan par focus ho jaate hain,
+tab insaan ka dukh khatam hone lagta hai.
+
+Jaise deep sleep mein insaan tension bhool jaata hai.
+
+💛 Vidura ki Realisation
+
+Vidura bahut khush ho gaye.
+
+Unhone kaha,
+
+“Ab mujhe samajh aa gaya hai.”
+
+👉 Bhagwan completely independent hain
+👉 Humans Bhagwan par depend karte hain
+
+🌍 Vidura ke Bade Sawal
+
+Vidura ne aur knowledge maanga.
+
+Unhone poocha:
+
+👉 Universe ka structure kya hai
+👉 Different creatures kaise bane
+👉 Kings aur sages ka history kya hai
+👉 Life ke goals kaise achieve kare
+👉 Dharma aur spirituality kaise follow kare
+
+Unhone teacher-student relationship aur moksha ke baare mein bhi poocha.
+
+🌟 Maitreya ka Reaction
+
+Maitreya sage bahut khush hue.
+
+Unhe laga Vidura sach mein knowledge seekhna chahte hain.
+Isliye unhone decide kiya ki woh sab explain karenge.
+
+🌼 Moral (Seekh)
+
+👉 Knowledge tab milta hai jab hum questions poochte hain.
+👉 Duniya ke dukh aksar illusion hote hain.
+👉 Bhakti aur wisdom life ko peaceful banate hain.
+👉 Guru aur teacher ka respect bahut zaruri hai.
+👉 Real happiness andar se aati hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 8
     with st.expander("Chapter 8 - Creation of Brahmā—His Vision of Nārāyaṇa"):
-        text1 = """ """
+        text1 = """ 
+        🌸 Chapter 8 – Brahma ki Creation aur Narayana ka Darshan
+
+(Hinglish Moral Story Version – Simple, Emotional, Easy to Read)
+
+🌿 Vidura ki Knowledge Journey Continue Hoti Hai
+
+Sage Maitreya Vidura se bole,
+
+“Tum bahut pavitra aur wise ho.
+Tum hamesha Bhagwan ko apna main goal mante ho.”
+
+“Isi liye main tumhe ek divine kahani sunane wala hoon.
+Yeh kahani duniya ke creation ke baare mein hai.”"""
         create_image_text_layout(
             "attached_assets/chapter3/3.8.jpg",
             text1,
@@ -1353,13 +1597,142 @@ seedha hriday se Bhagwan tak 💛"""
             image_position="left"
         )
 
-        text2 = """ """
+        text2 = """ 
+        🌌 Universe Shuru Hone Se Pehle
+
+Bahut purane samay ki baat hai.
+
+Sab kuch paani se bhara hua tha.
+Na zameen thi… na sky… na insaan.
+
+Sirf Bhagwan Narayana the.
+
+👉 Woh cosmic ocean par
+👉 Shesh Naag ke upar
+👉 Shaanti se rest kar rahe the.
+
+Unki power hidden thi.
+Jaise lakdi ke andar fire hoti hai, par dikhti nahi.
+
+⏳ Long Cosmic Sleep
+
+Bhagwan bahut lambe samay tak soye rahe.
+Unhone apne andar poora universe store karke rakha tha.
+
+Phir time ki power activate hui.
+Aur creation ka process shuru hua.
+
+🌺 Divine Lotus Ka Janm
+
+Bhagwan ke navel (nabhi) se
+ek sundar golden lotus nikla.
+
+Woh lotus poore ocean ko roshan kar raha tha.
+
+Aur us lotus ke andar ek divine being paida hua…
+
+👉 Brahma ji
+
+👀 Brahma Ji Ka Confusion
+
+Brahma ji jab paida hue,
+toh woh confuse ho gaye.
+
+Unhone socha:
+
+“Main kaun hoon?”
+“Main yahan kyun hoon?”
+“Yeh lotus kahaan se aaya?”
+
+🔍 Source Dhundhne Ki Koshish
+
+Brahma ji lotus ke stem ke andar gaye.
+Woh uska root dhundhne lage.
+
+Lekin unhe kuch nahi mila.
+Bahut lambe time tak woh search karte rahe.
+
+Finally woh thak gaye.
+
+🧘 Meditation Ka Decision
+
+Brahma ji wapas lotus par baith gaye.
+Unhone apna mind control kiya.
+
+Aur deep meditation karna shuru kiya.
+
+Unhone 100 saal tak meditation ki.
+
+✨ Divine Vision Milta Hai
+
+Meditation ke baad
+Brahma ji ke heart mein divine knowledge jag gaya.
+
+Aur tab unhe ek amazing darshan mila…
+
+🌊 Narayana Ka Darshan
+
+Brahma ji ne dekha:
+
+👉 Bhagwan Narayana
+👉 Shesh Naag par rest kar rahe hain
+👉 Unka body bright aur divine hai
+👉 Unke kapde golden shine kar rahe hain
+👉 Unki garland aur ornaments heavenly the
+
+Unki beauty itni powerful thi
+ki poora universe unme samaya hua lag raha tha.
+
+🌙 Bhagwan Ki Compassion
+
+Bhagwan ke face par ek sweet smile thi.
+Woh apne bhakton ka dukh door karte hain.
+
+Unke feet lotus jaise soft aur shining the.
+Aur unhe dekhkar Brahma ji emotional ho gaye.
+
+💡 Creation Knowledge Milta Hai
+
+Bhagwan ko dekhte hi
+Brahma ji ko samajh aa gaya:
+
+👉 Universe kaise create karna hai
+👉 Life kaise start karni hai
+
+Unhone samjha ki sab Bhagwan se hi shuru hota hai.
+
+🙏 Brahma Ji Ka Gratitude
+
+Brahma ji ne Bhagwan ki praise karni shuru ki.
+Unhone creation start karne ka decision liya.
+
+🌼 Moral (Seekh)
+
+👉 Jab hum confuse hote hain, meditation clarity deta hai.
+👉 Sab creation ek divine source se aata hai.
+👉 Knowledge patience aur focus se milta hai.
+👉 True wisdom andar se jagta hai.
+👉 Bhagwan hamesha apne bhakton ko guide karte hain."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 9
     with st.expander("Chapter 9 - Brahmā’s Prayer and Viṣṇu’s Boon"):
-        text1 = """ """
+        text1 = """ 
+        🌸 Chapter 9 – Brahma ki Prarthana aur Vishnu ka Ashirvaad
+
+(Hinglish Moral Story Version – Simple + Emotional + Easy to Understand)
+
+🌿 Brahma Ji Ko Divine Realisation
+
+Bhagwan Narayana ka darshan milne ke baad
+Brahma ji bahut emotional ho gaye.
+
+Unhone samjha:
+
+👉 Bhagwan hi sab kuch hain
+👉 Universe mein jo kuch bhi dikhta hai
+👉 Sab unki Maya ka part hai"""
         create_image_text_layout(
             "attached_assets/chapter3/3.9.jpg",
             text1,
@@ -1367,13 +1740,162 @@ seedha hriday se Bhagwan tak 💛"""
             image_position="left"
         )
 
-        text2 = """ """
+        text2 = """ 
+        🙏 Brahma Ji Ki Prarthana
+
+Brahma ji bole:
+
+“Hey Prabhu, bahut tapasya ke baad aaj mujhe aapka darshan mila hai.”
+
+“Log aapko samajh nahi paate,
+kyunki woh body aur duniya mein phas jaate hain.”
+
+“Sach mein sirf aap hi exist karte ho.”
+
+🌺 Vishnu – Sab Avatars Ka Source
+
+Brahma ji ne kaha:
+
+👉 Bhagwan ka divine form
+👉 Har avatar ka source hai
+👉 Usi se universe create hota hai
+
+Aur woh bole:
+
+“Main bhi aapke nabhi ke lotus se paida hua hoon.”
+
+❤️ Bhagwan Devotees Ke Dil Mein Rehte Hain
+
+Brahma ji ne ek important baat boli:
+
+👉 Bhagwan un logon ke heart mein rehte hain
+👉 Jo unki stories sunte hain
+👉 Jo devotion se unka naam lete hain
+
+😔 Sansar Ka Dukh
+
+Brahma ji bole:
+
+“Jo log Bhagwan ko ignore karte hain,
+woh duniya ke dukh mein phas jaate hain.”
+
+Unhone bataya:
+
+Log suffer karte hain —
+👉 Fear
+👉 Desire
+👉 Anger
+👉 Greed
+👉 Attachment
+
+🌍 Maya Ka Illusion
+
+Brahma ji samjhate hain:
+
+👉 Body aur world temporary hai
+👉 Soul permanent hai
+👉 Maya logon ko confuse karti hai
+
+🧘 Devotion Ki Power
+
+Brahma ji bolte hain:
+
+👉 Bhagwan ko yaad karna
+👉 Unki stories sunna
+👉 Unka naam lena
+
+Ye sab insaan ko fear aur sin se free karta hai.
+
+⏳ Time Ka Fear
+
+Brahma ji kehte hain:
+
+“Time sabko destroy karta hai.”
+
+“Even main bhi time se darta hoon.”
+
+Isliye unhone Bhagwan ki tapasya ki.
+
+🌟 Brahma Ji Ki Wish
+
+Brahma ji ne Bhagwan se request ki:
+
+👉 Mujhe knowledge do
+👉 Mujhe power do
+👉 Main universe properly create kar sakoon
+👉 Main ego aur sin se bach sakoon
+
+🌼 Vishnu Ka Reply
+
+Bhagwan Vishnu ne Brahma ji ko console kiya.
+
+Woh bole:
+
+👉 “Dar mat.”
+👉 “Tum already capable ho.”
+👉 “Meditation aur tapasya continue karo.”
+
+🔥 Vishnu Ka Biggest Teaching
+
+Bhagwan ne kaha:
+
+👉 Jab tum mujhe sab jagah dekhoge
+👉 Tab tum creation ko samajh jaoge
+
+👉 Jab log samjhenge ki Bhagwan sab mein hai
+👉 Tab unka dukh khatam ho jayega
+
+💡 True Knowledge
+
+Bhagwan ne Brahma ji ko ek deep secret bataya:
+
+👉 Soul body se alag hai
+👉 Soul Bhagwan ka part hai
+👉 Jo ye samajh leta hai
+👉 Woh divine state achieve karta hai
+
+🌸 Vishnu Ka Blessing
+
+Bhagwan ne Brahma ji ko bless kiya:
+
+👉 Creation mein success milega
+👉 Ego tumhe control nahi karega
+👉 Tum divine knowledge ke saath kaam karoge
+
+🌈 Final Instruction
+
+Bhagwan Vishnu bole:
+
+“Tum mere dwara hi create hue ho.”
+“Ab tum universe create karo.”
+
+Aur phir Bhagwan apne divine form mein disappear ho gaye.
+
+🌼 Moral (Seekh)
+
+👉 True knowledge devotion se milta hai.
+👉 Ego spiritual growth ka biggest enemy hai.
+👉 Bhagwan sabke andar exist karte hain.
+👉 Meditation clarity deta hai.
+👉 Time sabse powerful force hai.
+👉 Devotion insaan ko fear se free karta hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 10
     with st.expander("Chapter 10 - Brahmā’s Penance and Ten-fold Creation"):
-        text1 = """ """
+        text1 = """ 
+        🌸 Chapter 10 – Brahma ki Tapasya aur Dus Prakar ki Srishti
+
+(Hinglish Moral Story Style – Simple + Easy + Deep Meaning)
+
+🌿 Vidura Ka Question
+
+Vidura ne Maitreya Rishi se poocha:
+
+👉 Brahma ji ne Universe kaise create kiya?
+👉 Kitne prakar ki srishti (creation) hui?
+👉 Creation ka process kya tha?"""
         create_image_text_layout(
             "attached_assets/chapter3/3.10.jpg",
             text1,
@@ -1381,7 +1903,204 @@ seedha hriday se Bhagwan tak 💛"""
             image_position="left"
         )
 
-        text2 = """ """
+        text2 = """ 
+        🧘 Brahma Ji Ki Tapasya
+
+Bhagwan Vishnu ke disappear hone ke baad:
+
+👉 Brahma ji ne 100 divine years tak meditation ki
+👉 Unhone apna mind completely God par focus kiya
+
+Tapasya se unki:
+
+✔ Knowledge increase hui
+✔ Creation power strong hui
+
+🌊 Cosmic Situation
+
+Brahma ji ne dekha:
+
+👉 Universe water aur wind se disturbed tha
+👉 Deluge (pralaya) ke baad sab unstable tha
+
+Phir unhone apni divine power se:
+
+👉 Water aur wind ko control kar liya
+
+🌸 Lotus Se Creation
+
+Brahma ji lotus par baithe the
+Jo Vishnu ji ke nabhi se nikla tha
+
+Unhone decide kiya:
+
+👉 Isi lotus se universe recreate karna hai
+
+Unhone lotus ko divide kiya
+Aur worlds ka structure banaya
+
+⏳ Time Ka Concept
+
+Maitreya Rishi ne bataya:
+
+👉 Time Bhagwan ki divine power hai
+👉 Time beginning aur end ke bina hota hai
+👉 Creation aur destruction dono Time se hote hain
+
+🌍 Universe Ki 10 Types Ki Creation
+⭐ 1. Mahat Tattva Creation
+
+👉 Ye universal intelligence hai
+👉 Universe ka first blueprint
+
+⭐ 2. Ahamkara Creation
+
+👉 Ego aur individuality ka creation
+👉 “Main” ka feeling
+
+⭐ 3. Tanmatra Creation
+
+👉 Subtle elements create hue
+👉 Sound
+👉 Touch
+👉 Form
+👉 Taste
+👉 Smell
+
+⭐ 4. Sense Organs Creation
+
+👉 Knowledge organs
+👉 Action organs
+
+Jaise:
+
+👁 Eyes
+👂 Ears
+✋ Hands
+👣 Legs
+
+⭐ 5. Gods & Mind Creation
+
+👉 Sense organs ke presiding gods
+👉 Mind ka creation
+
+⭐ 6. Ignorance Creation
+
+👉 Maya ka influence
+👉 Wrong understanding
+👉 Spiritual blindness
+
+👉 Ye first 6 creations Prakriti se related hain
+
+🌿 Vikriti Creation (Physical Living Beings)
+⭐ 7. Plants Creation
+
+6 types of plants bane:
+
+🌳 Trees
+🌿 Plants
+🌱 Creepers
+🎍 Bamboo type trees
+🌾 Strong vines
+🌲 Fruit trees
+
+⭐ 8. Animals & Birds Creation
+
+28 types ke animals create hue
+
+🐄 Cloven Hoof Animals
+
+Cow
+Goat
+Buffalo
+Camel
+Sheep
+Deer
+Pig
+
+🐎 Single Hoof Animals
+
+Horse
+Donkey
+Mule
+
+🐕 Five Nail Animals
+
+Dog
+Tiger
+Lion
+Monkey
+Elephant
+Tortoise
+Shark
+
+🐦 Birds
+
+Peacock
+Swan
+Crow
+Owl
+Hawk
+Crane
+Vulture
+
+⭐ 9. Humans Creation
+
+👉 Humans most active species bane
+👉 Rajo-guna dominant
+👉 Actions aur desires se driven
+
+⭐ 10. Divine & Semi-Divine Beings
+
+8 categories create hui:
+
+✨ Gods
+✨ Pitrs (ancestors)
+✨ Asuras
+✨ Gandharvas & Apsaras
+✨ Yaksha & Rakshasa
+✨ Siddha & Charana
+✨ Ghosts & Spirits
+✨ Kinnar & Vidyadhara
+
+🌌 Special Creation
+
+Sanatkumara jaise sages
+👉 Spiritual knowledge ke symbol hain
+👉 Mixed divine creation ke part hain
+
+🌈 Important Spiritual Teaching
+
+👉 Creation fixed order mein nahi hoti
+👉 Maya sabko confuse karti hai
+👉 Universe cyclic hai
+👉 Same creation baar-baar hoti hai
+
+🌼 Moral & Life Lessons
+💡 1. Meditation Power
+
+Tapasya knowledge aur clarity deti hai
+
+💡 2. Ego Creation Ka Part Hai
+
+But ego control karna zaroori hai
+
+💡 3. Nature Divine System Hai
+
+Plants, animals, humans
+Sab interconnected hain
+
+💡 4. Time Supreme Force Hai
+
+Sab kuch Time ke under hai
+
+💡 5. Universe Cyclic Hai
+
+End aur beginning ek continuous cycle hai
+
+💡 6. Human Life Special Hai
+
+Kyuki spiritual realization possible hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
