@@ -2106,7 +2106,12 @@ Kyuki spiritual realization possible hai"""
 
     # Chapter 11
     with st.expander("Chapter 11 - The concept of Time: Manvantaras and life-spans of Men and Gods"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 11 – Time ka Mahaan Siddhant (Manvantaras aur Jeevan ki Avadhi)
+
+Is adhyay mein Maitreya rishi Vidura ko samay (Time) ka bahut gehra aur cosmic concept samjhate hain — sabse chhote kshan se lekar Brahma ke jeevan tak. Yeh batata hai ki Hindu cosmology mein time kitna vistrit aur chakrakar maana gaya hai.
+
+Neeche simple language mein iska saar diya hai:"""
         create_image_text_layout(
             "attached_assets/chapter3/3.11.jpg",
             text1,
@@ -2114,13 +2119,242 @@ Kyuki spiritual realization possible hai"""
             image_position="left"
         )
 
-        text2 = """ """
+        text2 = """ 
+        🕉️ 1) Samay ki Sabse Chhoti Ikai – Atom se Time tak
+
+Maitreya batate hain:
+
+Sabse chhota padarth = Paramāṇu (atom)
+
+Jab atoms milte hain → tab bada vastu banta hai
+
+Insaan ko “poori cheez” ka illusion hota hai
+
+Time bhi isi tarah samjha jaata hai:
+
+Chhote padarth → chhota time
+
+Bade padarth → bada time
+
+Iska matlab:
+
+Time sab jagah vyapt hai aur Bhagwan ki shakti hai jo creation ko chalati hai.
+
+⏳ 2) Prachin Time Units (Bahut Interesting)
+
+Yeh ancient Indian time system hai:
+
+Smallest → Biggest
+
+2 paramanu = 1 anu
+
+3 anu = 1 trasarenu
+
+3 trasarenu ka time = 1 truṭi
+
+Phir aage:
+
+100 truṭi = 1 vedha
+
+3 vedha = 1 lava
+
+3 lava = 1 nimeṣa (blink)
+
+3 nimeṣa = 1 kṣaṇa
+
+5 kṣaṇa = 1 kāṣṭhā
+
+15 kāṣṭhā = 1 laghu
+
+15 laghu = 1 nāḍikā
+
+2 nāḍikā = 1 muhūrta
+
+Aur:
+
+1 day + night = 8 prahar
+
+15 days = 1 pakṣa (Shukla + Krishna)
+
+2 pakṣa = 1 month
+
+12 months = 1 year
+
+Human life span (ideal):
+
+100 years
+
+☀️ 3) Devta aur Pitṛ Time
+
+Yeh bahut interesting concept hai:
+
+1 human month = Pitṛs ka 1 day + night
+
+6 months = Devta ka 1 day
+
+6 months = Devta ki night
+
+Iska matlab:
+
+Devtaon ka time human time se bilkul alag scale par chalta hai.
+
+🧭 4) Yuga Cycle – Dharma ka Ghatna
+
+Ek maha cycle = 4 Yugas:
+
+1️⃣ Satya Yuga
+2️⃣ Treta Yuga
+3️⃣ Dwapar Yuga
+4️⃣ Kali Yuga
+
+Total duration:
+
+12,000 divine years
+
+Dharma ki condition:
+
+Satya Yuga → 100% dharma
+
+Treta → 75%
+
+Dwapar → 50%
+
+Kali → 25%
+
+Isliye Kali Yuga mein paap aur ashanti zyada hoti hai.
+
+🌍 5) Brahma ka Ek Din
+
+Yeh sabse bada concept hai:
+
+1 Brahma ka 1 day =
+
+1000 yuga cycles
+
+1 Brahma ki night =
+
+utni hi lambi
+
+Day ke dauraan:
+
+Creation hoti hai
+
+Night ke dauraan:
+
+Universe so jata hai
+
+👑 6) Manvantara kya hota hai?
+
+Brahma ke ek din mein:
+
+14 Manus rule karte hain
+
+Har Manu ka period ≈ 71 yuga cycles
+
+Manu ke dauraan:
+
+Naye kings
+
+Naye rishis
+
+Naye devta
+
+Isko hi Manvantara kehte hain.
+
+🌊 7) Brahma ki Night – Pralaya
+
+Jab Brahma sota hai:
+
+3 worlds destroy ho jate hain
+
+Fire + water sabko cover kar leta hai
+
+Vishnu Sheshnag par so jate hain
+
+Rishis unki stuti karte hain
+
+Phir next day:
+
+Creation fir se shuru
+
+🧓 8) Brahma ki Life Span
+
+Brahma ki total life:
+
+100 divine years
+
+Iska aadha:
+
+Parardha
+
+Abhi:
+
+Pehla aadha khatam ho chuka
+
+Dusra aadha chal raha hai
+
+Current kalpa:
+
+Varaha Kalpa
+
+🪐 9) Universe ka Size
+
+Scripture ke hisaab se:
+
+Universe = ek “cosmic egg”
+
+Bahar 7 layers se covered
+
+Har layer pichhli se 10x badi
+
+Aur:
+
+Vishnu ke andar aise crores universes hain.
+
+🧘 10) Sabse Deep Thought
+
+Time:
+
+Sabko control karta hai
+
+Sab kuch destroy karta hai
+
+Lekin:
+
+Bhagwan par Time ka koi asar nahi hota.
+
+🌌 Core Philosophy
+
+Yeh chapter basically yeh keh raha hai:
+
+Time infinite hai
+
+Creation cyclic hai
+
+Sab kuch repeat hota rehta hai
+
+Brahma bhi permanent nahi hai
+
+Sirf Vishnu/Paramatma eternal hai
+
+Agar Simple Line Mein Samjhein:
+
+Human life → years
+Devta life → yugas
+Brahma life → kalpas
+God → beyond time"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 12
     with st.expander("Chapter 12 - Creation of Rudra, the mind-born Sons and of Manu and Śatarūpā"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 12 – Rudra ka Janm, Brahmā ke Manas Putra aur Manu–Śatarūpā ki Kahani
+
+(Hinglish children-style simple kahani tone)
+
+Ek baar Vidura ne Maitreya rishi se poocha, “Brahmā ji ne duniya ko kaise basaya?”
+Tab Maitreya rishi ne dheere-dheere ek sundar aur gehri kahani sunani shuru ki."""
         create_image_text_layout(
             "attached_assets/chapter3/3.12.jpg",
             text1,
@@ -2128,13 +2362,194 @@ Kyuki spiritual realization possible hai"""
             image_position="left"
         )
 
-        text2 = """ """
+        text2 = """ 
+        🌑 Pehli Rachna – Agyanta ka Janm
+
+Shuruaat mein Brahmā ji ne kuch aisi cheezein banayi jo andhera aur agyanta failati thi.
+Unhone dekha ki yeh rachna achchi nahi hai.
+
+Unka mann udaas ho gaya.
+Phir unhone dhyaan lagaya aur dobara achchi rachna karne ka socha.
+
+👶 Chaar Kumaron ka Janm
+
+Is baar Brahmā ji ne chaar pavitra putron ko janm diya:
+
+Sanaka
+
+Sanandana
+
+Sanātana
+
+Sanatkumāra
+
+Yeh chaaron bahut gyani the.
+Unhe duniya ke kaam ya parivaar basane mein koi interest nahi tha.
+
+Brahmā ji ne kaha,
+“Beta, tum log duniya ko aage badhao.”
+
+Par unhone shanti se mana kar diya.
+Woh sirf Bhagwan ki bhakti karna chahte the.
+
+🔥 Gusse se Rudra ka Janm
+
+Unki baat na maanne par Brahmā ji ko thoda gussa aaya.
+Unhone gusse ko rokne ki koshish ki, par phir bhi unke bhru (forehead) se ek shaktishaali balak paida hua.
+
+Woh ro raha tha.
+
+Brahmā ji ne kaha:
+“Tum roye ho, isliye tumhara naam hoga Rudra.”
+
+Yahi Rudra baad mein Shiva ke roop mein jaane gaye.
+
+Brahmā ji ne unhe kaha:
+
+Tum jagah-jagah reh sakte ho
+
+Tumhari kai roopen hongi
+
+Tum srishti ko aage badhane mein madad karoge
+
+Rudra ne bahut saare apne jaise shaktishaali jeev paida kar diye.
+Woh sab itne bhayankar the ki duniya hilne lagi.
+
+Brahmā ji ghabra gaye.
+Unhone kaha:
+
+“Bas! Ab tapasya karo. Shanti se rehkar srishti mein madad karo.”
+
+Rudra maan gaye aur jungle mein tapasya karne chale gaye.
+
+🧠 Brahmā ke Manas Putra
+
+Phir Brahmā ji ne apne mann se dus mahan rishiyon ko janm diya:
+
+Marichi
+
+Atri
+
+Angiras
+
+Pulastya
+
+Pulaha
+
+Kratu
+
+Bhrigu
+
+Vasistha
+
+Daksha
+
+Narada
+
+Yeh sab duniya ko basane wale mahan purvaj bane.
+
+🌍 Aur Bhi Cheezein Paida Hui
+
+Brahmā ji ke sharir se alag-alag cheezein paida hui:
+
+Dil se → ichchha (desire)
+
+Bhru se → krodh (anger)
+
+Muh se → vaani (speech)
+
+Peeth se → adharm
+
+Hriday se → dharm
+
+Yeh sab milkar insaan ki nature ko banate hain.
+
+📖 Vedo ka Janm
+
+Phir Brahmā ji ke chaar muh se nikle:
+
+Rigveda
+
+Yajurveda
+
+Samaveda
+
+Atharvaveda
+
+Saath hi nikli:
+
+Ayurveda (medicine)
+
+Dhanurveda (war science)
+
+Gandharvaveda (music)
+
+Sthapatyaveda (architecture)
+
+Yani duniya ka gyaan wahi se shuru hua.
+
+🧍‍♂️🧍‍♀️ Manu aur Śatarūpā ka Janm
+
+Phir Brahmā ji ne socha:
+
+“Abhi bhi log kam hain. Duniya kaise badhegi?”
+
+Tab ek adbhut baat hui.
+
+Unka sharir do hisson mein baant gaya:
+
+Ek hissa → Purush bana
+
+Doosra hissa → Stree bani
+
+Purush ka naam pada Svayambhuva Manu
+Stree ka naam pada Śatarūpā
+
+Yeh dono pehle manav joda bane.
+
+👨‍👩‍👧‍👦 Unke Bachche
+
+Manu aur Śatarūpā ke paanch bachche hue:
+
+Priyavrata
+
+Uttānapāda
+
+Ākūti
+
+Devahūti
+
+Prasūti
+
+In sabki shaadi hui aur unse duniya bhar gayi.
+
+Yahin se insani vansh shuru hua.
+
+🌼 Kahani ka Saar (Moral Style)
+
+Gyaan se achchi rachna hoti hai
+
+Gussa se vinash bhi ho sakta hai
+
+Tapasya se shakti milti hai
+
+Purush aur stree milkar hi duniya ko aage badhate hain
+Aur sabse bada sach:
+
+Duniya ek din mein nahi bani.
+Dheere-dheere, pyaar aur dhairya se bani."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 13
     with st.expander("Chapter 13 - The Boar (Varāha) Incarnation"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 13 – Varāha Avtaar ki Kahani (Bhagwan ka Boar Roop)
+
+Ek din Vidura ne Maitreya rishi se pyaar se poocha,
+“Svayambhuva Manu ne shaadi ke baad kya kiya? Aur duniya kaise aage badhi?”
+
+Rishi muskuraaye aur ek adbhut kahani sunane lage."""
         create_image_text_layout(
             "attached_assets/chapter3/3.13.jpg",
             text1,
@@ -2142,13 +2557,147 @@ Kyuki spiritual realization possible hai"""
             image_position="left"
         )
 
-        text2 = """ """
+        text2 = """ 
+        👑 Manu ka Prashna
+
+Manu apni patni ke saath Brahmā ji ke paas gaye.
+Haath jod kar bole:
+
+“Prabhu, hum aapke bachche hain.
+Batayiye hum kya karein, jisse duniya ka bhala ho?”
+
+Brahmā ji khush hue.
+Unhone kaha:
+
+Praja (logon) ki raksha karo
+
+Dharm se rajya chalao
+
+Bhagwan ki puja karo
+
+Achhe bachche paida karo
+
+Phir Brahmā ji ne ek bada sach bataya:
+
+“Sabse badi seva hai logon ki raksha karna.”
+
+🌊 Dharti ka Doobna
+
+Manu ne phir kaha:
+
+“Prabhu, ek samasya hai…
+Dharti to paani mein doob gayi hai.
+Hum kahaan rahenge?”
+
+Yeh sunkar Brahmā ji soch mein pad gaye.
+
+“Dharti ko kaise bachaya jaye?”
+
+🐗 Ek Chhota Sa Boar
+
+Jab Brahmā ji soch hi rahe the,
+Tab ek chhota sa jaanwar unki naak se nikla.
+
+Woh ek boar (suar) tha.
+Shuru mein woh anguthe jitna chhota tha.
+
+Sab dekh kar hairaan reh gaye.
+
+Phir achanak…
+
+Woh badhne laga!
+Aur kuch hi pal mein haathi jitna bada ho gaya.
+
+Sab samajh gaye —
+Yeh koi aam jaanwar nahi hai.
+
+Yeh khud Bhagwan Vishnu ka roop tha.
+Unka naam pada — Varāha Avtaar.
+
+🌩️ Bhagwan ka Garajna
+
+Bhagwan Varāha zor se garje.
+Unki awaaz se saari dishaayein goonj uthi.
+
+Rishiyon ne turant unki stuti karni shuru kar di.
+Sab ke dil mein khushi bhar gayi.
+
+🌊 Samundar Mein Chhalang
+
+Phir Varāha Bhagwan seedha samundar mein kood pade.
+Jaise ek bada haathi paani mein ghusta hai.
+
+Unhone dharti ko dhoondhna shuru kiya.
+Woh paani ke bahut neeche, Rasātal mein chali gayi thi.
+
+🌍 Dharti Ko Bachana
+
+Bhagwan ne apne tez daanton (tusks) se dharti ko pakda.
+Pyaar se use uthaya.
+
+Jab woh dharti ko lekar upar aaye,
+Woh drishya bahut sundar tha.
+
+Jaise ek bada haathi kamal ka phool utha kar la raha ho.
+
+Sab devta aur rishi khush ho gaye.
+Unhone haath jod kar Bhagwan ki stuti ki.
+
+⚔️ Ek Rakshas se Yudh
+
+Tabhi ek balshali rakshas ne unhe roka.
+Woh Bhagwan par hamla karne laga.
+
+Par Bhagwan Varāha bahut shaktishaali the.
+Unhone us rakshas ko aasani se hara diya.
+
+Jaise sher haathi ko gira deta hai.
+
+🌎 Dharti Ko Wapas Basana
+
+Phir Bhagwan ne dharti ko sambhaal kar paani ke upar rakha.
+Use fir se logon ke rehne layak bana diya.
+
+Sab log bahut khush hue.
+Duniya fir se jeene lagi.
+
+Aur Bhagwan apna kaam poora karke chupchaap chale gaye.
+
+💫 Kahani ka Saar (Moral)
+
+Jab bhi duniya mushkil mein hoti hai, Bhagwan madad karte hain
+
+Bhagwan kisi bhi roop mein aa sakte hain
+
+Chhoti cheez bhi bada kaam kar sakti hai
+
+Achchai hamesha burai par jeet paati hai
+
+Aur sabse pyari baat:
+
+Jo log Bhagwan ki kahaniyaan sunte hain,
+unke dil mein shanti aur himmat aa jaati hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 14
     with st.expander("Chapter 14 - Diti’s Conception"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 14 – Diti ka Garbh (Diti’s Conception) – Saral Kahani
+
+Śrī Śuka ne bataya ki Varāha avtaar ki kahani sunne ke baad bhi Vidura ka mann aur jaanna chahta tha. Unhone ek aur prashna poocha.
+
+🤔 Vidura ka Prashna
+
+Vidura bole:
+
+Hiraṇyākṣa naam ka ek bada daitya tha jise Bhagwan ne maara
+
+Woh Bhagwan se kyun ladha?
+
+Uski paidaish kaise hui?
+
+Maitreya rishi ne kaha — yeh bahut pavitra kahani hai. Isse jeevan ka gyaan milta hai. Phir unhone shuru se sab bataya."""
         create_image_text_layout(
             "attached_assets/chapter3/3.14.jpg",
             text1,
@@ -2156,13 +2705,146 @@ Kyuki spiritual realization possible hai"""
             image_position="left"
         )
 
-        text2 = """ """
+        text2 = """ 
+        🌆 Diti ki Ichchha
+
+Diti, Daksha ki beti thi aur rishi Kaśyapa ki patni.
+Ek shaam ka samay tha. Kaśyapa apni sandhya puja kar rahe the.
+
+Tab Diti unke paas aayi.
+Uska mann ichchha aur kaamna se bhara hua tha. Usne kaha:
+
+“Mujhe santaan chahiye.”
+
+“Meri saheliyon (co-wives) ke bachche hain, main unki khushi dekh kar dukhi ho jaati hoon.”
+
+“Kripya meri ichchha poori kijiye.”
+
+⏳ Kaśyapa ka Samjhana
+
+Kaśyapa ne pyaar se samjhaya:
+
+Patni pati ka aadha hissa hoti hai
+
+Grihastha jeevan sabhi dharmon ko sambhalta hai
+
+Main tumhari ichchha poori karunga
+
+Lekin unhone ek zaroori baat kahi:
+
+“Abhi shaam ka samay hai. Yeh shubh samay nahi hai.”
+
+Unhone bataya:
+
+Is samay bhuton ke swami Shiva apne ganon ke saath ghoomte hain
+
+Yeh pavitra aur bhayanak samay hota hai
+
+Is waqt santaan ka garbh dharan karna uchit nahi
+
+😔 Diti ka Zidd
+
+Par Diti ka mann kaamna se bhar gaya tha.
+Woh ruk na paayi.
+
+Usne apne pati se zidd ki aur ant mein Kaśyapa maan gaye.
+Baad mein Diti ko apni galti ka ehsaas hua.
+
+Woh dar gayi aur boli:
+
+“Hey Prabhu, mere garbh ko Shiva nuksaan na pahunchaye. Maine galti ki hai.”
+
+⚠️ Kaśyapa ka Shraap-jaisa Vachan
+
+Kaśyapa ne kaha:
+
+“Tumne galat samay par, ashuddh mann se aur meri baat na maan kar yeh kaam kiya hai.
+Isliye tumhare do putra paida honge — bahut hi shaktishaali par atyant krur.”
+
+Woh duniya ko satayenge
+
+Logon ko dukh denge
+
+Devta bhi pareshan honge
+
+Aur ant mein:
+
+Bhagwan khud avtaar lekar unhe maarenge.
+
+Yahi do putra the:
+Hiraṇyākṣa aur Hiraṇyakaśipu
+
+🙏 Diti ki Prarthana
+
+Diti ne shanti se kaha:
+
+“Thik hai, agar mere bete marenge,
+toh Bhagwan ke haath se maren.
+Brahmanon ke shraap se na maren.”
+
+Kyunki rishi ka shraap bahut bhayanak maana jaata tha.
+
+🌟 Ek Achhi Bhavishyavaani
+
+Kaśyapa ne phir kaha:
+
+“Tum pachtayi ho, isliye tumhare vansh mein ek mahaan bhakt paida hoga.”
+
+Woh tha:
+
+👉 Prahlad
+
+Bahut bada Vishnu bhakt
+
+Sabse dayaalu
+
+Kisi se dushmani nahi
+
+Dusron ki khushi mein khush
+
+Dusron ke dukh mein dukhi
+
+Uski bhakti se Bhagwan khud prasann honge.
+
+💫 Kahani ka Saar
+
+Is kahani se kuch bade sabak milte hain:
+
+Galat samay aur galat mann se kiya kaam bura phal deta hai
+
+Pachtawa (repentance) se bhavishya sudhar sakta hai
+
+Bure vansh mein bhi mahaan sant paida ho sakta hai
+
+Bhagwan ke haath se mrityu bhi moksha ka raasta hoti hai
+
+Aur sabse bada sach:
+
+Hiraṇyākṣa aur Hiraṇyakaśipu jaise daityon ke ghar bhi Prahlad jaisa mahaan bhakt paida ho sakta hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 15
     with st.expander("Chapter 15 - Sanaka and Others curse Jaya and Vijaya"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 15 – Sanaka aur Jaya-Vijaya ka Shraap (Saral Hinglish Kahani)
+
+Rishi Maitreya ne Vidura ko ek aur gahri kahani sunayi.
+
+🌑 Diti ke Garbh ka Asar
+
+Diti apne garbh ko 100 saal tak sambhaal kar rakhti rahi.
+Uska garbh itna powerful tha ki:
+
+Suraj ki roshni kam padne lagi
+
+Duniya andhere se bhar gayi
+
+Devta kamzor mehsoos karne lage
+
+Dar kar sab devta Brahma ji ke paas gaye aur bole:
+
+“Prabhu, har taraf andhera chha gaya hai. Yeh kya ho raha hai? Hume bachaiye.”"""
         create_image_text_layout(
             "attached_assets/chapter3/3.15.jpg",
             text1,
@@ -2170,7 +2852,140 @@ Kyuki spiritual realization possible hai"""
             image_position="left"
         )
 
-        text2 = """ """
+        text2 = """ 
+        🧠 Brahma ne Sach Bataya
+
+Brahma ji muskuraaye aur bole:
+
+“Iska kaaran Diti ke garbh mein pal rahe do shaktishaali bachche hain.
+Par main tumhe ek purani kahani sunata hoon, jo is sab se judi hai.”
+
+🌸 Vaikunth ki Sundar Duniya
+
+Brahma ji ne bataya:
+
+Ek baar Sanaka, Sanandana, Sanatana aur Sanatkumara – ye chaar chhote bacchon jaise dikhne wale mahaan rishi – Vaikunth gaye.
+
+Vaikunth kaisa tha?
+
+Har jagah shanti aur prem
+
+Log Vishnu jaise roop wale
+
+Sab log bhakti mein magan
+
+Har jagah phool, sugandh aur geet
+
+Lakshmi ji wahan sadaa Vishnu ji ki seva karti thi.
+Wahan koi dukh, gussa ya lalach nahi tha.
+
+🚪 Saatve Dwaar Par Rukawat
+
+Rishiyon ne Vaikunth ke 6 gates bina kisi rok-tok ke paar kar liye.
+Lekin 7th gate par do pehredaar khade the:
+
+Jaya aur Vijaya
+
+Bahut shaktishaali
+
+Vishnu ji ke sabse vishwasniya sevak
+
+Unhone rishiyon ko roka aur andar jaane nahi diya.
+
+Unhone socha:
+
+“Yeh chhote bacchon jaise lag rahe hain. Kaun jaane kaun hain.”
+
+😠 Rishiyon ka Gussa
+
+Sanaka aur baaki rishi Vishnu se milne aaye the.
+Roke jaane se unka dil dukha.
+
+Unhone kaha:
+
+“Vaikunth mein toh sab barabar hote hain.
+Yahan koi bhed-bhaav nahi hota.
+Phir tumne hume kyun roka?”
+
+Unka gussa badh gaya.
+
+Aur unhone shraap de diya:
+
+“Tum dono Vaikunth chhod kar neeche ki duniya mein janam loge.
+Wahan tumhe kaam, krodh aur lobh se bhari zindagi jeeni padegi.”
+
+😢 Jaya-Vijaya ka Pachtawa
+
+Jaya aur Vijaya turant samajh gaye ki unse galti ho gayi.
+
+Woh rishiyon ke pair pakad kar bole:
+
+“Hum apni sazaa sweekar karte hain.
+Bas ek kripa kijiye —
+Bhagwan ko hum bhool na jaayein.”
+
+🌟 Vishnu Ji ka Aana
+
+Tabhi Vishnu ji khud Lakshmi ji ke saath wahan aaye.
+
+Unka roop bahut sundar tha:
+
+Neela sa sharir
+
+Peeli vastra
+
+Chamakta mukh
+
+Gale mein vanmala
+
+Seene par Lakshmi ji
+
+Rishiyon ne unhe dekha aur unki aankhon mein aansu aa gaye.
+Unka mann poori tarah shant ho gaya.
+
+🙏 Rishiyon ki Prarthana
+
+Rishiyon ne kaha:
+
+“Hey Prabhu, aaj humari aankhon ko sachcha sukh mila.
+Aap hamesha hamare dil mein the, par aaj saamne dikh gaye.”
+
+Unhone ye bhi kaha:
+
+“Jo log aapki kahani sunte hain, unhe swarg ya moksha ki bhi parwah nahi rehti.
+Unke liye sirf aapka prem hi sab kuch hota hai.”
+
+💫 Kahani ka Gehraa Arth
+
+Is ghatna ke kaaran:
+
+Jaya aur Vijaya ko Vaikunth chhodna pada
+
+Unka janam daitya ke roop mein hua
+
+Wahi aage chal kar bane:
+
+Hiranyaksha
+
+Hiranyakashipu
+
+Yaani Diti ke garbh wale bachche!
+
+📖 Moral (Seekh)
+
+Is kahani se kuch important baatein samajh aati hain:
+
+Ahankaar ya shak kabhi kabhi galti karwa deta hai
+
+Bade log bhi galti kar sakte hain
+
+Bhagwan ke sevak bhi kabhi kabhi pariksha se guzarte hain
+
+Jo Bhagwan ko sachche dil se yaad kare, woh unhe kabhi nahi bhoolta
+
+Aur sabse bada sach:
+
+Jo bhi hota hai, Bhagwan ki badi yojna ka hissa hota hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
