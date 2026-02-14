@@ -2991,7 +2991,22 @@ Jo bhi hota hai, Bhagwan ki badi yojna ka hissa hota hai."""
 
     # Chapter 16
     with st.expander("Chapter 16 - The Fall of Jaya and Vijaya"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 16 – Jaya aur Vijaya ka Patan (Fall)
+Brahma ji ne kahani batayi:
+Jab rishiyon ne Bhagwan Vishnu ki stuti ki, tab Bhagwan unke saamne aaye.
+Unhone unka bahut pyaar se swagat kiya aur shant swar mein bole.
+Bhagwan Vishnu ne kaha:
+“Hey rishiyon, mere do sevak Jaya aur Vijaya ne tumhara apmaan kiya.
+Isliye tumne jo unhe shraap diya, main usse sweekar karta hoon.
+Unki galti ko main apni galti maanta hoon.”
+Unhone aur bhi kaha:
+“Jo sevak galti karta hai, log uske malik ko dosh dete hain.
+Isliye main tumse maafi maangta hoon.
+Brahman mere liye sabse adhik poojya hain.”
+Bhagwan ka swabhav bahut vinamra tha.
+Woh kehte hain ki jo log sadhus, Brahman aur nirbal logon ka samman karte hain,
+woh unhe bahut priya hain."""
         create_image_text_layout(
             "attached_assets/chapter3/3.16.jpg",
             text1,
@@ -2999,13 +3014,76 @@ Jo bhi hota hai, Bhagwan ki badi yojna ka hissa hota hai."""
             image_position="left"
         )
 
-        text2 = """ """
+        text2 = """ 
+        Rishiyon ka Uttar
+
+Rishi Bhagwan ke shabd sunkar hairaan ho gaye.
+Unhone haath jod kar kaha:
+
+“Prabhu, aap sabse bade hain.
+Aapko kisi se maafi maangne ki zarurat nahi.
+Aap hi dharm ka mool hain.
+Aap sabka sahara hain.”
+
+Unhone kaha:
+
+“Jo yogi aapko pa lete hain,
+woh janam–maran ke chakkar se paar ho jaate hain.”
+
+Bhagwan ka Faisla
+
+Phir Bhagwan Vishnu ne shant swar mein kaha:
+
+“Ye sab mere hi ichchha se hua hai.
+Jaya aur Vijaya ab kuch samay ke liye prithvi par janam lenge.
+Woh asur ke roop mein paida honge.
+Par woh jaldi hi wapas mere paas laut aayenge.”
+
+Bhagwan jaante the ki ye sab ek badi leela ka hissa hai.
+
+Vaikunth se Girna
+
+Bhagwan ka aadesh paakar,
+Jaya aur Vijaya Vaikunth se gir gaye.
+
+Swarg ke log unhe girta dekh kar dukhi ho gaye.
+Har taraf se awaaz aayi,
+“Alas! Alas!”
+
+Par yeh sab Bhagwan ki ichchha se ho raha tha.
+
+Naya Janam
+
+Woh dono rishi Kashyap ke tej ke roop mein
+Diti ke garbh mein pravesh kar gaye.
+
+Ab woh asur ke roop mein janam lene wale the.
+
+Yahi aage chal kar do shaktishaali rakshas bane,
+jinse devta bhi darrne lage.
+
+Par sach yeh tha:
+Unka patan bhi Bhagwan ki yojna ka hissa tha.
+Taaki woh phir se unke paas laut sakein.
+
+Moral (Seekh)
+
+Kabhi-kabhi buri ghatna bhi kisi bade kaam ka hissa hoti hai.
+Har girna hamesha haar nahi hota.
+Kabhi-kabhi girkar hi insaan apne asli ghar tak pahunchta hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 17
     with st.expander("Chapter 17 - The Birth of Hiraṇyākṣa and Hiraṇyakaśipu"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 17 – Hiranyaksha aur Hiranyakashipu ka Janm aur Unki Shakti
+Maitreya Rishi ne kahani aage batayi:
+Jab Brahma ji ne sab sach bataya, tab devtaon ka dar thoda kam ho gaya.
+Woh sab apne swarg lok wapas chale gaye.
+Par Diti ka mann shant nahi tha.
+Use pata tha ki uske bachche duniya mein pareshani la sakte hain.
+Isi darr ke saath usne 100 saal baad do judwa putron ko janam diya."""
         create_image_text_layout(
             "attached_assets/chapter3/3.17.jpg",
             text1,
@@ -3013,13 +3091,127 @@ Jo bhi hota hai, Bhagwan ki badi yojna ka hissa hota hai."""
             image_position="left"
         )
 
-        text2 = """ """
+        text2 = """ 
+        Janm ke Samay Ashubh Sanket
+
+Jab dono bachche paida hue, tab duniya mein ajeeb ghatnayein hone lagi.
+
+Zameen zor se hilne lagi.
+Pahad kaanpne lage.
+Aasmaan mein bijli chamki aur andhera chha gaya.
+
+Samundar zor se garajne laga.
+Nadiyan aur talab bhi bechain dikhne lage.
+
+Kutton ne ajeeb awaaz mein bhonkna shuru kar diya.
+Gadhe zor zor se cheekhne lage.
+Ullu aur lomdiyaan daraavni awaaz karne lagi.
+
+Gaayen dar gayin, ped bina hawa ke girne lage.
+Murtiyon ki aankhon se aansu behte dikhe.
+
+Log bahut dar gaye.
+Unhe laga shayad duniya ka ant aa gaya hai.
+
+Do Balwan Asur
+
+Samay ke saath woh dono bachche bade hone lage.
+Unke sharir pahadon ki tarah mazboot the.
+Unki lambai aasmaan ko chhoone jaise thi.
+Har kadam se zameen hilti thi.
+
+Rishi Kashyap ne unke naam rakhe:
+
+Bade bhai ka naam tha Hiranyakashipu
+
+Chhote bhai ka naam tha Hiranyaksha
+
+Hiranyakashipu ko Brahma ji se vardaan mila tha.
+Isliye use maut ka darr nahi tha.
+Woh bahut ghamandi ho gaya.
+
+Usne apni taqat se teenon lokon par kabza kar liya.
+
+Hiranyaksha ka Ghamand
+
+Hiranyaksha apne bhai ko bahut pyar karta tha.
+Par use ladai ka bahut shauk tha.
+Har din woh gada lekar kisi se ladne nikal padta.
+
+Ek din woh swarg pahunch gaya.
+Uski chal aur shakti dekh kar devta darr gaye.
+Sab chhup gaye, jaise Garud ko dekh kar saamp chhup jaate hain.
+
+Jab use koi ladne wala nahi mila,
+toh woh zor se hansa aur garja.
+
+Samundar ki Ore
+
+Phir woh samundar mein ghus gaya.
+Uski saanson aur gada ki taqat se bade bade lehr uthne lage.
+
+Samundar ke sab jeev darr kar bhaag gaye.
+
+Kai saalon tak woh samundar mein ghoomta raha,
+kisi takkar ke dushman ki talash mein.
+
+Aakhir woh Varun dev ke shehar pahunch gaya.
+
+Varun Dev se Chunauti
+
+Hiranyaksha ne Varun dev ka mazaak udaya aur bola:
+
+“Tum bade yoddha ho. Mujhse ladho!”
+
+Varun dev gusse mein the, par unhone apne aap ko sambhala.
+Unhone shant swar mein kaha:
+
+“Main ab buddha ho chuka hoon.
+Main tumse ladne layak nahi.”
+
+Phir unhone sach bataya:
+
+“Sirf ek hi yoddha hai jo tumse lad sakta hai.
+Woh hai Adi Purush – Bhagwan Vishnu.”
+
+“Unhi ke paas jao.
+Wahi tumhara ghamand tod sakte hain.”
+
+Moral (Seekh)
+
+Jab insaan ya koi bhi jeev bahut ghamandi ho jata hai,
+toh woh hamesha kisi na kisi se takraane ki sochta hai.
+
+Par sachchi shakti hamesha vinamrata mein hoti hai.
+Ghamand ka anth hamesha nishchit hota hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 18
     with st.expander("Chapter 18 - Hiraṇyākṣa’s Fight with Varāha"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 18 – Hiranyaksha aur Varaha ka Maha-yuddh
+
+Maitreya Rishi ne Vidura ko aage ki ghatna batayi:
+
+Varaha ko Chunauti
+
+Jab Hiranyaksha ne Varun dev ki baat suni, to usne usse ignore kar diya.
+Narad se usse pata chala ki Bhagwan Vishnu Varaha roop me prithvi ko bachane aaye hain.
+Ye sunte hi woh turant Rasatal (patal lok) ki taraf daud pada.
+
+Wahan usne ek adbhut drishya dekha:
+
+Bhagwan Varaha apne bade daanton (tusks) par dharti ko uthakar paani se bahar la rahe the.
+Unki aankhen tej se chamak rahi thi.
+
+Hiranyaksha hans pada aur bola:
+
+“Ye kya hai? Ek jangli janwar!
+Dharti chhod do. Ye hamare lok ki hai.
+Tum ise yahan se nahi le ja sakte.”
+
+Usne Bhagwan ka mazaak udaya aur unhe ladai ki khuli chunauti di."""
         create_image_text_layout(
             "attached_assets/chapter3/3.18.jpg",
             text1,
@@ -3027,15 +3219,431 @@ Jo bhi hota hai, Bhagwan ki badi yojna ka hissa hota hai."""
             image_position="left"
         )
 
-        text2 = """ """
+        text2 = """ 
+        Varaha ka Dhairya
+
+Hiranyaksha ne bahut kathor aur apmaan bhare shabd bole.
+Par Bhagwan Varaha ne pehle uski baat ko nazarandaaz kiya.
+
+Kyun?
+
+Kyuki unki pehli zimmedari thi dharti ko surakshit jagah par rakhna.
+
+Jaise ek hathi pehle apni saathi ko bachata hai,
+waise hi Varaha prithvi ko surakshit jagah par rakh kar bahar nikle.
+
+Phir unhone prithvi ko paani par sthir kar diya aur usme apni shakti daal di,
+taaki woh tik sake.
+
+Devta aur Brahma ji ne un par phool barsaye.
+
+Yuddh ki Shuruaat
+
+Ab Bhagwan Varaha ne Hiranyaksha ki taraf dekh kar halka sa vyangya kiya:
+
+“Tum jaise jangli praniyon se hi ladne ke liye main aaya hoon.
+Jo maut ke paas bandhe hote hain, wahi itna ghamand karte hain.”
+
+Ye sunkar Hiranyaksha aur gusse se bhar gaya.
+
+Usne apni bhari gada uthai aur zor se Varaha par hamla kiya.
+
+Bhayankar Gada-Yuddh
+
+Hiranyaksha ne gada se zor ka vaar kiya
+
+Varaha ne bahut asani se side hoke us vaar ko taal diya
+
+Phir Varaha ne bhi apni gada se us par prahar kiya
+
+Dono ek dusre par lagatar vaar karne lage
+
+Unke sharir se khoon nikalne laga.
+Gusse me dono aur bhayankar ho gaye.
+
+Unka yuddh bilkul do balwan saandon ki tarah lag raha tha jo ek hi gaay ke liye lad rahe hon.
+
+Brahma ji ka Aana
+
+Is maha-yuddh ko dekhne ke liye Brahma ji aur bahut se rishi wahan aa gaye.
+
+Brahma ji ne Bhagwan Varaha se kaha:
+
+“Ye bahut hi khatarnak asur hai.
+Isne devtaon, rishiyon aur nirbal jeevon ko bahut sataya hai.”
+
+“Isse halka mat lo.
+Bachche ki tarah isse khel mat samjho.
+Ye maya ka gyani aur bahut ghamandi hai.”
+
+Phir unhone chetavani di:
+
+“Abhi sandhya ka samay aane wala hai.
+Us samay ye aur bhi shaktishaali ho sakta hai.”
+
+“Isse jaldi maar do,
+taaki devtaon ka kalyan ho aur duniya me shanti wapas aaye.”
+
+Is Adhyay ka Arth
+
+Is part me teen baatein samajh aati hain:
+
+Bhagwan pehle dharma ka kaam karte hain, baad me yuddh.
+– Varaha ne pehle prithvi bachayi, phir asur se lade.
+
+Ghamand andha bana deta hai.
+– Hiranyaksha ko laga koi uska muqabla nahi kar sakta.
+
+Buraai ka anth nishchit hota hai.
+– Jab adharm badhta hai, tab Bhagwan swayam aate hain use rokne."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 19
     with st.expander("Chapter 19 - Varāha kills Hiraṇyākṣa"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 19 – Varaha dwara Hiranyaksha ka vadh (antim yuddh)
+
+Maitreya Rishi ne Vidura ko bataya ki Brahma ji ki baat sunkar Bhagwan Varaha muskuraye.
+Unhe kisi shubh muhurat ki zarurat nahi thi, kyunki samay swayam unka hi roop hai.
+Phir bhi, unhone prem se Brahma ki baat sweekar ki aur yuddh shuru hua."""
         create_image_text_layout(
             "attached_assets/chapter3/3.19.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+
+        text2 = """ 
+        Gada se yuddh
+
+Varaha ji ne seedha Hiranyaksha par hamla kiya aur apni gada se uske thodi (chin) par prahar kiya.
+Lekin ek ajeeb ghatna hui:
+
+Asur ne bhi zor ka prahar kiya
+
+Varaha ki gada unke haath se gir gayi
+
+Yeh dekhkar sab chakit ho gaye.
+
+Sabse chaukane wali baat:
+Hiranyaksha ne bina hathiyaar ke khade Bhagwan par vaar nahi kiya.
+Usne yuddh ke niyam ka samman kiya.
+
+Bhagwan ne uski is maryada ko saraha,
+lekin phir apna divya Sudarshan chakra yaad kiya.
+
+Yuddh aur tez ho gaya
+
+Ab Varaha chakra lekar khade the.
+Hiranyaksha gusse se kaamp raha tha.
+
+Usne zor se chillakar phir hamla kiya.
+Apni gada se Bhagwan par vaar kiya.
+
+Varaha ne asani se us vaar ko pair se hata diya
+
+Fir bole: “Apna hathiyaar uthao, phir se koshish karo”
+
+Par jab uski shakti kam padne lagi,
+to usne trishul uthaya aur Bhagwan ke seene par phenka.
+
+Varaha ne turant Sudarshan se us trishul ko tukde-tukde kar diya.
+
+Asur ki maya
+
+Ab Hiranyaksha ne kala jaadu (asuri maya) ka sahara liya.
+
+Achanak:
+
+Tez aandhiyaan chalne lagi
+
+Andhera chha gaya
+
+Patthar barasne lage
+
+Aasmaan se khoon, haddiyan, gandagi girne lagi
+
+Pahadon se hathiyaar girte dikhe
+
+Bhayanak rakshasiyan nazar aane lagi
+
+Sab log dar gaye.
+Aisa lagne laga jaise pralay aa gaya ho.
+
+Lekin Varaha ne Sudarshan chakra chala kar
+uski saari maya turant samaapt kar di.
+
+Antim pal
+
+Ab Hiranyaksha bilkul gusse me Bhagwan par jhapta
+aur unhe pakadne ki koshish ki.
+
+Par wo unhe pakad nahi paaya.
+
+Phir usne mukke se Bhagwan ke seene par prahar kiya.
+Varaha par iska koi asar nahi hua.
+
+Tab Bhagwan ne ek hi zor ka prahar kiya —
+apne haath se uske kaan ke neeche.
+
+Bas, wahi antim pal tha.
+
+Hiranyaksha:
+
+Jad se ukhaade hue bade ped ki tarah gir pada
+
+Uska sharir toot gaya
+
+Aankhen bahar aa gayin
+
+Haath-pair bikhar gaye
+
+Ek hi prahar me uska ant ho gaya.
+
+Asur ki antim sthiti
+
+Jab wo mar raha tha,
+uski nazar Bhagwan ke mukh par tik gayi.
+
+Yeh bahut gehri baat hai:
+
+Jo yogi saalon tak tapasya karke
+Bhagwan ka darshan chahte hain,
+Hiranyaksha ko wahi darshan mrityu ke samay mil gaya.
+
+Isliye rishiyon ne kaha:
+
+“Kitni mahaan mrityu hai ye!”
+
+Jaya–Vijaya ka rahasya
+
+Rishiyon ne bataya:
+
+Ye asur asal me Bhagwan ke dwarpal the
+(Jaya aur Vijaya).
+
+Shraap ke kaaran unhe asur roop me janam lena pada.
+Is janam me Hiranyaksha aur Hiranyakashipu bane.
+
+Kuch aur janmon ke baad wo phir Vaikunth laut jayenge.
+
+Devtaon ki stuti
+
+Devta bole:
+
+“Prabhu, aapne duniya ko bachaya.
+Ye asur sabko satata tha.
+Aaj hum aapke charnon me sharan paakar khush hain.”
+
+Bhagwan Varaha phir Vaikunth laut gaye.
+
+Is kahani ka phal
+
+Is adhyay ka bada mahatva bataya gaya:
+
+Jo vyakti:
+
+Is kahani ko sunta hai
+
+Ya sunata hai
+
+Ya isme bhakti se man lagata hai
+
+Uske:
+
+Paap kam hote hain
+
+Yash, dhan, aur ayu badhti hai
+
+Yuddh ya mushkil samay me raksha hoti hai
+
+Ant me Bhagwan Narayan ki prapti hoti hai
+
+Gehri samajh
+
+Ye poora prasang ek bada sandesh deta hai:
+
+Adharm kitna bhi shaktishaali ho, ant me dharm jeetta hai
+
+Bhagwan jab chahen, tab ek pal me sab badal sakte hain
+
+Ghamand ka anth nishchit hai
+
+Bhagwan ke shatru bhi ant me unhi tak pahunch jaate hain
+
+Yahi Varaha avatar ki mahaan leela ka samapan hai."""
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter 20
+    with st.expander("Chapter 20 - Various Creations of Brahmā"):
+        text1 = """ 
+        Chapter 20 – Brahma ji ki alag-alag srishti (Creation ki kahani)
+
+Shaunaka Rishi ne Suta se poocha,
+“Jab prithvi ko sthir kar diya gaya, tab Manu ne aage ki srishti kaise badhai?
+Aur Vidura ne Maitreya se kya-kya prashn kiye?”
+
+Suta ne shant mann se kahani shuru ki."""
+        create_image_text_layout(
+            "attached_assets/chapter3/3.20.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+
+        text2 = """ 
+        Vidura ka prashn
+
+Vidura Bhagwan ke bade bhakt the.
+Unhone Maitreya Rishi se poocha:
+
+“Brahma ji ne prajapatiyon ko paida karne ke baad
+is duniya ko aage kaise rachaa?
+Kya unhone apni patniyon ke saath milkar srishti banayi?
+Ya alag-alag banayi?”
+
+Maitreya ne dheere se samjhaya.
+
+Srishti ki shuruaat
+
+Sabse pehle prakriti se “Mahat tattva” nikla.
+Phir usse “ahankaar” bana.
+Usse dheere-dheere sab kuch bana:
+
+Panch tattva (jal, agni, vayu, aakash, prithvi)
+
+Indriyaan
+
+Devta jo unka niyantran karte hain
+
+Jab sab cheezein ek saath aayi,
+tab ek bada sona jaisa anda bana.
+Usme Bhagwan ki shakti pravesh hui.
+
+Phir us anda se ek kamal nikla.
+Us kamal par Brahma ji prakat hue.
+Unhone fir poori duniya ko dobara rachna shuru ki.
+
+Agyan ki rachna
+
+Sabse pehle Brahma ji ne agyan (ignorance) ke roop banaye.
+Ye andhera aur bhram failate the.
+
+Unhe ye pasand nahi aaya,
+to unhone apna wo roop chhod diya.
+
+Us roop ko Yaksh aur Rakshas ne apna liya.
+Unme bhook aur pyaas bahut zyada thi.
+
+Woh Brahma ji par hi toot pade.
+Brahma ji ghabra gaye aur bole:
+
+“Main tumhara hi pita hoon, mujhe mat khaao!”
+
+Din aur raat ka janm
+
+Phir Brahma ji ne roshni se devta banaye.
+Unhone din ko apna maana.
+
+Phir neeche ke hisse se kuch asur paida hue.
+Woh bahut bhog aur vasna se bhare the.
+Woh Brahma ji ke peeche pad gaye.
+
+Brahma ji darr kar Bhagwan Hari ke paas gaye
+aur unse madad maangi.
+
+Bhagwan ne kaha,
+“Apna ye sharir chhod do.”
+
+Jaise hi Brahma ji ne wo roop chhoda,
+wo “sandhya” yani shaam ka roop ban gaya.
+
+Asur use ek sundar stri samajh kar usme phans gaye.
+Aur Brahma ji wahan se bach nikle.
+
+Aur bhi prajatiyon ka janm
+
+Phir Brahma ji ne alag-alag roop se kai prajatiyan banayi:
+
+Gandharv aur Apsara – apni sundarta se
+
+Bhoot-pret – apni thakan se
+
+Nidra (sleep) – jab unhone aankhen band ki
+
+Pitru aur Sadhya – apni adhyatmik shakti se
+
+Siddh aur Vidyadhar – apni gupt shakti se
+
+Kinnar aur Kimpurush – apni pratibimb (reflection) se
+
+Yeh sab dheere-dheere duniya ko bharne lage.
+
+Saanp ka janm
+
+Ek baar Brahma ji ne gusse me ek roop chhod diya.
+Us roop ke baal zameen par gire
+aur unse saanp paida ho gaye.
+
+Kuch bade hood wale naag bane.
+Kuch tez aur bhayanak bane.
+
+Manu ka janm
+
+Akhir me Brahma ji ne apne mann se
+Manu ko paida kiya.
+
+Manu logon ki sankhya badhane wale the.
+Unhone Brahma ji ka roop apnaya
+aur dharm ke saath duniya ko basana shuru kiya.
+
+Sab prani khush ho gaye aur bole:
+
+“Brahma ji, aapne bahut achha kiya.
+Ab sab kuch sahi tarah se chal raha hai.”
+
+Rishiyon ki srishti
+
+Ant me Brahma ji ne rishiyon ko paida kiya.
+
+Unhe diya:
+
+Tapasya
+
+Gyaan
+
+Yog
+
+Dhyan
+
+Vairagya
+
+Ye rishi duniya ko sahi raasta dikhane ke liye bane.
+
+Is kahani ka arth
+
+Ye kahani batati hai:
+
+Srishti ek hi baar me nahi bani
+
+Dheere-dheere alag-alag roop me bani
+
+Har cheez ka apna kaam hai
+
+Roshni, andhera, din, raat, sab ek balance ka hissa hai
+
+Aur sabse bada sach:
+
+Sab kuch Bhagwan ki ichchha se hi chal raha hai."""
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 21
+    with st.expander("Chapter 21 - Kardama’s Penance—Viṣṇu’s Boon"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter3/3.21.jpg",
             text1,
             layout="side",
             image_position="left"
@@ -3044,3 +3652,170 @@ Jo bhi hota hai, Bhagwan ki badi yojna ka hissa hota hai."""
         text2 = """ """
         create_image_text_layout(text_content=text2, layout="full")
 
+
+    # Chapter 22
+    with st.expander("Chapter 22 - Marriage of Kardama and Devahūti"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter3/3.22.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 23
+    with st.expander("Chapter 23 - Married Life of Kardama and Devahūti"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter3/3.23.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 24
+    with st.expander("Chapter 24 - Kapila-Incarnation"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter3/3.24.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 25
+    with st.expander("Chapter 25 - Dialogue between Kapila and Devahūti: Importance of the Bhakti-yoga"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter3/3.25.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 26
+    with st.expander("Chapter 26 - Kapila’s description of Creation (Sāṃkhya Cosmology)"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter3/3.26.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 27
+    with st.expander("Chapter 27 - The Sāṃkhya Philosophy—Prakṛti and Puruṣa"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter3/3.27.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 28
+    with st.expander("Chapter 28 - Exposition of the Aṣṭāṅga-Yoga (the eightfold Path of Yoga)"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter3/3.28.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 29
+    with st.expander("Chapter 29 - The Path of Bhakti (Bhaktiyoga) and The Power of Time"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter3/3.29.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 30
+    with st.expander("Chapter 30 - Saṃsāra and Sufferings in Hell"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter3/3.30.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 31
+    with st.expander("Chapter 31 - Sufferings of the Jīva—The Rājasī Gati"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter3/3.31.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 32
+    with st.expander("Chapter 32 - Excellence of the Bhaktiyoga"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter3/3.32.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 33
+    with st.expander("Chapter 33 - Devahūti’s Enlightenment and Liberation"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter3/3.33.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")

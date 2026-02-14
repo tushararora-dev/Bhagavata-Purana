@@ -118,7 +118,7 @@ def display_home(chapter_names):
             st.markdown("🛠️ Working on it...")
 
     with col2:
-        st.markdown(" ## Introduction: Bhāgavata-Māhātmya (The Glory of Bhāgavata Purāṇa)")
+        st.markdown(" ## Introduction: Bhagavata-Mahatmya (The Glory of Bhagavata Purana)")
     with col3:
         st.markdown(
             '<a href="?chapter=0#top" target="_self" '
@@ -198,7 +198,7 @@ def display_home(chapter_names):
         
 def main():
     # Page configuration
-    st.set_page_config(page_title="Bhāgavata Purāṇa", page_icon="🕉️", layout="wide")
+    st.set_page_config(page_title="Bhagavata Purana", page_icon="🕉️", layout="wide")
 
 
 
@@ -315,7 +315,7 @@ def main():
     st.sidebar.image("Lord1.gif", use_container_width=True)
 
     chapter_names = {
-        0: "Introduction: Bhāgavata-Māhātmya (The Glory of Bhāgavata Purāṇa)",
+        0: "Introduction: Bhagavata-Mahatmya (The Glory of Bhagavata Purana)",
         1: "Book 1 – First Skandha",
         2: "Book 2 – Second Skandha",
         3: "Book 3 – Third Skandha",
@@ -408,7 +408,7 @@ def main():
     """, unsafe_allow_html=True)
 
 
-    st.title("Bhāgavata Purāṇa")
+    st.title("Bhagavata Purana")
     st.markdown("<div class='beth' >- Tushar Arora Edition<br><br></div>", unsafe_allow_html=True)
 
     # -----------------------
