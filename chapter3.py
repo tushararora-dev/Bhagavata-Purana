@@ -3641,7 +3641,13 @@ Sab kuch Bhagwan ki ichchha se hi chal raha hai."""
 
     # Chapter 21
     with st.expander("Chapter 21 - Kardama’s Penance—Viṣṇu’s Boon"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 21 – Kardama ki Tapasya aur Vishnu ka Vardan (Hinglish Kahani)
+
+Ek din Vidura ne Maitreya Rishi se pucha,
+“Hey Mahatma, mujhe Svayambhuva Manu ke vansh ke baare mein batao. Unke bachche kaise hue aur Kardama Rishi ne Devahuti se kitne santan paaye?”
+
+Maitreya muskuraaye aur kahani shuru ki."""
         create_image_text_layout(
             "attached_assets/chapter3/3.21.jpg",
             text1,
@@ -3649,13 +3655,163 @@ Sab kuch Bhagwan ki ichchha se hi chal raha hai."""
             image_position="left"
         )
 
-        text2 = """ """
+        text2 = """ 
+        Kardama ki kathin tapasya
+
+Brahma ji ne Kardama Rishi ko kaha tha,
+“Tum praja badhao. Sansar ko aage badhao.”
+
+Is aadesh ko maan kar Kardama Saraswati nadi ke kinare chale gaye.
+Wahan unhone 10,000 saal tak tapasya ki.
+
+Woh shant, dhyani aur bhakti se bhare hue the.
+Unka mann sirf Bhagwan Vishnu me laga rehta tha.
+
+Din-raat unhone ek hi prarthana ki:
+“Hey Prabhu, mujhe darshan do.”
+
+Vishnu ka divya darshan
+
+Ek din unki tapasya safal hui.
+
+Achanak aasman me tej prakash chha gaya.
+Kardama ne dekha — Bhagwan Vishnu saamne khade hain.
+
+Unka roop bahut sundar tha:
+
+Neel rang jaisa shant sharir
+
+Komal kamal jaisa chehra
+
+Sir par mukut
+
+Haath me shankh, chakra, gada aur kamal
+
+Garud par virajmaan
+
+Seene par Lakshmi ka chinh
+
+Unki muskaan dekh kar Kardama ka dil khushi se bhar gaya.
+
+Woh turant zameen par gir kar pranam karne lage.
+
+Kardama ki vinamra prarthana
+
+Kardama bole:
+
+“Hey Prabhu, aaj meri aankhon ka sachcha upyog ho gaya.
+Aapke darshan se hi jeevan safal ho gaya.
+
+Aapke charan samundar se paar karne wali naav jaise hain.
+Jo aapko pa leta hai, use sab kuch mil jata hai.”
+
+Phir unhone sharmate hue apni ichchha batayi:
+
+“Prabhu… mujhe ek patni chahiye.
+Aisi jo dharmik ho, shaant ho, aur ghar ko sambhale.
+Mujhe grihastha jeevan jeena hai aur apne kartavya nibhaane hain.”
+
+Vishnu ka pyara vachan
+
+Bhagwan Vishnu muskuraaye.
+
+Unhone kaha:
+
+“Kardama, tumhari tapasya kabhi bekaar nahi jaati.
+Mujhe tumhari ichchha pehle se pata thi.”
+
+Phir unhone bataya:
+
+“Do din baad Raja Manu yahan aayenge.”
+
+“Woh apni beti Devahuti ko tumse shaadi ke liye denge.”
+
+“Tum dono se 9 betiyan paida hongi.”
+
+“Unse rishi aur mahaan vansh aage badhega.”
+
+Phir Vishnu ne ek bada rahasya bataya:
+
+“Main khud tumhare ghar janam loonga.
+Tumhare putra ke roop me.
+Aur duniya ko sachchai ka gyaan sikhaunga.”
+
+(Kapil Dev ka janm isi ka sanket tha.)
+
+Kardama ka mann anand se bhar gaya.
+
+Vishnu ka antardhaan
+
+Vishnu ji ne ashirvad diya aur Garud par baithkar chale gaye.
+Kardama wahi khade unhe jaate dekhte rahe.
+
+Ab woh shanti se Manu ke aane ka intezar karne lage.
+
+Manu ka aagman
+
+Kuch din baad Raja Manu apni patni aur beti Devahuti ke saath rath me baith kar Kardama ke ashram pahunche.
+
+Ashram bahut sundar tha:
+
+Ped, phool aur phal har taraf the
+
+Pakshi madhur awaaz me ga rahe the
+
+Hiran, haathi aur mor aas paas ghoom rahe the
+
+Saraswati ka pavitra jal chamak raha tha
+
+Ye wahi jagah thi jahan Vishnu ki kripa ke aansu gir kar ek pavitra sarovar ban gaya tha — Bindusar.
+
+Kardama aur Manu ki mulaqat
+
+Manu ne Kardama ko dekha.
+
+Rishi ka sharir tapasya se tejomay tha.
+Unke baal jataon me the.
+Kapde saade the.
+Par unka chehra shanti se bhara tha.
+
+Kardama ne Raja ka satkaar kiya aur kaha:
+
+“Hey Rajan, aap dharti par Vishnu ke pratinidhi ho.
+Aap dharm ki raksha karte ho aur bure logon ko rokte ho.
+
+Agar raja apna kaam na kare,
+to duniya me paap badh jaata hai.”
+
+Phir pyaar se pucha:
+
+“Aap yahan kis kaam se aaye ho?
+Main aapki madad karne ko tayyar hoon.”
+
+Kahani ka saar
+
+Is adhyay ka message simple hai:
+
+Sachi tapasya kabhi bekaar nahi jaati.
+
+Bhagwan bhakti se khush hote hain.
+
+Jo sachcha mann se prarthana karta hai, uski ichchha poori hoti hai.
+
+Aur kabhi-kabhi, Bhagwan khud uske ghar janam lene ka vachan dete hain.
+
+Yahan se Devahuti aur Kardama ki shaadi ki kahani shuru hoti hai…
+Aur aage chal kar unke ghar Bhagwan Kapil ka janm hota hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 22
     with st.expander("Chapter 22 - Marriage of Kardama and Devahūti"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 22 – Kardama aur Devahuti ki Shaadi (Hinglish Kahani)
+
+Maitreya Rishi ne kahani aage badhayi.
+
+Raja Manu ne jab Kardama Rishi ki baatein suni, to woh thoda sharma gaye.
+Unhe apni beti ke liye achha jeevan saathi chahiye tha.
+Unhone dheere se apni baat rakhi."""
         create_image_text_layout(
             "attached_assets/chapter3/3.22.jpg",
             text1,
@@ -3663,13 +3819,129 @@ Sab kuch Bhagwan ki ichchha se hi chal raha hai."""
             image_position="left"
         )
 
-        text2 = """ """
+        text2 = """ 
+        Raja Manu ki vinamra prarthana
+
+Manu bole:
+
+“Hey Rishi, Brahma ji ne Brahmanon ko gyaan aur tapasya ke liye banaya.
+Aur hum Kshatriya log unki raksha ke liye bane hain.
+Hum ek dusre ka sahara hain.”
+
+Phir unhone pyaar se kaha:
+
+“Meri ek beti hai — Devahuti.
+Woh sundar hai, vinamra hai aur achhe gunon se bhari hai.
+Usne Narad ji se aapki mahanta ke baare mein suna hai.”
+
+Manu ne halka sa muskura kar kaha:
+
+“Usne mann hi mann aapko apna pati maan liya hai.
+Agar aap sweekar karein, to main uska haath aapko dena chahta hoon.”
+
+Unki awaaz me pyaar aur chinta dono the.
+Ek pita ka dil bol raha tha.
+
+Kardama ka jawab
+
+Kardama Rishi ne shant mann se jawab diya:
+
+“Rajan, main bhi shaadi karna chahta hoon.
+Aapki beti pavitra aur gunvaan hai.
+Main usse sweekar karta hoon.”
+
+Phir unhone ek baat aur kahi:
+
+“Main uske saath tab tak grihastha jeevan jeeyunga jab tak hume ek santan na ho jaye.
+Uske baad main fir se tapasya aur gyaan ke raaste par chalunga.”
+
+Devahuti yeh sab sun rahi thi.
+Kardama ki muskaan dekh kar uska dil shant ho gaya.
+Usne chup-chaap unhe apna pati maan liya.
+
+Shaadi ka pavitra samay
+
+Manu aur Rani Shatarupa bahut khush hue.
+Unhone apni pyari beti ki shaadi Kardama Rishi se kar di.
+
+Rani ne pyaar se beti ko:
+
+Sundar kapde
+
+Gehne
+
+Ghar ke upyogi saaman
+
+sab diya.
+
+Par shaadi ke baad jab vidai ka samay aaya,
+to Manu ka dil bhar aaya.
+
+Unhone Devahuti ko gale lagaya.
+Unki aankhon se aansu ruk nahi rahe the.
+
+“Hey beti… meri pyari bachchi…”
+Kehte hue unhone uske baal aansuon se bhigo diye.
+
+Yeh ek pita ka dard tha.
+Khushi bhi thi… aur judai ka dukh bhi.
+
+Manu ka wapas jana
+
+Vidai ke baad Manu aur Shatarupa rath me baith kar apne mahal laut gaye.
+Raaste me unhone Saraswati nadi ke kinare sundar ashram dekhe.
+Santo ka shaant jeevan dekh kar unka mann prasann ho gaya.
+
+Jab woh apne rajya pahunchhe,
+to logon ne gaane gaakar unka swagat kiya.
+
+Manu ne wahan dharm ke saath rajya chalaya.
+Roz subah woh Bhagwan Vishnu ki kahaniyan sunte the.
+Unka mann hamesha bhakti me laga rehta tha.
+
+Isi bhakti ki wajah se:
+
+Unhe dukh chhoo nahi paata tha
+
+Unka jeevan shant aur pavitra tha
+
+Kahani ka saar
+
+Is adhyay me hume 3 sundar baatein milti hain:
+
+Ek pita hamesha apni beti ke liye best chahta hai.
+
+Shaadi sirf rishta nahi, ek dharm aur zimmedari hai.
+
+Jo bhakti aur sachchai se jeeta hai, uska jeevan sukh se bhara hota hai.
+
+Ab kahani aage badhegi…
+Devahuti ke jeevan me kya hua, aur kaise unka bhagya chamka."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 23
     with st.expander("Chapter 23 - Married Life of Kardama and Devahūti"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 23 – Kardama aur Devahuti ka Grihastha Jeevan (Simple Hinglish Summary)
+
+Jab Devahuti ke maa-baap wapas chale gaye, tab usne apne pati Kardama Rishi ki seva poore prem aur shraddha se karni shuru ki — bilkul waise hi jaise Parvati ji Shiv ji ki seva karti hain.
+
+Devahuti ki seva aur tapasya
+
+Devahuti ne:
+
+Gussa, lalach, ahankar aur buri aadatein chhod di
+
+Apne mann aur sharir ko pavitra rakha
+
+Hamesha vinamrata se baat ki
+
+Pati ki seva mein khud ko samarpit kar diya
+
+Woh itni tapasya aur seva karti rahi ki uska sharir kamzor aur patla ho gaya.
+
+Kardama Rishi uski bhakti aur seva dekhkar bahut prabhavit hue."""
         create_image_text_layout(
             "attached_assets/chapter3/3.23.jpg",
             text1,
@@ -3677,13 +3949,124 @@ Sab kuch Bhagwan ki ichchha se hi chal raha hai."""
             image_position="left"
         )
 
-        text2 = """ """
+        text2 = """ 
+        Kardama ka vardaan
+
+Ek din Kardama ne prem se kaha:
+
+“Tumne apne sharir tak ki parwah nahi ki aur meri itni seva ki.
+Meri tapasya aur yog se jo bhi divya shakti aur sukh mila hai, us sab par tumhara bhi adhikaar hai.”
+
+Unhone Devahuti ko divya drishti dene ka vachan diya aur kaha ki ab woh swarg jaise sukh bhog sakti hai.
+
+Devahuti ki ichchha
+
+Devahuti ne sharmate hue kaha:
+
+“Hey prabhu, aap sab kuch kar sakte hain.
+Aapne vachan diya tha ki hume santan prapt hogi.
+Kripya uske liye ek sundar grih (mahal) bana dijiye.”
+
+Yog shakti se bana hawa mein udne wala mahal
+
+Kardama Rishi ne dhyaan lagaya aur apni yog shakti se ek adbhut vimaan-mahal bana diya:
+
+Jo mann ke hisaab se kahin bhi ja sakta tha
+
+Ratno se saja hua tha
+
+Sone, heere aur motiyon se chamakta tha
+
+Alag-alag kamre, bistar, baag aur manoranjan ke sthal the
+
+Har mausam mein sukh dene wala tha
+
+Woh kisi swarg se kam nahi tha.
+
+Devahuti ka roop parivartan
+
+Kardama ne kaha:
+“Pehle tum pavitra kund mein snaan karo.”
+
+Jab Devahuti ne snaan kiya, tab:
+
+Hazaar sundar dasiyan wahan mil gayin
+
+Unhone usse nahaya, sajaya aur naye kapde pehnaye
+
+Gehno se saja diya
+
+Aaine mein dekhkar Devahuti ne apne aap ko pehchaan hi nahi paayi.
+Woh phir se apne purane sundar roop mein aa gayi.
+
+Dono ka sukhmay jeevan
+
+Kardama aur Devahuti us vimaan mein baithkar:
+
+Meru parvat ke sundar sthalon par ghoome
+
+Swarg jaise bagichon mein rahe
+
+Bahut saalon tak sukh aur prem se jeevan bitaya
+
+Yog shakti ke kaaran unhe samay ka pata hi nahi chala.
+100 saal ek pal jaise beet gaye.
+
+Nau betiyon ka janm
+
+Kardama Rishi ne apni yog shakti se apne aap ko 9 roop mein baant diya.
+Iske baad Devahuti ne ek hi samay 9 sundar betiyon ko janm diya.
+
+Sab betiyan kamal ki sugandh jaisi pavitra aur sundar thi.
+
+Devahuti ka dar
+
+Devahuti ko mehsoos hua ki ab Kardama Rishi jaldi sanyas lene wale hain.
+Woh andar se dukhi ho gayi, par bahar se muskurakar boli:
+
+“Apne sab vachan poore kar diye.
+Par jab aap chale jaoge, to meri dekhbhaal kaun karega?
+Mujhe ek putra chahiye jo mujhe sahara de.”
+
+Phir usne ek gehri baat kahi:
+
+“Main indriya sukhon mein hi uljhi rahi aur aapki asli mahanta ko nahi samajh paayi.
+Aapke saath rehkar mujhe moksha ke baare mein sochna chahiye tha.”
+
+Usne samjha:
+
+Bure logon ka sang = dukh aur janm-mrityu ka chakra
+
+Achhe logon ka sang = vairagya aur mukti ka raasta
+
+Is adhyay ka saar
+
+Yeh chapter 3 main baatein sikhata hai:
+
+Sachi seva aur prem se divya kripa milti hai
+
+Yog aur tapasya se kuch bhi sambhav hai
+
+Sansarik sukh milne ke baad bhi antim lakshya moksha hi hota hai
+
+Aage ke chapter mein Devahuti ko ek aisa putra milta hai jo mahaan rishi banta hai — Kapil Muni."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 24
     with st.expander("Chapter 24 - Kapila-Incarnation"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 24 – Kapila Avatar (Hinglish Moral Story)
+
+Devahūti jab dukhi mann se boli,
+toh dayaalu Kardama Rishi ne Bhagwan Vishnu ke vachan yaad karke use shaant kiya.
+
+Rishi ka vachan
+
+Kardama ne pyar se kaha:
+“Hey nirdosh rajkumari,
+apne mann ko itna kasht mat do.
+Avinashi aur shashvat Prabhu khud tumhare garbh mein aane wale hain."""
         create_image_text_layout(
             "attached_assets/chapter3/3.24.jpg",
             text1,
@@ -3691,13 +4074,139 @@ Sab kuch Bhagwan ki ichchha se hi chal raha hai."""
             image_position="left"
         )
 
-        text2 = """ """
+        text2 = """ 
+        Tumne vrat rakhe hain, sanyam rakha hai,
+daan, tapasya aur shraddha se bhakti ki hai.
+Isi se prasann hokar Bhagwan Vishnu
+tumhare putra ke roop mein janm lenge.
+
+Woh tumhe Brahma-gyan denge
+aur tumhare hriday ka ahankar aur bandhan tod denge.”
+
+Devahūti ne apne pati ki baat poori shraddha se maan li
+aur apna jeevan Ishwar-bhakti mein laga diya.
+
+Kapila ka janm
+
+Kuch samay baad,
+bilkul waise hi jaise lakdi mein aag prakat hoti hai,
+waise hi Bhagwan Vishnu ne Kapila ke roop mein janm liya.
+
+Us din:
+
+Aakash mein badal garajne lage
+
+Devtaon ke vaady bajne lage
+
+Gandharv gaane lage
+
+Apsarayein nritya karne lagi
+
+Aakash se phool barasne lage
+
+Sab dishaayein shuddh ho gayi.
+Paani nirmal ho gaya.
+Logon ke mann shaant ho gaye.
+
+Brahma ji ka aagaman
+
+Bhagwan Brahma,
+Marichi jaise rishiyon ke saath aaye.
+
+Brahma ji ne kaha:
+“Hey Kardama,
+tumne meri aagya ka palan kiya.
+Yeh putra swayam Param Purush hai
+jo gyaan ke liye avatar lekar aaye hain.
+
+Yeh Kapila ke naam se prasiddh honge.
+Yeh Sankhya gyaan ka prachar karenge
+aur logon ko moksha ka raasta dikhayenge.”
+
+Kardama ka nivedan
+
+Sab betiyon ka vivaah mahan rishiyon se karwane ke baad,
+Kardama Rishi ne akele mein Kapila ke charanon mein pranam kiya aur kaha:
+
+“Prabhu,
+aapne mere ghar janm lekar
+mera har rin chuka diya.
+
+Ab main sansaar chhodkar
+aapka dhyaan karte hue van ki or jaana chahta hoon.”
+
+Bhagwan Kapila ka updesh
+
+Kapila bole:
+“Tum nishchint ho jao.
+Tumhara jeevan safal ho chuka hai.
+
+Is avatar ka uddeshya hi yahi hai
+ki main atma-gyan ka raasta phir se sthapit karoon.
+
+Tum apne karm mujhe samarpit karke
+bhay aur mrityu ke bandhan se mukt ho jaoge.
+
+Aur main apni maa Devahūti ko bhi
+aisa gyaan doonga
+jisse woh bhi sansaar ke dukh se paar ho jaayengi.”
+
+Kardama ka sanyas aur moksha
+
+Kapila ki aagya paakar,
+Kardama Rishi ne sab kuch chhod diya.
+
+Ghar
+
+Agni
+
+Bandhan
+
+Ahankar
+
+Woh van-van bhatak kar sirf Parmatma ka dhyaan karne lage.
+
+Unhone:
+
+Sukh-dukh ko samaan dekha
+
+Sab praniyon mein ek hi atma dekhi
+
+Apne aap ko Ishwar mein aur Ishwar ko apne aap mein dekha
+
+Ant mein,
+bhakti aur gyaan ke bal par
+Kardama Rishi ne moksha prapt ki.
+
+Is adhyay ka sandesh 🌱
+
+Sachi bhakti ka phal khud Bhagwan hote hain
+
+Gyaan aur vairagya se hi bandhan toot-te hain
+
+Achha sang moksha ki or le jaata hai
+
+Mata Devahūti aur Kapila ka sambandh maa aur guru dono ka hai
+
+Agle adhyay mein,
+Kapila apni maa Devahūti ko gyaan dete hain,
+jo bhakti aur Sankhya darshan ka saar hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 25
     with st.expander("Chapter 25 - Dialogue between Kapila and Devahūti: Importance of the Bhakti-yoga"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 25 – Kapila aur Devahūti ka Samvad (Bhakti-Yoga ki Mahima)
+
+Kardama Rishi van chale gaye the.
+Kapila apni maa Devahūti ke saath Bindusar mein rehne lage.
+Unka mann ek hi baat mein tha —
+apni maa ko sachcha gyaan dena.
+
+Devahūti ka dukh
+
+Ek din Devahūti ne pyar se kaha:"""
         create_image_text_layout(
             "attached_assets/chapter3/3.25.jpg",
             text1,
@@ -3705,13 +4214,158 @@ Sab kuch Bhagwan ki ichchha se hi chal raha hai."""
             image_position="left"
         )
 
-        text2 = """ """
+        text2 = """ 
+        “Mere beta,
+ab main indriyon ke sukh se thak chuki hoon.
+In sab ke peeche bhaagte-bhaagte
+main andhere mein kho gayi hoon.
+
+Bahut janmon ke baad
+mujhe tum mile ho.
+Tum meri aankhon ka sachcha ujala ho.
+
+Mujhe batao,
+kaise is moh-maya se bahar niklu?
+Kaise ‘main’ aur ‘mera’ ka jo jadoo hai
+woh toot sakta hai?”
+
+Unhone haath jodkar kaha:
+“Main tumhari sharan aayi hoon.
+Mujhe sachcha raasta dikhao.”
+
+Kapila muskura diye.
+Unhe apni maa ki sachchi ichchha dekh kar khushi hui.
+
+Kapila ka gyaan
+
+Kapila ne shant swar mein kaha:
+
+“Ma,
+jo Yoga atma ko pehchaan leta hai,
+wahi moksha ka raasta hai.
+
+Dukh aur sukh dono ka ant wahi karta hai.
+
+Sabse bada raaz ye hai:
+Mann hi bandhan hai, aur mann hi mukti.
+
+Jab mann indriyon ke peeche bhaagta hai → bandhan
+
+Jab mann Bhagwan mein lagta hai → mukti
+
+Jab mann se lobh, kaam aur ahankar nikal jata hai,
+tab woh shant ho jata hai.
+Tab insaan apni asli atma ko jaan leta hai.”
+
+Bhakti ka sabse bada raasta
+
+Kapila ne aage kaha:
+
+“Ma,
+Bhagwan ki bhakti se bada koi raasta nahi.
+
+Jo asakti duniya se hoti hai,
+woh jeev ko baandh leti hai.
+Par agar wahi asakti
+sant logon se ho jaye,
+toh wahi mukti ka darwaza ban jaati hai.”
+
+Unhone santon ke gun bataye:
+
+Woh dayaalu hote hain
+
+Sabke dost hote hain
+
+Kisi se dushmani nahi rakhte
+
+Shant aur pavitra hote hain
+
+Woh sirf Bhagwan ki baatein sunte aur sunate hain.
+Isse mann saaf hota hai
+aur dheere-dheere shraddha aur prem badhta hai.
+
+Bhakti se kya hota hai?
+
+Kapila bole:
+
+“Jab koi mere baare mein sunta, sochta aur yaad karta hai,
+toh uska mann dheere-dheere duniya ke sukh se door ho jata hai.
+
+Gyaan, vairagya aur bhakti se
+insaan mujhe isi jeevan mein paa sakta hai.”
+
+Devahūti ne phir pucha:
+“Kaunsi bhakti sabse achchi hai?
+Main kaise jaldi moksha paa sakti hoon?”
+
+Sachchi bhakti kya hai?
+
+Kapila ne kaha:
+
+“Jab mann bina kisi swarth ke
+sirf Bhagwan mein lag jaye,
+usse hi sachchi bhakti kehte hain.
+
+Yeh bhakti itni shaktishaali hoti hai
+ki yeh insaan ko moksha se bhi upar le jaati hai.”
+
+Unhone bataya:
+
+Kuch bhakt moksha bhi nahi maangte
+
+Unhe sirf Bhagwan ki seva mein khushi milti hai
+
+Woh ek-dusre ko Bhagwan ki kahaniyaan sunate hain
+
+Unka mann sada shant rehta hai
+
+Aise bhakt Bhagwan ke sabse kareeb hote hain.
+
+Bhagwan ka vaada
+
+Kapila bole:
+
+“Jo sab kuch chhodkar
+sirf mujhe apna lete hain,
+main unhe khud sansaar ke darr se paar le jata hoon.
+
+Hawa chalti hai,
+Suraj chamakta hai,
+Agni jalti hai,
+sab mere hi bhay se apna kaam karte hain.
+
+Isliye jo bhakti mein mann laga leta hai,
+uska mann shant ho jata hai
+aur wahi sabse bada sukh paata hai.”
+
+Is kahani ka saar 🌸
+
+Mann hi bandhan hai, mann hi mukti
+
+Duniya ki asakti dukh deti hai
+
+Santon ka sang jeevan badal deta hai
+
+Bhakti sabse aasan aur sabse bada raasta hai
+
+Jo Bhagwan ko sachche mann se yaad karta hai,
+uska jeevan shant ho jata hai
+
+Yeh adhyay sikhata hai:
+Prem aur bhakti se hi andhera door hota hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 26
     with st.expander("Chapter 26 - Kapila’s description of Creation (Sāṃkhya Cosmology)"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 26 – Srishti ka Rahasya (Kapila explains Creation – Sāṃkhya Cosmology)
+
+Kapila ne apni maa Devahūti ko dheere aur shant swar mein kaha:
+
+“Ab main tumhe batata hoon ki ye duniya kaise bani.
+Jo insaan is sach ko samajh leta hai,
+woh prakriti ke bandhan se free ho jata hai.”"""
         create_image_text_layout(
             "attached_assets/chapter3/3.26.jpg",
             text1,
@@ -3719,7 +4373,176 @@ Sab kuch Bhagwan ki ichchha se hi chal raha hai."""
             image_position="left"
         )
 
-        text2 = """ """
+        text2 = """ 
+        Puruṣa aur Prakriti ka raaz
+
+Kapila bole:
+
+Puruṣa = Atma, jo hamesha se hai, shuddh hai, aur sabko roshni deta hai.
+
+Prakriti = Nature, jisme teen gun hote hain — sattva, rajas, tamas.
+
+Jab atma prakriti se jud jaati hai,
+toh woh bhool jaati hai ki woh alag hai.
+Tab usse lagta hai:
+“Main hi sab kuch kar raha hoon.”
+
+Par asal mein:
+
+Kaam prakriti karti hai
+
+Atma sirf dekhne wali hai
+
+Isi bhool ki wajah se
+janam-mrityu ka chakra chalta rehta hai.
+
+24 tattvon ka gyaan
+
+Kapila ne samjhaya:
+
+Is duniya ki rachna 24 tattvon se hui hai.
+
+5 mahabhoot (elements):
+
+Prithvi (earth)
+
+Jal (water)
+
+Agni (fire)
+
+Vayu (air)
+
+Aakash (space)
+
+5 subtle gun (tanmatra):
+
+Sound
+
+Touch
+
+Form
+
+Taste
+
+Smell
+
+10 indriyaan:
+
+5 gyaan indriyaan (ear, skin, eye, tongue, nose)
+
+5 karm indriyaan (speech, hands, feet, organ of creation, organ of excretion)
+
+4 antar ke tattva:
+
+Mann (mind)
+
+Buddhi (intelligence)
+
+Ahamkar (ego)
+
+Chitta (memory/awareness)
+
+Aur ek aur shakti hoti hai — Time (Kaal).
+Woh sabko chalata hai.
+
+Creation ka shuruaat kaise hui
+
+Kapila ne kaha:
+
+Shuru mein sab kuch shant tha.
+Prakriti ke teen gun balance mein the.
+
+Phir Time ne unhe hila diya.
+Tab sabse pehle ek bada tattva bana — Mahat
+(ye hi intelligence ka beej hai).
+
+Mahat se paida hua — Ahamkar (ego)
+Aur ego teen tarah ka hota hai:
+
+Sattvik → Mann bana
+
+Rajasic → Indriyaan bani
+
+Tamasic → Elements bane
+
+Phir dheere-dheere sab kuch bana:
+
+Sound se → Aakash
+
+Aakash se → Vayu
+
+Vayu se → Agni
+
+Agni se → Jal
+
+Jal se → Prithvi
+
+Aur inhi se pura sansar bana.
+
+Virat Purush ka janm
+
+Kapila ne bataya:
+
+Jab sab tattva alag-alag the,
+tab bhi duniya nahi bani.
+
+Tab Bhagwan ne un sab mein pravesh kiya.
+Tab ek bada cosmic roop bana — Virat Purush.
+
+Uske sharir se sab kuch nikla:
+
+Mouth → Speech
+
+Nose → Smell
+
+Eyes → Sun aur vision
+
+Ears → Directions
+
+Skin → Plants aur hair
+
+Heart → Mind
+
+Mind → Moon
+
+Buddhi → Brahma
+
+Par phir bhi woh jeevit nahi hua.
+
+Jab tak Atma (Kshetrajna)
+uske andar nahi aayi,
+tab tak woh nahi utha.
+
+Jaisi body bina soul ke nahi chalti,
+waise hi creation bhi bina atma ke nahi chalti.
+
+Sabse important baat
+
+Kapila ne ant mein kaha:
+
+“Insaan ko samajhna chahiye ki
+woh sirf body ya mind nahi hai.
+Woh atma hai.
+
+Jab bhakti, gyaan aur yoga se
+mann shant ho jata hai,
+tab insaan apne andar
+us atma ko dekh sakta hai.”
+
+Is kahani ka saar 🌿
+
+Atma alag hai, prakriti alag hai
+
+Ego hi sabse bada dhokha hai
+
+Creation dheere-dheere tattvon se bani
+
+Body tab tak bekaar hai jab tak atma na ho
+
+Bhakti aur gyaan se insaan apni asli pehchaan paata hai
+
+Yeh adhyay hume sikhata hai:
+“Tum sirf shareer nahi ho. Tum ek roshni ho jo sabke andar hai.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
