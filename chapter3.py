@@ -4548,7 +4548,16 @@ Yeh adhyay hume sikhata hai:
 
     # Chapter 27
     with st.expander("Chapter 27 - The Sāṃkhya Philosophy—Prakṛti and Puruṣa"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 27 — Hinglish Story (Simple Moral Style)
+The Sāṃkhya Philosophy — Prakṛti and Puruṣa
+
+Ek din, Bhagwan ne bahut shant swar mein samjhaya.
+
+Unhone kaha,
+"Atma (Puruṣa) sharir mein rehti hai, lekin us par sharir ke sukh-dukh ka asar nahi padta. Bilkul us Suraj ki tarah jo paani mein dikhai deta hai, par paani ki lehron se badalta nahi."
+
+Yeh baat bahut gehri thi."""
         create_image_text_layout(
             "attached_assets/chapter3/3.27.jpg",
             text1,
@@ -4556,13 +4565,151 @@ Yeh adhyay hume sikhata hai:
             image_position="left"
         )
 
-        text2 = """ """
+        text2 = """ 
+        Bhagwan ne aage kaha,
+"Jab jeev Prakriti ke gunon se chipak jata hai, tab ahankaar paida hota hai. Phir woh sochta hai — ‘Main hi karta hoon.’"
+
+Isi galat soch se problem shuru hoti hai.
+
+Ahankaar ke kaaran,
+
+jeev apni asli azadi bhool jata hai
+
+karmon ke jaal mein phans jata hai
+
+kabhi devta, kabhi manushya, kabhi neeche janm leta hai
+
+Yeh hi sansar ka chakra hai.
+
+Bhagwan ne samjhaya,
+"Asal mein Atma kuch karti hi nahi. Isliye us par karm ka bandhan sach mein hota hi nahi."
+
+Par phir bhi problem kyun?
+
+"Kyuki jab tak mann baar-baar indriyon ke vishayon ko sochta rahega, tab tak sansar khatam nahi hoga — bilkul sapne ki tarah. Sapna jhootha hota hai, par jab tak aadmi sota hai, dukh sach lagta hai."
+
+Pandit log chup-chaap sun rahe the.
+
+Bhagwan ne upay bataya:
+
+"Isliye mann ko dheere-dheere control karo. Bhakti yoga aur vairagya se use sambhalo."
+
+Phir unhone bataya ki kaun sa vyakti sachcha yogi hota hai.
+
+Woh vyakti:
+
+niyam aur sanyam follow karta hai
+
+Bhagwan se sachcha prem karta hai
+
+sab jeevon ko samaan dekhta hai
+
+kisi se dvesh nahi karta
+
+santosh mein rehta hai
+
+akela rehkar dhyaan karta hai
+
+‘mera–tera’ ka ahankaar chhod deta hai
+
+Prakriti aur Puruṣa ka sach jaan leta hai
+
+Aisa gyani vyakti apne andar Atma ko dekh leta hai — bilkul aankh se Suraj dekhne jaise.
+
+Aur phir…
+
+Woh Param Brahma ko paa leta hai.
+
+Bhagwan ne ek aur udaharan diya:
+
+"Jaise pehle hum paani mein Suraj ka reflection dekhte hain, phir asli Suraj ko samajhte hain — waise hi ahankaar ke reflection se asli Atma ko pehchana ja sakta hai."
+
+Yeh sun kar sabko thodi clarity mili.
+
+Phir Bhagwan ne neend ka raaz bataya.
+
+"Jab insaan sota hai, tab sharir, indriyan, mann — sab Prakriti mein chup ho jaate hain. Par ek cheez jaagti rehti hai…"
+
+👉 Woh hai Atma.
+
+Lekin ahankaar ke kaaran jeev sochta hai —
+"Main kho gaya hoon."
+
+Bilkul us aadmi ki tarah jo dhan kho kar dukhi ho jata hai.
+
+Bhagwan bole,
+"Jo vyakti gehra soch-vichar karta hai, woh samajh leta hai ki Atma hi sabka prakashak hai."
+
+Devahuti ka Prashna
+
+Tab Devahuti ne vinamrata se poocha:
+
+"Prabhu, Prakriti aur Puruṣa dono anadi hain aur ek doosre se jude lagte hain — jaise mitti aur uski khushboo, ya paani aur uska swaad."
+
+"Toh phir mukti kaise milegi? Jab tak Prakriti ke gun hain, bandhan kaise khatam hoga?"
+
+Unka prashna bahut gehra tha.
+
+Bhagwan ne dhairya se jawab diya.
+
+Unhone kaha:
+
+"Sirf soch lene se darr thodi der ke liye kam hota hai. Par jab tak uska kaaran — Prakriti ke gun — kamzor nahi hote, tab tak darr wapas aa jata hai."
+
+Phir unhone mukti ka seedha raasta bataya:
+
+bina phal ki ichha ke apna kartavya karo
+
+mann ko shuddh rakho
+
+lambe samay tak Hari ki katha suno
+
+sachcha gyaan pao
+
+duniya se gehra vairagya lao
+
+yoga aur tapasya karo
+
+Atma par gehra dhyaan karo
+
+"Dheere-dheere Prakriti ki pakad jalti hui lakdi ki tarah khatam ho jaati hai — isi janm mein."
+
+Bhagwan ne ek sundar baat kahi:
+
+"Jo jag gaya hai, use sapna dara nahi sakta."
+
+"Waise hi, jo Atma ko jaan leta hai aur mujh mein mann lagata hai, use Prakriti nuksan nahi pahucha sakti."
+
+Phir Bhagwan bole,
+
+"Bahut janmon ke baad jab yogi sab jagah se virakt ho jata hai aur mera bhakt ban jata hai, tab meri kripa se woh apni asli avastha — Kaivalya — ko paa leta hai."
+
+Yeh antim shanti ki avastha hai.
+
+Wahan se wapas sansar mein nahi aana padta.
+
+Ant mein Bhagwan ne kaha,
+
+"Hey mata, jab siddha purush yog ki shaktiyon mein bhi asakt nahi hota, tab woh meri param avastha ko paa leta hai — jahan maut bhi us par haavi nahi ho sakti."
+
+Sab jagah gehri shanti chha gayi.
+
+Moral:
+Jab ahankaar chhoot jata hai aur bhakti jagti hai, tab jeev apni asli azadi ko paa leta hai. ✨"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 28
     with st.expander("Chapter 28 - Exposition of the Aṣṭāṅga-Yoga (the eightfold Path of Yoga)"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 28 — Hinglish Story (Simple Moral Style)
+Exposition of the Aṣṭāṅga Yoga
+
+Bhagwan ne pyaar se kaha,
+
+"Hey rajkumari, ab main tumhe Yoga ka woh raasta bataunga jisse mann shaant aur pavitra ho jata hai. Isi raaste se jeev Brahman tak pahunchta hai."
+
+Sab dhyaan se sunne lage."""
         create_image_text_layout(
             "attached_assets/chapter3/3.28.jpg",
             text1,
@@ -4570,13 +4717,211 @@ Yeh adhyay hume sikhata hai:
             image_position="left"
         )
 
-        text2 = """ """
+        text2 = """ 
+        Bhagwan bole,
+
+"Sabse pehle, insaan ko apna kartavya apni shakti ke hisaab se karna chahiye. Adharm se door rehna chahiye. Jo Bhagwan ki kripa se mile, usmein santosh rakhna chahiye."
+
+"Aur jo log Atma ko jaan chuke hain, unke charanon ki seva karni chahiye."
+
+Phir Bhagwan ne kuch zaroori niyam bataye:
+
+Dharma, artha aur kaam mein zyada na uljho
+
+Moksha dene wale karm karo
+
+Saaf aur saatvik bhojan kam matra mein lo
+
+Shaant aur surakshit jagah par raho
+
+Yeh sab mann ko taiyaar karta hai.
+
+Bhagwan ne Ashtanga Yoga ke gun bataye:
+
+ahimsa (hinsa na karna)
+
+satya (sach bolna)
+
+asteya (chori na karna)
+
+aparigraha (sirf zaroorat bhar lena)
+
+brahmacharya (indriya sanyam)
+
+tapas (sanyam aur mehnat)
+
+shauch (shuddhata)
+
+shastra adhyayan
+
+Bhagwan ki pooja
+
+Yeh sab yogi ki buniyad hain.
+
+Bhagwan bole,
+
+"Chup rehna seekho. Seedha aur sthir baithna seekho. Dheere-dheere saans ko control karo. Phir indriyon ko bahar se hata kar mann mein le aao."
+
+Yeh hi pratyahara hai.
+
+"Phir mann aur saans ko ek bindu par lagao. Mere leelaon ka dhyaan karo. Mann ko baar-baar Bhagwan par tikao."
+
+Agar mann bhatak jaye to?
+
+Bhagwan ne kaha,
+"Use pyaar se wapas lao. Baar-baar."
+
+🧘 Baithne ka tareeka
+
+Bhagwan ne step-by-step samjhaya:
+
+saaf pavitra jagah par baitho
+
+shareer seedha rakho
+
+aaraam se baitho
+
+saans ko andar lo, roko, bahar chhodo — dhang se
+
+Isse mann shaant ho jata hai.
+
+Jaise…
+
+👉 hawa aur aag se sona pighal kar saaf ho jata hai,
+waise hi pranayama se mann saaf ho jata hai.
+
+Bhagwan bole,
+
+"Pranayama se sharir ki ashuddhi jalti hai. Dharana se paap kam hote hain. Pratyahara se indriya-vasana kam hoti hai. Dhyaan se andar ki buraiyan mit jaati hain."
+
+Jab mann bilkul shaant ho jaye…
+
+Tab kya karein?
+
+🌟 Bhagwan ka Dhyaan
+
+Bhagwan ne kaha,
+
+"Ab meri sundar murti ka dhyaan karo — aankhen naak ke aage tikakar."
+
+Unhone bahut pyar se apna roop bataya:
+
+kamal jaisa komal mukh
+
+neeli kamal jaisi deh
+
+haath mein shankh, chakra aur gada
+
+peele resham ke vastra
+
+seene par Shrivatsa ka chinh
+
+gale mein chamakta Kaustubha mani
+
+vanamala se saja hua roop
+
+mukut, kundal, kangan se alankrit
+
+"Main hamesha apne bhakton par kripa barsata hoon."
+
+Bhagwan ne dhyaan ka secret bataya:
+
+"Pehle mere poore roop ka dhyaan karo. Phir dheere-dheere ang-ang par mann tikao."
+
+👣 Charanon ka Dhyaan
+
+"Sabse pehle mere kamal jaisa charan dekho — jinke nakhon ki chamak andhkaar mita deti hai."
+
+"Unhi charanon ko dhote hue Ganga nikli thi. Shiv ji ne use apne sir par dharan kiya."
+
+Yeh sunkar sabka mann bhavuk ho gaya.
+
+Bhagwan ne aage bataya:
+
+mere ghutne — jinhe Lakshmi seva karti hain
+
+meri janghein — Garuda ke kandhe par tikti hain
+
+meri naabhi — jahan se Brahma ka kamal nikla
+
+mera vaksha — jahan Mahalakshmi rehti hain
+
+meri baahen — jo sabki raksha karti hain
+
+mera Sudarshan chakra
+
+mera shankh
+
+meri gada Kaumodaki
+
+Aur phir…
+
+"Mera muskurata hua mukh dhyaan karo."
+
+Bhagwan bole,
+
+"Jo bhakt prem se mera dhyaan karta hai, uska dil pighal jata hai. Uske rom khade ho jate hain. Aankhon se khushi ke aansu behne lagte hain."
+
+Yeh bhakti ka anand hai.
+
+Phir sabse gehri baat aayi.
+
+"Jab mann poori tarah indriyon se alag ho jata hai, tab woh Brahman mein vilin ho jata hai — bilkul tel khatam hone par diye ki jyoti jaise."
+
+Us samay yogi seedhe apni Atma ko dekh leta hai.
+
+Bhagwan bole,
+
+"Tab yogi sukh-dukh se pare ho jata hai. Woh samajh leta hai ki dard aur sukh ka karta ahankaar hai — Atma nahi."
+
+Ek sundar udaharan diya gaya:
+
+"Jaise sharabi ko apne kapde ka hosh nahi rehta, waise hi siddh yogi ko shareer ki chinta nahi rehti."
+
+Woh apne asli roop mein sthit ho jata hai.
+
+Bhagwan ne ant mein kaha,
+
+"Jab tak purane karm chal rahe hain, tab tak shareer chalta rahega. Par jo yogi samadhi paa leta hai, woh phir shareer ko apna nahi maanta — bilkul sapne ki tarah."
+
+"Jaise beta aur dhan tumse alag hain, waise hi Atma shareer se alag hai."
+
+Sabse antim satya:
+
+"Atma sab mein ek hi hai. Shareer ke hisaab se alag-alag dikhti hai — bilkul alag-alag lakdi mein ek hi aag jaise."
+
+Bhagwan ne shaant swar mein samapt kiya:
+
+"Jo meri is adbhut Prakriti ko jeet leta hai, woh apne asli, shuddh roop mein sthit ho jata hai."
+
+Sab jagah gehri shanti chha gayi.
+
+Moral:
+Jab mann niyantrit, bhakti gehri, aur drishti andar ki taraf ho — tab yogi apni asli pehchaan paa leta hai. ✨"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 29
     with st.expander("Chapter 29 - The Path of Bhakti (Bhaktiyoga) and The Power of Time"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 29 — Hinglish Story (Simple Moral Style)
+The Path of Bhakti and the Power of Time
+
+🌸 Devahuti ka Prashna
+
+Devahuti ne vinamrata se kaha,
+
+"Prabhu, aapne Prakriti aur Purusha ka sach bahut achhe se samjhaya. Kaha jata hai ki isi se Bhakti Yoga ka janm hota hai. Kripya mujhe Bhakti ka raasta detail mein batayein."
+
+Phir unhone ek aur gehra prashna poocha:
+
+"Hey Kapila, mujhe janmon ke prakar bhi batayein — jisse sun kar insaan duniya se asakti chhod de."
+
+Aur phir boli:
+
+"Mujhe Time (Kaal) ki shakti bhi samjhaiye. Log uske dar se hi achhe karm karte hain."
+
+Unki baat bahut sacchi thi."""
         create_image_text_layout(
             "attached_assets/chapter3/3.29.jpg",
             text1,
@@ -4584,13 +4929,213 @@ Yeh adhyay hume sikhata hai:
             image_position="left"
         )
 
-        text2 = """ """
+        text2 = """ 
+        🌿 Maitreya ka Varnan
+
+Maitreya ne kaha,
+
+"Kapila muni ne apni maa ki sundar baat sun kar bahut khushi mehsoos ki. Dayalu hokar unhone jawab diya."
+
+🌼 Bhagwan ka Uttar — Bhakti ke Prakar
+
+Bhagwan ne pyaar se kaha,
+
+"Hey maa, Bhakti ke kai roop hote hain. Kyunki logon ki soch aur swabhav alag-alag hote hain."
+
+⚫ Tāmasik Bhakti
+
+"Jo vyakti dusron ko nuksan pahunchane ki soch se, dikhave se, jalan se, ya gusse mein meri bhakti karta hai — woh tāmasik bhakt hai."
+
+👉 Ismein andhkaar zyada hota hai.
+
+🔴 Rājasik Bhakti
+
+"Jo vyakti sukh, fame, ya power paane ke liye meri pooja karta hai — woh rājasic bhakt hai."
+
+👉 Ismein ichchha zyada hoti hai.
+
+⚪ Sāttvik Bhakti
+
+"Jo vyakti apne karm shuddh karne ke liye ya bina phal ki ichchha ke meri pooja karta hai — woh sāttvik bhakt hai."
+
+👉 Yeh zyada pavitra hota hai.
+
+✨ Nirguṇa Bhakti — Sabse Uchch
+
+Phir Bhagwan ne sabse unchi bhakti batayi.
+
+"Jaise Ganga ka paani bina rukke samundar ki taraf behta hai, waise hi jo mann mere gun sunte hi meri taraf behne lage — wahi nirguṇa bhakti hai."
+
+"Is bhakti mein koi swarth nahi hota."
+
+Bhagwan ne ek adbhut baat kahi:
+
+"Aise bhakt ko agar main moksha ke sab roop bhi doon —"
+
+mere lok mein rehna
+
+mere jaisa vaibhav
+
+mere paas rehna
+
+mera roop paana
+
+mujh mein ek ho jana
+
+"— tab bhi woh kuch nahi chahte. Unhe sirf meri seva chahiye."
+
+Yeh sun kar Devahuti ka hriday pighal gaya.
+
+🌺 Shuddh Bhakti ka Raasta
+
+Bhagwan ne bataya ki mann kaise pavitra hota hai:
+
+nishkaam karm karo
+
+bina kisi ko dukh diye pooja karo
+
+meri murti ka darshan karo
+
+mujhe sparsh, pranam, stuti karo
+
+sab jeevon mein mujhe dekho
+
+dhairya rakho
+
+asakti chhodo
+
+dukhiyon par daya karo
+
+sabse mitrata rakho
+
+satsang karo
+
+ahankaar chhodo
+
+"Jaise hi aisa bhakt mere gun sunta hai, uska mann turant meri taraf khinch jata hai."
+
+⚠️ Ek Bahut Important Warning
+
+Bhagwan ki awaaz thodi gambhir ho gayi.
+
+"Main har jeev ke andar Atma roop mein rehta hoon."
+
+"Jo mujhe sab jeevon mein na dekhkar sirf murti ki pooja karta hai — uski pooja adhuri hai."
+
+Unhone ek tez udaharan diya:
+
+"Yeh bilkul aisa hai jaise koi aag ki jagah raakh mein ahuti de."
+
+Sab chup ho gaye.
+
+Bhagwan bole,
+
+"Jo vyakti dusron se dvesh karta hai aur mujhe alag-alag shariron mein alag samajhta hai — uska mann kabhi shaant nahi hota."
+
+"Main usse prasann nahi hota jo sab jeevon ka apmaan karta hai."
+
+🌍 Sab Mein Bhagwan
+
+Bhagwan ne kaha,
+
+"Jab tak insaan sab jeevon mein mujhe mehsoos na kare, tab tak use murti pooja karni chahiye."
+
+"Par jo mujh mein aur apne mein bhed dekhta hai — uske liye main Mrityu roop mein bhay paida karta hoon."
+
+Is baat ne sabko hila diya.
+
+📈 Jeevon ki Unnati ki Seedhi
+
+Bhagwan ne jeevon ki ek seedhi samjhayi — kaun kis se uchch hai.
+
+Seedhi dheere-dheere upar badhti hai:
+
+jad padarth se jeev
+
+jeev se praan wale
+
+praan walon se mann wale
+
+mann walon se indriya wale
+
+phir taste, smell, hearing, sight…
+
+phir do pair wale
+
+phir chaar varna
+
+phir brahman
+
+phir ved jaane wale
+
+phir ved samajhne wale
+
+phir shanka door karne wale
+
+phir nishkaam karm karne wale
+
+Aur sabse upar kaun?
+
+👉 Woh jo sab kuch mujhe samarpit kar de aur sabko samaan dekhe.
+
+Bhagwan bole:
+
+"Mujhe usse bada koi nahi lagta."
+
+⏳ Time (Kaal) ki Mahashakti
+
+Ab Bhagwan ne Time ka raaz khola.
+
+"Yeh mera hi roop hai."
+
+"Isi se sabka janm aur vinash hota hai."
+
+Unki awaaz gambhir ho gayi.
+
+"Time ke dar se:"
+
+hawa chalti hai
+
+Suraj chamakta hai
+
+Indra varsha karta hai
+
+grah chamakte hain
+
+ped phal dete hain
+
+nadiyan behti hain
+
+samundar seema mein rehta hai
+
+agni jalti hai
+
+devta apna kaam karte hain
+
+Sab kuch Time ke niyam se chal raha hai.
+
+Ant mein Bhagwan bole,
+
+"Time anant hai — par sabka ant karta hai. Uska koi shuru nahi — par sabki shuruat usse hoti hai."
+
+Gehri shanti chha gayi.
+
+Moral:
+Jo sab mein Bhagwan ko dekhta hai aur nishkaam prem karta hai — wahi sachchi bhakti aur sachchi mukti paata hai. ✨"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 30
     with st.expander("Chapter 30 - Saṃsāra and Sufferings in Hell"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 30 — Hinglish Story (Simple Moral Style)
+Saṃsāra aur Narak ki Peeda
+
+Kapila Bhagwan ne gambhir swar mein kaha,
+
+"Jaise badalon ko tez hawa ki taakat ka pata nahi hota — chahe hawa unhe uda hi kyon na de — waise hi log Time (Kaal) ki shakti ko nahi samajhte, jabki sab uske adheen hain."
+
+Yeh baat sun kar sab chup ho gaye."""
         create_image_text_layout(
             "attached_assets/chapter3/3.30.jpg",
             text1,
@@ -4598,13 +5143,249 @@ Yeh adhyay hume sikhata hai:
             image_position="left"
         )
 
-        text2 = """ """
+        text2 = """ 
+        Bhagwan bole,
+
+"Insaan bahut mehnat se sukh ki cheezein jodta hai. Par samay aate hi sab chhin jata hai — aur phir woh rohta hai."
+
+Kyun?
+
+"Kyunki moorkh vyakti is nashwar sharir aur uske sambandhon ko permanent samajh leta hai — ghar, paisa, zameen, parivaar… sab kuch."
+
+🔄 Janm ka Moh
+
+Bhagwan ne kaha,
+
+"Jeev jis bhi janm mein paida hota hai, use wahi achha lagta hai. Use kabhi us se virakti nahi hoti."
+
+Yeh Maya ka jaal hai.
+
+"Itna bhram ho jata hai ki agar jeev narak mein bhi ho — tab bhi apna narak ka sharir chhodna nahi chahta."
+
+Socho… kitna gehra moh hai.
+
+🏠 Grihastha ka Jaal
+
+Bhagwan ne aage bataya,
+
+"Vyakti ka dil chipak jata hai —"
+
+sharir se
+
+patni se
+
+bachchon se
+
+ghar se
+
+dhan se
+
+rishtedaron se
+
+"Phir woh sochta hai — ‘Main bahut bada aur khush hoon.’"
+
+Par andar kya hota hai?
+
+👉 Chinta ki aag jal rahi hoti hai.
+
+Un sabko paalne ke liye…
+
+"Woh paap karta rehta hai."
+
+Bhagwan ne ek dukhad tasveer dikhayi.
+
+"Uska mann indriyon ke jaal mein phans jata hai — chanchal striyon ke akarshan mein, bachchon ki meethi baaton mein."
+
+"Woh galat tareeke se paisa kamata hai aur ghar chalata hai — aur isi ko sukh samajhta hai."
+
+Par sach kya hai?
+
+👉 Yeh dukh ka ghar hai.
+
+💔 Jab Paisa Saath Chhod De
+
+Bhagwan bole,
+
+"Jab baar-baar koshish ke baad bhi uski kamai band ho jati hai, tab lobh use pakad leta hai."
+
+"Woh kamzor ho kar dusron ki cheezon par nazar daalne lagta hai."
+
+Phir…
+
+gareebi
+
+beizzati
+
+chinta
+
+gehra dukh
+
+Sab uske paas aa jate hain.
+
+👴 Budhape ki Karuna
+
+Bhagwan ne bahut karuna se kaha,
+
+"Jaise kisaan buddhe bail ko chhod dete hain, waise hi uski patni aur apne log use izzat dena band kar dete hain."
+
+"Ab woh kamane layak nahi raha."
+
+Phir bhi…
+
+👉 uska moh nahi chhoot ta.
+
+Ab uski halat:
+
+budhapa
+
+bimari
+
+bhook kam
+
+chalna dheere
+
+dusron par nirbhar
+
+"Jo kabhi sabko khilata tha — ab ghar mein kutte ki tarah pada rehta hai, jo pheka hua khana khata hai."
+
+Yeh sunkar dil bhar aata hai.
+
+⚰️ Mrityu ka Samay
+
+Bhagwan ne kaha,
+
+"Jab praan nikalne lagte hain —"
+
+aankhen bahar aa jati hain
+
+gale mein balgam atak jata hai
+
+saans ruk-ruk kar chalti hai
+
+gala se ajeeb awaaz aati hai
+
+Woh apne rote hue rishtedaron se ghira hota hai…
+
+Par kuch bol nahi pata.
+
+Aur phir…
+
+👉 woh mar jata hai.
+
+👹 Yamadut ka Darshan
+
+"Mrityu ke baad," Bhagwan bole,
+
+"woh do bhayanak Yamadut ko dekhta hai — laal aankhon wale."
+
+Dar ke maare…
+
+👉 uska sharir control kho deta hai.
+
+Yamadut use pakad lete hain.
+
+🔗 Bhayanak Yatra
+
+"Us jiva ko ek dukh bhara sharir dekar, gale mein phanda daal kar ghaseeta jata hai — bilkul apradhi ki tarah."
+
+Raaste mein:
+
+narak ke kutte kaatte hain
+
+bhookh aur pyaas satati hai
+
+garam ret jalaati hai
+
+tez dhoop jalaati hai
+
+garam hawa maarti hai
+
+peeth par chabuk padte hain
+
+Kabhi woh behosh hota hai… phir uthaya jata hai.
+
+Yeh raasta bahut lamba hai.
+
+🔥 Narak ki Peeda
+
+Bhagwan ne kathor sach bataya.
+
+Narak mein:
+
+sharir ko aag se jalaya jata hai
+
+kabhi apna hi maans khilaya jata hai
+
+kabhi kutte aur giddh andar ke ang nikaalte hain
+
+kabhi saanp, bichchu kaatte hain
+
+kabhi haath-pair kaat diye jate hain
+
+kabhi haathi se kuchla jata hai
+
+kabhi pahaad se giraaya jata hai
+
+kabhi paani ya andheri gufa mein band kiya jata hai
+
+Yeh sab paapon ka phal hai.
+
+Bhagwan bole,
+
+"Jo purush ya stri vyabhichar karte hain, woh Tāmisra, Andhatāmisra, Raurava jaise narakon mein jaate hain."
+
+Sab ka mann kaamp gaya.
+
+🌍 Ek Gehri Soch
+
+Phir Bhagwan ne kaha,
+
+"Kuch log kehte hain — swarg aur narak isi duniya mein bhi dikhta hai."
+
+Kyunki…
+
+👉 yahan bhi log waise hi dukh jhelte hain.
+
+⚖️ Antim Nyay
+
+Bhagwan bole,
+
+"Jo vyakti paap karke sirf parivaar paalta hai — use sharir chhodkar narak jaana padta hai."
+
+"Jo doosron ko dukh dekar sharir palta hai — use akela andhkaar ke narak mein jaana padta hai."
+
+🌱 Phir Kya Hota Hai?
+
+Ant mein Bhagwan ne thodi aasha di.
+
+"Bahut dukh bhog kar, dheere-dheere jeev shuddh hota hai…"
+
+Aur phir…
+
+👉 use phir se manushya janm milta hai.
+
+Yeh ek nayi shuruat hoti hai.
+
+Sab jagah gehri sannata chha gaya.
+
+Moral:
+Moh aur paap ka raasta aakhir dukh hi deta hai — par sudhar ka darwaza hamesha khula rehta hai. ✨"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 31
     with st.expander("Chapter 31 - Sufferings of the Jīva—The Rājasī Gati"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 31 — Hinglish Story (Simple Moral Style)
+Sufferings of the Jīva — The Rājasic Path
+
+Bhagwan Kapila ne gambhir swar mein kaha,
+
+"Jeev apne karmon ke bal se chalaya jata hai — aur in karmon par bhi Bhagwan ka niyantran hota hai."
+
+"Apna naya sharir paane ke liye, jeev purush ke veery ke madhyam se stree ke garbh mein pravesh karta hai."
+
+Yeh sansar ka chakkar hai."""
         create_image_text_layout(
             "attached_assets/chapter3/3.31.jpg",
             text1,
@@ -4612,7 +5393,258 @@ Yeh adhyay hume sikhata hai:
             image_position="left"
         )
 
-        text2 = """ """
+        text2 = """ 
+        🤰 Garbh ki Pehli Avastha
+
+Bhagwan ne samjhaya:
+
+1 raat mein veery aur rakt milte hain
+
+5 raat mein bulbule jaisa roop
+
+10 din mein ber ke phal jaisa sakht
+
+phir maans ka gola ban jata hai
+
+Dheere-dheere sharir banne lagta hai.
+
+📅 Mahine ke hisaab se vikas
+
+1 mahina → sir banta hai
+
+2 mahine → haath-pair
+
+3 mahine → nakhun, baal, haddiyan, twacha
+
+4 mahine → sharir ke tattva
+
+5 mahine → bhookh-pyaas
+
+6 mahine → jarayu se dhak jata hai
+
+Garbh mein jeev hilna shuru karta hai.
+
+😣 Garbh ki Peeda
+
+Kapila Bhagwan bole,
+
+"Jeev ek bahut gandi jagah mein rehta hai — mootra aur mala se bhari hui."
+
+"Wahan keede use kaat-te rehte hain."
+
+Uska naram sharir:
+
+👉 har taraf se dukh paata hai
+👉 baar-baar behosh jaisa ho jata hai
+
+Aur jab maa:
+
+teekha
+
+khatta
+
+garam
+
+kadwa
+
+khana khati hai…
+
+👉 uski jalan bachche tak pahunchti hai.
+
+Garbh mein bachcha:
+
+jhuk kar pada hota hai
+
+pet ki taraf sir
+
+gardan tedhi
+
+"Jaise pinjre mein band pakshi."
+
+Bilkul bebas.
+
+🧠 Saatve Mahine ki Jagruti
+
+Bhagwan bole,
+
+"Saathve mahine se jeev ko thodi chetna aati hai."
+
+Aur tab…
+
+👉 use apne pichhle kai janmon ki yaad aati hai.
+
+Woh dukh se bhar jata hai.
+
+🙏 Garbh mein Jeev ki Prarthana
+
+Garbh mein jeev ro kar prarthana karta hai:
+
+"Prabhu, yeh dukh mujhe milna sahi hai — kyunki main paapi tha."
+
+"Main aapke kamal charanon mein sharan leta hoon."
+
+Jeev aage kehta hai:
+
+"Main asal mein is sharir se alag hoon — par karmon ne mujhe bandh diya hai."
+
+"Hey Prabhu, aap hi mujhe is sansar se nikaal sakte hain."
+
+Uska dil pighal jata hai.
+
+Phir jeev vinati karta hai:
+
+"Hey Prabhu, main yahan khoon, mala aur mootra se bhare is garbh mein jal raha hoon."
+
+"Woh din kab aayega jab main bahar nikalunga?"
+
+Yeh pukaar bahut karun thi.
+
+😨 Bahar Aane ka Dar
+
+Phir jeev ek gehri baat kehta hai:
+
+"Prabhu, main bahar bhi nahi jana chahta…"
+
+Kyun?
+
+"Kyuki bahar aate hi Maya mujhe phir bhula degi."
+
+Woh dar gaya hai.
+
+Phir bhi…
+
+🌪️ Janm ka Pal
+
+Kapila Bhagwan bole,
+
+"Jab jeev prarthana kar raha hota hai — tabhi prasav ki hawa use zor se neeche dhakel deti hai."
+
+Woh:
+
+ghutne lagta hai
+
+tadapta hai
+
+aur…
+
+👉 apni saari yaadein bhool jata hai.
+
+Phir woh janm leta hai — sir ke bal.
+
+👶 Janm ke Baad ki Dasha
+
+Bachcha:
+
+khoon aur gandagi mein girta hai
+
+keede jaisa hilta hai
+
+zor-zor se rota hai
+
+Ab use kuch yaad nahi.
+
+Uski majboori:
+
+jo diya jaye wahi khana
+
+mana bhi nahi kar sakta
+
+gande bistar par sona
+
+machhar, makkhiyan kaat-te hain
+
+khujla bhi nahi sakta
+
+Bilkul bebas.
+
+🔥 Jawani ka Moh
+
+Bhagwan bole,
+
+"Bachpan ke baad, jawani mein —"
+
+ichchha badhti hai
+
+gussa badhta hai
+
+ahankaar badhta hai
+
+Woh doosre logon se ladta hai.
+
+Aur phir…
+
+👉 barbaadi ki taraf badhta hai.
+
+❗ Sabse Badi Galti
+
+Kapila Bhagwan bole,
+
+"Moorkh vyakti is paanch tattvon se bane sharir ko hi ‘main’ samajhta rehta hai."
+
+Isi se bandhan banta hai.
+
+⚠️ Buri Sangat ka Khatra
+
+Bhagwan ne sakht chetavni di:
+
+"Agar dharm par chalne wala bhi buri sangat mein pad jaye — to phir se andhkaar mein gir jata hai."
+
+Buri sangat se:
+
+satya kam hota hai
+
+daya kam hoti hai
+
+shanti kam hoti hai
+
+buddhi kam hoti hai
+
+yash kam hota hai
+
+Sab dheere-dheere girta hai.
+
+🚪 Narak ka Dwaar
+
+Bhagwan ne ek kathin satya kaha (adhyatmik sandarbh mein):
+
+"Jo yogi mukti chahta hai — use kaam-vasna se bachna chahiye."
+
+"Vasana hi bandhan ka bada kaaran hai."
+
+Unhone kaha:
+
+"Meri Maya bahut shaktishaali hai — ek bhav se hi bade-bade jeetne wale log bhi haar jate hain."
+
+Yeh ek gehri spiritual warning thi.
+
+🔄 Jeev ka Chakra
+
+Bhagwan bole,
+
+"Jeev apne sukshma sharir ke saath ek sharir se doosre sharir mein ghoomta rehta hai."
+
+"Jab sthool sharir kaam karna band kare — use mrityu kehte hain."
+
+"Jab naya sharir mil jaye — use janm kehte hain."
+
+Par yaad rakho…
+
+👉 Atma na kabhi janm leti hai, na marti hai.
+
+🕊️ Gyani ka Raasta
+
+Ant mein Kapila Bhagwan ne shanti se kaha,
+
+"Samajhdar vyakti ko na zyada shok karna chahiye, na ghabrana chahiye."
+
+"Use jeev ka sach samajhkar, bina asakti ke jeena chahiye."
+
+"Vivek, yoga aur vairagya se — woh Maya se upar uth sakta hai."
+
+Sab jagah gehri shanti chha gayi.
+
+Moral:
+Jo apne aap ko sirf sharir samajhta hai, woh bandhan mein rehta hai — jo apne aap ko Atma samajhta hai, woh azaadi ki taraf badhta hai. ✨"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
