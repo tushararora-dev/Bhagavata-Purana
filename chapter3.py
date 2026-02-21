@@ -5650,7 +5650,16 @@ Jo apne aap ko sirf sharir samajhta hai, woh bandhan mein rehta hai — jo apne 
 
     # Chapter 32
     with st.expander("Chapter 32 - Excellence of the Bhaktiyoga"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 32 — Hinglish Story (Simple Moral Style)
+
+Excellence of Bhakti Yoga
+
+Kapila Bhagwan ne shant swar mein kaha,
+
+"Hey maa, jo vyakti sirf grihastha jeevan mein laga rehta hai, aur ghar ke dharm nibhata hai, use dhan (artha) aur sukh (kāma) mil jata hai."
+
+"Par phir bhi woh wahi karm baar-baar karta rehta hai." """
         create_image_text_layout(
             "attached_assets/chapter3/3.32.jpg",
             text1,
@@ -5658,13 +5667,177 @@ Jo apne aap ko sirf sharir samajhta hai, woh bandhan mein rehta hai — jo apne 
             image_position="left"
         )
 
-        text2 = """ """
+        text2 = """ 
+        🌍 Grihastha ka Chakra
+
+Kapila bole,
+
+"Bahut log bhog mein itne phans jaate hain ki unka mann Bhagavata dharma se door ho jata hai."
+
+"Woh devtaon aur pitron ki pooja karte hain."
+
+"Yagya karte hain. Soma ras peete hain."
+
+Unhe swarg milta hai.
+
+Par...
+
+👉 jab punya khatam ho jata hai,
+toh ve phir se dharti par janm lete hain.
+
+Swarg bhi hamesha ke liye nahi hota.
+
+🌊 Jab Sab Vilin Ho Jata Hai
+
+Kapila ne gehri baat kahi,
+
+"Jab pralaya hota hai, aur Hari Sheshnag par shayan karte hain, tab sab lok mit jaate hain."
+
+Yeh sunkar Devahuti gambhir ho gayi.
+
+🌿 Nishkaam Raasta
+
+Kapila bole,
+
+"Jo log dhan aur bhog ke liye karm nahi karte…"
+
+"Jo sab kuch Bhagwan ko arpan kar dete hain…"
+
+"Jo ahankaar aur ‘mera-tera’ chhod dete hain…"
+
+"Jo shant aur pavitra mann wale hain…"
+
+Wahi sachche gyani hain.
+
+Ve Surya ke dwar se hote hue Param Purush tak pahunchte hain.
+
+☀️ Brahmalok bhi Ant hai
+
+"Jo log Brahma ko hi sabse bada maante hain, ve Satyalok tak pahunchte hain."
+
+"Par jab Brahma ka kaal khatam hota hai, tab sab wapas vilin ho jata hai."
+
+Yogis bhi, jab tak ahankaar poori tarah na chhodein, janm lete rehte hain.
+
+🌺 Kapila ka Updesh
+
+Kapila ne maa ki taraf dekhkar kaha,
+
+"Hey maa, tum us Bhagwan ka sharan lo jo sabke hriday mein virajmaan hai."
+
+"Brahma bhi janm leta hai. Rishis bhi janm lete hain."
+
+"Sirf wahi param hai jo sabse pare hai."
+
+⚠️ Jo Hari ki Katha nahi Sunte
+
+Kapila bole,
+
+"Jo log sirf dharm, artha aur kāma tak simit rehte hain…"
+
+"Jo Hari ki madhur kathayein nahi sunte…"
+
+"Woh durbhagyashaali hain."
+
+Unhone ek kathor tulna di:
+
+"Jaise kuch prani gandagi khaate hain, waise hi ve amrit chhod kar tuchh baatein sunte hain."
+
+Devahuti ne sar jhuka liya.
+
+🔁 Pitṛ Lok ka Raasta
+
+"Jo pitron ki pooja karte hain, ve pitṛ lok jaate hain."
+
+"Par jab unka punya khatam hota hai, ve phir dharti par gir jaate hain."
+
+Isliye Kapila bole,
+
+"Hey maa, tum Vishnu ki bhakti karo."
+
+✨ Bhakti ka Phal
+
+"Vasudev ki bhakti se turant vairagya aur gyaan paida hota hai."
+
+"Tab bhakt har vastu ko samaan dekhta hai."
+
+"Use pasand-napasand ka bhed nahi dikhta."
+
+"Tab woh param anand ka anubhav karta hai."
+
+🌌 Ek hi Brahman
+
+Kapila ne samjhaya,
+
+"Brahman ek hi hai."
+
+"Wahi Atma hai. Wahi Ishwar hai. Wahi Purush hai."
+
+"Alag-alag shastra use alag tareeke se batate hain. Par sach ek hi hai."
+
+🛤️ Alag Raaste, Ek Lakshya
+
+Kapila bole,
+
+Yagya karo
+
+Daan do
+
+Tap karo
+
+Ved padho
+
+Indriyon ko niyantrit karo
+
+Ashtanga yoga karo
+
+Bhakti karo
+
+Sab raaste agar nishkaam ho —
+toh wahi Param ko milate hain.
+
+⚖️ Gyaan aur Bhakti
+
+"Gyān ka raasta nirgun Brahman tak le jata hai."
+
+"Bhakti ka raasta mujh tak le jata hai."
+
+"Par dono ka lakshya ek hi hai — Param Satya."
+
+🔒 Gopniya Gyaan
+
+Kapila ne antim mein kaha,
+
+"Yeh gyaan kisi dusht, ahankari, ya lalchi ko mat dena."
+
+"Isse usi ko batana jo vinamra ho, bhakt ho, aur sabse prem karta ho."
+
+"Jo ise shraddha se ek baar bhi sunega, ya dusron ko sunayega — woh mere dham ko prapt karega."
+
+✨ Moral
+
+Swarg se bhi bada hai Bhakti.
+Bhog se bada hai Vairagya.
+Aur sabse bada hai — Nishkaam Prem."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 33
     with st.expander("Chapter 33 - Devahūti’s Enlightenment and Liberation"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 33 — Hinglish Story (Simple Moral Style)
+
+Devahuti ki Mukti
+
+🌸 Maa ka Andhkaar Door Hua
+
+Maitreya ne kaha,
+
+Kapila ka updesh sun kar Devahuti ka bhram toot gaya.
+Unke mann ka parda hat gaya.
+
+Unhone jhuk kar apne putra ko pranam kiya.
+Unki aankhon mein krutagyata thi."""
         create_image_text_layout(
             "attached_assets/chapter3/3.33.jpg",
             text1,
@@ -5672,5 +5845,170 @@ Jo apne aap ko sirf sharir samajhta hai, woh bandhan mein rehta hai — jo apne 
             image_position="left"
         )
 
-        text2 = """ """
+        text2 = """ 
+        🌿 Devahuti ki Stuti
+
+Devahuti boli,
+
+"Hey Prabhu, Brahma ji bhi aapko poori tarah nahi dekh sake.
+Unhone bhi aapka dhyan hi kiya."
+
+"Aap hi is brahmand ke kaaran ho."
+
+"Aap hi srishti karte ho.
+Aap hi palan karte ho.
+Aur aap hi vinash karte ho."
+
+Phir ve hairaan hokar boli,
+
+"Hey Prabhu, kaise sambhav hai ki poora brahmand jinke andar samaaya hai —
+ve mere garbh mein aaye?"
+
+Unki awaaz bhakti se bhari thi.
+
+🌺 Bhagwan ka Avatar
+
+Devahuti ne kaha,
+
+"Aap paapiyon ka vinash karne aur bhakton ka kalyan karne ke liye aaye ho."
+
+"Jaise aapne Varaha roop liya, waise hi aapne yeh roop liya — humein Atma ka gyaan dene ke liye."
+
+Unka hriday prem se pighal raha tha.
+
+🌼 Naam ki Mahima
+
+Devahuti boli,
+
+"Jo vyakti ek baar bhi aapka naam le le —
+chahe woh sabse neecha janm ka ho —
+woh bhi pavitra ho jata hai."
+
+"Phir mujhe kitna dhanya hona chahiye,
+jo maine aapko dekha hai!"
+
+Unki aankhon se aansu beh rahe the.
+
+🌞 Kapila ka Antim Updesh
+
+Kapila ne shant swar mein kaha,
+
+"Hey maa, maine tumhe mukti ka saral raasta bata diya hai."
+
+"Is par chalo.
+Tum mujhe prapt karogi."
+
+"Jo is gyaan ko nahi samajhte,
+ve janm-maran ke chakra mein ghoomte rehte hain."
+
+🌿 Kapila ka Prasthan
+
+Maitreya ne bataya,
+
+Kapila ne apni maa ko Atma ka raasta dikha diya.
+
+Phir maa ki anumati lekar ve wahan se chale gaye.
+
+Devahuti ne unke bataye raaste par chalna shuru kiya.
+
+🧘‍♀️ Devahuti ki Tapasya
+
+Ve din mein teen baar snan karti.
+Vriksh ke chhal ke vastra pehenti.
+Unke baal jata ban gaye.
+
+Unhone mahal ke sab sukh chhod diye.
+
+Woh mahal bahut sundar tha:
+
+Doodh jaisa komal bistar
+
+Sone ki kursiyan
+
+Heere-moti se saja hua mahal
+
+Sundar bagicha
+
+Pushpon ki sugandh
+
+Madhur pakshiyon ki awaaz
+
+Devtaon ki patniyan bhi use dekhkar lalach karti.
+
+Par Devahuti ne sab chhod diya.
+
+Unka mann sirf Bhagwan mein lag gaya.
+
+💔 Maa ka Vatsalya
+
+Kapila ke jaane ke baad
+unka mann kabhi-kabhi udaas ho jata.
+
+Jaise gai apne bachde ko yaad karti hai.
+
+Par dheere-dheere
+unka mann sab moh se pare ho gaya.
+
+🔥 Gyaan aur Bhakti ka Sangam
+
+Kapila ke bataye anusaar
+ve pehle Bhagwan ke sampoorn roop ka dhyan karti,
+phir ek-ek ang par mann lagati.
+
+Bhakti ki dhaara behne lagi.
+
+Vairagya balwan ho gaya.
+
+Gyaan prakash ban gaya.
+
+✨ Brahman ka Anubhav
+
+Unka mann pavitra ho gaya.
+
+Unhe apna sharir yaad hi nahi rehta tha.
+Jaise sapna tootne ke baad sapna yaad nahi rehta.
+
+Unka chitt Vasudev mein vilin ho gaya.
+
+Sab dukh samaapt ho gaye.
+
+Ve mukta ho gayi.
+
+🌊 Siddhapada ka Janm
+
+Jahan Devahuti ne mukti paayi,
+vah sthaan pavitra ban gaya.
+
+Kehte hain, unka sharir bhi ek pavitra nadi mein badal gaya.
+
+Uska naam Siddhapada pada.
+
+Woh nadi logon ko shuddh karti hai.
+
+🌄 Kapila ka Uttara Gaman
+
+Kapila uttar disha ki aur chale gaye.
+
+Siddh, Gandharv aur Rishi unki stuti karte rahe.
+
+Samudra ne unhe aadar diya.
+
+Aaj bhi ve wahan dhyan mein virajmaan hain —
+teenon lokon ki shanti ke liye.
+
+📖 Antim Vachan
+
+Maitreya ne kaha,
+
+"Hey Vidura, maine tumhe Kapila aur Devahuti ka pavitra samvad suna diya."
+
+"Jo ise shraddha se sunta hai,
+ya sunata hai —
+woh Bhagwan ke charan tak pahunchta hai."
+
+✨ Moral
+
+Gyaan se mann shuddh hota hai.
+Vairagya se moh chhoot ta hai.
+Par Bhakti se hi poori Mukti milti hai."""
         create_image_text_layout(text_content=text2, layout="full")
