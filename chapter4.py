@@ -1,0 +1,1217 @@
+import streamlit as st
+from app import create_image_text_layout   # reuse function from main.py
+
+def display_content():
+
+    st.markdown(
+    """
+    <style>
+    @import url('https://fonts.googleapis.com/css2?family=Bungee+Spice:wght@700&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Beth+Ellen&display=swap');
+    h2 {
+        font-family: 'Bungee Spice', cursive !important;
+        font-size: 45px;
+        text-align: center;
+        color: #e7b66c !important;
+    }
+    .stMainBlockContainer{
+        padding-top: 0rem; !important}
+    p, li { 
+        font-size: 18px !important;
+        # line-height: 1.6 !important;
+        text-align: justify !important;
+        color: oldlace;
+    }
+
+    .st-emotion-cache-1gcegfv h2 {
+    font-size: 1.5rem;
+    }
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    td {
+        border: 2px solid #444 !important;
+        padding: 5px;
+        font-size: 16px !important;
+        line-height: 1.2 !important;
+        text-align: justify !important;
+        color: oldlace;
+        background-color: #6969691f; /* dark background to contrast oldlace */
+    }
+
+
+    .beth1 {
+            font-family: 'Beth Ellen', cursive !important; /* <-- use Beth Ellen (imported) */
+            font-size: 22px;
+            color: oldlace !important;
+            text-align: center !important;
+            margin-top: 0.2em;
+            color: dimgray !important;
+        }
+
+    </style>
+    """,
+    unsafe_allow_html=True
+    )
+    create_image_text_layout("attached_assets/chapter4/chapter4.jpg", layout="full")
+
+    text0 = """
+    <h2>Book 4 - Fourth Skandha</h2>
+    """
+    create_image_text_layout(text_content=text0, layout="full")
+
+    # Book 4 - Fourth Skandha
+    
+    # Book 4 - Fourth Skandha
+
+    # Chapter 1
+    with st.expander("Chapter 1 - The Progeny of Svāyambhuva Manu’s Daughters"):
+        text1 = """ 
+        Chapter 1 — Hinglish Story (Simple Moral Style)
+Manu ki Betiyon ka Vistaar
+
+Maitreya Rishi ne Vidura se kaha,
+
+"Manu ke do putra the — Priyavrata aur Uttanapada.
+Par unki teen betiyan bhi thi."
+
+Unka naam tha —
+🌸 Akuti
+🌸 Devahuti
+🌸 Prasuti"""
+        create_image_text_layout(
+            "attached_assets/chapter4/4.1.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+        text2 = """ 
+        🌼 Akuti ki Kahani
+
+Manu ne Akuti ka vivaah Rishi Ruchi se kiya.
+
+Ek vishesh shart par.
+
+Putrika dharma.
+
+Iska matlab —
+jo putra paida hoga,
+woh Manu ka vansh badhayega.
+
+Akuti ne judwa bachche paida kiye.
+
+Ek beta.
+Ek beti.
+
+Beta tha — Yajna.
+Woh swayam Vishnu ka avataar tha.
+
+Beti thi — Dakshina.
+Woh Lakshmi ka ansh thi.
+
+Yajna ne Dakshina se vivaah kiya.
+
+Unke 12 putra hue.
+
+Unka naam tha —
+Tosha, Pratosha, Santosh, Bhadra, Shanti,
+Idaspati, Idhma, Kavi, Vibhu, Svahna,
+Sudeva, Rocana.
+
+Ye sab milkar devta bane.
+
+🌿 Devahuti ki Kahani
+
+Devahuti ka vivaah Kardama Rishi se hua.
+
+Unki kahani pehle hi batai ja chuki thi.
+
+Unhi ke ghar Bhagwan Kapila ka janm hua tha.
+
+🌺 Prasuti ki Kahani
+
+Prasuti ka vivaah Daksha Prajapati se hua.
+
+Daksha ke ghar se vansh teenon lokon mein phail gaya.
+
+🌳 Kardama ki Betiyon ka Vansh
+
+Kardama ki 9 betiyan thi.
+
+Sabka vivaah bade Rishiyon se hua.
+
+Unse poori srishti badhi.
+
+🌊 Ganga ka Janm
+
+Kalā ne Rishi Marichi se shaadi ki.
+
+Unka putra tha — Kashyapa.
+
+Aur ek beti thi — Devakulyā.
+
+Wahi Devakulyā agle janm mein bani —
+✨ Maa Ganga.
+
+🌙 Atri aur Anasuya
+
+Atri Rishi aur Anasuya ke ghar teen mahan putra hue —
+
+🌙 Chandra (Brahma ka ansh)
+🔥 Durvasa (Shiva ka ansh)
+🕉️ Dattatreya (Vishnu ka ansh)
+
+Vidura ne poocha,
+"Yeh teenon dev ek hi ghar mein kyun aaye?"
+
+Maitreya bole,
+
+"Atri ne kathor tapasya ki thi."
+
+Ek pair par 100 saal khade rahe.
+Sirf hawa par jee rahe the.
+
+Unhone prarthana ki:
+
+"Mujhe aisa putra mile jo Bhagwan jaisa ho."
+
+Unki tapasya se teenon lok jalne lage.
+
+Tab Brahma, Vishnu aur Shiva swayam aaye.
+
+Aur bole,
+
+"Hum hi woh ek tattva hain jise tum dhyaan kar rahe ho."
+
+"Hum apne ansh se tumhe putra denge."
+
+Is tarah teenon ka janm hua.
+
+🔥 Dadhichi aur Bhargu Vansh
+
+Aage kai Rishiyon ka vansh phaila.
+
+Bhargu Rishi ke ghar Lakshmi ji ka janm hua.
+
+Pulastya ke vansh se Kubera hua.
+
+Aur usi vansh se —
+Ravana, Kumbhakarna aur Vibhishana bhi hue.
+
+🌸 Daksha ki Betiyan
+
+Daksha ne 16 betiyan paida ki.
+
+13 ko Dharma ko diya.
+1 ko Agni ko.
+1 ko Pitron ko.
+1 ko Shiva ko — Sati.
+
+Dharma ki patniyon se
+bahut sundar gun paida hue —
+
+Shraddha se Shubh.
+Maitri se Prasad.
+Daya se Abhaya.
+Shanti se Sukha.
+
+Aur Mūrti se janm liya —
+
+✨ Nara aur Narayana.
+
+Unke janm par poora brahmand khush ho gaya.
+
+Phool barse.
+Devta gaane lage.
+Nadiyan shaant ho gayi.
+
+Baad mein wahi Nara-Narayana
+Krishna aur Arjuna ke roop mein aaye.
+
+😔 Sati ki Kahani
+
+Shiva ki patni Sati thi.
+
+Par jab unke pita Daksha ne Shiva ka apmaan kiya,
+toh Sati ne yog bal se apna sharir tyag diya.
+
+Unki kahani dukh bhari thi.
+
+✨ Moral
+
+Tapasya aur bhakti se Bhagwan khud prakat hote hain.
+Vansh sirf khoon se nahi, gun aur dharma se badhta hai.
+
+Jo shraddha, daya aur shanti ko apnaye,
+uska jeevan pavitra ho jata hai."""
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 2
+    with st.expander("Chapter 2 - The Rift between the God Śiva and Dakṣa"):
+        text1 = """ 
+        Chapter 2 — Hinglish Story (Simple Moral Style)
+Daksha aur Shiv ji ke beech jhagda
+
+Vidura ne hairani se poocha,
+
+“Daksha apni beti Sati se pyaar karta tha.
+Phir usne Shiv ji se nafrat kyun ki?”
+
+“Shiv ji toh sabse shaant, sabse pavitra hain.
+Woh kisi se dushmani nahi rakhte.”
+
+“Phir aisa kya hua
+ki Sati ko apni jaan deni padi?”
+
+Maitreya Rishi ne dheere se kahani shuru ki."""
+        create_image_text_layout(
+            "attached_assets/chapter4/4.2.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+        text2 = """ 
+        🌞 Yagya ka Sabha
+
+Ek baar Prajapatis ka bada yagya ho raha tha.
+
+Sab devta aaye the.
+Rishi-muni aaye the.
+Agni dev bhi wahan the.
+
+Tabhi Daksha pravesh kiya.
+
+Woh Suraj ki tarah chamak rahe the.
+
+Sab log unke tej se prabhavit ho kar khade ho gaye.
+
+Par do vyakti nahi khade hue —
+
+🕉️ Brahma ji
+🕉️ Shiv ji
+
+Brahma ji toh pita the.
+Par Shiv ji shant baithe rahe.
+
+🔥 Daksha ka Gussa
+
+Daksha ko bahut bura laga.
+
+Unhone gusse se Shiv ji ko dekha.
+
+Aur sabha mein bolna shuru kiya.
+
+“Yeh Shiv ahankari hai!”
+
+“Isne meri beti se shaadi ki,
+par mujhe pranam tak nahi kiya!”
+
+“Yeh shamshan mein rehta hai.
+Bhasm lagata hai.
+Bhooton ke saath ghoomta hai.”
+
+“Yeh pavitra nahi hai.”
+
+Sab chup ho gaye.
+
+Shiv ji shant baithe rahe.
+
+Ek shabd bhi nahi bola.
+
+⚡ Shraap
+
+Daksha ne paani chhua.
+Aur shraap de diya.
+
+“Yagya mein Shiv ko kabhi hissa nahi milega!”
+
+Sab ne mana kiya.
+Par Daksha sunne ko tayyar nahi tha.
+
+Woh wahan se chala gaya.
+
+😡 Nandi ka Gussa
+
+Shiv ji ke bhakt Nandi ka khoon khol gaya.
+
+Unhone bhi shraap diya.
+
+“Daksha shareer ko hi sab kuch samajhta hai.”
+
+“Woh janwaron jaisa sochta hai.”
+
+“Uska sir bakri ka ho jayega!”
+
+“Jo Shiv ki ninda karega,
+woh janam-maran ke chakkar mein phasega.”
+
+🔄 Bhargu ka Pratikar
+
+Rishi Bhargu ko bhi gussa aa gaya.
+
+Unhone ulta shraap diya.
+
+“Jo Shiv ke bhakt hain,
+woh Vedo ka apmaan karenge.”
+
+“Woh alag panth apnayenge.”
+
+Sab jagah shraap aur gussa phail gaya.
+
+🌫️ Shiv ji ki Shaanti
+
+Itne sab ke baad bhi…
+
+Shiv ji ne kuch nahi kaha.
+
+Unka dil thoda dukhi hua.
+
+Par woh shant se wahan se chale gaye.
+
+Yagya poora hua.
+
+Sab apne ghar chale gaye.
+
+Par beej bo diya gaya tha.
+
+Aage chal kar yahi jhagda
+badi vinash ka kaaran banega.
+
+✨ Moral
+
+Ahankaar se vinash shuru hota hai.
+Shaanti sabse bada bal hai.
+
+Jo apmaan par bhi chup rahe,
+wahi sachcha Mahadev hota hai."""
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 3
+    with st.expander("Chapter 3 - Śiva dissuades Satī from attendance at Dakṣa-Yajña"):
+        text1 = """ 
+        Chapter 3 — Hinglish Story (Simple Moral Style)
+Shiv ji ne Sati ko samjhaya
+
+Maitreya Rishi ne kaha,
+
+Daksha aur Shiv ji ke beech ka jhagda lamba chalta raha.
+
+Samay beet gaya.
+Par unki dushmani khatam nahi hui."""
+        create_image_text_layout(
+            "attached_assets/chapter4/4.3.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+        text2 = """ 
+        🔥 Daksha ka Yagya
+
+Ek din Daksha ne bahut bada yagya rakh diya.
+
+Sab devtaon ko bulaya.
+Sab rishiyon ko bulaya.
+Sab ko samman diya.
+
+Par ek vyakti ko nahi bulaya —
+
+🕉️ Shiv ji.
+
+Daksha ka ahankaar badh chuka tha.
+
+🌸 Sati ko Pata Chala
+
+Sati ne dekha —
+
+Aakash mein devta apni patniyon ke saath ja rahe hain.
+
+Sab saj-dhaj kar.
+Haste hue.
+Khush.
+
+Unhone Shiv ji se kaha,
+
+"Prabhu, mere pita ka yagya ho raha hai."
+
+"Sab ja rahe hain."
+
+"Hum bhi chalein?"
+
+"Meri behne hongi,
+meri maa hogi."
+
+"Main unhe dekhna chahti hoon."
+
+Unki aankhon mein bachpan ki yaadein thi.
+
+🕊️ Sati ki Vinati
+
+Sati ne pyaar se kaha,
+
+"Log apne pita ke ghar bina bulaye bhi jaate hain."
+
+"Main aapki ardhangini hoon."
+
+"Kripya mujhe jaane dein."
+
+Woh bahut vinamr thi.
+Par mann se utni hi utsuk.
+
+🌫️ Shiv ji ka Shaant Uttar
+
+Shiv ji ne halka sa muskura kar dekha.
+
+Unhone Sati ko yaad dilaya,
+
+"Priye, tum sahi keh rahi ho."
+
+"Par jab kisi ka mann ahankaar se bhara ho,
+toh wahan jaana theek nahi."
+
+⚖️ Ahankaar ka Vish
+
+Shiv ji bole,
+
+"Gyaan, dhan, sundarta, uchcha janm —
+yeh sab achhe logon mein gun hote hain."
+
+"Par bure logon mein yahi cheezein
+ahankaar ban jaati hain."
+
+"Daksha mujhe pasand nahi karta."
+
+"Tum wahan jaogi,
+toh shayad tumhe samman na mile."
+
+💔 Shabd ka Ghaav
+
+Shiv ji ne gahri baat kahi:
+
+"Sharir par laga teer ka ghaav
+ek din bhar jata hai."
+
+"Par apno ke kadve shabd
+dil ko saari zindagi dukh dete hain."
+
+"Us dard mein neend bhi nahi aati."
+
+🌺 Pyaar aur Satya
+
+Shiv ji bole,
+
+"Tum Daksha ki sabse priya beti ho."
+
+"Par meri wajah se
+woh tumse bhi naraz ho sakta hai."
+
+"Woh mere tejas se jalan karta hai."
+
+"Jahan dvesh ho,
+wahan jaane se sukh nahi milta."
+
+🕉️ Sachchi Shraddha
+
+Shiv ji ne aur kaha,
+
+"Sachche bhakt bahari namaskar nahi dekhte."
+
+"Woh sab mein Bhagwan ko dekhte hain."
+
+"Main sirf Vaasudev ko pranam karta hoon,
+jo sabke hriday mein hai."
+
+🚫 Antim Salah
+
+Shiv ji ne dheere se kaha,
+
+"Agar tum meri baat nahi manogi
+aur wahan jaogi,
+toh tumhe dukh hoga."
+
+"Apno ka apmaan
+jeevan se bhi bhari lagta hai."
+
+Sati chup ho gayi.
+
+Unke mann mein prem tha.
+Par saath hi chot bhi.
+
+Aage kya hoga…
+yeh samay batayega.
+
+✨ Moral
+
+Jahan ahankaar ho, wahan prem toot jata hai.
+Kadve shabd talwar se bhi gehra ghaav dete hain.
+
+Samajh aur shaanti, dono zaroori hain."""
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 4
+    with st.expander("Chapter 4 - Satī’s Self-immolation by Yoga"):
+        text1 = """ 
+        Chapter 4 — Hinglish Story (Simple Moral Style)
+Sati ka Yog se Agni-pravesh
+
+Maitreya Rishi ne dheere se kaha,
+
+Shiv ji ne Sati ko mana kiya tha.
+Unhe pata tha —
+kuch bura hone wala hai.
+
+Par Sati ka mann dukhi tha.
+
+Woh kabhi bahar jaane ko kadam badhati,
+kabhi dar kar ruk jaati.
+
+Jaise dil do hisso mein bant gaya ho."""
+        create_image_text_layout(
+            "attached_assets/chapter4/4.4.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+        text2 = """ 
+        😢 Dil ka Dard
+
+Sati apne maayke ko yaad kar rahi thi.
+
+Unki aankhon mein aansu aa gaye.
+
+Woh ro padi.
+
+Unke mann mein pyaar bhi tha,
+aur gussa bhi.
+
+Aakhir woh nikal padi.
+
+Shiv ji ko chhod kar.
+
+🐂 Nandi aur Ganon ka Saath
+
+Shiv ji ke gan unke peeche chale.
+
+Nandi ne unhe apne bail par bithaya.
+
+Chhatra, chamara, dhol, shankh —
+sab saath le gaye.
+
+Par Sati ka mann bhaari tha.
+
+🔥 Yagya Sthal par Apmaan
+
+Yagya sthal par ved-mantra gunj rahe the.
+
+Sab rishi aur devta wahan the.
+
+Par jab Sati pahunchi…
+
+Kisi ne swagat nahi kiya.
+
+Sirf unki maa aur behne gale lag kar ro padi.
+
+Daksha ne nazar tak nahi uthayi.
+
+Sati ne dekha —
+
+Yagya mein Shiv ji ka hissa hi nahi rakha gaya.
+
+Unka apmaan khule aam ho raha tha.
+
+⚡ Sati ka Krodh
+
+Sati ka chehra tej se chamak utha.
+
+Jaise poori duniya ko jala degi.
+
+Unhone sabha mein zor se kaha:
+
+"Jo sabka mitra hai,
+tum usse dushmani rakhte ho?"
+
+"Shiv kisi se dvesh nahi karte."
+
+"Unka naam tak paap mita deta hai."
+
+"Tum unki ninda karte ho!"
+
+🌺 Mahaan ka Apmaan
+
+Sati boli,
+
+"Bure log hamesha achhon mein bhi dosh dhoondte hain."
+
+"Par sachche log,
+chhoti si achchai ko bhi bada bana dete hain."
+
+"Main tumhari beti ho kar sharminda hoon."
+
+💔 Antim Faisla
+
+Sati ki awaaz kaamp rahi thi.
+
+Unhone kaha,
+
+"Yeh shareer tumse mila hai."
+
+"Par main ise nahi rakhoongi."
+
+"Jaise ashuddh bhojan ko bahar nikal dete hain,
+waise hi main is shareer ko chhod dungi."
+
+Sab sann ho gaye.
+
+🧘‍♀️ Yog ka Agni
+
+Sati zameen par baith gayi.
+
+Uttar ki taraf mukh kiya.
+
+Aankhen band ki.
+
+Pran ko niyantrit kiya.
+
+Mann ko Shiv ji ke charanon mein laga diya.
+
+Unka sharir dheere-dheere
+yog ki agni se jalne laga.
+
+Kisi ne chhua nahi.
+
+Koi aag bahar se nahi thi.
+
+Sab unki tapasya ki agni thi.
+
+😭 Sabka Shok
+
+Aakash mein cheekh uthi —
+
+"Haay! Haay!"
+
+Sab ro padi.
+
+"Apne pita ke apmaan se Sati ne pran de diye!"
+
+Shiv ji ke gan krodhit ho gaye.
+
+Woh Daksha par toot pade.
+
+Par Rishi Bhrigu ne yagya ki raksha ke liye mantra bal se devtaon ko bulaya.
+
+Shiv ji ke gan haar kar wapas chale gaye.
+
+Yagya sthal dukh se bhar gaya.
+
+✨ Moral
+
+Ahankaar aur apmaan ka parinaam vinash hota hai.
+Sachcha prem apmaan seh nahi pata.
+
+Par gussa aur dukh milkar kabhi-kabhi sab kuch jala dete hain."""
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 5
+    with st.expander("Chapter 5 - Destruction of Dakṣa’s Sacrifice"):
+        text1 = """ 
+        Chapter 5 — Hinglish Story (Simple Moral Style)
+Daksha ke Yagya ka Vinash
+
+Maitreya Rishi ne kaha,
+
+Jab Shiv ji ko pata chala
+ki Sati ne apmaan ke dukh mein
+apna shareer chhod diya…
+
+Aur unke gan bhi hara diye gaye…
+
+Tab Shiv ji ka gussa
+aasmaan ko chhoo gaya."""
+        create_image_text_layout(
+            "attached_assets/chapter4/4.5.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+        text2 = """ 
+        ⚡ Shiv ka Krodh
+
+Shiv ji ne apne honth daba liye.
+
+Unhone apni jata ka ek bada guchha
+zor se tod kar zameen par patka.
+
+Woh bijli ki tarah chamka.
+
+Aag ki tarah jal utha.
+
+Dharti hil gayi.
+
+🔥 Veerabhadra ka Janm
+
+Us jata se ek bhayanak roop nikla.
+
+Woh tha — Veerabhadra.
+
+Bahut bada.
+
+Aasmaan ko chhoota hua.
+
+Hazaar baahen.
+
+Teen aankhen.
+
+Daant tez.
+
+Gale mein khopdiyon ki mala.
+
+Haath mein talwaar, trishul,
+aur kai bhayankar hathiyaar.
+
+🗡 Shiv ka Aadesh
+
+Shiv ji bole,
+
+"Veerabhadra,
+tum mere hi roop ho."
+
+"Jaao.
+Daksha aur uske yagya ko nasht kar do."
+
+Veerabhadra ne pranam kiya.
+
+Aur garajte hue chal pada.
+
+Unke saath hazaaron gan the.
+
+🌪 Yagya mein Ashubh Sanket
+
+Daksha ke yagya sthal par
+achanak dhool ka bada baadal utha.
+
+Sab log ghabra gaye.
+
+"Yeh kya ho raha hai?"
+
+"Kya pralay aane wala hai?"
+
+Aasmaan mein ajeeb sanket dikhne lage.
+
+Daksha ki patni Prasuti boli,
+
+"Yeh sab Daksha ke paap ka phal hai."
+
+"Usne Sati ka apmaan kiya."
+
+💥 Aakraman
+
+Achanak Veerabhadra aur gan
+yagya sthal mein ghus aaye.
+
+Unhone sab tod diya.
+
+Yagya ka mandap toot gaya.
+
+Bartans toot gaye.
+
+Agni bujha di gayi.
+
+Kuch log bhaag gaye.
+
+Kuch chillaane lage.
+
+Sab jagah afra-tafri mach gayi.
+
+😡 Saza
+
+Veerabhadra ne Bhrigu rishi ki daadhi pakad kar
+noch di.
+
+Bhaga ki aankhen nikaal di.
+
+Pusha ke daant tod diye.
+
+Sabko unke apmaan ka phal mila.
+
+⚔ Daksha ka Ant
+
+Phir Veerabhadra ne Daksha ko pakda.
+
+Use zameen par gira diya.
+
+Uska sir kaatne ki koshish ki…
+
+Par talwaar kaam nahi kar rahi thi.
+
+Tab Veerabhadra ne
+yagya mein jaanwar ko maarne ka tareeka yaad kiya.
+
+Usi vidhi se
+Daksha ka sir kaat diya.
+
+Sab sann ho gaye.
+
+Veerabhadra ne
+Daksha ka sir yagya ki agni mein daal diya.
+
+🔥 Ant mein
+
+Yagya jal kar khak ho gaya.
+
+Sab kuch nasht ho gaya.
+
+Veerabhadra aur Shiv ke gan
+Kailash laut gaye.
+
+✨ Moral
+
+Ahankaar ka ant hamesha vinash hota hai.
+Jo bhakt aur sachchai ka apmaan karta hai,
+use apne karm ka phal zaroor milta hai.
+
+Shanti ko todoge,
+to prakriti swayam nyaay karegi."""
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 6
+    with st.expander("Chapter 6 - Appeasement of Rudra—Revival of Dakṣa"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter4/4.6.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 7
+    with st.expander("Chapter 7 - Completion of Dakṣa’s Sacrifice"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter4/4.7.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 8
+    with st.expander("Chapter 8 - Story of Dhruva"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter4/4.8.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 9
+    with st.expander("Chapter 9 - Viṣṇu’s boon and Dhruva’s Coronation"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter4/4.9.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 10
+    with st.expander("Chapter 10 - Dhruva invades Alakā"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter4/4.10.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 11
+    with st.expander("Chapter 11 - Svāyambhuva Manu Dissuades Dhruva from Fighting"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter4/4.11.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 12
+    with st.expander("Chapter 12 - Kubera’s Boon and Dhruva’s Attainment of Viṣṇu’s Realm"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter4/4.12.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 13
+    with st.expander("Chapter 13 - Dhruva’s descendants: King Aṅga’s Abdication"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter4/4.13.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 14
+    with st.expander("Chapter 14 - The Story of Vena: Pṛthu’s Birth"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter4/4.14.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 15
+    with st.expander("Chapter 15 - Birth of Pṛthu and his Coronation"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter4/4.15.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 16
+    with st.expander("Chapter 16 - The Eulogy of Pṛthu by Bards"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter4/4.16.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 17
+    with st.expander("Chapter 17 - Pṛthu subjugates the Earth"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter4/4.17.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 18
+    with st.expander("Chapter 18 - Milking of the Earth in the form of a Cow"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter4/4.18.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 19
+    with st.expander("Chapter 19 - Pṛthu’s Horse-sacrifices and Conflict with Indra"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter4/4.19.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 20
+    with st.expander("Chapter 20 - Pṛthu initiated by Viṣṇu"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter4/4.20.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 21
+    with st.expander("Chapter 21 - Pṛthu explains Dharma to his subjects"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter4/4.21.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 22
+    with st.expander("Chapter 22 - Sanatkumāra’s Sermon to Pṛthu"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter4/4.22.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 23
+    with st.expander("Chapter 23 - Pṛthu’s penance and ascension to Heaven"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter4/4.23.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 24
+    with st.expander("Chapter 24 - Pṛthu’s Descendants and the Hymn of Rudra"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter4/4.24.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 25
+    with st.expander("Chapter 25 - The Story of Purañjana—Introduction"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter4/4.25.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 26
+    with st.expander("Chapter 26 - Purañjana’s Hunting Expedition and His Queen‘s Wrath Pacified"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter4/4.26.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 27
+    with st.expander("Chapter 27 - Invasion of Caṇḍavega—The Episode of Kālakanyā"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter4/4.27.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 28
+    with st.expander("Chapter 28 - Purañjana’s Rebirth as a Woman and Attainment of Liberation"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter4/4.28.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 29
+    with st.expander("Chapter 29 - The Purañjana allegory explained"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter4/4.29.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 30
+    with st.expander("Chapter 30 - The Marriage of Pracetasas with Māriṣā and the birth of Dakṣa"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter4/4.30.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter 31
+    with st.expander("Chapter 31 - The Story of Pracetasas: Their Renunciation and Liberation"):
+        text1 = """ """
+        create_image_text_layout(
+            "attached_assets/chapter4/4.31.jpg",
+            text1,
+            layout="side",
+            image_position="left"
+        )
+        text2 = """ """
+        create_image_text_layout(text_content=text2, layout="full")
