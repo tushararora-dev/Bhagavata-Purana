@@ -881,66 +881,899 @@ to prakriti swayam nyaay karegi."""
 
     # Chapter 6
     with st.expander("Chapter 6 - Appeasement of Rudra—Revival of Dakṣa"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 6 — Hinglish Story (Simple Moral Style)
+Rudra ko Shaant Karna aur Daksha ka Jeevan Lautna
+
+Maitreya Rishi bole,
+
+Yagya toot chuka tha.
+Devta haar gaye the.
+Unke sharir ghaayal the.
+
+Dar ke maare sab
+Brahma ji ke paas gaye.
+
+Unhone haath jod kar
+saari kahani sunayi."""
         create_image_text_layout(
             "attached_assets/chapter4/4.6.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🕊 Brahma ka Updesh
+
+Brahma ji ne shaant swar mein kaha,
+
+"Jo tumse zyada shaktishaali ho,
+usse badla lena kabhi achha nahi hota."
+
+"Tumne Shiv ji ko yagya mein hissa nahi diya.
+Yahi tumhari galti thi."
+
+"Ab vinamrata se unke paas jao.
+Unse maafi maango."
+
+"Woh jaldi prasann ho jaate hain."
+
+Sab devta sharminda ho gaye.
+
+🏔 Kailash ki Yatra
+
+Brahma ji sabko lekar
+Kailash parvat gaye.
+
+4
+
+Kailash sundar tha.
+
+Nadiyan beh rahi thi.
+Pushp khil rahe the.
+Pakshi madhur gaana gaa rahe the.
+
+Hawa sugandhit thi.
+
+Sab jagah shanti thi.
+
+🌳 Bargad ke Neeche
+
+Ek bade bargad ke ped ke neeche
+Shiv ji baith kar dhyaan laga rahe the.
+
+Unka chehra shaant tha.
+
+Mastak par chandrama.
+Sharir par bhasm.
+Jata baandhi hui.
+
+Woh Narad ji ko
+Brahman ka gyaan samjha rahe the.
+
+🙏 Brahma ka Namra Prarthana
+
+Brahma ji ne jhuk kar pranam kiya.
+
+Shiv ji ne bhi vinamrata se unka swagat kiya.
+
+Brahma ji bole,
+
+"Prabhu,
+aap hi sabke karta-dharta ho."
+
+"Yagya ki vyavastha bhi aapne hi banayi."
+
+"Daksha ne galti ki."
+
+"Par daya karna bhi aapka hi gun hai."
+
+"Kripya yagya ko phir se shuru hone dein."
+
+"Daksha ko jeevan de dein."
+
+"Bhaga ki aankhen laut aayein.
+Bhrigu ki daadhi wapas ho.
+Pusha ke daant laut aayein."
+
+"Jo yagya mein hissa bachega,
+woh sab aapka hoga."
+
+Sab ne haath jod kar
+Shiv ji ki taraf dekha.
+
+🌸 Shiv ki Kripa
+
+Shiv ji ka hriday
+krodh se zyada daya se bhara tha.
+
+Woh shaant ho gaye.
+
+Unhone sabko maaf kar diya.
+
+Daksha ko jeevan mila.
+Par uska sir nahi tha.
+
+Isliye uske shareer par
+ek bakri ka sir laga diya gaya.
+
+Daksha ne sharm se jhuk kar
+Shiv ji ko pranam kiya.
+
+Yagya phir se shuru hua.
+
+Aur is baar
+Shiv ji ka hissa pehle diya gaya.
+
+✨ Moral
+
+Ahankaar todta hai.
+Vinamrata jodti hai.
+
+Galti ho jaaye,
+to maafi maang lena hi sabse bada bal hai.
+
+Shiv jaise mahan log,
+badle se nahi —
+daya se jeet te hain."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7
     with st.expander("Chapter 7 - Completion of Dakṣa’s Sacrifice"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 7 — Hinglish Story (Simple Moral Style)
+Daksha ke Yagya ka Poora Hona
+
+Maitreya Rishi bole,
+
+Jab sab devta aur Brahma ji
+Shiv ji ko mana kar le aaye…
+
+Tab Shiv ji muskura diye.
+
+Unka gussa shaant ho chuka tha."""
         create_image_text_layout(
             "attached_assets/chapter4/4.7.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🐐 Daksha ka Naya Sir
+
+Shiv ji bole,
+
+"Daksha ka jala hua sir wapas nahi aa sakta."
+
+"Isliye uske sharir par
+ek bakre ka sir laga diya jaaye."
+
+"Bhaga dusre devta ki aankhon se dekhega."
+
+"Pusha daant ke bina aata khaayega."
+
+"Bhrigu ki daadhi bhi bakre jaisi hogi."
+
+Sab ne kaha —
+"Waah! Waah!"
+
+🌸 Daksha ka Jeevan Lautna
+4
+
+Jab bakre ka sir joda gaya…
+
+Shiv ji ne kripa bhari nazar daali.
+
+Daksha jaise neend se jaag gaya.
+
+Usne saamne Shiv ji ko dekha.
+
+Uska mann badal chuka tha.
+
+Jaise sharad ritu mein paani saaf ho jaata hai.
+
+😢 Pachtava
+
+Daksha kuch bol nahi pa raha tha.
+
+Use apni beti Sati yaad aa gayi.
+
+Uski aankhen bhar aayi.
+
+Phir haath jod kar bola:
+
+"Prabhu,
+maine aapka apmaan kiya."
+
+"Par aapne mujhe saza dekar bhi bachaya."
+
+"Aap aur Hari alag nahi ho."
+
+"Aap mahan ho."
+
+Shiv ji ne use maaf kar diya.
+
+🔥 Vishnu ka Aagman
+
+Yagya dobara shuru hua.
+
+Is baar poore shraddha se.
+
+Tab aakash se prakash chha gaya.
+
+Bhagwan Vishnu Garud par aaye.
+
+Neel varna sharir.
+Haath mein shankh, chakra, gada, padma.
+
+Lakshmi ji unke vaksh par virajmaan.
+
+Sab devta khade ho gaye.
+
+Haath jod liye.
+
+🙏 Sabki Stuti
+
+Brahma, Indra, Shiv —
+sab ne unki stuti ki.
+
+Daksha ne bhi kaha:
+
+"Aap hi yagya ho."
+
+"Aap hi havan samagri ho."
+
+"Aap hi agni ho."
+
+"Sab kuch aap hi ho."
+
+Vishnu bole,
+
+"Main hi Brahma hoon."
+
+"Main hi Shiv hoon."
+
+"Jo teenon mein bhed dekhta hai,
+woh sach nahi samajhta."
+
+"Jo sab mein ekta dekhta hai,
+use hi shanti milti hai."
+
+🌼 Yagya Sampann
+
+Daksha ne pehle Vishnu ko hissa diya.
+
+Phir Shiv ji ko.
+
+Phir sab devtaon ko.
+
+Yagya shanti se poora hua.
+
+Sab ne pavitra snaan kiya.
+
+Devta apne lok wapas chale gaye.
+
+🌺 Sati ka Naya Janm
+
+Maitreya bole,
+
+Sati ne apna purana shareer chhod diya tha.
+
+Par woh phir janmi.
+
+Is baar Himavan ki beti — Parvati ke roop mein.
+
+Phir se Shiv ji ko hi apna pati banaya.
+
+Prem kabhi marta nahi.
+
+👶 Kartikeya ka Janm
+
+Baad mein Shiv ji ka tej
+Ganga ne dharan kiya.
+
+Usse ek balak janma.
+
+Chhe mukh wala.
+
+Isliye naam pada — Shanmukh.
+
+Wahi Kartikeya bana.
+
+Devtaon ka senapati.
+
+✨ Moral
+
+Ahankaar todta hai.
+Daya jodti hai.
+
+Jo teen roop mein ek ko dekhe,
+vah sachcha gyaani hai.
+
+Prem aur satya,
+hamesha jeet te hain."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 8
     with st.expander("Chapter 8 - Story of Dhruva"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 8 — Dhruva ki Kahani (Hinglish Story Style)
+Ek Chhote Rajkumar ki Badi Tapasya
+
+Maitreya Rishi bole,
+
+Raja Uttanapad ki do patniyan thi —
+Suniti aur Suruchi.
+
+Suruchi raja ki pasandida thi.
+Suniti ko zyada pyaar nahi milta tha.
+
+Suniti ka beta tha — Dhruva."""
         create_image_text_layout(
             "attached_assets/chapter4/4.8.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        👑 Ek Din Ka Apmaan
+
+Ek din raja Suruchi ke bete Uttam ko
+godi mein bithakar pyaar kar rahe the.
+
+Chhota Dhruva bhi daud kar aaya.
+
+Woh bhi papa ki godi mein baithna chahta tha.
+
+Par raja ne use roka nahi…
+bas chup rahe.
+
+Tab Suruchi ne teekhe shabd bole:
+
+"Yeh singhasan ya godi tumhare liye nahi hai."
+
+"Tum mere garbh se paida nahi hue."
+
+"Agar rajgaddi chahiye,
+to Bhagwan ki tapasya karo."
+
+"Phir mere garbh se janm lena."
+
+Yeh shabd teer ki tarah lage.
+
+😢 Maa ka Updesh
+
+Dhruva rota hua apni maa Suniti ke paas gaya.
+
+Suniti ne use gale laga liya.
+
+Woh khud bhi ro padi.
+
+Par unhone shant hokar kaha:
+
+"Beta, doosron ko dosh mat do."
+
+"Jo milta hai, woh karmon ka phal hota hai."
+
+"Agar sabse ooncha sthaan chahiye,
+to Bhagwan Vishnu ki sharan jao."
+
+"Unke charan sabse bade hain."
+
+"Unhe paakar hi sab kuch milta hai."
+
+Dhruva ke mann mein aag jal uthi.
+
+Par ab woh gusse ki nahi,
+sankalp ki aag thi.
+
+🌲 Van ki Ore
+
+Sirf 5 saal ka bachcha.
+
+Par hausla pahaad jaisa.
+
+Dhruva mahal chhod kar
+van ki taraf chal pada.
+
+Raaste mein Rishi Narad mile.
+
+🎶 Narad ka Pariksha
+
+Narad ji bole,
+
+"Beta, tum abhi chhote ho."
+
+"Yeh sab bhool jao."
+
+"Samay aane par tapasya karna."
+
+Par Dhruva ne kaha,
+
+"Mera dil toot gaya hai."
+
+"Mujhe sabse ooncha sthaan chahiye."
+
+"Jo kisi ne na paaya ho."
+
+Narad ji muskura diye.
+
+Unhone samajh liya —
+yeh bachcha aam nahi hai.
+
+🕉 Mantra ka Vardan
+
+Narad ji bole,
+
+"Yamuna ke kinare Madhuvan jao."
+
+"Snan karo."
+
+"Dhyaan lagao."
+
+Aur mantra diya:
+
+“Om Namo Bhagavate Vasudevaya.”
+
+"Is mantra ka jap karo."
+
+"Bhagwan ka roop man mein dekho."
+
+🌟 Bhagwan ka Roop
+4
+
+Narad ji ne bataya:
+
+"Bhagwan neele megh jaise hain."
+
+"Char bhujaen."
+
+"Haath mein shankh, chakra, gada, padma."
+
+"Peetambar pehne hue."
+
+"Unke mukh par komal muskaan."
+
+"Unke charan kamal jaise sundar."
+
+🧘 Dhruva ki Kathor Tapasya
+
+Dhruva Madhuvan pahunch gaya.
+
+Pehle mahine —
+har teesre din phal khaya.
+
+Doosre mahine —
+har chhatthe din sukhi ghaas.
+
+Teesre mahine —
+sirf paani.
+
+Chauthe mahine —
+sirf hawa.
+
+Paanchve mahine —
+ek pair par khade hokar
+saans bhi rok li.
+
+Dhyaan itna gahra tha
+ki teenon lok hilne lage.
+
+Devta ghabra gaye.
+
+Unki saans rukne lagi.
+
+Woh Bhagwan Vishnu ke paas gaye.
+
+🙏 Devtaon ki Pukar
+
+Devta bole,
+
+"Prabhu, humein bachaiye!"
+
+"Kisi ki tapasya se
+hamari saans ruk gayi hai!"
+
+Bhagwan bole,
+
+"Darro mat."
+
+"Woh Raja Uttanapad ka beta Dhruva hai."
+
+"Usne apne mann ko mujh mein laga diya hai."
+
+"Main uski tapasya todne ja raha hoon."
+
+✨ Moral
+
+Apmaan se tootna nahi chahiye.
+Usse sankalp banana chahiye.
+
+Umar chhoti ho sakti hai,
+par irade bade hone chahiye.
+
+Jo Bhagwan par sachche mann se tik jaye,
+uska naam Dhruv tara ki tarah amar ho jaata hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 9
     with st.expander("Chapter 9 - Viṣṇu’s boon and Dhruva’s Coronation"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 9 — Vishnu ka Vardan aur Dhruva ka Rajyabhishek
+Chhote Balak ka Amar Sthaan
+
+Maitreya Rishi bole,
+
+Jab Devta shaant ho gaye,
+tab Bhagwan Vishnu khud
+Garud par baith kar
+Madhuvan aaye.
+
+Woh apne bhakt ko dekhna chahte the."""
         create_image_text_layout(
             "attached_assets/chapter4/4.9.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Dhruva apne hriday mein
+Bhagwan ka roop dekh raha tha.
+
+Achanak woh roop
+andar se gayab ho gaya.
+
+Usne aankhen kholi…
+
+Bhagwan samne khade the.
+
+Neel megh jaisa sharir.
+Char bhujaen.
+Haath mein shankh, chakra, gada, padma.
+
+Dhruva ka dil bhar aaya.
+
+Woh zameen par dandvat gir gaya.
+
+Jaise lakdi seedhi girti hai.
+
+Uski aankhen Bhagwan ko pee rahi thi.
+
+Par woh bol nahi pa raha tha.
+
+Tab Bhagwan ne
+apne shankh se
+uske gaal ko sparsh kiya.
+
+Aur turant…
+
+Dhruva ko divya vaani mil gayi.
+
+🙏 Dhruva ki Stuti
+
+Dhruva bola,
+
+"Prabhu,
+aap hi sabke andar virajmaan ho."
+
+"Aap hi meri vaani ko shakti dete ho."
+
+"Aap hi sab kuch ho."
+
+"Aap ek ho,
+par sab mein dikhte ho."
+
+"Mujhe aapke bhakton ka sang chahiye."
+
+"Unke saath rehkar
+main sansar sagar paar karna chahta hoon."
+
+Par uske mann mein
+abhi bhi ek chhoti si ichchha thi.
+
+Sabse ooncha sthaan paane ki.
+
+🎁 Vishnu ka Vardan
+
+Bhagwan muskura kar bole,
+
+"Dhruva,
+mujhe pata hai tum kya chahte ho."
+
+"Main tumhe ek aisa sthaan deta hoon
+jo kisi ko nahi mila."
+
+"Sab grah, tare, rashi
+tumhare chaaron taraf ghoomenge."
+
+"Woh sthaan kabhi naash nahi hoga."
+
+Wahi sthaan bana — Dhruv Tara.
+
+Aakash ka sabse sthir tara.
+
+👑 Rajya ka Samay
+
+Bhagwan ne kaha,
+
+"Tum 36,000 saal tak
+dharti par raj karoge."
+
+"Nyay aur dharma se raj karna."
+
+"Phir mere paas aaoge."
+
+Bhagwan wapas chale gaye.
+
+Dhruva kuch sochne laga.
+
+😔 Dhruva ka Pachtava
+
+Usne socha,
+
+"Maine kya maanga?"
+
+"Bhagwan ne to Moksha dena chaha."
+
+"Par maine sirf raj aur pad maanga."
+
+"Jaise koi gareeb
+raja se sirf anaaj maange."
+
+Uska dil halka ho gaya.
+
+Ab usme gussa nahi tha.
+
+🏰 Ghar Wapsi
+
+Raja Uttanapad ko
+jab pata chala Dhruva aa raha hai…
+
+Unhe vishwas nahi hua.
+
+Par jab sach jaana,
+woh khushi se ro pade.
+
+👨‍👦 Pita ka Gale Lagana
+4
+
+Raja ne rath se utar kar
+Dhruva ko gale laga liya.
+
+Aankhon se aansu behne lage.
+
+Unhone uske sir ko baar-baar chuma.
+
+Maa Suniti ne use gale lagaya.
+
+Khushi ke aansuon se
+unke stanon se doodh bahne laga.
+
+Suruchi bhi pighal gayi.
+
+Usne kaha,
+"Beta, dirghayu ho."
+
+Sab nagar saj gaya.
+
+Galiyon mein phool,
+deepak,
+sandal jal,
+mangal geet.
+
+👑 Rajyabhishek
+
+Jab Dhruva bada hua,
+Raja ne use rajgaddi de di.
+
+Khud van ko chale gaye.
+
+Dhruva ne dharma se raj kiya.
+
+Aur baad mein
+Dhruv Tara ban kar
+aakash mein amar ho gaya.
+
+✨ Moral
+
+Apmaan se shuru hua safar
+Amarata par khatam hua.
+
+Bhagwan sachche bhakt ko
+uski ichchha bhi dete hain,
+aur usse seekh bhi dete hain.
+
+Jo mann ko Bhagwan mein sthir kare,
+wahi Dhruv ban jaata hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 10
     with st.expander("Chapter 10 - Dhruva invades Alakā"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 10 — Dhruva ka Alakā par Hamla
+Gusse ki Aag aur Maya ka Andhera
+
+Maitreya Rishi bole,
+
+Dhruva ne vivah kiya.
+
+Uski do patniyan thi.
+
+Uske ghar mein sab theek chal raha tha.
+
+Par ek din…
+buri khabar aayi."""
         create_image_text_layout(
             "attached_assets/chapter4/4.10.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        ⚔️ Bhai ki Mrityu
+
+Dhruva ka bhai Uttam
+Himalaya mein shikar karne gaya tha.
+
+Wahan ek shaktishaali Yaksha ne
+use maar diya.
+
+Uski maa Suruchi
+dukh se jal kar
+uske peeche chal basi.
+
+Yeh sunte hi
+Dhruva ka hriday gusse se bhar gaya.
+
+Aankhon mein aansu bhi the.
+
+Par andar badle ki aag jal uthi.
+
+🏔️ Alakā ki Ore Yudh
+4
+
+Dhruva ne apna vijayi rath chadh liya.
+
+Woh uttar disha mein
+Himalaya ki ghaatiyon ki taraf badha.
+
+Wahan thi Yakshon ki rajdhani — Alakā.
+
+Shehar pahaadon ke beech tha.
+
+Rudra ke gan wahan ghoomte the.
+
+Dhruva ne apna shankh bajaya.
+
+Aakash goonj utha.
+
+Yaksha sainik bhadak gaye.
+
+🏹 Teer ki Barish
+
+Yaksha talwar, bhala, gada lekar
+bahar nikle.
+
+Dhruva ne ek saath
+har yoddha par teen teer chala diye.
+
+Unke maathe par teer lage.
+
+Sab chauk gaye.
+
+Yakshon ne bhi
+chhe-chhe teer chala diye.
+
+Phir ek lakh se zyada Yaksha
+ek saath toot pade.
+
+Lohe ke hathiyaar,
+bhale, talwarein,
+pathar,
+sab Dhruva par barsne lage.
+
+Kuch pal ke liye
+Dhruva dikhai hi nahi diya.
+
+Jaise pahaad
+baarish mein chhup jaata hai.
+
+Devta chillaye,
+
+"Haaye! Dhruva doob gaya!"
+
+Par tabhi…
+
+🌞 Sooraj ki Tarah Wapas
+
+Dhruva ka rath
+badalon ke peeche se nikle suraj jaisa
+phir chamka.
+
+Usne apne dhanush ki taar khinchi.
+
+Aawaz se hi dushman ka dil kaanp gaya.
+
+Uske teer
+vajra ki tarah
+kavach cheer gaye.
+
+Ranbhoomi mein
+sir, bhujayein, mukut, gehne
+bikhre pade the.
+
+Bache huye Yaksha
+bhag gaye.
+
+🧙 Yakshon ki Maya
+
+Dhruva ne shehar mein ghusne se mana kiya.
+
+Usne kaha,
+
+"Ye log jadugar hain.
+Inki maya samajhna mushkil hai."
+
+Tabhi achanak…
+
+Aakash kaala ho gaya.
+
+Bijli chamki.
+
+Garajna hone lagi.
+
+Khoon, maans, ganda paani
+aasman se barasne laga.
+
+Bina sir ke shareer
+girne lage.
+
+Aakash mein pahaad dikha.
+
+Har taraf se pathar, gada, talwar barasne lage.
+
+Aag ugalte saap
+uski taraf badhe.
+
+Hathi, sher, bagh
+ek saath toot pade.
+
+Samundar jaisa
+bhayanak shor hua.
+
+Yeh sab tha
+Yakshon ki kala jadoo ki maya.
+
+🙏 Rishiyon ki Pukar
+
+Yeh dekh kar rishi ghabra gaye.
+
+Unhone prarthana ki:
+
+"Hey Dhruva!"
+
+"Bhagwan Vishnu ka naam lo!"
+
+"Unka sharan lo!"
+
+"Unka astra hi
+is maya ko tod sakta hai!"
+
+✨ Moral
+
+Gussa andha kar deta hai.
+
+Badla kabhi kabhi insaan ko
+dharma se door le jaata hai.
+
+Shakti ke saath vivek bhi zaroori hai.
+
+Jab andhera chha jaye,
+tab Bhagwan ka naam hi roshni deta hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
