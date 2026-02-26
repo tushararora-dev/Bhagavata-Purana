@@ -1779,66 +1779,690 @@ tab Bhagwan ka naam hi roshni deta hai."""
 
     # Chapter 11
     with st.expander("Chapter 11 - Svāyambhuva Manu Dissuades Dhruva from Fighting"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 11 — Svāyambhuva Manu Dissuades Dhruva from Fighting
+⚔️ Dhruva’s Fierce Counterattack
+
+Maitreya said:
+
+Sages ki baat sun kar Dhruva ne ācamana kiya aur apne dhanush par Nārāyaṇa-astra chadha diya.
+
+Jaise gyaan ke prakaash se andhkaar mit jata hai, waise hi Yakṣon ki māyā turant samaapt ho gayi.
+
+Sone ke nok wale teer bijli ki tarah nikle.
+Yakṣa sena cheer di gayi.
+Ve krodh se bhare hue Dhruva par toot pade —
+jaise saanp Garuḍa par hamla karte hain."""
         create_image_text_layout(
             "attached_assets/chapter4/4.11.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Lekin Dhruva ne unke:
+
+Baahu
+
+Jaangh
+
+Gardan
+
+Udhar
+
+sab kaat daale.
+
+Anak innocent Yakṣa mare gaye.
+
+👴 Svāyambhuva Manu ka Pravesh
+
+Tab Dhruva ke pitamah, Svāyambhuva Manu,
+daya se pighal kar rishiyon ke saath aaye.
+
+Unhone Dhruva ko roka.
+
+🗣️ Manu ka Upadesh
+
+Manu bole:
+
+"Hey putra, bas karo."
+
+"Yeh krodh paap ka dwar hai."
+
+"Ek Yakṣa ke dosh mein tumne anek nirdoshon ko maar diya."
+
+"Yeh hamare vansh ke layak nahi."
+
+Unhone samjhaya:
+
+Deh ko ātman samajhna bhranti hai
+
+Janm aur mrityu daiva (destiny) se hote hain
+
+Bhagavan sab mein samaan roop se virajmaan hain
+
+Krodh moksha ka sabse bada shatru hai
+
+🕊️ Darshan ka Tatva Gyaan
+
+Manu ne aur gahra tattva samjhaya:
+
+Srishti, sthiti, laya sab Bhagavan ki Māyā se hota hai
+
+Paramātma nirguṇa hote hue bhi sab ka kāraṇ hai
+
+Samay (Kāla), Karma, Prakriti — sab usi ki shaktiyan hain
+
+Bhagavan na kisi ke apne hain, na shatru
+
+Jaise hawa ke peeche dhool chalti hai,
+waise hi sab jeev uski ichchha se chal rahe hain.
+
+💭 Dhruva ko Yaad Dilaya
+
+Manu bole:
+
+"Tum wahi ho jo paanch saal ki umar mein van gaye the."
+
+"Tumne Bhagavan ko prasann kiya."
+
+"Tumhe Viṣṇu ka param pad mila."
+
+"Phir tum kaise krodh mein aakar dharm bhool gaye?"
+
+🧘 Sādhana ka Marg
+
+Manu ne antim upadesh diya:
+
+Kṣamā (forgiveness)
+
+Dayā (compassion)
+
+Maitrī (friendliness)
+
+Samatā (equanimity)
+
+Inse Bhagavan prasann hote hain.
+
+"Apne krodh ko aushadhi ki tarah niyantrit karo."
+
+"Kubera ko prasann karo, kyunki tumne uske sevakon ko maara hai."
+
+Dhruva ne shraddha se pranam kiya.
+
+Manu wapas chale gaye.
+
+✨ Moral
+
+Krodh sabse bada shatru hai.
+
+Ek vyakti ke dosh ke liye samuhik dand adharma hai.
+
+Jo bhagavat-bhakta hai, use sab mein Bhagavan dekhna chahiye.
+
+Shakti se bada hai — kṣamā.
+
+Sahi veer wahi hai jo apne krodh ko jeet le."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 12
     with st.expander("Chapter 12 - Kubera’s Boon and Dhruva’s Attainment of Viṣṇu’s Realm"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 12 — Kubera ka Vardan aur Dhruva ka Viṣṇu Lok Prapti
+💎 Kubera ka Aagman
+
+Maitreya bole:
+
+Jab Dhruva ne krodh chhod diya,
+tab dhan ke devata Kubera wahan aaye."""
         create_image_text_layout(
             "attached_assets/chapter4/4.12.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Dhruva ne vinamrata se haath jod diye.
+
+Kubera bole:
+
+"Hey pavitra kshatriya putra,
+tumne dushmani chhod di.
+Main tumse bahut prasann hoon."
+
+Unhone kaha:
+
+Na tumne Yakṣon ko maara.
+
+Na unhone tumhare bhai ko maara.
+
+Sab kuch Kaal (Time) karta hai.
+
+"I" aur "You" ka bhav
+sirf sharir se judne ki bhranti hai.
+Isi se dukh paida hota hai.
+
+🌿 Sabse Bada Vardan
+
+Kubera bole:
+
+"Tum Viṣṇu ke bahut priya ho.
+Mujhse koi bhi vardan maango."
+
+Dhruva ne dhan, rajya, ya shakti nahi maangi.
+
+Unhone kaha:
+
+"Mujhe Hari ka sadaiv smaran mile."
+
+Bas.
+
+Kubera muskuraaye.
+Unhone vardan diya.
+Aur antardhaan ho gaye.
+
+👑 Dhruva ka Rajya
+
+Dhruva ne:
+
+Yajña kiye
+
+Daan diye
+
+Praja ki raksha ki
+
+Sabko apne bachchon ki tarah maana
+
+36,000 saal tak dharm se rajya kiya.
+
+Phir ek din unhe samajh aaya:
+
+"Yeh sab maya hai.
+Sharir, dhan, rajya — sab nashvar hai."
+
+Unhone rajya apne putra ko de diya.
+Aur Badarikāśram chale gaye.
+
+🧘 Tapasya aur Bhakti
+
+Dhruva ne:
+
+Snan kiya
+
+Yog kiya
+
+Pranayama kiya
+
+Man ko ekagr kiya
+
+Unka hriday bhakti se pighal gaya.
+Aankhon se prem ke aansu behne lage.
+Sharir ka bhaav bhi bhool gaye.
+
+🚀 Divya Viman
+
+Ek din unhone dekha:
+
+Aakash se ek tejomay viman utar raha hai.
+Jaise poornima ka chand.
+
+Usmein do divya purush the:
+
+Chaar bhuja
+
+Shyam varna
+
+Mukut aur abhushan se alankrit
+
+Ve the Sunanda aur Nanda,
+Bhagavan ke do sevak.
+
+Unhone kaha:
+
+"Hey Dhruva,
+aapne paanch saal ki umar mein Bhagavan ko prasann kiya.
+Aapko Viṣṇu lok prapt hua hai.
+Chaliye."
+
+🌸 Maa ka Prem
+
+Dhruva viman mein baithne lage.
+
+Tab unhe maa Sunīti yaad aayi.
+
+"Main maa ko chhod kar kaise jaaun?"
+
+Bhagavan ke sevakon ne dikhaya —
+Unki maa pehle se hi ek aur divya viman mein ja rahi thi.
+
+Dhruva ka hriday khushi se bhar gaya.
+
+🌟 Mrityu par Vijay
+
+Jab Dhruva viman mein chadhe,
+Mrityu dev saamne aaye.
+
+Dhruva ne unke sir par pair rakha.
+Aur upar chadh gaye.
+
+Iska arth tha:
+
+Bhakta mrityu se bhi upar hota hai.
+
+✨ Dhruva Lok
+
+Dhruva teenon lok paar karke
+Saptarshi mandal ke upar gaye.
+
+Wahan ek amar sthaan mila.
+
+Aaj bhi:
+
+Surya
+
+Chandra
+
+Grah
+
+Taare
+
+sab Dhruva ke charo taraf ghoomte hain.
+
+Wahi hai Dhruva Tara.
+
+🎶 Nārada ka Geet
+
+Rishi Nārada ne kaha:
+
+"Jo sadhak saalon mein nahi paa sakte,
+woh Dhruva ne bachpan mein paa liya."
+
+"Sirf ek cheez se —
+Nishkapat Bhakti."
+
+🌼 Moral
+
+Sahi bhakta dhan nahi maangta, Bhagavan ka smaran maangta hai.
+
+Krodh chhodne se hi kripa milti hai.
+
+Jo sab mein Bhagavan dekhta hai, woh mrityu se pare chala jata hai.
+
+Sachchi bhakti se asambhav bhi sambhav ho jata hai.
+
+✨ Dhruva ki kahani humein sikhati hai —
+Umar chhoti ho sakti hai,
+par bhakti badi honi chahiye."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 13
     with st.expander("Chapter 13 - Dhruva’s descendants: King Aṅga’s Abdication"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 13 — Dhruva ke Vanshaj aur Raja Aṅga ka Vanaprasth
+🌿 Dhruva ke Baad
+
+Sūta ne bataya:
+
+Jab Dhruva Vaikuṇṭh chale gaye,
+Vidura aur bhi utsuk ho gaye.
+
+Unhone pucha:
+“Dhruva ke vansh mein kya hua?”"""
         create_image_text_layout(
             "attached_assets/chapter4/4.13.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        👑 Utkala ka Tyag
+
+Dhruva ka bada beta Utkala tha.
+
+Lekin usne rajgaddi lene se mana kar diya.
+
+Woh bachpan se hi:
+
+Shaant
+
+Asakta (detached)
+
+Samdrishti wala
+
+Usne sab mein apne aap ko dekha.
+Aur apne andar poori duniya ko.
+
+Log use pagal samajhte the.
+Par woh andar se brahma-gyani tha.
+
+Isliye uske chhote bhai Vatsara ko raja bana diya gaya.
+
+🌳 Vansh ka Vistar
+
+Vatsara ke vansh mein kai raja aaye.
+Unhi mein se ek the Aṅga.
+
+Aṅga dharmik aur dayalu raja the.
+Praja unse bahut prem karti thi.
+
+😢 Vena ka Janm
+
+Raja Aṅga ne yajña kiya.
+Unhe putra chahiye tha.
+
+Bhagavan ki kripa se unhe ek beta mila — Vena.
+
+Par bachpan se hi Vena:
+
+Nirdai
+
+Kathor
+
+Ahankari
+
+Woh jungle mein nirdosh jaanwaron ko marta.
+Bachchon ko satata.
+
+Log use dekh kar darte the.
+
+💔 Raja Aṅga ka Dukh
+
+Raja ne use samjhaya.
+Dand diya.
+Par Vena nahi badla.
+
+Raja ka hriday toot gaya.
+
+Unhone socha:
+
+“Nirputra rehna shayad behtar tha.”
+“Bura beta ghar ko narak bana deta hai.”
+
+Unki raaton ki neend chali gayi.
+
+🌌 Chupchaap Vidai
+
+Ek raat,
+sab so rahe the.
+
+Raja Aṅga chupchaap mahal chhod kar chale gaye.
+
+Na kisi ko jagaya.
+Na kisi ko bataya.
+
+Woh van mein chale gaye.
+
+😭 Praja ka Shok
+
+Subah jab logon ko pata chala,
+sab ro pade.
+
+Mantri, purohit, praja —
+sabne har jagah khoja.
+
+Par Raja Aṅga nahi mile.
+
+Rajya bina raja ke reh gaya.
+
+🌼 Moral
+
+Gyani hamesha shant dikhta hai, par andar se gehra hota hai.
+
+Bura sang aur galat pravritti ghar ko dukhi kar deti hai.
+
+Putra ya sampatti se bada hai — dharma aur shanti.
+
+Raja bhi dukhi ho sakta hai.
+
+Ghar tabhi sukhmay hai jab sanskaar sahi ho.
+
+✨ Kahani humein sikhati hai —
+Sampatti aur vansh se bada hai charitra."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 14
     with st.expander("Chapter 14 - The Story of Vena: Pṛthu’s Birth"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 14 — Vena ki Kahani aur Pṛthu ka Janm
+👑 Vena ko Raja Banaya Gaya
+
+Maitreya bole:
+
+Raja Aṅga ke chale jaane ke baad,
+desh mein anarchy phail gayi.
+
+Rishiyon ne socha:
+
+“Raja ke bina praja pashu jaise ho jaati hai.”
+
+Isliye unhone Vena ko raja bana diya,
+chahe log aur mantri khush na the.
+
+Shuru mein chor darr gaye.
+Jaise saanp ko dekh kar chuhe chup jaate hain."""
         create_image_text_layout(
             "attached_assets/chapter4/4.14.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        😡 Vena ka Ahankaar
+
+Gaddi milte hi Vena ghamandi ho gaya.
+
+Woh bola:
+
+“Koi yajña nahi hoga.”
+“Koi daan nahi hoga.”
+“Koi devata ki pooja nahi hogi.”
+
+Woh kehta tha:
+
+“Main hi sab devata hoon.”
+“Mujhe hi poojo.”
+“Aur kisi ko nahi.”
+
+Uska hriday kathor ho chuka tha.
+
+🧘 Rishiyon ka Samjhana
+
+Rishi shanti se uske paas gaye.
+
+Unhone kaha:
+
+“Dharma se hi rajya tikta hai.”
+“Praja ki raksha raja ka kartavya hai.”
+“Yajña aur pooja rokna adharm hai.”
+
+Par Vena hans pada.
+
+“Tum murkh ho.”
+“Main hi sab kuch hoon.”
+
+Usne Viṣṇu ki ninda ki.
+
+⚡ Rishiyon ka Krodh
+
+Rishi bole:
+
+“Yeh raja adharmi hai.”
+“Agar yeh jiyega, duniya barbaad karega.”
+
+Unhone “Hum” ki dhvani ki.
+
+Unke tapasya ke tej se
+Vena wahin gir kar mar gaya.
+
+🌪️ Fir se Anarchy
+
+Par raja ke bina desh phir ashant ho gaya.
+
+Chor lutne lage.
+Log dara-dara ghoomne lage.
+
+Rishi sochne lage:
+
+“Raja bina praja surakshit nahi reh sakti.”
+
+🌑 Jangha ka Manthan
+
+Unhone Vena ke shareer ko manthit kiya.
+
+Sabse pehle uski jangha (thigh) se
+ek chhota, kaala purush nikla.
+
+Uska roop ajeeb tha.
+
+Rishiyon ne kaha:
+
+“Niṣīda” — baith jao.
+
+Isliye woh Niṣāda kehlaaya.
+
+Usne Vena ke paap apne upar le liye.
+
+Uske vanshaj jungle aur pahaadon mein rehne lage.
+
+🌼 Moral
+
+Ahankaar raja ko andha bana deta hai.
+
+Jo dharma ko roke, woh swayam girta hai.
+
+Shakti bina vinamrata ke vinash laati hai.
+
+Adharm ka phal jaldi milta hai.
+
+Sahi neta wahi hai jo dharma ka palan kare.
+
+✨ Kahani sikhati hai —
+Rajya shastra se nahi,
+dharma se chalta hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 15
     with st.expander("Chapter 15 - Birth of Pṛthu and his Coronation"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 15 — Pṛthu ka Janm aur Rajyabhishek
+🌟 Divya Janm
+
+Maitreya bole:
+
+Rishiyon ne Vena ke baahu ka manthan kiya.
+
+Tab wahan se ek divya yugul janma —
+ek putra aur ek kanya.
+
+Rishiyon ne turant pehchaan liya.
+
+“Yeh Bhagavan Viṣṇu ka aṃśa hai.”
+“Aur yeh Lakṣmī ji ka avataar hai.”
+
+Putra ka naam rakha gaya — Pṛthu.
+Kanya ka naam rakha gaya — Arcis.
+
+Arcis hi unki patni bani."""
         create_image_text_layout(
             "attached_assets/chapter4/4.15.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🎉 Sabka Anand
+
+Aakash mein shankh aur dhol bajne lage.
+Gandharv geet gaane lage.
+Apsarayein nritya karne lagi.
+Devta phool barsane lage.
+
+Sabko samajh aa gaya —
+Ek mahan raja janm le chuka hai.
+
+👑 Rajyabhishek
+
+Brahma ji khud aaye.
+
+Unhone dekha:
+
+Pṛthu ke haath mein chakra ka chinh
+
+Pairon mein kamal ka chinh
+
+Unhone kaha:
+
+“Yeh sach mein Viṣṇu ka ansh hai.”
+
+Tab Pṛthu ka rajyabhishek hua.
+
+🎁 Devtaon ke Upahar
+
+Har devta kuchh lekar aaya:
+
+Kubera ne sona ka singhasan diya
+
+Varuṇa ne chhatra diya
+
+Vāyu ne chamara diye
+
+Indra ne mukut diya
+
+Yama ne dand diya
+
+Lakṣmī ne anant sampatti di
+
+Hari ne Sudarshan chakra diya
+
+Rudra ne talwar di
+
+Agni ne dhanush diya
+
+Surya ne teer diye
+
+Samudra ne shankh diya
+
+Prithvi ne raste diye.
+Pahaad aur nadiyon ne sahyog diya.
+
+Sab prani khush the.
+
+🎶 Bardo ki Prashansa
+
+Sūta, Māgadha aur Bandin gaane lage.
+
+Par Pṛthu muskuraye.
+
+Unhone kaha:
+
+“Abhi maine koi kaarya nahi kiya.”
+“Meri prashansa kyun?”
+“Jab tak gun prakat na ho, tab tak stuti nahi.”
+
+Unhone aur kaha:
+
+“Sachche gun ho tabhi prashansa achhi lagti hai.”
+“Jhoothi tareef sharm ki baat hai.”
+
+Sab log unki vinamrata dekh kar prabhavit ho gaye.
+
+🌼 Moral
+
+Sachcha neta vinamra hota hai.
+
+Mahaan log apni tareef se door rehte hain.
+
+Shakti aur sampatti tabhi pavitra hai jab saath mein namrata ho.
+
+Bhagavan ka ansh hone ka matlab hai — seva aur dharma.
+
+✨ Kahani sikhati hai —
+Asli mahanta shor se nahi,
+charitra se dikhai deti hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
