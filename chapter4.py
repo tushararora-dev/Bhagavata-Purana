@@ -2468,66 +2468,580 @@ charitra se dikhai deti hai."""
 
     # Chapter 16
     with st.expander("Chapter 16 - The Eulogy of Pṛthu by Bards"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 16 — Pṛthu ki Stuti (Bardon ka Geet)
+
+Maitreya bole:
+
+Jab Pṛthu ne vinamrata se kaha ki abhi meri prashansa mat karo,
+tab rishi bole —
+“Ab gaao.”
+
+Tab Sūta aur Māgadha ne madhur swar mein stuti shuru ki."""
         create_image_text_layout(
             "attached_assets/chapter4/4.16.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🎶 Bard bole:
+
+“Hey Maharaj,
+aap aam raja nahi ho.”
+
+“Aap Bhagavan ka ansh ho.”
+
+“Aap dharma ke rakshak ho.”
+
+👑 Ek Adarsh Raja
+
+Unhone kaha:
+
+Pṛthu sab par samaan drishti rakhte hain.
+
+Sahi samay par kar (tax) lete hain.
+
+Sahi samay par praja ko wapas dete hain.
+
+Jaise Surya jal ko leta hai
+aur baarish ke roop mein lauta deta hai.
+
+🌎 Dharti ke Rakshak
+
+“Yeh raja dharti ko gaay ki tarah dohenge.”
+“Sabko jeevan denge.”
+“Pahadon ko samaan karenge.”
+
+Unka shasan Surya ki roshni jaisa hoga —
+jahaan tak Surya chamakta hai,
+wahaan tak unka prabhav hoga.
+
+⚖️ Nyay aur Dayaa
+
+Bard bole:
+
+Agar apne putra bhi doshi ho, dand milega.
+
+Agar shatru ka beta nirdosh ho, bach jayega.
+
+Unke liye sab barabar hain.
+
+Woh:
+
+Brahmanon ka samman karte hain
+
+Buzurgon ki seva karte hain
+
+Dukhiyon par daya karte hain
+
+🦁 Veerta
+
+“Jab Pṛthu dhanush utha kar chalenge,
+dusht log chup jayenge.”
+
+Unka prabhav sher jaisa hoga.
+
+Woh 100 Aśvamedha yajña karenge.
+Indra bhi unse prabhavit hoga.
+
+📚 Gyaan ki Prapti
+
+Ek din ve Mahatma Sanatkumāra se milenge.
+
+Unse Brahma-gyan paayenge.
+
+Aur samajh jayenge:
+
+“Sab Bhagavan ka hi roop hai.”
+
+🌟 Asli Mahima
+
+Bardon ne ant mein kaha:
+
+“Yeh raja keval raja nahi.”
+“Yeh Bhagavan ka ansh hai.”
+“Yeh duniya ko sambhalne aaye hain.”
+
+🌼 Moral
+
+Sachcha raja praja ke liye jeeta hai.
+
+Nyay sab par samaan hona chahiye.
+
+Vinamrata sabse bada abhushan hai.
+
+Shakti ka upyog raksha ke liye hona chahiye.
+
+Jo dharti ka dhyan rakhta hai, wahi sacha neta hai.
+
+✨ Kahani sikhati hai —
+Mahaan log apni tareef nahi karte,
+par unke karm khud bolte hain."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 17
     with st.expander("Chapter 17 - Pṛthu subjugates the Earth"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 17 — Pṛthu ne Dharti ko Vash Kiya
+
+Maitreya bole:
+
+Raja Pṛthu ka rajyabhishek ho chuka tha.
+Sab log unse khush the.
+
+Par ek bada sankat aa gaya."""
         create_image_text_layout(
             "attached_assets/chapter4/4.17.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🌾 Bhookh se Tadapti Praja
+
+Dharti par anaaj nahi ug raha tha.
+Log bhookh se kamzor ho gaye.
+
+Praja roti hui raja ke paas aayi:
+
+“Hey Maharaj,
+hum bhookh se jal rahe hain.”
+“Aap hi hamare rakshak hain.”
+“Humein jeene ka saadhan dijiye.”
+
+Pṛthu ka hriday pighal gaya.
+
+🔍 Karan ka Pata
+
+Unhone dhyaan se socha.
+
+Unhe samajh aaya:
+
+Dharti ne beej apne andar chhupa liye hain.
+Isliye fasal nahi ho rahi.
+
+Raja krodhit ho gaye.
+
+Unhone dhanush uthaya.
+Teer chadha diya.
+
+🐄 Dharti ka Gaay Roop
+
+Dharti devi ne dekha ki raja krodh mein hain.
+
+Woh dar gayi.
+
+Unhone gaay ka roop le liya
+aur bhaagne lagi.
+
+Jaise shikari se bachti hiran.
+
+Par Pṛthu har jagah peecha karte rahe.
+
+Aakhir Dharti ruk gayi.
+
+🙏 Dharti ki Vinati
+
+Dharti boli:
+
+“Hey Dharmagya raja,
+mujhe mat maaro.”
+“Aap dayalu hain.”
+“Agar mujhe maar diya,
+to sab log kahaan rahenge?”
+
+Unhone yaad dilaya:
+
+“Aap hi ne mujhe pehle Varaha roop mein bachaya tha.”
+“Aap rakshak hain, vinashak nahi.”
+
+⚖️ Pṛthu ka Uttar
+
+Pṛthu bole:
+
+“Tum yajña ka hissa leti ho.”
+“Par anaaj nahi deti.”
+“Jo gaay doodh nahi deti, use dand milta hai.”
+
+“Main praja ko bachane ke liye aaya hoon.”
+
+Dharti kaanp uthi.
+
+🌿 Seekh ka Pal
+
+Dharti samajh gayi —
+yeh raja aam nahi hai.
+
+Yeh Bhagavan ka ansh hai.
+
+Unhone haath jod kar kaha:
+
+“Agar aap mujhe sahi tareeke se dohenge,
+to main sab kuch dungi.”
+
+🌼 Moral
+
+Raja ka kartavya praja ki raksha hai.
+
+Dharti maa tab deti hai jab use samman mile.
+
+Krodh se nahi, samajh se samasya sulajhti hai.
+
+Jo neta praja ke liye khada hota hai, wahi sachcha raja hai.
+
+✨ Kahani sikhati hai —
+Prakriti se ladna nahi,
+use samajhkar sahi disha deni chahiye."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 18
     with st.expander("Chapter 18 - Milking of the Earth in the form of a Cow"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 18 — Dharti ko Gaay bana kar Dohan
+
+Maitreya bole:
+
+Dharti ne Raja Pṛthu ko shaant karne ki koshish ki.
+Woh dar rahi thi, par samajhdari se boli."""
         create_image_text_layout(
             "attached_assets/chapter4/4.18.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🌼 Dharti ki Baat
+
+Dharti boli:
+
+“Hey Raja, krodh chhod dijiye.”
+“Buddhiman vyakti madhumakkhi ki tarah har jagah se saar leta hai.”
+
+Usne samjhaya:
+
+Purane rishiyon ne sahi tareeke bataye hain.
+
+Jo un tareekon ko maanta hai, wahi safal hota hai.
+
+Jab bure log paudhe barbaad kar rahe the,
+maine beej apne andar surakshit kar liye.
+
+Phir usne kaha:
+
+“Agar aap mujhe gaay ki tarah dohenge,
+to main sabko unka chaha hua phal dungi.”
+“Bas ek bachda (calf), ek bartaan aur ek doodh nikalne wala chahiye.”
+
+🐄 Pehla Dohan
+
+Raja Pṛthu maan gaye.
+
+Unhone Svayambhuva Manu ko bachda banaya.
+Apne haath ko hi bartaan banaya.
+
+Dharti se anaaj aur jadi-bootiyan nikali. 🌾
+
+Logon ki bhookh door hui.
+
+🌍 Sabne Apna Apna Doodh Nikala
+
+Phir alag-alag praniyon ne bhi Dharti ko doha.
+
+Rishiyon ne Veda ka gyaan nikala.
+
+Devtaon ne Soma-ras aur shakti li.
+
+Asuron ne madira li.
+
+Gandharvon ne madhur sangeet ka ras liya.
+
+Pitraon ne shraddha ka bhojan liya.
+
+Naagon ne vish nikala.
+
+Pahadon ne khanij (minerals) liye.
+
+Pedon ne apne ras liye.
+
+Pashuon ne ghaas li.
+
+Har praja ne apni zarurat ke hisaab se paaya.
+
+Dharti sabko deti hai.
+Par samajh aur maryada se.
+
+👑 Pṛthu ka Vikas
+
+Raja Pṛthu bahut prasann hue.
+
+Unhone Dharti ko beti jaisa samman diya. ❤️
+
+Phir:
+
+Pahadon ko tod kar zameen samaan ki.
+
+Shehar, gaon, kile aur kheti ke kshetra banwaye.
+
+Logon ko suraksha aur jeevika di.
+
+Unke raj mein log sukh se rehne lage.
+
+🌿 Moral
+
+Prakriti se zabardasti nahi, samajh se kaam lo.
+
+Har vyakti ko uski zarurat ke hisaab se milta hai.
+
+Achha neta wahi jo praja ka pita ban jaye.
+
+Dharti maa sab deti hai, bas sahi tareeka chahiye.
+
+✨ Isliye kehte hain —
+Sahi netritva se hi sansar mein samriddhi aati hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 19
     with st.expander("Chapter 19 - Pṛthu’s Horse-sacrifices and Conflict with Indra"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 19 — Pṛthu ke Ashvamedha Yajna aur Indra ka Irsha
+
+Maitreya bole:
+
+Raja Pṛthu ne socha —
+“Main 100 Ashvamedha Yajna karunga.”
+
+Yeh yajna Brahmavarta mein hua,
+jahan Saraswati nadi behti thi."""
         create_image_text_layout(
             "attached_assets/chapter4/4.19.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🔥 Yajna ka Mahotsav
+
+Yajna itna bhavya tha ki:
+
+Bhagavan Hari swayam prakat hue.
+
+Brahma, Shiva aur devta sab aaye.
+
+Gandharv gaane lage.
+
+Apsara nritya karne lagi.
+
+Dharti maa ne bhi kamal kar diya.
+
+Nadiyon mein doodh, ghee aur madhur ras behne lage.
+
+Pedon par shehad tapakne laga.
+
+Samundar ne ratna laakar diye.
+
+Sab kuch divya ho gaya. ✨
+
+😠 Indra ki Irsha
+
+Indra ne dekha:
+
+“Agar Pṛthu 100 yajna kar lega,
+to mera record toot jayega.”
+
+Uske mann mein irsha aa gayi.
+
+Jab 100va yajna shuru hua,
+Indra ne chhupkar yajna ka ghoda chura liya.
+
+🎭 Vesh Badalne ka Khel
+
+Indra ne alag-alag vesh dharan kiye:
+
+Jata-dhari tapasvi
+
+Bhasm laga kar sanyasi
+
+Kapal dharan karne wala
+
+Digambar roop
+
+Laal vastra wala roop
+
+Har baar woh ghoda chura leta.
+
+Pṛthu ka putra uska peecha karta.
+Kabhi use dharm samajh kar rok deta.
+Phir Atri rishi samjhate —
+“Yeh Indra hai.”
+
+Ant mein ghoda wapas mil jata.
+
+Putra ka naam pada — Vijitāśva
+(ghode ko jeetne wala).
+
+⚡ Pṛthu ka Krodh
+
+Jab Pṛthu ko pata chala,
+woh krodh se bhar gaye.
+
+Unhone dhanush uthaya.
+Indra ko maarne ko tayyar ho gaye.
+
+Tab yajna ke purohit bole:
+
+“Yajna mein kisi ko maarna uchit nahi.”
+
+Tab Brahma ji prakat hue.
+
+🕊️ Brahma ka Sandesh
+
+Brahma bole:
+
+“Indra bhi Vishnu ka hi ansh hai.”
+“Tum bhi Vishnu ka hi ansh ho.”
+“Krodh chhodo.”
+“99 yajna kaafi hain.”
+
+“Irsha aur zidd se dharm toot jata hai.”
+
+Pṛthu ne turant shant ho kar
+100va yajna rok diya.
+
+Indra se mitrata kar li.
+
+🌟 Ant ka Ashirvad
+
+Devta prasann hue.
+Rishiyon ne ashirvad diya.
+Pṛthu ki kirti aur badh gayi.
+
+🌿 Moral
+
+Irsha sabse bada shatru hai.
+
+Bada vyakti woh hai jo krodh chhod de.
+
+Ahankar se dharm toot jata hai.
+
+Kabhi-kabhi adhura kaam hi sahi hota hai.
+
+✨ Sahi neta jeet kar nahi,
+shant rehkar mahan banta hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 20
     with st.expander("Chapter 20 - Pṛthu initiated by Viṣṇu"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 20 — Pṛthu ko Bhagavan Viṣṇu ka Upadesh
+
+Maitreya bole:
+
+Bhagavan Viṣṇu khud Pṛthu ke yajna se prasann ho gaye.
+Woh Indra ko saath lekar prakat hue.
+
+Sab jagah shanti chha gayi. ✨"""
         create_image_text_layout(
             "attached_assets/chapter4/4.20.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🕊️ Bhagavan ka Sandesh
+
+Bhagavan bole:
+
+“Indra ne tumhara 100va yajna roka.”
+“Ab woh sharminda hai.”
+“Use kshama kar do.”
+
+Phir unhone gahri baat kahi:
+
+Shareer atma nahi hai.
+
+Jo buddhiwan hai, woh badla nahi leta.
+
+Atma nirmal, ajar, amar aur alag hai shareer se.
+
+“Jo mujhe bhakti se yaad karta hai,
+uska mann dheere-dheere shuddh ho jata hai.”
+
+👑 Raja ka Kartavya
+
+Bhagavan ne kaha:
+
+“Raja ka sabse bada dharm hai —
+praja ki raksha.”
+
+Achha raja praja ke punya ka ek hissa paata hai.
+
+Par jo sirf kar vasool kare aur raksha na kare,
+woh praja ke paap ka bhagidar banta hai.
+
+“Tum sama-bhav rakho.”
+“Sukh-dukh mein ek samaan raho.”
+
+🤝 Pṛthu ka Kshama
+
+Pṛthu ne turant Indra ko gale laga liya.
+Dushmani chhod di.
+
+Phir woh Bhagavan ke charanon mein gir pade.
+Unki aankhon mein aansu aa gaye.
+
+Woh kuch bol nahi pa rahe the.
+
+🌸 Pṛthu ka Vardan
+
+Bhagavan bole:
+
+“Mango, kya chahte ho?”
+
+Pṛthu bole:
+
+“Mujhe na dhan chahiye.”
+“Na swarg.”
+“Na moksha.”
+
+“Mujhe bas aapki mahima sunne ke liye
+hazaar kaan de do.”
+
+“Main aapke charan kamal ki katha hi sunna chahta hoon.”
+
+Unhone kaha:
+
+“Agar bhakti na mile,
+to moksha bhi bekaar hai.”
+
+🌟 Bhagavan ka Ashirvad
+
+Bhagavan muskura diye.
+
+“Tumhari bhakti sada bani rahe.”
+“Meri maya ko tum aasani se paar kar loge.”
+
+Phir Bhagavan Vaikunth laut gaye.
+
+Pṛthu bhi apni rajdhani wapas aaye.
+Unka hriday aur bhi pavitra ho chuka tha.
+
+🌼 Moral
+
+Sacha bhakt vardaan nahi, bhakti maangta hai.
+
+Kshama sabse bada bal hai.
+
+Raja ka dharm sirf shakti nahi, seva hai.
+
+Atma ko pehchaan lo, to krodh khatam ho jata hai.
+
+✨ Sabse bada dhan —
+Bhagavan ki bhakti hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
