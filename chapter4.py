@@ -3047,66 +3047,987 @@ Bhagavan ki bhakti hai."""
 
     # Chapter 21
     with st.expander("Chapter 21 - Pṛthu explains Dharma to his subjects"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 21 — Pṛthu apne praja ko Dharma samjhate hain
+👑 Pṛthu ka Rajya-Pravesh
+
+King Prithu jab apni rajdhani laut kar aaye,
+toh poori nagari ko utsav ki tarah sajaya gaya tha.
+
+Moti aur phoolon ki malaayein
+
+Sone ke toran
+
+Sugandhit dhup
+
+Chandan aur agaru se sugandhit sadkein
+
+Deep, phal, anaj aur phool se sajavat
+
+Log aur sundar striyan unka swagat karne nikle,
+haath mein deep aur pooja ki samagri lekar.
+
+Shankh aur nagade baj rahe the,
+Brahman ved-mantra ga rahe the."""
         create_image_text_layout(
             "attached_assets/chapter4/4.21.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🪔 Pṛthu ka Rajya-Dharma
+
+Pṛthu ne rajya ko dharma se chalaya.
+
+Praja ki raksha ki
+
+Jeevika ka prabandh kiya
+
+Anyay karne walon ko dand diya
+
+Unka rajya saat dweepo tak phaila hua tha
+(lekin Brahman aur Vishnu-bhakt swatantra the).
+
+📜 Sabha mein Pṛthu ka Updesh
+
+Ek bade yajna ke samay devta, rishi aur raja sab ikattha hue.
+Tab Pṛthu sabha mein khade hue aur dharma ka updesh diya.
+
+Unhone kaha:
+
+“Raja ka kartavya hai praja ki raksha karna
+aur unhe dharma ka path sikhana.”
+
+Agar raja sirf kar vasool kare
+aur praja ko dharma na sikhaye,
+toh raja praja ke paap ka bhaagi ban jata hai.
+
+🕉 Vishnu Bhakti ka Mahatva
+
+Pṛthu ne kaha:
+
+“Apne karm karte hue man ko
+Vishnu par sthir rakho.”
+
+Bhagwan Vishnu hi karmon ka phal dene wale hain.
+
+Unhone kaha:
+
+Vishnu ki seva ka ras badhta hi jata hai
+
+Unke charan ki bhakti sab paap dho deti hai
+
+Jo unke sharan mein jata hai woh samsara se mukta ho jata hai
+
+📚 Brahmanon ka Mahatva
+
+Pṛthu ne Brahmanon ki bahut prashansa ki.
+
+Unhone kaha:
+
+Brahman vedon ke rakshak hain
+
+Unki seva se man pavitra hota hai
+
+Bhagwan Vishnu bhi Brahmanon se prasann hote hain
+
+Pṛthu ne kaha:
+
+“Main Brahmanon ke charan ki dhool
+apne sir par dharan karna chahta hoon.”
+
+🐄 Gau aur Brahman ki Raksha
+
+Pṛthu ne prarthana ki:
+
+“Brahmanon ka vansh,
+gau mata,
+aur Vishnu bhakt
+sab mujh par kripa karein.”
+
+🙏 Sabha ka Pratikriya
+
+Rishi, devta aur pitron ne Pṛthu ki baat sunkar
+bahut prasannata prakat ki.
+
+Unhone kaha:
+
+Pṛthu jaise putra se pita bhi narak se bach jata hai
+
+Jaise Prahlada ne apne pita ko bachaya
+
+Sabne Pṛthu ko ashirvad diya:
+
+“Aap dharma ke sahare
+Brahman aur Kshatriya dono ko santulit rakhkar
+jagat ko sthir rakhte hain.”
+
+🌿 Is Adhyay ka Saar
+
+Is adhyay mein teen mukhya siddhant diye gaye:
+
+Rajadharma — Raja ka kartavya praja ki raksha aur dharma ka prachaar hai.
+
+Bhakti — Vishnu bhakti sabse uchch marg hai.
+
+Brahman aur Gau ka samman — samaj ki dharmic neev.
+
+Pṛthu ko isi liye Adarsh Raja mana jata hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 22
     with st.expander("Chapter 22 - Sanatkumāra’s Sermon to Pṛthu"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 22 — Sanatkumāra ka Updesh Pṛthu ko
+🌞 Sanakaadi Rishiyon ka Aagman
+
+Ek din jab King Prithu ki prashansa sab log kar rahe the,
+tab achanak char mahan rishi swarg se utarte hue dikhai diye.
+
+Ye the:
+
+Sanatkumara
+
+Sanaka
+
+Sanandana
+
+Sanatana
+
+Inka tej surya jaisa tha aur unki upasthiti se sab paap door ho jaate the.
+
+Pṛthu turant khade ho gaye aur bahut vinamrata se unka swagat kiya."""
         create_image_text_layout(
             "attached_assets/chapter4/4.22.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Unhone:
+
+unke charan dhoye
+
+un jal ko apne sir par chhidka
+
+aur unhe sone ke aasan par baithaya
+
+🙏 Pṛthu ki Vinamrata
+
+Pṛthu bole:
+
+“Main kitna dhanya hoon ki mujhe aap jaise mahapurushon ka darshan mila.
+Aise yogi to bade-bade tapasvi bhi mushkil se dekh pate hain.”
+
+Unhone kaha:
+
+jis ghar mein sant aate hain wahi sach mein pavitra hai
+
+dhan se bhara ghar bhi nirarthak hai agar wahan bhakt na aaye
+
+Phir Pṛthu ne prashna kiya:
+
+“Is samsar se jaldi mukti ka marg kya hai?”
+
+🧘 Sanatkumāra ka Updesh
+
+Sanatkumara prasann hokar bole:
+
+“Raja! Tumne bahut uttam prashna kiya hai.
+Mahapurushon ki baat-cheet sabke hit ke liye hoti hai.”
+
+Unhone mukti ka marg bataya.
+
+1️⃣ Vairagya (Detachment)
+
+Manushya ko:
+
+sharir se asakti chhodni chahiye
+
+indriya-vishayon se door rehna chahiye
+
+Yahi moksha ka pratham marg hai.
+
+2️⃣ Bhakti aur Shravan
+
+Sanatkumara ne kaha:
+
+Vishnu ke charanon ki bhakti sabse mahan marg hai.
+
+Bhakti ke upay:
+
+Hari ki kathayein sunna
+
+satsang karna
+
+dhyan aur yog karna
+
+ahimsa aur sanyam rakhna
+
+Yeh sab milkar man ko shuddh kar dete hain.
+
+3️⃣ Asat Sang se Door Rehna
+
+Unhone kaha:
+
+lobh aur bhog mein doobe logon se door raho
+
+rajasic aur tamasic logon ki sangat se bachna chahiye
+
+Isse man shuddh hota hai.
+
+4️⃣ Atma Gyaan
+
+Sanatkumara bole:
+
+“Manushya ko samajhna chahiye ki vah sharir nahi,
+balki atma hai.”
+
+Jab gyaan prakat hota hai:
+
+ahankaar ka bandhan toot jata hai
+
+janm-mrityu ka chakra samapt ho jata hai
+
+5️⃣ Samsar ka Samundar
+
+Unhone ek sundar upma di:
+
+Samsar ek bhayanak samundar hai
+jisme:
+
+kaam
+
+krodh
+
+lobh
+
+moh
+
+mada
+
+matsarya
+
+jaise magarmachh hain.
+
+Is samundar ko paar karne ki naav hai:
+
+Hari ke charan.
+
+🪔 Pṛthu ki Kritagyata
+
+Pṛthu bahut prasann hue aur bole:
+
+“Mera sab kuch aapka hai—
+mera rajya, dhan, parivar aur main khud.”
+
+Unhone rishiyon ko pranam kiya.
+
+🌟 Pṛthu ka Jeevan
+
+Sanatkumara ke updesh ke baad:
+
+Pṛthu ka man atma mein sthir ho gaya
+
+ve karm karte hue bhi asakta nahi rahe
+
+sab karm Brahman ko arpit karte rahe
+
+Unke paanch putra hue:
+
+Vijitashva
+
+Dhumrakesha
+
+Haryaksha
+
+Dravina
+
+Vrika
+
+👑 Adarsh Raja Pṛthu
+
+Pṛthu ko sab devtaon ke gunon se tulna ki gayi:
+
+Indra jaisa shaktishali
+
+Surya jaisa praja-hitkari
+
+Himalaya jaisa sthir
+
+Kubera jaisa samriddh
+
+Manu jaisa dayalu
+
+Unki kirti teenon lokon mein phail gayi.
+
+🌿 Is Adhyay ka Saar
+
+Sanatkumara ka sandesh:
+
+Vairagya bina mukti nahi
+
+Vishnu bhakti sabse saral marg hai
+
+Satsang aur Hari-katha man ko shuddh karti hai
+
+Atma ko jaan kar hi samsar se mukti milti hai
+
+Pṛthu ne in sabko apnaya aur ek Raj-Rishi ban gaye."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 23
     with st.expander("Chapter 23 - Pṛthu’s penance and ascension to Heaven"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 23 — Pṛthu ki Tapasya aur Swargaarohan
+🌿 Rajya Tyag aur Vanaprastha
+
+King Prithu ne apni zindagi ka rajadharma poori tarah nibhaya:
+
+krishi aur nagar vyavastha sthapit ki
+
+praja ko jeevika di
+
+dharma ko sthir kiya
+
+prithvi ka palan kiya
+
+Jab ve vriddh ho gaye,
+toh unhone rajya apne putron ko de diya.
+
+Prithvi ko unhone “putri” ki tarah apne putron ke hawale kiya.
+
+Phir ve apni patni Arcis ke saath
+van mein tapasya ke liye chale gaye."""
         create_image_text_layout(
             "attached_assets/chapter4/4.23.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🔥 Pṛthu ki Kathor Tapasya
+
+Van mein unhone atyant kathin tapasya ki.
+
+Unka tapasya jeevan:
+
+kabhi sirf phal aur jad khate
+
+kabhi sukhe patton par jeevan
+
+kabhi sirf jal par
+
+kabhi keval vayu par
+
+Ritu ke anusaar tapasya:
+
+garmi mein pañcāgni tapasya
+
+varsha mein khule aasman ke neeche
+
+sardi mein thande paani mein khade rehna
+
+Saath hi:
+
+indriya sanyam
+
+brahmacharya
+
+pranayama
+
+maun aur dhyan
+
+Unka lakshya tha:
+
+Bhagwan Krishna ko prasann karna.
+
+🧘 Yog dwara Atma Sakshatkar
+
+Tapasya se:
+
+karm bandhan samapt ho gaye
+
+man shuddh ho gaya
+
+chhe shatru (kaam, krodh, lobh, moha, mada, matsarya) jeet liye
+
+Unhone Sanatkumara ke diye gaye yog marg ka anusaran kiya.
+
+Dhyan aur gyaan se unhone:
+
+ahankaar ki granthi tod di
+
+atma ka sakshatkar kiya
+
+🕉 Mahayogi ka Antim Samadhi
+
+Ant samay Pṛthu ne yogic prakriya se praan upar uthaya:
+
+mooladhara se
+
+nabhi
+
+hriday
+
+kanth
+
+bhrumadhya
+
+aur brahmarandhra tak
+
+Phir unhone:
+
+prithvi tatva ko prithvi mein
+
+jal ko jal mein
+
+agni ko agni mein
+
+vayu ko vayu mein
+
+akash ko akash mein vilin kiya
+
+Is prakriya ko Laya Chintana kaha gaya.
+
+Is prakar ve Brahman mein vilin ho gaye.
+
+❤️ Arcis ki Pativrata Bhakti
+
+Rani Arcis ne bhi apne pati ki seva mein tapasya ki.
+
+Jab Pṛthu ka sharir nirjeev ho gaya:
+
+unhone antim sanskar kiya
+
+snan aur shraddha kriya ki
+
+Phir pati ke smaran mein
+ve agni chita mein pravesh kar gayi.
+
+Is pativrata bhakti ko dekhkar devanganayein boli:
+
+“Jaise Lakshmi Narayan ki seva karti hai,
+waise hi Arcis ne Pṛthu ki seva ki.”
+
+Ve bhi apne pati ke lok mein pahunch gayi.
+
+🌟 Pṛthu ki Mahima
+
+Pṛthu ki kirti teenon lokon mein phail gayi.
+
+Unki katha sunne ka phal:
+
+Brahman ko ved gyaan milta hai
+
+Kshatriya ko rajya prapti
+
+Vaishya ko samriddhi
+
+Shudra ko uchch sthiti
+
+Aur jo shraddha se sunta hai:
+
+dhan
+
+santan
+
+kirti
+
+ayu
+
+aur antim moksha
+
+sab prapt karta hai.
+
+🌿 Adhyay ka Saar
+
+Pṛthu ki kahani sikhati hai:
+
+Rajadharma aur lok kalyan sabse bada kartavya hai.
+
+Ant mein sabko vairagya aur tapasya ki or badhna chahiye.
+
+Bhakti aur gyaan se hi moksha milta hai.
+
+Pativrata dharma bhi param shakti rakhta hai.
+
+Pṛthu ka jeevan Adarsh Raja → Rishi → Mukta Atma ka safar hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 24
     with st.expander("Chapter 24 - Pṛthu’s Descendants and the Hymn of Rudra"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 24 — Pṛthu ke Vanshaj aur Rudra ka Stotra
+👑 Pṛthu ke Vansh ka Aarambh
+
+King Prithu ke baad unke putra Vijitashva raja bane.
+Ve bahut prasiddh aur apne bhaiyon se prem karne wale the.
+
+Unhone apne rajya ko chaar dishaon mein baant diya:
+
+Haryaksha → Purva (East)
+
+Dhumrakesha → Dakshin (South)
+
+Vrka → Paschim (West)
+
+Dravina → Uttar (North)
+
+Is tarah sab bhaiyon ko alag-alag rajya mila."""
         create_image_text_layout(
             "attached_assets/chapter4/4.24.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🌫 Antardhāna ka Janm
+
+Vijitashva ko Indra se ek divya shakti mili
+— adrishya hone ki shakti.
+
+Isliye unka naam Antardhāna pad gaya.
+
+Unki patni Shikhandini se teen putra hue:
+
+Pavaka
+
+Pavamana
+
+Shuchi
+
+Ye pehle Agni dev ke roop the,
+jo ek shraap ke karan manushya roop mein janme the.
+Baad mein yog ke dwara phir devta ban gaye.
+
+🔥 Havirdhāna aur Prācīnabarhis
+
+Antardhāna ke doosri patni Nabhasvati se ek putra hua:
+
+Havirdhana
+
+Havirdhana ke chhe putra hue:
+
+Barhishad
+
+Gaya
+
+Shukla
+
+Krishna
+
+Satya
+
+Jitavrata
+
+Inmein se sabse bada Barhishad bahut mahan raja bana.
+
+Use Prācīnabarhis kaha gaya,
+kyunki usne poori prithvi ko kusha grass se bhar diya tha
+aur lagataar yajna karta rehta tha.
+
+💍 Prācīnabarhis ki Shaadi
+
+Prācīnabarhis ne samundra dev ki beti
+Śatadruti se vivah kiya.
+
+Śatadruti itni sundar thi ki:
+
+devta
+
+rishi
+
+gandharva
+
+nag
+
+sab uski sundarta dekhkar mohit ho gaye.
+
+👥 Pracetas ka Janm
+
+Śatadruti se Prācīnabarhis ke 10 putra hue.
+
+Unhe Pracetas kaha gaya.
+
+Sab:
+
+dharmik
+
+tapasvi
+
+aur ek jaise vrat palan karne wale the.
+
+Unke pita ne unhe kaha:
+
+“Tum sab tapasya karo aur srishti ko badhao.”
+
+🌊 Samudra mein Tapasya
+
+Pracetas tapasya karne ke liye samudra ke andar chale gaye.
+
+Wahan unhone 10,000 saal tak tapasya ki.
+
+Unka dhyan tha:
+
+Vishnu
+
+Lekin tapasya ke raste mein unhe ek aur mahan darshan hua.
+
+🔱 Shiva ka Darshan
+
+Ek sundar jheel ke paas
+unhe Shiva ka darshan hua.
+
+Shiva ji:
+
+teen netra wale
+
+neelkanth
+
+sone jaisa tej
+
+unke saath bahut se gan bhi the.
+
+Pracetas turant pranam karne lage.
+
+Shiva ji unse prasann hokar bole:
+
+“Main tumhare bhav ko jaanta hoon.
+Tum Vishnu bhakt ho, isliye tum mujhe bahut priya ho.”
+
+🕉 Vishnu Bhakti ki Mahima
+
+Shiva ji ne kaha:
+
+Jo vyakti Vishnu ka bhakt hai,
+vah mujhe bhi bahut priya hai.
+
+Unhone kaha:
+
+sau janmon ke dharma se Brahma lok milta hai
+
+aur adhik punya se Shiv lok
+
+lekin
+
+Vishnu bhakt seedha Vishnu lok pahunch jata hai.
+
+📜 Rudra Gita (Shiva ka Stotra)
+
+Shiva ji ne Pracetas ko ek pavitra stotra sikhaya.
+
+Isse Rudra Gita ya Yogadesha Stotra kaha jata hai.
+
+Is stotra mein Vishnu ki mahima ka varnan hai:
+
+vah sabka antaryami hai
+
+vah srishti ka karan hai
+
+vah Brahman ka roop hai
+
+vah sab jagah vyapak hai
+
+Stotra mein Vishnu ke sundar roop ka bhi varnan hai:
+
+megh jaisa neela rang
+
+chaar bhuja
+
+shankh
+
+chakra
+
+gada
+
+padma
+
+🌿 Bhakti ka Rahasya
+
+Shiva ji ne kaha:
+
+bhakti hi sabse bada marg hai
+
+gyaan aur tapasya bhi bhakti ke bina adhoori hai
+
+Jo bhakt:
+
+satsang karta hai
+
+Hari ka naam leta hai
+
+aur bhakti se jeeta hai
+
+uske liye samsar ka samundar paar karna aasaan ho jata hai.
+
+🌟 Stotra ka Phal
+
+Shiva ji ne kaha:
+
+Jo vyakti:
+
+subah uthkar is stotra ko padhta hai
+
+ya shraddha se sunta hai
+
+usko:
+
+paap se mukti
+
+gyaan
+
+bhakti
+
+aur moksha
+
+milta hai.
+
+🌿 Adhyay ka Saar
+
+Is adhyay se humein teen bade sandesh milte hain:
+
+Pṛthu ka vansh dharmik aur tapasvi rajaon se bhara tha.
+
+Shiva aur Vishnu ke bhakt ek dusre ko priya hote hain.
+
+Bhakti, gyaan aur satsang hi moksha ka marg hai.
+
+Pracetas ne Shiva ka diya hua stotra jap kar
+bhavishya mein bada adhyatmik siddhi prapt ki."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 25
     with st.expander("Chapter 25 - The Story of Purañjana—Introduction"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 25 — Purañjana ki Kahani (Prarambh)
+
+Yeh kahani ek allegory (prateek kahani) hai.
+Isme jīva (atma) aur Paramatma ka rahasya samjhaya gaya hai.
+
+🔱 Pracetas ki Tapasya
+
+Pracetas ne
+Shiva se prapt stotra ka jap karte hue
+10,000 saal tak tapasya ki.
+
+Tabhi unke pita Pracinabarhis yajna aur karmakand mein bahut lage hue the.
+
+Unhe samjhane ke liye aaye:
+
+Narada"""
         create_image_text_layout(
             "attached_assets/chapter4/4.25.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🧘 Narada ka Updesh
+
+Narada bole:
+
+“Hey raja! Tum itne yajna aur karm kar rahe ho,
+lekin kya isse sachcha sukh milega?”
+
+Unhone kaha:
+
+sachcha sukh karmakand se nahi milta
+
+karm bandhan aur badhata hai
+
+Phir Narada ne ek kathor baat kahi:
+
+“Tumne yajna ke naam par bahut janwaron ki bali di hai.”
+
+Narada bole:
+
+“Jin janwaron ko tumne mara hai,
+ve sab tumhara intezar kar rahe hain.”
+
+Yeh sun kar raja chintit ho gaya.
+
+Tab Narada ne kaha:
+
+“Main tumhe ek purani kahani sunata hoon —
+Purañjana ki kahani.”
+
+👑 Raja Purañjana
+
+Ek raja tha:
+
+Puranjana
+
+Uska ek dost tha:
+
+Avijñāta
+(jiska matlab hai — Paramatma, jo sab jaanta hai lekin pehchana nahi jata).
+
+Purañjana duniya mein ek achha ghar dhund raha tha.
+
+Lekin use kahin bhi santosh nahi mila.
+
+🏙 Nau Darwazon wali Nagari
+
+Ek din usne Himalaya ke paas ek sundar nagar dekha.
+
+Us nagar mein:
+
+9 darwaze the
+
+sundar mahal
+
+bazaar
+
+bagiche
+
+jheel
+
+sundar ped aur phool
+
+Yeh nagar bahut hi adbhut tha.
+
+👩 Rahasyamayi Sundari
+
+Us bagiche mein Purañjana ko ek sundar kanya dikhi.
+
+Uske saath the:
+
+10 sevak
+
+har sevak ke saath 100 sevika
+
+Aur uski raksha kar raha tha:
+
+5 sir wala ek saanp
+
+Kanya bahut sundar thi:
+
+kamal jaisi aankhen
+
+madhur muskaan
+
+gehne aur payal ki madhur dhwani
+
+Purañjana us par mohit ho gaya.
+
+❤️ Purañjana ka Prashn
+
+Purañjana ne pucha:
+
+“Hey sundari, tum kaun ho?
+Kahan se aayi ho?”
+
+Usne pucha:
+
+tumhare saath yeh log kaun hain
+
+yeh paanch sir wala saanp kaun hai
+
+aur tum is nagar mein kya kar rahi ho
+
+🌸 Sundari ka Uttar
+
+Kanya muskura kar boli:
+
+“Na mujhe apne pita ka pata hai
+aur na apne janm ka.”
+
+Usne kaha:
+
+mujhe nahi pata kisne yeh nagar banaya
+
+main yahan bas rehti hoon
+
+Phir usne Purañjana se kaha:
+
+“Agar tum chaho to hum dono milkar
+is nagar mein 100 saal tak sukh bhog sakte hain.”
+
+🏡 Grihastha Jeevan ki Mahima
+
+Kanya ne kaha:
+
+“Grihastha jeevan hi sabse bada marg hai.”
+
+Yahin milta hai:
+
+dharma
+
+artha
+
+kama
+
+santan
+
+kirti
+
+Aur sab praniyon ka palan bhi grihastha karta hai.
+
+💞 Purañjana ka Moh
+
+Purañjana us kanya se vivah kar leta hai.
+
+Dono nagar mein rehne lagte hain.
+
+Lekin dheere-dheere:
+
+raja apni patni ke vash mein ho jata hai.
+
+Jo patni karti:
+
+vah wahi karta.
+
+Agar:
+
+patni roti → raja rota
+
+patni hasta → raja hasta
+
+patni chalti → raja chalta
+
+patni gaati → raja gaata
+
+Yeh sab dekh kar lagta tha jaise:
+
+raja apni asli pehchan bhool gaya ho.
+
+🌿 Is Kahani ka Rahasya (Sanket)
+
+Yeh kahani asal mein ek prateek hai:
+
+Kahani ka Character	Asal Arth
+Purañjana	Jīva (atma)
+Avijñāta	Paramatma
+Nau darwazon ki nagari	Manushya ka sharir
+Sundari	Buddhi / man
+10 sevak	10 indriya
+5 sir wala saanp	Prana
+
+Yeh kahani batati hai ki:
+
+Atma jab sharir aur indriyon ke sukh mein phas jati hai,
+to apni asli pehchan bhool jati hai.
+
+🌟 Adhyay ka Saar
+
+Is prarambhik adhyay ka sandesh:
+
+Karmakand se moksha nahi milta.
+
+Manushya sharir ek nagar jaisa hai jisme 9 dwar hain.
+
+Atma indriya sukh mein phas kar apni asli pehchan bhool jati hai.
+
+Paramatma hamesha saath hota hai, par jiva use pehchan nahi pata.
+
+Aage ke adhyayon mein Purañjana ki kahani aur gehri hogi,
+aur uska poora rahasya samjhaya jayega."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
