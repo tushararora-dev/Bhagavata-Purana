@@ -4033,77 +4033,1332 @@ aur uska poora rahasya samjhaya jayega."""
 
     # Chapter 26
     with st.expander("Chapter 26 - Purañjana’s Hunting Expedition and His Queen‘s Wrath Pacified"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 26 — Purañjana ka Shikar aur Rani ka Krodh
+🏹 Shikar ki Ichchha
+
+Ek din raja Puranjana ne shikar par jaane ka faisla kiya.
+
+Usne:
+
+sone ka kavach pehna
+
+bada dhanush liya
+
+teeron ka bhandar liya
+
+Aur apne rath par chadh kar jungle ki taraf nikal gaya."""
         create_image_text_layout(
             "attached_assets/chapter4/4.26.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Uska rath bhi bahut adbhut tha:
+
+5 ghode
+
+2 pahiye
+
+1 saarathi
+
+1 lagam
+
+aur kai raksha vyavastha
+
+Yeh sab ek prateek (symbol) tha manushya ke sharir aur indriyon ka.
+
+🌲 Jungle mein Shikar
+
+Raja shikar ke junoon mein itna doob gaya ki:
+
+usne apni patni ko peeche chhod diya
+
+jungle mein ghus gaya
+
+Wahan usne bahut janwaron ko maar diya:
+
+khargosh
+
+suar
+
+bhains
+
+hiran
+
+aur kai aur prani
+
+Yeh sab dekh kar daya wale logon ko bahut dukh hota.
+
+Shastron ke anusar:
+
+raja sirf yajna ke liye hi shikar kar sakta hai,
+anavashyak hinsa nahi karni chahiye.
+
+Lekin Purañjana ne is maryada ka dhyan nahi rakha.
+
+😩 Thakan aur Wapas Aana
+
+Bahut shikar karne ke baad raja:
+
+thak gaya
+
+bhookh aur pyaas se pareshan ho gaya
+
+Phir vah mahal wapas aa gaya.
+
+Usne:
+
+snan kiya
+
+bhojan kiya
+
+aur aram kiya
+
+💭 Rani ki Yaad
+
+Thoda aram karne ke baad usne apni patni ko yaad kiya.
+
+Lekin use rani kahin nazar nahi aayi.
+
+Raja ne mahal ki auraton se pucha:
+
+“Kya meri rani theek hai?”
+
+Usne kaha:
+
+“Ghar bina patni ke
+toote hue rath jaisa lagta hai.”
+
+😢 Rani ka Krodh
+
+Mahal ki striyon ne bataya:
+
+“Rani zameen par leti hui hai.”
+
+Raja turant wahan gaya.
+
+Usne dekha:
+
+rani gusse mein hai
+
+zameen par leti hai
+
+uska chehra udaas hai
+
+Raja bahut dukhi ho gaya.
+
+❤️ Raja ka Manana
+
+Raja ne pyar se rani ko manane ki koshish ki.
+
+Usne:
+
+madhur shabd bole
+
+rani ke pair chhuye
+
+use godh mein bithaya
+
+Aur kaha:
+
+“Jo sevak galti karta hai
+aur malik use dand deta hai
+to vah bhi kripa hi hoti hai.”
+
+Phir raja ne kaha:
+
+“Agar kisi ne tumhe dukh diya hai
+to main use saja dunga.”
+
+🙏 Raja ki Maafi
+
+Aakhir raja ne apni galti sweekar ki.
+
+Usne kaha:
+
+“Main shikar ke junoon mein tumse bina pooche chala gaya.
+Yeh meri galti hai.
+Kripya mujhe maaf kar do.”
+
+🌿 Is Kahani ka Antar Arth
+
+Yeh kahani bhi ek symbolic kahani hai.
+
+Kahani ka Character	Asli Arth
+Purañjana	Jīva (atma)
+Rani	Buddhi
+Rath	Sharir
+5 ghode	5 indriya
+Shikar	Indriya sukh ka pichha
+
+Yeh batati hai:
+
+Jab jiva indriya sukh mein fas jata hai,
+to uski buddhi usse naraaz ho jati hai.
+
+🌟 Adhyay ka Saar
+
+Is adhyay ka sandesh:
+
+Indriya sukh ka pichha karna manushya ko bhramit kar deta hai.
+
+Buddhi aur vivek ko nazarandaz karna galat hai.
+
+Jeevan mein santulan zaroori hai.
+
+Ahankar aur junoon se galti hoti hai, lekin vinamrata se use sudhara ja sakta hai.
+
+Aage ki kahani mein pata chalega:
+
+Purañjana ka jeevan kaise aage badhta hai aur uski kahani ka asli rahasya kya hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 27
     with st.expander("Chapter 27 - Invasion of Caṇḍavega—The Episode of Kālakanyā"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 27 — Caṇḍavega ka Hamla aur Kālakanyā ki Kahani
+💞 Purañjana ka Moh
+
+Raja Puranjana
+apni patni Purañjanī ke moh mein poori tarah fas gaya.
+
+vah din raat uske saath sukh bhogta raha
+
+uski madhur baaton mein dooba raha
+
+Is moh ke karan:
+
+use samay ka beetna mehsoos hi nahi hua.
+
+Uski jawani dheere-dheere khatam hone lagi."""
         create_image_text_layout(
             "attached_assets/chapter4/4.27.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        👨‍👩‍👧‍👦 Bahut Bada Parivar
+
+Purañjana aur uski rani ke:
+
+1100 putra hue
+
+aur 110 daughters
+
+Sabka vivaah bhi ho gaya.
+
+Unke bachche aur potey bhi hue.
+
+Is tarah raja ka parivar bahut bada ho gaya.
+
+Lekin isi ke saath:
+
+raja ka moh bhi badhta gaya.
+
+Ab uska mann:
+
+dhan
+
+ghar
+
+parivar
+
+rajya
+
+mein hi laga rehta tha.
+
+🪔 Yajna aur Hinsa
+
+Raja kai yajna karta tha.
+
+Lekin un yajnon mein:
+
+bahut janwaron ki bali hoti thi
+
+Isliye yeh yajna bhi hinsa se bhare hue the.
+
+Raja dheere-dheere:
+
+dharmik marg se door hota gaya.
+
+⏳ Caṇḍavega ka Aakraman
+
+Ek din ek gandharva raja aaya:
+
+Candavega
+
+Uske saath the:
+
+360 Gandharva
+
+aur 360 Gandharvi
+
+Yeh kya prateek the?
+
+360 din
+
+360 raat
+
+Matlab:
+
+samay ka beetna.
+
+Ye sab milkar raja ki nagari par hamla karne lage.
+
+🐍 Nag Rakshak ki Ladai
+
+Nagari ki raksha kar raha tha:
+
+Prajāgara naam ka saanp
+
+Yeh prateek tha:
+
+prana (life force)
+
+Vah akela hi:
+
+720 din aur raat
+
+yani samay ke saath
+
+ladta raha.
+
+Yeh ladai 100 saal tak chali
+— jo manushya ki jeevan avadhi ka prateek hai.
+
+Lekin dheere-dheere us saanp ki shakti kam hone lagi.
+
+😔 Raja ko Khatra
+
+Jab nag kamzor hone laga
+toh raja aur uska rajya bhi kamzor hone laga.
+
+Lekin raja fir bhi:
+
+sharab
+
+sukh
+
+aur striyon ke moh
+
+mein dooba hua tha.
+
+Use apne jeevan ke khatre ka pata hi nahi tha.
+
+👵 Kālakanyā — Budhapa
+
+Phir kahani mein aati hai:
+
+Kālakanyā
+
+Yeh thi:
+
+budhapa (old age) ka prateek.
+
+Kālakanyā teenon lokon mein pati dhund rahi thi.
+
+Lekin koi bhi use apnana nahi chahta tha.
+
+Isliye use Durbhagā (badnaseeb) kaha gaya.
+
+😠 Narada ka Shraap
+
+Ek din usne rishi
+
+Narada
+
+se vivaah ka prastav kiya.
+
+Lekin Narada brahmachari the.
+
+Unhone mana kar diya.
+
+Gusse mein Kālakanyā ne Narada ko shraap diya:
+
+“Tum kabhi ek jagah nahi reh paoge.”
+
+Isi wajah se Narada hamesha bhraman karte rehte hain.
+
+💀 Yavana Raja Bhaya
+
+Narada ke kehne par
+Kālakanyā gayi Yavana raja ke paas.
+
+Us raja ka naam tha:
+
+Bhaya
+
+Bhaya ka matlab hai:
+
+Mrityu (Death)
+
+Bhaya ne kaha:
+
+“Main tumhe pati nahi bana sakta.”
+
+Lekin usne kaha:
+
+tum meri behen ban jao
+
+aur mere saath duniya mein ghoomo
+
+🤒 Prajvāra — Bhayanak Bukhar
+
+Bhaya ne apne bhai ko bhi bulaya:
+
+Prajvāra
+
+Yeh prateek tha:
+
+bhayanak bukhar aur rog
+
+Bhaya ne kaha:
+
+“Tum dono mere saath milkar duniya ke sab logon ko kamzor karoge.”
+
+Is tarah:
+
+budhapa
+
+rog
+
+aur mrityu
+
+milkar sabhi jeevon ka ant karte hain.
+
+🌿 Adhyay ka Gehra Arth
+
+Yeh pura adhyay ek prateek kahani hai:
+
+Kahani ka Character	Asli Arth
+Purañjana	Jīva (atma)
+Purañjanī	Buddhi
+Candavega	Samay
+360 Gandharva	Din
+360 Gandharvi	Raat
+Prajāgara saanp	Prana (life energy)
+Kālakanyā	Budhapa
+Bhaya	Mrityu
+Prajvāra	Rog aur bukhar
+🌟 Adhyay ka Saar
+
+Is adhyay ka sandesh bahut gehra hai:
+
+Samay dheere-dheere manushya ki jeevan shakti ko kam karta hai.
+
+Budhapa, rog aur mrityu sabhi ko aate hain.
+
+Jo vyakti sukh aur moh mein dooba rehta hai, use samay ka pata hi nahi chalta.
+
+Ant mein sab kuch samay ke aage haar jata hai.
+
+Agle adhyay mein pata chalega:
+
+Purañjana ka rajya kaise barbaad hota hai aur uska jeevan kaise samapt hota hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 28
     with st.expander("Chapter 28 - Purañjana’s Rebirth as a Woman and Attainment of Liberation"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 28 — Purañjana ka Ant, Punah Janm aur Moksha
+🏙️ Nagari par Hamla
+
+Rishi Narada ne kahani aage batayi.
+
+Ek din Bhaya ke sainik
+(yaani rog aur bimariyan) achanak Purañjana ki nagari par hamla kar dete hain.
+
+Unke saath the:
+
+Kālakanyā — budhapa
+
+Prajvāra — bhayanak bukhar
+
+Budha ho chuka raja kamzor pad gaya.
+Rog har taraf se sharir par hamla karne lage.
+
+Nagari (sharir) tootne lagi."""
         create_image_text_layout(
             "attached_assets/chapter4/4.28.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        😢 Raja ka Dukh
+
+Raja Puranjana bahut dukhi ho gaya.
+
+Use sab chinta satane lagi:
+
+meri patni ka kya hoga
+
+mere bachon ka kya hoga
+
+mera ghar kaise chalega
+
+Woh bas isi soch mein dooba raha.
+
+Par usne kabhi apne asli astitva ko yaad nahi kiya.
+
+🔥 Ant ka Samay
+
+Tab Prajvāra (bhayanak bukhar) aaya.
+
+Usne nagari ko aag ki tarah jala diya.
+
+Yeh prateek hai:
+
+maut ke samay sharir ka tootna.
+
+Purañjana ko Yavana (mrityu ke doot) pakad kar le gaye.
+
+Us samay bhi:
+
+uske mann mein patni aur parivar ki chinta hi thi.
+
+⚖️ Paap ka Phal
+
+Jab uski mrityu hui:
+
+usne jo janwar yajna mein mare the
+
+un sabne us par hamla kiya
+
+Yeh uske paapon ka phal tha.
+
+Phir woh andhkar mein gira aur bahut dukh bhoga.
+
+🔁 Punarjanm
+
+Mrityu ke samay uska mann patni par laga hua tha.
+
+Isliye agle janm mein:
+
+woh ek sundar rajkumari ke roop mein paida hua.
+
+Uska janm Vidarbha ke raja ke ghar hua.
+
+👑 Rajkumari ka Vivaah
+
+Us rajkumari ka vivaah hua:
+
+Malayadhvaja
+
+Yeh ek bahadur aur dharmik raja tha.
+
+Unke:
+
+7 putra
+
+aur 1 beti
+
+hui.
+
+Beti ka vivaah rishi Agastya se hua.
+
+🏔️ Tapasya ka Jeevan
+
+Baad mein raja Malayadhvaja ne:
+
+rajya apne beton ko de diya
+
+aur van mein tapasya karne chale gaye
+
+Rajkumari (Purañjana ka naya janm) bhi unke saath chali gayi.
+
+Dono ne:
+
+tapasya
+
+sanyam
+
+aur bhakti
+
+ka jeevan jeena shuru kiya.
+
+Raja ne kathin tapasya ki.
+
+Ant mein usne Bhagwan Vāsudeva ka dhyan karte hue
+atma ka gyaan prapt kar liya.
+
+🧘 Moksha
+
+Gehri tapasya aur gyaan se:
+
+usne apne aap ko Brahman ke roop mein samjha
+
+aur saṃsāra se mukti paa li.
+
+Yeh moksha tha.
+
+😭 Patni ka Shok
+
+Raja ki mrityu ke baad rani bahut royi.
+
+Usne chita banayi aur socha:
+
+main bhi pati ke saath jal jaungi.
+
+Tab ek gyani Brahmana wahan aaya.
+
+🦢 Purana Dost
+
+Us Brahmana ne kaha:
+
+“Tum mujhe pehchanti nahi?”
+
+Phir usne bataya:
+
+hum dono pehle Mānasa sarovar ke hans (swans) the
+
+aur bahut purane dost the
+
+Yeh Brahmana tha:
+
+Avijñāta
+
+Yaani:
+
+Paramatma
+
+🧠 Sachchai ka Gyaan
+
+Usne rani ko samjhaya:
+
+tum na Vidarbha ki rajkumari ho
+
+na Purañjana ho
+
+na kisi ka pati ya patni
+
+Tum aur main:
+
+ek hi atma hain.
+
+Jaisa darpan mein ek hi vyakti ke do pratibimb dikhte hain,
+
+waise hi:
+
+Jīva
+
+aur Paramatma
+
+alag nahi hain.
+
+🌿 Antim Gyaan
+
+Is prakar:
+
+rani ko apni asli pehchaan samajh aa gayi.
+
+Usne samjha:
+
+main sharir nahi, main atma hoon.
+
+Aur is gyaan se:
+
+use bhi mukti mil gayi.
+
+🌟 Kahani ka Arth
+
+Yeh kahani ek gambhir darshanik prateek hai.
+
+Kahani	Asli Arth
+Purañjana	Jīva (atma)
+Purañjanī	Buddhi
+Nagari	Sharir
+Kālakanyā	Budhapa
+Bhaya	Mrityu
+Prajvāra	Rog / bukhar
+Brahmana dost	Paramatma
+🧾 Is Adhyay ka Sandesh
+
+Manushya sharir aur sukh mein fas kar apni asli pehchaan bhool jata hai.
+
+Samay, rog aur budhapa sabko gher lete hain.
+
+Ant mein sirf atma ka gyaan hi mukti deta hai.
+
+Jīva aur Paramatma alag nahi hain.
+"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 29
     with st.expander("Chapter 29 - The Purañjana allegory explained"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 29 — Purañjana ki Kahani ka Asli Arth
+
+Raja Prācīnabarhis ne kaha:
+
+“Hey rishi, aapki kahani ka matlab hume clearly samajh nahi aaya. Kripya iska sachcha arth batayiye.”
+
+Tab rishi Narada ne us kahani ka gehra arth samjhaya.
+
+🏙️ Purañjana ka Matlab
+
+Narada ne kaha:
+
+Puranjana
+
+koi aam raja nahi hai.
+
+Woh darasal:
+
+Jīva (atma) ka prateek hai.
+
+Aur uski nagari ka matlab hai:
+
+manushya ka sharir.
+
+Jīva hi apne karmon ke according alag-alag sharir banata hai."""
         create_image_text_layout(
             "attached_assets/chapter4/4.29.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        👤 Avijñāta ka Matlab
+
+Purañjana ka ek dost tha:
+
+Avijñāta
+
+Narada ne bataya:
+
+woh Īśvara / Paramatma hai.
+
+Lekin log use pehchan nahi paate.
+
+👩 Purañjanī ka Arth
+
+Purañjana ki patni Purañjanī darasal:
+
+Buddhi (intellect) ka prateek hai.
+
+Jīva buddhi ke through hi:
+
+sochta hai
+
+faisle leta hai
+
+aur sukh-dukh ka anubhav karta hai.
+
+🏙️ Sharir ki Nagari
+
+Sharir ko kahani mein 9 gates wali city kaha gaya.
+
+Ye 9 gates kya hain?
+
+Gate	Arth
+2 Eyes	Aankhen
+2 Ears	Kaan
+2 Nostrils	Naak
+Mouth	Muh
+Genitals	Jananendriya
+Anus	Guda
+
+Inhi ke through jīva duniya ka anubhav karta hai.
+
+🐍 Panch-Mukh Saanp
+
+Kahani ka saanp kya hai?
+
+Prāṇa (life energy)
+
+Iske 5 roop hote hain:
+
+prana
+
+apana
+
+vyana
+
+samana
+
+udana
+
+Yeh sharir ko zinda rakhte hain.
+
+🧠 Man aur Indriya
+
+Narada ne aur bhi prateek samjhaye:
+
+Kahani	Arth
+10 companions	10 indriya (5 sense + 5 action organs)
+11th hero	Mind
+Pāñcāla country	5 sense objects
+
+Yaani:
+
+sound
+
+touch
+
+form
+
+taste
+
+smell
+
+🚩 Sharir ka Rath
+
+Narada ne sharir ko ek rath (chariot) bhi kaha.
+
+Rath ka Hissa	Arth
+Horses	5 senses
+Reins	Mind
+Charioteer	Intellect
+Wheels	Good & bad karma
+Flag	3 gunas (sattva, rajas, tamas)
+
+Jīva iss rath mein baith kar duniya mein ghoomta hai.
+
+⏳ Samay ka Hamla
+
+Candavega
+
+darasal samay ka prateek hai.
+
+Uske:
+
+360 Gandharva = din
+
+360 Gandharvi = raat
+
+Har din aur raat:
+
+insaan ki life ko kam karte jaate hain.
+
+👵 Kālakanyā
+
+Kālakanyā
+
+ka matlab hai:
+
+Budhapa (old age)
+
+Aur uska bhai:
+
+Bhaya = Death
+
+Prajvāra = fever / disease
+
+Yeh sab milkar sharir ko destroy kar dete hain.
+
+🔄 Janm-Maran ka Chakra
+
+Narada ne kaha:
+
+Jīva apne karmon ke according:
+
+kabhi devta
+
+kabhi manushya
+
+kabhi pashu
+
+kabhi aur roop
+
+mein janm leta hai.
+
+Yeh saṃsāra ka cycle hai.
+
+🐕 Ek Udaharan
+
+Narada ne ek example diya:
+
+Jaise ek bhooka kutta ghar-ghar bhatakta hai.
+
+Kabhi use:
+
+khana milta hai
+
+kabhi danda
+
+Waise hi jīva bhi:
+
+kabhi sukh
+kabhi dukh
+
+ka anubhav karta hai.
+
+❗ Karma se Mukti Nahi
+
+Narada ne ek important baat kahi:
+
+Sirf rituals aur karmas se mukti nahi milti.
+
+Kyunki:
+
+karma bhi ignorance se hi paida hota hai.
+
+Ek karma ko dusre karma se khatam karna:
+
+sapne ke andar dusra sapna dekhne jaisa hai.
+
+🌟 Asli Mukti ka Raasta
+
+Narada ne kaha:
+
+Bhakti hi mukti ka raasta hai.
+
+Jab koi vyakti:
+
+Bhagwan ki kahani sunta hai
+
+unka naam leta hai
+
+aur unse prem karta hai
+
+toh uske andar:
+
+gyaan
+
+aur vairagya
+
+apne aap aa jaate hain.
+
+📖 Hari Katha ki Mahima
+
+Narada ne kaha:
+
+Jahan bhakton ki sabha hoti hai
+aur wahan Hari ki kahaniyan sunai jaati hain,
+
+wahan:
+
+amrit jaisi anand ki dhara behne lagti hai.
+
+Jo log un kahaniyon ko sunte hain:
+
+unhe bhook
+
+pyaas
+
+dar
+
+dukh
+
+touch bhi nahi karte.
+
+🦌 Hiran ki Kahani
+
+Narada ne raja ko ek aur example diya.
+
+Ek hiran:
+
+phoolon ke bagiche mein ghoom raha hai
+
+apni saathi ke saath khush hai
+
+madhur awaaz sun raha hai
+
+Lekin:
+
+aage bhediye uska intezar kar rahe hain
+
+peeche shikari ka teer aa raha hai
+
+Waise hi insaan:
+
+sukh mein dooba rehta hai
+
+aur bhool jata hai ki maut paas aa rahi hai.
+
+🧘 Antim Updesh
+
+Narada ne kaha:
+
+“Hey raja, apni life ko samjho.”
+
+Sukh aur moh ko chhod kar:
+
+mann ko andar le jao
+
+aur Bhagwan Hari ki bhakti karo.
+
+Tabhi jeevan ka sach samajh aayega.
+
+🌿 Kahani ka Saar
+
+Is poori kahani ka sandesh hai:
+
+Sharir ek temporary nagari hai.
+
+Jīva us nagari ka raja hai.
+
+Samay, budhapa aur rog sabko destroy kar dete hain.
+
+Karma se mukti nahi milti.
+
+Bhakti aur atma-gyaan hi moksha ka raasta hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 30
     with st.expander("Chapter 30 - The Marriage of Pracetasas with Māriṣā and the birth of Dakṣa"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 30 — Pracetas aur Māriṣā ki Shaadi, Dakṣa ka Janm
+
+Rishi Vidura ne poocha:
+
+“Prācīnabarhis ke putron, yani Pracetas ne Bhagwan Hari ki tapasya ki. Unhe kya phal mila?”
+
+Tab rishi Maitreya ne kahani sunai.
+
+🌊 Pracetas ki Tapasya
+
+Raja Prācīnabarhis ke 10 putra the — Pracetas.
+
+Unhone apne pita ka aadesh maana.
+
+Aur sabhi bhai:
+
+samundar jaisa ek bada talab mein
+
+10,000 saal tak tapasya karte rahe.
+
+Woh baar-baar Shiv ji ka diya hua stotra padhte rahe.
+
+Unka uddeshya tha:
+
+Bhagwan ko prasann karna."""
         create_image_text_layout(
             "attached_assets/chapter4/4.30.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🌟 Vishnu ka Darshan
+
+10,000 saal ke baad:
+
+Vishnu
+
+khud unke saamne prakat hue.
+
+Unka roop bahut divya tha:
+
+Garuḍa par virajmaan
+
+peele vastra
+
+Kaustubha mani se alankrit
+
+haath mein divya shastra
+
+Unki chamak se charon taraf ka andhera door ho gaya.
+
+🕊️ Bhagwan ka Ashirvad
+
+Bhagwan Vishnu ne Pracetas se kaha:
+
+“Tum sab bhaiyon mein bahut prem hai. Main tumse bahut prasann hoon.”
+
+Unhone kuch vardaan diye:
+
+Jo bhi tumhe yaad karega, woh apne bhaiyon se prem karega.
+
+Jo Rudra ka stotra padhega usko gyaan milega.
+
+Tumhari kirti duniya mein phail jayegi.
+
+Aur sabse bada vardaan:
+
+Tumhara ek putra hoga jo Brahmā ke samaan mahan hoga.
+
+👧 Māriṣā ka Janm
+
+Bhagwan ne ek ladki ke baare mein bataya.
+
+Uska naam tha Māriṣā.
+
+Uski kahani bhi ajeeb thi.
+
+woh apsara Pramlocā aur rishi Kaṇḍu ki beti thi
+
+maa ne use chhod diya tha
+
+Tab ped-paudhon ne uski parvarish ki.
+
+Phir Chandra ne daya karke apni ungli se amrit pila kar usse zinda rakha.
+
+Bhagwan Vishnu ne kaha:
+
+“Tum sab bhai usse vivaah karo.”
+
+⏳ Vishnu ka Vachan
+
+Bhagwan ne aur kaha:
+
+tum bahut samay tak sukh bhogoge
+
+phir bhakti ke dwara mujhe prapt karoge
+
+Aur ek gehri baat bhi boli:
+
+“Jo ghar-grahasth mein rehkar bhi apne karm mujhe arpan karta hai, woh bandhan mein nahi padta.”
+
+🙏 Pracetas ki Prarthana
+
+Pracetas ne Vishnu ki stuti ki.
+
+Unhone kaha:
+
+“Prabhu, aapka darshan hi hamare liye sabse bada vardaan hai.”
+
+Unhone ek hi ichchha maangi:
+
+hume hamesha bhakton ki sangat mile.
+
+Unhone kaha:
+
+“Swarg ya moksha bhi ek pal ki satsang se bada nahi hai.”
+
+🌳 Pracetas ka Krodh
+
+Jab tapasya ke baad Pracetas paani se bahar aaye,
+
+toh unhone dekha:
+
+poori dharti par sirf ped hi ped ug gaye hain.
+
+Ped itne zyada the ki logon ke liye jagah hi nahi bachi.
+
+Pracetas gusse mein aa gaye.
+
+Unhone apni shakti se:
+
+aag
+
+aur hawa
+
+nikal kar ped jalane shuru kar diye.
+
+👴 Brahma ka Aana
+
+Tab Brahma wahan aaye.
+
+Unhone Pracetas ko shaant kiya.
+
+Aur kaha:
+
+“Pedon ko poori tarah mat jalao.”
+
+Phir bache hue pedon ne apni beti Māriṣā Pracetas ko de di.
+
+💍 Shaadi
+
+Pracetas ne Māriṣā se vivaah kar liya.
+
+Is vivaah se ek mahan putra paida hua:
+
+Daksha
+
+👶 Dakṣa ka Mahatva
+
+Dakṣa ek bahut mahan Prajāpati bana.
+
+Uska kaam tha:
+
+duniya mein jeev-jantu aur manushyon ki srishti ko badhana.
+
+Brahmā ne use creation ka mukhya adhikari bana diya.
+
+Aur usne kai Prajāpatiyon ko srishti ka kaam diya.
+
+🌿 Adhyay ka Saar
+
+Is kahani se kuch important baatein samajh aati hain:
+
+Bhakti aur tapasya se Bhagwan ka darshan mil sakta hai.
+
+Bhai-bhai ka prem Bhagwan ko bahut pasand hai.
+
+Grihastha jeevan bhi moksha ka raasta ban sakta hai agar karm Bhagwan ko samarpit ho.
+
+Satsang aur bhakti sabse bada vardaan hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 31
     with st.expander("Chapter 31 - The Story of Pracetasas: Their Renunciation and Liberation"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 31 — Pracetas ki Tyag aur Mukti ki Kahani
+
+Rishi Maitreya ne kahani aage batayi.
+
+Bahut samay tak rajya aur sukh bhogne ke baad
+Pracetas ko ek din sach ka gyaan hua.
+
+Unhe Bhagwan Vishnu ke shabd yaad aaye.
+
+Tab unhone:
+
+apni patni Māriṣā ko
+
+apne putra Daksha ke paas chhod diya
+
+Aur sab bhai van mein tapasya ke liye chale gaye."""
         create_image_text_layout(
             "attached_assets/chapter4/4.31.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🧘 Tapasya aur Dhyan
+
+Pracetas samundar ke kinare ek pavitra jagah par gaye.
+
+Wahan unhone:
+
+mann
+
+vaani
+
+prana
+
+sabko control kar liya.
+
+Aur sabhi Brahman (Paramatma) ka dhyan karne lage.
+
+🌟 Narada ka Aagman
+
+Tab wahan aaye mahan rishi
+
+Narada
+
+Pracetas unhe dekh kar khade ho gaye.
+
+Unhone pranam kiya aur kaha:
+
+“Hey rishi, humne Shiv aur Vishnu se jo gyaan paaya tha, woh grihastha jeevan ke moh mein lagbhag bhool gaye hain.”
+
+Isliye unhone Narada se prarthana ki:
+
+“Kripya hume fir se atma ka gyaan dijiye.”
+
+📖 Narada ka Updesh
+
+Narada ne bahut gehra gyaan diya.
+
+Unhone kaha:
+
+“Insaan ki zindagi, uska samay, uski vaani aur uske karm tabhi sach mein keemti hote hain jab woh Hari ki seva mein lagte hain.”
+
+Agar Bhagwan ko nahi paaya:
+
+janm
+
+yajna
+
+tapasya
+
+gyaan
+
+yoga
+
+sab bekaar ho jate hain.
+
+🌳 Ek Sundar Udaharan
+
+Narada ne ek simple example diya.
+
+Jaise ped ki jad ko paani dene se pura ped hara bhara ho jata hai.
+
+Waise hi:
+
+Bhagwan Vishnu ki bhakti se sab kuch prapt ho jata hai.
+
+🌍 Sab Kuch Hari se
+
+Narada ne kaha:
+
+duniya Hari se hi paida hui hai
+
+aur ant mein Hari mein hi laut jaati hai
+
+Jaise:
+
+badal aasman mein aate aur chale jaate hain
+
+par aasman par koi asar nahi padta
+
+Waise hi:
+
+duniya ke badlav Brahman ko prabhavit nahi karte.
+
+❤️ Bhagwan ko Kaise Khush Kare
+
+Narada ne bataya ki Bhagwan jaldi khush ho jate hain jab koi:
+
+sab praniyon par daya kare
+
+jo mile usmein santusht rahe
+
+indriyon ko control kare
+
+🙏 Bhagwan ko Kaun Pasand Hai
+
+Narada ne ek aur gehri baat kahi.
+
+Bhagwan ko pasand hain:
+
+gareeb aur seedhe bhakt.
+
+Par unhe pasand nahi:
+
+ghamandi log
+
+jo apni shakti, paisa ya gyaan par ghamand karte hain.
+
+Bhagwan Lakshmi ke pati hain
+phir bhi unhe sabse zyada pyare bhakt hi lagte hain.
+
+🕊️ Pracetas ki Mukti
+
+Narada ka updesh sunne ke baad:
+
+Pracetas ne Bhagwan Hari ka dhyan kiya.
+
+Aur dheere dheere:
+
+unhone moksha prapt kar liya.
+
+🙏 Vidura ka Anand
+
+Jab rishi Vidura ne yeh kahani suni,
+
+toh unki aankhon mein aansu aa gaye.
+
+Unhone kaha:
+
+“Aapne mujhe agyaan ke andhkaar se bahar nikal diya.”
+
+🏛️ Ant mein
+
+Baad mein Vidura rishi Maitreya ko pranam karke
+Hastinapur laut gaye.
+
+🌿 Adhyay ka Saar
+
+Is adhyay ka sandesh bahut simple hai:
+
+Grihastha jeevan ke baad tyag aur bhakti se mukti mil sakti hai.
+
+Bhagwan ki bhakti sabse bada gyaan hai.
+
+Jo Hari ko pa leta hai uske liye sab kuch mil jata hai.
+
+Ghamand se nahi, vinamr bhakti se Bhagwan milte hain."""
         create_image_text_layout(text_content=text2, layout="full")
