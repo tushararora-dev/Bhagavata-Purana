@@ -796,66 +796,486 @@ Asli sukh milta hai bhakti, gyaan aur detachment se."""
 
     # Chapter 6
     with st.expander("Chapter 6 - Ṛṣabha quits His body"):
-        text1 = """ """
+        text1 = """ 
+        Hinglish Story Rewrite (Simple + Emotional + Children Style):
+
+Ek raja ne prashna poocha,
+“Yogiyon ko jo shakti milti hai, woh toh achchi hoti hai…
+phir Rishabh Bhagwan ne unhe kyun reject kiya?”"""
         create_image_text_layout(
             "attached_assets/chapter5/5.6.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🧠 Mann par kabhi bharosa mat karo
+
+Rishi ne jawab diya,
+“Kuch log apne mann par kabhi poora bharosa nahi karte.”
+
+Kyunki mann bahut chanchal (unstable) hota hai 😕
+
+Agar tum mann par blindly trust karoge,
+toh woh tumhe galat raaste par le ja sakta hai.
+
+Mann hi deta hai:
+
+kaam (desire)
+krodh (anger)
+lobh (greed)
+dar (fear)
+🧘‍♂️ Rishabh ka alag raasta
+
+Bhagwan Rishabh bahut mahan the.
+Par woh simple aur ajeeb tareeke se rehte the.
+
+Log unhe pehchaan nahi paate the 😶
+
+Unhone sab kuch chhod diya —
+aur ek avadhut ki tarah jeene lage.
+
+Unhe pata tha ki
+“Main aur Paramatma ek hi hain.”
+
+🌍 Unka jeevan
+
+Rishabh alag-alag jagah ghoomte rahe —
+jaise jungle, pahaad, aur desh.
+
+Kabhi woh pagal jaise lagte the 🤯
+Par andar se woh poori tarah shaant the.
+
+🔥 Ant ka samay
+
+Ek din jungle mein aag lag gayi 🌲🔥
+Hawa se bamboo takra rahe the.
+
+Aag badhti gayi…
+aur usi mein Rishabh ka sharir jal gaya.
+
+Par unki atma bilkul free thi ✨
+
+⚠️ Galat raasta (Kalyug ki baat)
+
+Rishi ne bataya,
+“Kalyug mein log galat tareeke follow karenge.”
+
+Ek raja aayega jo Rishabh ka galat matlab samjhega.
+Aur log bhi uski baat maan kar bhatak jayenge 😔
+
+Woh:
+
+safai nahi rakhenge
+vedon ka apmaan karenge
+galat rituals follow karenge
+
+Aur dheere dheere…
+galat raaste par chale jayenge.
+
+💖 Bhakti ka sach
+
+Rishi ne kaha,
+“Sabse important hai bhakti (devotion) ❤️”
+
+Jo Bhagwan se sachcha pyaar karta hai,
+use sab kuch mil jaata hai —
+even bina maange.
+
+🌟 Moral:
+
+Apne mann par andha bharosa mat karo.
+Sachchi bhakti aur self-control hi life ka sahi raasta hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7
     with st.expander("Chapter 7 - The Life of Bharata"):
-        text1 = """ """
+        text1 = """ 
+        Śuka rishi ne kaha,
+“Ek mahan raja the — Bharata.”
+
+Woh bahut bade bhakt the 🙏
+Aur unhe dharti ka raja banaya gaya tha."""
         create_image_text_layout(
             "attached_assets/chapter5/5.7.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        👑 Raja Bharata ka jeevan
+
+Bharata ne shaadi ki aur unke 5 bete hue 👨‍👩‍👦‍👦
+Woh ek achhe raja the.
+
+Woh apni praja ka dhyaan rakhte the ❤️
+Aur sab kaam imandari se karte the.
+
+🔥 Bhakti aur yagya
+
+Bharata roz yagya aur pooja karte the.
+Par ek special baat thi…
+
+Woh har kaam ka phal
+Bhagwan Vishnu ko dedicate kar dete the 🙏
+
+Isse unka mann saaf hota gaya.
+Aur unki bhakti din ba din badhti gayi.
+
+💖 Dil mein Bhagwan
+
+Dheere dheere…
+unke dil mein Bhagwan ka roop bas gaya ✨
+
+Unhe andar hi andar
+bahut shanti aur khushi milne lagi 😊
+
+Kabhi kabhi toh unki aankhon se
+khushi ke aansu bhi aa jaate the.
+
+🌿 Sab kuch chhod diya
+
+Bahut saalon tak raj karne ke baad,
+Bharata ko samajh aa gaya…
+
+“Ab mujhe sab chhodkar bhakti karni chahiye.”
+
+Unhone apna rajya apne beto ko de diya 👑
+Aur jungle ke ek ashram mein chale gaye.
+
+🌳 Ashram ka jeevan
+
+Wahan Bharata akela rehta tha.
+Woh:
+
+phool aur patton se pooja karta 🌸
+tulsi se bhakti karta 🌿
+phal aur jad (roots) khata 🍃
+
+Ab usse duniya ki koi ichchha nahi thi.
+
+🧘‍♂️ Pure devotion
+
+Bharata ka mann bilkul shaant ho gaya.
+Uski bhakti itni gehri thi ki…
+
+Kabhi kabhi woh pooja bhi bhool jaata 😌
+Kyuki woh Bhagwan mein hi kho jaata tha.
+
+🌟 Moral:
+
+Sachchi bhakti se mann shuddh hota hai
+aur life mein asli shanti milti hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 8
     with st.expander("Chapter 8 - Bharata reborn as a deer"):
-        text1 = """ """
+        text1 = """ 
+        Ek din Raja Bharata nadi ke paas baith kar
+“Om” ka jap kar rahe the 🧘‍♂️
+
+Tabhi ek hiran (deer) paani peene aayi 🦌"""
         create_image_text_layout(
             "attached_assets/chapter5/5.8.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        😨 Achanak khatra
+
+Achanak ek sher zor se garja 🦁
+
+Hiran darr gayi…
+Aur jaldi se nadi paar karne lagi.
+
+Par darr ke maare…
+uska bachcha (fawn) paani mein gir gaya 😢
+
+Hiran bhaag kar ek jagah chali gayi…
+aur thakan se mar gayi.
+
+❤️ Daya ka faisla
+
+Bharata ne yeh sab dekha.
+
+Unhone socha,
+“Yeh chhota bachcha akela hai…
+Mujhe ise bachana chahiye.”
+
+Unhone use apne ashram le liya
+aur uski dekhbhaal karne lage 🥺
+
+💔 Dheere dheere badhti lagav
+
+Pehle toh sirf daya thi…
+Par dheere dheere woh lagav (attachment) ban gaya.
+
+Bharata:
+
+usse khilata 🍃
+uske saath khelta 😊
+use protect karta 🛡️
+
+Woh use apne bachche jaisa maanne laga ❤️
+
+⚠️ Sab kuch bhool gaye
+
+Ab problem shuru hui…
+
+Bharata apni pooja aur tapasya bhoolne laga 😔
+
+Uska mann sirf hiran ke bachche mein lag gaya.
+
+😢 Chinta aur dard
+
+Agar kabhi hiran nazar nahi aata,
+toh Bharata bahut pareshan ho jaata.
+
+Woh sochta:
+“Pata nahi mera bachcha safe hai ya nahi…”
+
+Uska mann bas usi mein ulajh gaya.
+
+⏳ Ant ka samay
+
+Dheere dheere samay beet gaya…
+
+Jab Bharata ki mrityu ka samay aaya,
+tab bhi uska mann usi hiran par tha.
+
+Aur isi wajah se…
+uska agla janam hiran ke roop mein hua 🦌
+
+😔 Pachtawa
+
+Hiran ke roop mein bhi usse sab yaad tha.
+
+Woh dukhi ho kar bola,
+“Maine galti kar di…
+Mujhe Bhagwan mein mann lagana chahiye tha.”
+
+🌿 Sudhar ka prayas
+
+Is baar woh akela rehne laga.
+Kisi se lagav nahi rakha.
+
+Aur apni life shanti se jee kar
+apna deer wala janam poora kiya.
+
+🌟 Moral:
+
+Zyada attachment bhi galat hota hai.
+Balance zaroori hai — warna hum apne goal se bhatak jaate hain."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 9
     with st.expander("Chapter 9 - Bharata, reborn as a Brāhmaṇa, saved by Bhadrakālī"):
-        text1 = """ """
+        text1 = """ 
+        🔄 Naya janam
+
+Deer wale janam ke baad,
+Bharata ka janam ek Brahman ghar mein hua 👶
+
+Is baar woh sab yaad rakhta tha…
+Apni purani galti bhi 😔
+
+Isliye usne decide kiya,
+“Main kisi se attachment nahi banaunga.”"""
         create_image_text_layout(
             "attached_assets/chapter5/5.9.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🤐 Alag rehne ka faisla
+
+Bharata ne acting ki jaise woh:
+
+pagal hai 🤯
+behra hai 🙉
+kuch nahi samajhta
+
+Taaki koi usse attach na ho.
+
+Par andar se…
+woh bahut gyani aur shant tha ✨
+
+👨‍👦 Parivaar ka misunderstanding
+
+Uske pita use padhana chahte the 📚
+Par Bharata dhyaan nahi deta tha (jaan-bujhkar).
+
+Pita ki death ho gayi… 😢
+Aur bhaiyon ne use bewakoof samajh liya.
+
+Woh use chhote kaam karwate the.
+
+🌿 Simple life
+
+Bharata simple life jeeta tha:
+
+jo milta, wahi khata 🍚
+bina shikayat kaam karta
+garmi-thand sab jhelta
+
+Usse koi farak nahi padta tha.
+
+Kyunki woh apne real self ko jaanta tha 🧘‍♂️
+
+⚠️ Badi mushkil
+
+Ek din kuch chor (robbers) aaye.
+
+Unhe ek insaan chahiye tha
+BhadraKali devi ki bali ke liye 😨
+
+Unhe Bharata mil gaya…
+Aur woh use pakad kar le gaye.
+
+😨 Bali ki taiyari
+
+Unhone Bharata ko nahaya, sajaya,
+aur mandir mein le gaye.
+
+Sab ready tha…
+Bas bali dene wale the ⚔️
+
+⚡ Devi ka krodh
+
+Tabhi achanak…
+Devi Bhadrakali khud prakat ho gayi! 😱
+
+Unhe gussa aa gaya.
+
+Unhone dekha ki ek pavitra vyakti ko
+galat tareeke se maara ja raha hai.
+
+🔥 Nyay hua
+
+Devi ne turant action liya ⚡
+
+Unhone sab choron ko maar diya
+aur Bharata ko bacha liya.
+
+Sab kuch ek pal mein khatam ho gaya.
+
+✨ Bharata safe
+
+Bharata bilkul shaant tha.
+Usse darr bhi nahi laga.
+
+Kyunki woh already
+bhagwan mein poora vishwas rakhta tha 🙏
+
+🌟 Moral:
+
+Jo sachcha bhakt hota hai,
+Bhagwan hamesha uski raksha karte hain."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 10
     with st.expander("Chapter 10 - Bharata’s Life: King Rahūgaṇa accepts discipleship"):
-        text1 = """ """
+        text1 = """ 
+        👑 Raja Rahugana ki yatra
+
+Ek din Raja Rahugana apni palki (palanquin) mein ja rahe the.
+Unhe ek rishi ke paas jaana tha gyaan lene 📚
+
+Palki uthane ke liye ek aadmi kam tha…
+Tab unhe Bharata mil gaya.
+
+Unhone socha,
+“Yeh strong hai, isse utha lo.”
+
+Aur bina pooche hi use kaam par laga diya."""
         create_image_text_layout(
             "attached_assets/chapter5/5.10.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🚶‍♂️ Alag chalne ka tareeka
+
+Bharata dheere dheere chal raha tha.
+Woh dhyaan se zameen dekh kar chal raha tha
+taaki kisi chhote jeev ko chot na lage 🐜
+
+Is wajah se palki hilne lagi.
+
+Raja gussa ho gaya 😠
+Aur bola,
+“Seedha chalo! Kya kar rahe ho?”
+
+😡 Raja ka ghamand
+
+Baaki log bole,
+“Hum theek chal rahe hain,
+yeh naya aadmi problem kar raha hai.”
+
+Raja ne Bharata ka mazaak udaaya,
+“Lagta hai tum thak gaye ho…
+ya tum weak ho!”
+
+😌 Bharata ka shaant jawab
+
+Bharata ne halka sa muskura kar kaha,
+
+“Raja ji, jo aap keh rahe ho woh sharir ke liye sahi ho sakta hai…
+par main sharir nahi hoon.”
+
+Usne samjhaya:
+
+“Thakan, bhook, dard — yeh sab body ko hota hai.”
+“Atma ko nahi.”
+“Main na utha raha hoon, na chal raha hoon — yeh sab sharir kar raha hai.”
+🧠 Gyaan ki baat
+
+Bharata ne kaha,
+“Raja aur sevak ka relation bhi permanent nahi hota.
+Aaj tum raja ho, kal kuch aur ho sakta hai.”
+
+Uski baat simple thi…
+par bahut gehri thi.
+
+😳 Raja ko ehsaas hua
+
+Raja Rahugana shock ho gaya.
+
+Usse samajh aa gaya ki
+“Yeh koi normal aadmi nahi hai…”
+
+Woh turant palki se utar gaya 🙇‍♂️
+Aur Bharata ke pairon mein jhuk gaya.
+
+🙏 Maafi aur vinamrata
+
+Raja bola,
+“Please mujhe maaf kar do.
+Maine ghamand mein galti kar di.”
+
+“Main devtaon se nahi darta…
+par gyani logon ka apmaan karne se darta hoon.”
+
+🌟 Sachcha gyaan
+
+Raja ne Bharata se kaha,
+“Mujhe sach batao…
+Mujhe sahi raasta dikhao.”
+
+Ab woh ek raja nahi…
+ek shishya (student) ban gaya.
+
+🌟 Moral:
+
+Gyaan aur vinamrata sabse bade hain.
+Ghamand todkar hi sachcha gyaan milta hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
