@@ -1281,66 +1281,524 @@ Ghamand todkar hi sachcha gyaan milta hai."""
 
     # Chapter 11
     with st.expander("Chapter 11 - Bharata imparts spiritual knowledge to Rahūgaṇa"):
-        text1 = """ """
+        text1 = """ 
+        🧠 Sach ka gyaan
+
+Bharata ne Raja Rahugana se shant awaaz mein kaha,
+“Tum abhi sach mein gyaan nahi samajh paaye ho.”
+
+“Tum sirf shabdon ko repeat kar rahe ho…
+par asli sach ko mehsoos nahi kar rahe.”"""
         create_image_text_layout(
             "attached_assets/chapter5/5.11.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🌙 Duniya ek sapna jaisi
+
+Bharata ne samjhaya,
+“Yeh duniya aur iski khushiyan…
+sapne ki tarah hain.”
+
+Jab sapna toot jaata hai,
+toh sab khatam ho jaata hai 😶
+
+Waise hi duniya ki cheezein bhi permanent nahi hoti.
+
+🧠 Mann hi sabse bada reason
+
+Bharata bola,
+“Sabse bada problem tumhara mann (mind) hai.”
+
+Mann hi:
+
+ichchha (desire) laata hai
+gussa (anger) laata hai
+dukh aur confusion laata hai
+
+Aur wahi tumhe bandhan mein daal deta hai.
+
+🔄 Mann ka game
+
+Agar mann cheezon se attach ho gaya,
+toh insaan dukhi ho jaata hai 😔
+
+Agar mann free ho gaya…
+toh insaan mukti (freedom) paa leta hai ✨
+
+🔥 Asli tum kaun ho?
+
+Bharata ne kaha,
+“Tum sharir nahi ho…
+tum atma ho.”
+
+Sharir badalta hai,
+par atma hamesha same rehti hai.
+
+🌌 Bhagwan ka sach
+
+Usne bataya,
+“Bhagwan sab jagah hain…
+aur sabke andar bhi hain.” 🙏
+
+Woh sab kuch control karte hain
+par khud sabse alag aur pure hain.
+
+⚔️ Mann se jeet
+
+Bharata ne kaha,
+“Sabse bada dushman koi aur nahi…
+tumhara apna mann hai.”
+
+Isliye:
+
+mann ko control karo
+Bhagwan ki sharan lo
+
+Tabhi tum free ho paoge.
+
+🌟 Moral:
+
+Asli jeet bahar nahi,
+andar ke mann par control paane mein hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 12
     with st.expander("Chapter 12 - Dialogue between Bharata and Rahūgaṇa"):
-        text1 = """ """
+        text1 = """ 
+        🙏 Raja ka vinamr hona
+
+Raja Rahugana ab poori tarah badal chuka tha.
+
+Usne Bharata ko pranam kiya aur bola,
+“Aap koi aam insaan nahi ho…
+aap ek mahan gyani ho.”
+
+“Main galat tha…
+maine apne aap ko sharir samajh liya.”"""
         create_image_text_layout(
             "attached_assets/chapter5/5.12.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        💊 Gyaan = dawa
+
+Raja bola,
+“Aapki baatein mere liye dawa jaisi hain 💖
+Jaise bukhar mein thandi hawa achchi lagti hai,
+waise hi aapka gyaan mujhe shanti de raha hai.”
+
+🤔 Sawal
+
+Raja ne poocha,
+“Please simple language mein samjhao…
+yeh atma ka sach kya hai?”
+
+🌍 Sab mitti se bana hai
+
+Bharata ne kaha,
+
+“Yeh sharir sirf mitti (earth) ka bana hai.”
+“Palki bhi mitti hai…
+aur tum bhi.”
+
+“Tum sirf naam aur position ko pakad kar
+khud ko ‘raja’ samajh rahe ho.”
+
+😶 Sach ka jhatka
+
+Bharata ne seedha bola,
+“Tum ghamand mein ho…”
+
+“Tum logon ko majboor kar rahe ho kaam karne ke liye,
+phir bhi khud ko protector bolte ho.”
+
+Yeh baat sun kar raja chup ho gaya…
+
+🌌 Asli sach
+
+Bharata ne samjhaya:
+
+Sab kuch badalta hai
+Sab kuch maya hai
+Sirf gyaan (truth) hi real hai ✨
+🛤️ Moksha ka raasta
+
+Bharata ne kaha,
+“Sachcha gyaan paane ka ek hi tareeka hai —”
+
+👉 Achhe logon (saints) ke saath rehna
+👉 Unki seva karna
+👉 Bhagwan ki baatein sunna
+
+🔁 Apni kahani
+
+Bharata ne apni kahani batayi:
+
+“Main pehle ek raja tha…” 👑
+“Par ek hiran se attach ho gaya…”
+“Isliye mujhe deer ka janam lena pada.”
+
+“Ab main sabse door rehta hoon,
+taaki phir se galti na ho.”
+
+✂️ Bandhan todna
+
+Bharata ne kaha,
+“Insaan ko apne moh (attachment) ko kaat dena chahiye.”
+
+“Tabhi woh is janam-maran ke cycle se bahar nikal sakta hai.”
+
+🌟 Moral:
+
+Sachcha gyaan tab milta hai
+jab hum ego chhodkar sahi logon se seekhte hain."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 13
     with st.expander("Chapter 13 - The Saṃsāra—a forest: An allegory"):
-        text1 = """ """
+        text1 = """ 
+        🌳 Zindagi = Jungle (Ek Kahani)
+
+Bharata ne Raja Rahugana ko ek example diya…
+
+“Zindagi ek ghane jungle ki tarah hai.” 🌲
+
+Aur hum sab us jungle mein bhatak rahe hain…"""
         create_image_text_layout(
             "attached_assets/chapter5/5.13.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        👥 Vyapariyon ka group
+
+Socho ek group hai vyapariyon ka
+jo paisa aur sukh dhoondhne nikle hain 💰
+
+Par jungle bahut dangerous hai…
+
+😈 Chor aur dushman
+
+Is jungle mein:
+
+6 chor (indriyaan) unka samaan chura lete hain
+rishtedaar kabhi kabhi nuksaan pahucha dete hain
+
+Jaise bhediye bheed ko le jaate hain 🐺
+
+🐜 Chhoti chhoti problems
+
+Kabhi:
+
+machhar kaat rahe hain 🦟
+kabhi log bura bol rahe hain 😣
+kabhi jhooti cheezein sach lagti hain
+
+Insaan confuse ho jaata hai…
+
+🏜️ Maya ka jaal
+
+Kabhi woh mirage (mrug-trishna) ke peeche bhaagta hai 💧
+par wahan kuch hota hi nahi…
+
+Jaise duniya ki fake khushiyan.
+
+🔥 Mushkilein har jagah
+
+Kabhi:
+
+bhook lagti hai 🍞
+kabhi paisa chala jaata hai 💸
+kabhi log dhokha dete hain 😔
+
+Aur insaan dukhi ho jaata hai.
+
+🐍 Andhera aur darr
+
+Kabhi insaan:
+
+neend mein sab bhool jaata hai 😴
+ya ignorance ke kuen mein gir jaata hai 🕳️
+
+Aur bahar ka raasta nahi milta.
+
+🍯 Galat choices
+
+Kabhi woh galat cheezon ke peeche bhaagta hai
+aur phir insult ya dard milta hai 😢
+
+🔄 Endless cycle
+
+Log:
+
+paida hote hain 👶
+jeete hain
+mar jaate hain ⚰️
+
+Aur phir cycle chalta rehta hai…
+
+Koi wapas nahi aata batane 😶
+
+⚠️ Sach kya hai?
+
+Bharata ne kaha,
+“Yeh sab Maya ka game hai.”
+
+“Jab tak tum attach ho,
+tab tak tum is jungle mein bhatakoge.”
+
+🗡️ Solution
+
+“Is jungle se nikalne ka ek hi tareeka hai —”
+
+👉 Gyaan (knowledge)
+👉 Bhagwan ki sharan
+👉 Sabse prem aur daya ❤️
+
+🙏 Raja ka badlav
+
+Raja Rahugana ne kaha,
+“Human life sabse special hai.”
+
+“Kyuki yahan mujhe aap jaise guru mile.”
+
+Usne Bharata ko pranam kiya
+aur dil se shukriya bola.
+
+✨ Ant
+
+Bharata ne use sach ka raasta dikhaya…
+aur phir shant mann se apni raah par chal diya.
+
+🌟 Moral:
+
+Zindagi ek jungle hai,
+par gyaan aur bhakti se hi usse paar kiya ja sakta hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 14
     with st.expander("Chapter 14 - Explanation of the Allegory of Saṃsāra—Forest"):
-        text1 = """ """
+        text1 = """ 
+        🌲 Sansar ek jungle jaisa
+
+Śuka rishi ne samjhaya,
+“Yeh poori duniya ek jungle (forest) ki tarah hai.”
+
+Aur hum sab…
+jaise us jungle mein bhatak rahe musafir hain 😔"""
         create_image_text_layout(
             "attached_assets/chapter5/5.14.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🧠 Mann aur indriyaan = chor
+
+Is jungle mein sabse bade dushman hain:
+
+aankh 👀
+kaan 👂
+naak 👃
+jeebh 👅
+sparsh ✋
+aur mann 🧠
+
+Yeh sab milkar insaan ko loot lete hain 😢
+
+💰 Dhan aur family ka sach
+
+Insaan mehnat se paisa kamata hai…
+par woh paisa:
+
+kabhi chor le jaate hain
+kabhi family kharch kar deti hai
+
+Jaise jungle mein jaanwar kisi ka samaan le jaate hain 🐺
+
+🌫️ Maya ka jaal
+
+Kabhi insaan sapno jaise sheher dekh leta hai…
+kabhi mirage (jhuthi khushi) ke peeche bhaagta hai 💭
+
+Par sab kuch temporary hota hai.
+
+😔 Dukh ka cycle
+
+Zindagi mein insaan:
+
+kabhi khush hota hai 😊
+kabhi dukhi 😢
+kabhi gussa 😡
+kabhi confused 😵
+
+Aur yeh cycle chalta rehta hai 🔄
+
+😴 Neend aur bhool
+
+Kabhi neend insaan ko aise pakad leti hai
+jaise koi saanp 🐍
+
+Aur woh sab kuch bhool jaata hai…
+
+⚠️ Galat raste
+
+Kabhi insaan galat logon ke saath chala jaata hai,
+aur aur zyada phas jaata hai 😔
+
+Phir woh sahi raste ko chhod deta hai.
+
+❤️ Attachment ka jaal
+
+Insaan:
+
+apni wife 👩
+bachchon 👶
+family
+
+se itna attach ho jaata hai
+ki apni asli pehchaan bhool jaata hai.
+
+⏳ Maut ka darr
+
+Har waqt ek darr rehta hai…
+maut ka darr 💀
+
+Par phir bhi insaan sudharta nahi.
+
+🔄 Phir se wahi cycle
+
+Agar bach bhi jaata hai…
+toh phir se wahi duniya mein aa jaata hai.
+
+Aur yeh cycle chalta rehta hai.
+
+✨ Mukti ka raasta
+
+Rishi ne kaha,
+“Agar tum is jungle se bahar nikalna chahte ho…”
+
+👉 Bhagwan ko yaad karo
+👉 Gyaan hasil karo
+👉 Attachment chhodo
+
+Tabhi tum sach mein free ho paoge 🙏
+
+🌟 Bharata ki mahanta
+
+Rishi ne kaha,
+“Bharata jaise mahan log hi is jungle se bahar nikal paate hain.”
+
+Unhone sab kuch chhod diya…
+aur Bhagwan ko pa liya ✨
+
+🌟 Moral:
+
+Duniya ek jungle hai,
+par gyaan aur bhakti se hi usse bahar nikla ja sakta hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 15
     with st.expander("Chapter 15 - Description of Bharata’s Dynasty"):
-        text1 = """ """
+        text1 = """ 
+        👑 Bharata ka vansh (family story)
+
+Śuka rishi ne kaha,
+“Ab main tumhe Raja Bharata ke vansh ki kahani batata hoon.”"""
         create_image_text_layout(
             "attached_assets/chapter5/5.15.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        👶 Shuruaat
+
+Bharata ka ek beta tha — Sumati
+Woh bhi apne pita ki tarah dharmik tha.
+
+Uske baad generation aage badhti gayi:
+
+Devatājit
+Devadyumna
+Parameṣṭhī
+Pratīha
+
+Aur bahut saare raja hue… 👑
+
+🌟 Raja Gaya — sabse khaas
+
+In sab mein ek raja bahut special tha —
+Raja Gaya ✨
+
+Woh sirf ek raja nahi…
+ek mahan aur pavitra insaan tha.
+
+❤️ Praja se pyaar
+
+Raja Gaya apni praja se bahut pyaar karta tha:
+
+unka khayal rakhta ❤️
+unhe khush rakhta 😊
+unhe jeene ke saadhan deta
+
+Woh ek perfect king tha.
+
+🙏 Bhakti aur vinamrata
+
+Raja Gaya har kaam
+Bhagwan ko samarpit karta tha 🙏
+
+Uska mann bilkul saaf tha.
+Usse koi ghamand nahi tha.
+
+🌍 Dharti bhi khush
+
+Uski achchai dekh kar…
+dharti bhi usse khush thi 🌱
+
+Jaise gaay apne bachche ko doodh deti hai,
+waise hi dharti logon ko sab kuch dene lagi.
+
+🔥 Yagya aur vardaan
+
+Raja Gaya ne bahut yagya kiye.
+Devta khush ho gaye ✨
+
+Bhagwan ne khud aakar
+uske yagya ko accept kiya.
+
+👨‍👦 Aage ka vansh
+
+Raja Gaya ke bhi bete hue:
+
+Citraratha
+Sugati
+Avarodhana
+
+Aur unke baad bhi vansh aage badhta raha…
+
+Bahut saare raja aaye aur gaye.
+
+🌈 Ant mein ek baat
+
+Sab raja apni jagah the…
+par Raja Gaya jaise mahan bahut kam hote hain.
+
+🌟 Moral:
+
+Asli greatness power mein nahi,
+vinamrata aur seva mein hoti hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
