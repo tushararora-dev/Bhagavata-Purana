@@ -1804,66 +1804,527 @@ vinamrata aur seva mein hoti hai."""
 
     # Chapter 16
     with st.expander("Chapter 16 - Mythological Geography—The Terrestrial Globe"):
-        text1 = """ """
+        text1 = """ 
+        🌍 Dharti ka adbhut roop
+
+Raja ne poocha,
+“Yeh poori duniya ka structure kya hai?”
+
+Tab Śuka rishi ne batana shuru kiya…"""
         create_image_text_layout(
             "attached_assets/chapter5/5.16.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🌸 Dharti ek kamal jaisi
+
+Rishi bole,
+“Dharti ek kamal (lotus) ki tarah hai.” 🌸
+
+Uske beech mein hai Jambudvipa
+jahan hum rehte hain.
+
+Yeh gol hai aur bahut bada hai 🌍
+
+🏔️ Beech mein Meru parvat
+
+Iske center mein ek bada pahaad hai —
+Meru Parvat ⛰️
+
+Yeh sone (gold) ka bana hai ✨
+Aur sabse bada aur important hai.
+
+🧭 9 hisse (regions)
+
+Jambudvipa 9 parts mein divided hai,
+jinhe varshas kehte hain.
+
+Har part ko mountains alag karte hain 🏔️
+
+🏞️ Chaar bade pahaad
+
+Meru ke aas-paas 4 bade mountains hain:
+
+Mandara
+Merumandara
+Suparshva
+Kumuda
+
+Aur har mountain par ek bada tree hai 🌳
+
+🌳 Jadui ped aur nadiyaan
+
+In pedon se:
+
+aam 🍋
+jamun 🍇
+shahad 🍯
+doodh 🥛
+
+jaise cheezein nikalti hain!
+
+Aur unse nadiyaan banti hain 🌊
+
+✨ Swarg jaisi jagah
+
+Yahan:
+
+devta rehte hain
+gandharv gaana gaate hain 🎶
+sab log khush rehte hain 😊
+
+Yeh jagah bilkul swarg jaisi hai.
+
+💛 Sone ki mitti
+
+Kuch jagah ki mitti
+sona (gold) ban jaati hai 💛
+
+Devta usse jewellery banate hain.
+
+🌈 Anand ka jeevan
+
+Jo log yahan rehte hain:
+
+unhe bimari nahi hoti
+unhe budhaapa nahi aata
+unhe dukh nahi hota
+
+Woh hamesha khush rehte hain 😊
+
+🏙️ Brahma ji ka nagar
+
+Meru ke top par hai
+Brahma ji ka shehar 🏙️
+
+Uske aas paas
+dusre devtaon ke bhi shehar hain.
+
+🌟 Moral:
+
+Duniya bahut vishal aur adbhut hai,
+par usse samajhne ke liye gyaan zaroori hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 17
     with st.expander("Chapter 17 - The Descent of the Gaṅgā"):
-        text1 = """ """
+        text1 = """ 
+        🌊 Ganga ka janm
+
+Śuka rishi ne kaha,
+“Ab main tumhe Ganga ji ki kahani batata hoon.”
+
+👣 Bhagwan ke charan se janm
+
+Ek samay Bhagwan Vishnu ne
+Vamana roop (Trivikrama) liya.
+
+Jab unhone apna bada kadam uthaya…
+toh unke pair ke anguthe se
+brahmand ka cover toot gaya ✨
+
+Wahan se ek pavitra jal dhara nikli —
+yeh hi Ganga thi! 🌊"""
         create_image_text_layout(
             "attached_assets/chapter5/5.17.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        ✨ Pavitra paani
+
+Yeh paani Bhagwan ke charan ko chhoo kar aaya tha,
+isliye yeh sab paapon ko dhone wala ban gaya 🙏
+
+Aur fir bhi…
+yeh khud bilkul shuddh raha.
+
+🌌 Aasman se dharti tak
+
+Pehle Ganga swarg mein gayi,
+phir dheere dheere neeche aayi:
+
+Dhruva ne use apne sir par dharan kiya
+Saptarishi ne use apne baalon mein sambhala
+
+Sab use bahut respect dete the.
+
+🌙 Chandrama se guzarna
+
+Ganga pehle chandramandal se guzri 🌙
+phir Meru parvat par aayi.
+
+Wahan se woh 4 hisso mein baant gayi:
+
+Sita
+Alakananda
+Chakshu
+Bhadra
+🌍 Dharti par aana
+
+Inmein se ek dhaara — Alakananda
+Himalaya se hote hue
+Bharatvarsha (India) mein aayi 🇮🇳
+
+Aur samundar mein jaakar mili 🌊
+
+🙏 Snan ka mahattva
+
+Jo log Ganga mein snan karte hain,
+unhe bahut bada punya milta hai ✨
+
+Jaise bade yagya karne ka phal milta hai.
+
+🌟 Bharat ki khas baat
+
+Rishi ne kaha,
+“Sab jagah mein se Bharatvarsha special hai.”
+
+Kyuki yahan:
+
+👉 log apne karm se apni destiny bana sakte hain
+👉 achha ya bura — dono choose kar sakte hain
+
+😇 Swarg jaisi jagah
+
+Baaki jagahon par log:
+
+bahut lambe samay tak jeete hain
+hamesha young rehte hain
+bahut sukh bhogte hain
+
+Par wahan karma ka chance nahi hota.
+
+🕉️ Bhagwan har jagah
+
+Har jagah Bhagwan
+alag-alag roop mein rehte hain 🙏
+
+Aur sabka dhyaan rakhte hain.
+
+🔱 Shiv ji ki bhakti
+
+Ek jagah par Bhagwan Shiv
+Bhagwan Vishnu ka dhyaan karte hain 🧘‍♂️
+
+Woh kehte hain:
+
+“Hey Prabhu, aap hi sab kuch ho…
+main aapko pranam karta hoon.”
+
+🌟 Moral:
+
+Jo Bhagwan se juda hota hai,
+woh sabse pavitra aur shaktishaali ban jaata hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 18
     with st.expander("Chapter 18 - Description of Various Continents (Varṣa)"):
-        text1 = """ """
+        text1 = """ 
+        🌍 Alag-alag duniya ke hisse
+
+Śuka rishi ne kaha,
+“Dharti ke alag-alag parts (varṣa) mein
+log alag tareeke se Bhagwan ki pooja karte hain.”
+
+Har jagah Bhagwan alag roop mein rehte hain ✨"""
         create_image_text_layout(
             "attached_assets/chapter5/5.18.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🐴 Bhadrāśva varṣa
+
+Yahan log Bhagwan ko Hayagriva (ghode ke roop) mein poojte hain 🐴
+
+Woh kehte hain:
+“Hey Bhagwan, aap hi sachchai ho,
+aur aap hi humare mann ko shuddh karte ho.”
+
+🦁 Harivarṣa
+
+Yahan Prahlad aur log
+Bhagwan Narasimha ki bhakti karte hain 🦁
+
+Woh prarthana karte hain:
+
+“Hey Bhagwan, hamare darr aur paap ko jala do,
+hume nirbhay bana do.” 🔥
+
+❤️ Bhakti ka sach
+
+Woh kehte hain:
+
+sab log khush rahein 😊
+koi kisi se dushmani na kare
+sabka mann Bhagwan mein lage 🙏
+
+Aur sabse important —
+attachment kam rakho
+
+💖 Ketumāla varṣa
+
+Yahan Bhagwan ek sundar roop mein rehte hain,
+jo prem (love) ka pratik hai 💫
+
+Lakshmi ji unki pooja karti hain.
+
+Woh kehti hain:
+“Sachcha rakshak sirf Bhagwan hi hai.”
+
+🐟 Ramyaka varṣa
+
+Yahan Manu Bhagwan ke Matsya (fish) roop ki pooja karte hain 🐟
+
+Woh yaad karte hain kaise Bhagwan ne
+unhe pralaya (flood) se bachaya.
+
+🐢 Hiraṇmaya varṣa
+
+Yahan log Bhagwan ke Kurma (tortoise) roop ko poojte hain 🐢
+
+Woh kehte hain:
+“Poora sansar aapka hi roop hai.”
+
+🐗 Uttara Kuru (North)
+
+Yahan Bhagwan Varaha (boar) roop mein hain 🐗
+
+Prithvi mata unki pooja karti hain 🙏
+Kyuki unhone dharti ko bachaya tha.
+
+🌈 Sab jagah ek hi sach
+
+Alag-alag jagah…
+alag-alag roop…
+
+Par Bhagwan ek hi hain ✨
+
+🌟 Moral:
+
+Bhagwan alag-alag roop mein ho sakte hain,
+par unka sach ek hi hota hai —
+prem, bhakti aur shanti."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 19
     with st.expander("Chapter 19 - Description of Kimpuruṣa and Bhārata Varṣas"):
-        text1 = """ """
+        text1 = """ 
+        🐒 Kiṃpuruṣa varṣa — Hanuman ji ki bhakti
+
+Śuka rishi ne kaha,
+“Ek jagah hai — Kiṃpuruṣa varṣa.”
+
+Wahan Hanuman ji rehte hain 🐒
+Aur woh Bhagwan Rama ki bhakti karte hain ❤️
+
+Woh hamesha Ram ji ki kahani sunte hain
+aur unka naam lete hain.
+
+Hanuman ji kehte hain:
+“Bhagwan Rama sabse pavitra aur sabse achhe hain.”"""
         create_image_text_layout(
             "attached_assets/chapter5/5.19.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🌟 Ram ji ka sach
+
+Hanuman ji samajhte hain:
+
+Bhagwan sab kuch kar sakte hain
+Par woh insaan ban kar aaye
+taaki hume sahi jeevan jeena sikha sakein ✨
+
+Aur sabse important —
+Bhagwan ko status ya beauty nahi chahiye…
+sirf sacha dil (pure heart) chahiye ❤️
+
+🌍 Bhārata varṣa — sabse special jagah
+
+Phir rishi ne kaha,
+“Ab suno — Bhārata varṣa (hamari dharti) sabse khaas hai!” 🇮🇳
+
+Yahan Bhagwan Nara-Nārāyaṇa roop mein rehte hain
+aur tapasya karte hain 🙏
+
+🧠 Jeevan ka sach
+
+Yahan insaan:
+
+achha kaam kare → achha phal
+bura kaam kare → bura phal
+
+Sab kuch karma par depend karta hai ⚖️
+
+🏞️ Nadiyaan aur pahaad
+
+Bhārata varṣa mein bahut saare:
+
+pahaad ⛰️
+nadiyaan 🌊
+
+Jaise:
+
+Ganga
+Yamuna
+Godavari
+Narmada
+
+Inka naam lene se bhi paap kam ho jaate hain ✨
+
+🔄 Janam-maran ka cycle
+
+Yahan log:
+
+janam lete hain 👶
+jeete hain
+mar jaate hain ⚰️
+
+Aur phir apne karm ke hisaab se
+naya janam lete hain.
+
+✨ Mukti ka raasta
+
+Par ek special baat hai…
+
+👉 Yahin par moksha (freedom) mil sakta hai
+
+Kaise?
+
+Bhagwan ki bhakti
+achhe logon ka sang
+bina selfishness ke kaam
+😲 Devta bhi yahan aana chahte hain
+
+Rishi ne kaha,
+“Devta bhi chahte hain ki unka janam Bhārata mein ho!” 😲
+
+Kyunki yahan se hi
+Bhagwan tak pahunchna possible hai.
+
+⚠️ Warning
+
+Agar koi insaan yahan janam lekar bhi
+sirf sukh aur enjoyment ke peeche bhaagta hai…
+
+toh woh apni life waste kar deta hai 😔
+
+🌈 Sach kya hai?
+Swarg bhi temporary hai
+Duniya bhi temporary hai
+Sirf Bhagwan aur gyaan permanent hai ✨
+🌟 Moral:
+
+Human life sabse precious hai.
+Isse sirf enjoyment mein waste mat karo —
+isse bhakti aur gyaan ke liye use karo."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 20
     with st.expander("Chapter 20 - Description of the remaining six Dvīpas"):
-        text1 = """ """
+        text1 = """
+        🌍 Saat dvīp (7 islands) ki kahani
+
+Śuka rishi ne kaha,
+“Dharti sirf ek jagah nahi hai…
+yeh kai dvīp (islands) mein divided hai.”
+
+Sab ek ke baad ek circle mein hain…
+jaise layers 🌀"""
         create_image_text_layout(
             "attached_assets/chapter5/5.20.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🌊 Har dvīp ke aas-paas samundar
+
+Har dvīp ke around ek alag samundar hai:
+
+Namak ka samundar 🌊
+Ganne ke ras ka 🍯
+Sharab ka 🍷
+Ghee ka 🧈
+Doodh ka 🥛
+Dahi ka 🥣
+Meetha paani 💧
+
+Kitna amazing hai na! 😲
+
+🌳 Plakṣa dvīp
+
+Yahan ek bada Plakṣa tree hai 🌳
+Aur log Surya dev ki pooja karte hain ☀️
+
+Woh kehte hain:
+“Surya hi sabko jeevan deta hai.”
+
+🌴 Śālmalī dvīp
+
+Yahan ek bada Silk cotton tree hai 🌴
+Aur yahan log Chandra (moon) ki pooja karte hain 🌙
+
+🌿 Kuśa dvīp
+
+Yahan ek chamakdar kuśa grass hai 🌿
+Aur log Agni dev (fire) ki pooja karte hain 🔥
+
+🏔️ Krauñca dvīp
+
+Yahan ek bada mountain hai — Krauñca ⛰️
+Log yahan jal (water) ko pavitra maante hain 🌊
+
+🌸 Śāka dvīp
+
+Yahan ek sugandhit tree hai 🌸
+Aur log Vayu dev (air) ki pooja karte hain 🌬️
+
+🌺 Puṣkara dvīp
+
+Yahan ek bada lotus (kamal) hai 🌺
+Aur log Brahma ji ki pooja karte hain 🙏
+
+🌗 Loka aur Aloka
+
+In sabke baad ek bada mountain hai — Lokāloka
+
+Yeh divide karta hai:
+
+Loka (jahan roshni hai) 🌞
+Aloka (jahan andhera hai) 🌑
+☀️ Surya ka role
+
+Rishi ne kaha,
+“Surya sabka jeevan hai.”
+
+Wohi:
+
+roshni deta hai
+samay batata hai
+sabko energy deta hai ✨
+🌈 Ant mein ek sach
+
+Yeh poora brahmand bahut bada aur adbhut hai…
+aur sab kuch Bhagwan ki shakti se chal raha hai.
+
+🌟 Moral:
+
+Duniya bahut vishal hai,
+par har jagah ek hi shakti kaam karti hai —
+Bhagwan ki."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
