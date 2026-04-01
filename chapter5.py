@@ -2330,77 +2330,682 @@ Bhagwan ki."""
 
     # Chapter 21
     with st.expander("Chapter 21 - The Stellar Region"):
-        text1 = """ """
+        text1 = """ 
+        ☀️ Surya dev ka rahasya
+
+Śuka rishi ne kaha,
+“Ab main tumhe aasmaan aur Surya dev ka gyaan batata hoon.”
+
+Yeh sab bahut bada aur adbhut hai ✨"""
         create_image_text_layout(
             "attached_assets/chapter5/5.21.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🌍 Dharti aur aasman
+
+Dharti aur aasman
+ek doosre se jude hue hain 🌌
+
+Unke beech mein ek jagah hoti hai —
+Antariksha (space)
+
+☀️ Surya dev ka kaam
+
+Surya dev:
+
+sabko roshni dete hain 🌞
+sabko garmi dete hain
+din aur raat banate hain
+
+Unki movement se hi
+season change hote hain 🍃❄️
+
+🌓 Din aur raat ka game
+
+Jab Surya kuch specific rashi (zodiac signs) mein hota hai:
+
+👉 Din aur raat equal hote hain
+👉 Kabhi din bade hote hain
+👉 Kabhi raat badi hoti hai
+
+Sab kuch Surya ke movement par depend karta hai ⏳
+
+🌏 Ek jagah din, dusri jagah raat
+
+Rishi ne samjhaya:
+
+👉 Jahan Surya dikhta hai = wahan din 🌞
+👉 Jahan nahi dikhta = wahan raat 🌙
+
+Aur jo ek jagah ho raha hai…
+uska opposite doosri jagah hota hai!
+
+🏙️ Devtaon ke shehar
+
+Surya apni journey mein
+4 special shehron se guzarta hai:
+
+Indra ka shehar
+Yama ka shehar
+Varuna ka shehar
+Soma ka shehar
+
+Aur har jagah alag time hota hai!
+
+🚀 Surya ka rath
+
+Surya ek rath (chariot) par chalte hain 🚀
+
+Is rath mein:
+
+1 wheel (saal ka symbol)
+12 spokes (12 months)
+6 seasons
+7 ghode (Vedic meters ke naam par)
+
+Unhe Aruna chalate hain.
+
+🎶 Devtaon ki seva
+
+Bahut saare:
+
+rishi
+gandharva
+apsara
+devta
+
+Surya dev ki seva karte hain 🙏
+
+Aur unki stuti (praise) gaate hain 🎶
+
+🌟 Ek bada sach
+
+Yeh sab dekhkar samajh aata hai…
+
+👉 poora brahmand ek system se chal raha hai
+👉 sab kuch perfect order mein hai
+
+Aur yeh sab Bhagwan ki shakti se ho raha hai ✨
+
+🌟 Moral:
+
+Prakriti aur brahmand ek perfect system hai,
+aur har cheez ka apna role aur importance hota hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 22
     with st.expander("Chapter 22 - Description of the Moon and other Planets"):
-        text1 = """ """
+        text1 = """ 
+        Hinglish Story Rewrite (Simple + Emotional + Children Style):
+
+🌙 Raja ka sawaal
+
+Raja Parikshit ne poocha,
+“Surya ka movement samajh aa gaya…
+par yeh sab kaise kaam karta hai?”"""
         create_image_text_layout(
             "attached_assets/chapter5/5.22.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🧠 Wheel ka example
+
+Śuka rishi bole,
+“Ek example se samjho…”
+
+Jaise ek chakki (wheel) ghoomti hai,
+aur uspar chalne wali chhoti cheezein
+alag-alag direction mein chalti hain…
+
+Waise hi:
+
+👉 poora time-wheel (kaal chakra) ghoom raha hai
+👉 aur Surya, Chandrama, planets usme move karte hain
+
+☀️ Surya = Bhagwan ka roop
+
+Rishi ne kaha,
+“Surya koi normal cheez nahi hai…”
+
+👉 Surya hi Bhagwan ka roop hain ✨
+👉 woh sabko life dete hain
+
+Unhone apne aap ko
+12 parts (months) mein divide kiya hai ⏳
+
+🌙 Chandrama ki kahani
+
+Surya ke upar hai Chandrama 🌙
+
+Aur Chandrama:
+
+Surya se bhi fast hai ⚡
+jaldi jaldi apna chakkar complete karta hai
+🌗 Chandrama ka magic
+
+Chandrama:
+
+kabhi badhta hai (full moon 🌕)
+kabhi ghatta hai (new moon 🌑)
+
+Isse:
+
+👉 devtaon ka din-raat banta hai
+👉 pitron ka bhi samay chalta hai
+
+🌱 Jeevan ka source
+
+Chandrama sabko life deta hai:
+
+plants 🌿
+animals 🐘
+birds 🐦
+humans 👨
+
+Sab usse energy lete hain ✨
+
+🌟 Taare aur planets
+
+Chandrama ke upar:
+
+Nakshatra (stars) ⭐
+phir alag-alag planets
+
+Jaise:
+
+Venus
+Mercury
+Mars
+Jupiter
+Saturn
+🪐 Planets ka nature
+
+Har planet ka apna nature hai:
+
+Venus → good effects 😊
+Mercury → mostly good
+Mars → thoda dangerous 😨
+Jupiter → good aur positive ✨
+Saturn → slow aur challenges deta hai
+🌌 Sapta Rishi
+
+Sabse upar hai
+Sapta Rishi (7 sages) ⭐
+
+Woh hamesha duniya ki bhalai ke liye
+prarthana karte rehte hain 🙏
+
+🌈 Final sach
+
+Yeh poora system:
+
+Surya
+Chandrama
+planets
+stars
+
+Sab milkar ek perfect system banate hain ✨
+
+Aur sab Bhagwan ki planning se chal raha hai.
+
+🌟 Moral:
+
+Duniya aur brahmand ek perfect system hai,
+jahan har cheez ka apna role hota hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 23
     with st.expander("Chapter 23 - Description of Viṣṇupada and Śiśumāra-cakra"):
-        text1 = """ """
+        text1 = """ 
+        ⭐ Dhruva ka sthaan (Pole Star ka raaz)
+
+Śuka rishi ne kaha,
+“Aasmaan mein sabse upar ek special jagah hai —
+Dhruva ka sthaan.” ✨
+
+Yahan rehte hain Dhruva,
+jo Bhagwan ke sabse bade bhakt hain 🙏"""
         create_image_text_layout(
             "attached_assets/chapter5/5.23.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🌟 Sab unke chaaron taraf ghoomte hain
+
+Rishi bole,
+“Saare taare, grah aur nakshatra
+Dhruva ke around ghoomte hain.” ⭐
+
+Jaise:
+
+👉 sab kuch ek center ke around rotate karta hai
+
+Dhruva sabka support (center point) hai.
+
+🐂 Simple example
+
+Samjhne ke liye rishi ne example diya:
+
+Jaise bail (oxen) ek khambe ke around ghoomte hain 🐂
+waise hi saare grah aur taare
+Dhruva ke around ghoomte hain
+
+🐬 Shishumara Chakra (cosmic shape)
+
+Rishi ne ek aur interesting baat batayi…
+
+Poora sky ek Shishumara (dolphin/porpoise) jaisa lagta hai 🐬
+
+Aur:
+
+Dhruva uski tail par hai
+alag-alag stars uske body parts par hain
+
+Yeh ek cosmic design hai ✨
+
+🌌 Har jagah Bhagwan
+
+Rishi bole,
+“Yeh sirf stars nahi hain…”
+
+👉 yeh sab milkar Bhagwan Vishnu ka roop hain 🙏
+
+Surya
+Chandrama
+planets
+stars
+
+Sab Bhagwan ke hi parts hain.
+
+🧘‍♂️ Dhyaan aur bhakti
+
+Rishi ne kaha,
+“Roz subah, dopahar aur shaam
+is roop ka dhyaan karo.”
+
+Aur bolo:
+
+👉 “Hum Bhagwan ko pranam karte hain,
+jo sabko sambhalte hain.”
+
+✨ Paap ka nash
+
+Jo insaan:
+
+yaad karta hai
+pranam karta hai
+dhyaan karta hai
+
+Uske paap khatam ho jaate hain 😇
+
+🌈 Final sach
+
+Yeh poora brahmand:
+
+👉 ek system hai
+👉 ek design hai
+👉 aur sab Bhagwan ka hi roop hai
+
+🌟 Moral:
+
+Bhagwan har jagah hain —
+unhe yaad karne se mann shuddh hota hai aur jeevan sudhar jaata hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 24
     with st.expander("Chapter 24 - Rāhu’s Position and the Subterranean Regions"):
-        text1 = """ """
+        text1 = """ 
+        🌑 Rahu ki kahani
+
+Śuka rishi ne kaha,
+“Ab suno Rahu ki kahani…”
+
+Rahu ek asur (demon) tha 😈
+Par Bhagwan ki kripa se
+use ek grah (planet) ka status mil gaya."""
         create_image_text_layout(
             "attached_assets/chapter5/5.24.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🌘 Grahan (Eclipse) ka raaz
+
+Rahu ko Surya aur Chandrama se nafrat thi 😠
+
+Isliye:
+
+👉 woh un par attack karta hai
+👉 aur tab grahan (eclipse) hota hai 🌑
+
+Par Bhagwan ka Sudarshan Chakra
+Surya aur Chandrama ki raksha karta hai ✨
+
+Isliye Rahu darr kar wapas chala jaata hai.
+
+🌌 Neeche ke lok (worlds)
+
+Rishi bole,
+“Dharti ke neeche bhi kai lok hain…”
+
+7 bade lok:
+
+Atala
+Vitala
+Sutala
+Talatala
+Mahatala
+Rasatala
+Patala
+🏙️ Underworld bhi sundar hai!
+
+Yeh lok andhere nahi…
+balki bahut sundar aur rich hain 😲
+
+Wahan:
+
+bade mahal 🏰
+gardens 🌸
+nadiyaan 🌊
+khush log 😊
+
+Sab kuch swarg jaisa hai!
+
+😇 Log kaise rehte hain?
+
+Wahan ke log:
+
+kabhi buddhe nahi hote 👴❌
+kabhi bimar nahi hote 🤒❌
+hamesha khush rehte hain 😊
+
+Unhe:
+
+thakan nahi hoti
+darr nahi lagta
+⚠️ Ek hi darr
+
+Bas ek cheez se darr lagta hai…
+👉 Bhagwan ke Sudarshan Chakra se ⚡
+
+👑 Raja Bali ka lok
+
+Sutala lok mein rehte hain
+Raja Bali 👑
+
+Woh bahut ache aur bhakt the 🙏
+
+Bhagwan Vishnu ne unhe yeh jagah di
+aur khud unki raksha karte hain!
+
+🐍 Naag lok
+
+Sabse neeche Patala lok hai 🐍
+
+Wahan bade-bade saap (serpents) rehte hain
+jin ke sar par chamakdar mani hoti hai 💎
+
+Woh mani andhera hata deti hai ✨
+
+🌈 Final sach
+
+Yeh duniya sirf upar nahi…
+neeche bhi bahut badi aur adbhut hai.
+
+Aur har jagah Bhagwan ki shakti kaam kar rahi hai 🙏
+
+🌟 Moral:
+
+Duniya bahut vishal hai,
+aur har jagah Bhagwan ki power chalti hai —
+isse samajhkar vinamr rehna chahiye."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 25
     with st.expander("Chapter 25 - Description of Saṅkarṣaṇa—the Serpent Śeṣa"):
-        text1 = """ """
+        text1 = """ 
+        🐍 Ananta Śeṣa ka adbhut roop
+
+Śuka rishi ne kaha,
+“Sabse neeche ek mahaan shakti rehti hai —
+Ananta Śeṣa.”
+
+Woh Bhagwan ka ek roop hain ✨
+Aur unhe Saṅkarṣaṇa bhi kehte hain."""
         create_image_text_layout(
             "attached_assets/chapter5/5.25.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🌍 Dharti ka sahara
+
+Rishi bole,
+“Yeh poori dharti…
+unke ek sir par tikki hui hai!” 😲
+
+Aur dharti unke liye
+sirf ek chhoti si rai (mustard seed) jaisi lagti hai 🌱
+
+⚡ Unki shakti
+
+Jab samay aata hai…
+aur Bhagwan chahte hain ki duniya khatam ho…
+
+👉 tab unke bhav se
+Rudra (Shiv ji ka roop) prakat hote hain 🔥
+
+🙏 Sab unki pooja karte hain
+
+Unki mahima itni badi hai ki:
+
+devta 🙏
+asur 😈
+naag 🐍
+rishi 🧘‍♂️
+
+sab unki bhakti karte hain।
+
+💫 Unka roop
+
+Ananta Śeṣa:
+
+hazaar sir wale hain 🐍
+unka roop chamakdar hai ✨
+unki shanti aur shakti dono amazing hain
+
+Woh hamesha duniya ki raksha karte hain ❤️
+
+🧘‍♂️ Dhyaan ki shakti
+
+Rishi ne kaha,
+“Jo insaan unka dhyaan karta hai…”
+
+👉 uske mann ki ignorance (andhera) khatam ho jaata hai
+👉 usse sach ka gyaan milta hai ✨
+
+💖 Naam ki power
+
+Agar koi insaan:
+
+galti se bhi
+ya mazaak mein bhi
+
+unka naam le le…
+
+👉 uske paap khatam ho jaate hain 😇
+
+🌌 Unki mahima anant hai
+
+Rishi bole,
+“Unki greatness ko koi count nahi kar sakta…”
+
+Chahe kisi ke paas
+hazaar zubaan (tongues) bhi ho… 😲
+
+🌈 Final sach
+
+Ananta Śeṣa:
+
+👉 sabko support karte hain
+👉 sabko sambhalte hain
+👉 aur khud kisi par depend nahi karte
+
+🌟 Moral:
+
+Jo sabse powerful hota hai,
+woh sabse zyada vinamr aur shant bhi hota hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 26
     with st.expander("Chapter 26 - Description of Hells (Naraka)"):
-        text1 = """ """
+        text1 = """ 
+        😨 Raja ka sawaal
+
+Raja Parikshit ne poocha,
+“Log alag-alag jagah kyun jaate hain?”
+
+Kuch swarg, kuch narak…
+aisa kyun hota hai?"""
         create_image_text_layout(
             "attached_assets/chapter5/5.26.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        ⚖️ Karm ka rule
+
+Śuka rishi bole,
+“Sab kuch karma (actions) par depend karta hai.”
+
+👉 Achha kaam → achha result 😊
+👉 Bura kaam → bura result 😔
+
+Har insaan apne karm ka phal paata hai.
+
+🔥 Narak kya hai?
+
+Rishi bole,
+“Narak bhi issi duniya ka ek hissa hai…”
+
+Wahan rehte hain Yama
+jo insaaf karte hain ⚖️
+
+😱 Alag-alag narak
+
+Bahut saare narak hain…
+har ek alag punishment ke liye।
+
+Jaise:
+
+🌑 Tāmisra (Andhera narak)
+
+Jo dusron ka:
+
+paisa 💰
+family
+rights
+
+cheen lete hain…
+
+👉 unhe yahan daala jaata hai
+👉 unhe bhook, pyaas aur maar padti hai 😣
+
+🌫️ Andhatāmisra
+
+Jo dhokha dete hain
+aur kisi ki life barbaad karte hain…
+
+👉 woh yahan jaate hain
+👉 unhe andhapan aur dard milta hai 😢
+
+🐍 Raurava
+
+Jo dusron ko satate hain…
+
+👉 wahi log wapas unhe satate hain 😨
+👉 woh creatures ban kar badla lete hain
+
+🍳 Kumbhīpāka
+
+Jo janwaron ko pakad kar
+unhe torture karte hain…
+
+👉 unhe garam tel mein fry kiya jaata hai 🔥
+
+🌳 Asipatravana
+
+Jo dharm ka raasta chhod dete hain…
+
+👉 unhe talwar jaise patton wale jungle mein bheja jaata hai ⚔️
+👉 jahan unka sharir cut hota rehta hai 😖
+
+🌊 Vaitaraṇī nadi
+
+Jo galat kaam karte hain
+aur rules todte hain…
+
+👉 unhe ek gandi nadi mein daala jaata hai 😨
+👉 jahan khoon, gandagi aur dard hota hai
+
+🐶 Sārameyādana
+
+Jo loot, aag lagana, ya dusron ko harm karte hain…
+
+👉 unhe hundreds of dogs attack karte hain 🐕
+
+⚠️ Ek bada sach
+
+Rishi bole,
+“Yeh sab punishments sirf dikhane ke liye nahi…”
+
+👉 yeh insaan ko sudharne ke liye hain
+👉 taaki woh galat kaam na kare
+
+🔄 Life ka cycle
+Achha karo → swarg
+Bura karo → narak
+
+Phir:
+
+👉 insaan wapas janam leta hai
+👉 apne karm ke hisaab se
+
+🧘‍♂️ Solution kya hai?
+
+Rishi ne kaha:
+
+👉 Bhakti karo 🙏
+👉 Achha kaam karo ❤️
+👉 Dusron ko hurt mat karo
+
+Tab tumhe kabhi darr nahi lagega.
+
+🌈 Final sach
+
+Yeh poori duniya —
+swarg, narak, sab kuch…
+
+👉 Bhagwan ka hi ek roop hai ✨
+
+🌟 Moral:
+
+Jaise karm karoge,
+waisa hi phal milega —
+isliye hamesha sahi raasta chuno."""
         create_image_text_layout(text_content=text2, layout="full")
