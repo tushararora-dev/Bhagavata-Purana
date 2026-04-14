@@ -832,66 +832,616 @@ aur sachcha insaan gusse mein bhi shant rehta hai."""
 
     # Chapter 6
     with st.expander("Chapter 6 - Progeny of Dakṣa’s Daughters"):
-        text1 = """ """
+        text1 = """ 
+        👧 Dakṣa ki betiyan
+
+Śuka rishi ne bataya,
+“Dakṣa ne phir 60 betiyan paida ki” 👧
+
+Woh sab apne pita se bahut pyaar karti thi ❤️"""
         create_image_text_layout(
             "attached_assets/chapter6/6.6.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        💍 Shaadi aur nayi duniya
+
+Dakṣa ne unki shaadi alag-alag logon se kar di:
+
+kuch Dharma ko 🙏
+kuch Kaśyapa rishi ko 🧘‍♂️
+kuch Chandra dev ko 🌙
+
+Aur is tarah
+nayi srishti (creation) shuru hui 🌍
+
+🌱 Alag-alag jeev ka janam
+
+In betiyon ke through duniya mein
+alag-alag prani aaye:
+
+👉 Devta ✨
+👉 Asur 😈
+👉 Insaan 👨
+👉 Janwar 🐘
+👉 Pakshi 🐦
+👉 Saap 🐍
+
+Sab isi se badhne lage।
+
+🐦 Vinatā aur Garuḍa
+
+Ek beti Vinatā thi 👩
+
+Uska beta tha —
+👉 Garuḍa 🐦
+
+Woh bahut powerful tha 💥
+Aur Bhagwan Vishnu ka vahan (vehicle) bana।
+
+🐍 Kadrū aur saap
+
+Dusri beti Kadrū thi
+
+👉 usse paida hue saare saap (serpents) 🐍
+
+🐄 Surabhi aur gaay
+
+Ek beti Surabhi thi 🐄
+
+👉 usse gaay aur dusre pashu paida hue
+
+🐅 Saramā aur jaanwar
+
+Saramā se:
+
+👉 tiger 🐅
+👉 aur dusre carnivorous animals
+
+paida hue।
+
+🐟 Timi aur jal jeev
+
+Timi se:
+
+👉 saare jal ke jeev (aquatic animals) 🐟
+
+paida hue।
+
+🌸 Muni aur apsara
+
+Muni se:
+
+👉 sundar apsara (celestial girls) 💃
+
+janmi।
+
+🌌 Aditi aur devta
+
+Aditi se paida hue:
+
+👉 Indra ⚡
+👉 aur aur bhi devta
+
+Aur sabse special —
+👉 Vāmana avatar (Bhagwan Vishnu ka roop) ✨
+
+🌙 Chandra ki kahani
+
+Chandra dev ne 27 betiyon se shaadi ki 🌙
+
+Par Dakṣa ne use curse diya 😠
+Isliye woh weak ho gaya।
+
+Baad mein usne maafi maangi
+aur thoda theek ho gaya।
+
+🌈 Duniya ka expansion
+
+Is tarah:
+
+👉 alag-alag prani
+👉 alag-alag praja
+
+poori duniya mein phail gayi 🌍
+
+🌟 Final sach
+
+Sab jeev ek hi source se aaye…
+aur sab ek doosre se jude hue hain।
+
+🌟 Moral:
+
+Har jeev ka apna role hai —
+aur sab milkar hi duniya complete banti hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7
     with st.expander("Chapter 7 - Bṛhaspati’s Insult and his abandonment of Preceptorship"):
-        text1 = """ """
+        text1 = """ 
+        👑 Indra ka ghamand
+
+Śuka rishi ne bataya,
+“Ek baar Indra, devtaon ka raja,
+apni shakti aur power par ghamand karne laga…” 😤
+
+Woh apne singhasan par baitha tha 👑
+sab uski tareef kar rahe the ✨"""
         create_image_text_layout(
             "attached_assets/chapter6/6.7.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🙏 Guru ka apmaan
+
+Tab wahan aaye uske guru —
+Bṛhaspati 🙏
+
+Par Indra ne:
+
+👉 unhe respect nahi diya
+👉 na khada hua
+👉 na greet kiya
+
+Yeh bahut bada galat kaam tha 😔
+
+😶 Guru chale gaye
+
+Bṛhaspati sab samajh gaye…
+ki Indra ghamandi ho gaya hai
+
+Woh chup-chaap wahan se chale gaye 🚶‍♂️
+
+😢 Indra ka regret
+
+Thodi der baad Indra ko realize hua 😨
+
+Usne kaha,
+“Yeh maine kya kar diya…”
+
+👉 “Maine apne guru ka apmaan kiya…”
+👉 “Yeh meri sabse badi galti hai!”
+
+🔍 Guru ki talaash
+
+Indra ne apne guru ko dhoondhne ki koshish ki…
+par woh kahin nahi mile 😔
+
+Ab uska mann bilkul ashant ho gaya।
+
+⚔️ Asur ka attack
+
+Jab asuro ko pata chala…
+ki devtaon ke paas guru nahi hai 😈
+
+👉 unhone attack kar diya 💥
+
+Devta:
+
+👉 ghayal ho gaye 😣
+👉 haarne lage
+
+🙏 Brahma ke paas
+
+Phir sab devta milkar
+Brahma ji ke paas gaye 🙏
+
+Aur bole,
+“Hume bachaiye!”
+
+⚖️ Brahma ka jawab
+
+Brahma ji bole:
+
+👉 “Yeh sab tumhari galti ka result hai”
+
+👉 “Tumne apne guru ka apmaan kiya”
+
+“Isliye tumhe yeh dukh mila.”
+
+💡 Solution
+
+Brahma ji ne kaha:
+
+👉 “Ab tum Viśvarūpa rishi ke paas jao”
+👉 “Woh tumhari help karenge”
+
+🙇‍♂️ Devtaon ki request
+
+Devta Viśvarūpa ke paas gaye
+aur pyaar se bole:
+
+“Please hume apna guru bana lo 🙏”
+
+🤔 Viśvarūpa ka doubt
+
+Viśvarūpa bole:
+
+👉 “Guru banna easy nahi hota…”
+👉 “Isse spiritual power kam ho sakti hai”
+
+Par phir bhi…
+unhone help karne ka decide kiya ❤️
+
+🛡️ Protection mantra
+
+Viśvarūpa ne Indra ko ek special protection diya:
+
+👉 Nārāyaṇa Kavacha ✨
+
+Yeh ek divine shield tha 🛡️
+
+💥 Victory
+
+Is power ke saath:
+
+👉 Indra strong ho gaya 💪
+👉 aur asuro ko hara diya ⚔️
+
+🌈 Final sach
+
+👉 Ghamand downfall laata hai
+👉 Guru ka respect sabse important hai
+
+🌟 Moral:
+
+Jo apne guru aur elders ka respect karta hai,
+wahi life mein sachchi jeet paata hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 8
     with st.expander("Chapter 8 - The Nārāyaṇa-Kavaca explained"):
-        text1 = """ """
+        text1 = """ 
+        🛡️ Raja ka sawaal
+
+Raja Parikshit ne poocha,
+“Woh kaunsa powerful mantra hai…
+jisse Indra ne apne enemies ko hara diya?” 🤔"""
         create_image_text_layout(
             "attached_assets/chapter6/6.8.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🧘‍♂️ Rishi ka jawab
+
+Śuka rishi bole,
+“Yeh hai Nārāyaṇa Kavach —
+ek divine protection shield!” ✨
+
+🚿 Shuruaat ka rule
+
+Rishi ne bataya:
+
+👉 Pehle apne haath-pair dholo 🚿
+👉 mann shant karo 🧘‍♂️
+👉 aur Bhagwan ko yaad karo 🙏
+
+🔤 Mantra ki shakti
+
+Insaan ko yeh mantra bolna chahiye:
+
+👉 “Om Namo Nārāyaṇāya”
+👉 “Om Namo Bhagavate Vāsudevāya”
+
+Yeh mantra body ko
+spiritual armour bana deta hai 🛡️
+
+🌍 Bhagwan har jagah
+
+Phir insaan ko sochna chahiye:
+
+👉 Bhagwan mere har body part mein hain
+👉 woh mujhe protect kar rahe hain
+
+🐟🐗 Bhagwan ke roop
+
+Different situations mein
+Bhagwan alag-alag roop se protect karte hain:
+
+👉 Matsya (fish) → paani mein 🌊
+👉 Varāha (boar) → dharti par 🌍
+👉 Nṛsiṃha (lion-man) → danger mein 🦁
+👉 Vāmana → har jagah ✨
+
+🛡️ Har direction se protection
+
+Rishi bole:
+
+👉 Bhagwan har direction se protect karte hain
+👉 upar, neeche, andar, bahar… sab jagah ✨
+
+⚔️ Divine weapons
+
+Bhagwan ke weapons bhi protect karte hain:
+
+👉 Sudarshan Chakra 🔥
+👉 Gada 💥
+👉 Shankh 📯
+👉 Talwar ⚔️
+
+Yeh sab evil forces ko destroy kar dete hain.
+
+😈 Darr khatam
+
+Is kavach se:
+
+👉 bhoot, pret, rakshas 👻
+👉 animals 🐅
+👉 enemies ⚔️
+
+👉 sabka darr khatam ho jaata hai 😲
+
+🧠 Strong mind
+
+Jo insaan:
+
+👉 is mantra ko yaad karta hai
+👉 aur dhyaan lagata hai
+
+👉 uska mann strong ho jaata hai 💪
+
+📖 Ek example
+
+Ek Brahman ne yeh kavach use kiya…
+aur uski bones bhi powerful ho gayi 😲
+
+Jisne unhe touch kiya…
+woh bhi affected ho gaya!
+
+🏆 Indra ki jeet
+
+Indra ne bhi yeh kavach use kiya:
+
+👉 aur asuro ko hara diya ⚔️
+👉 aur teenon lok jeet liye 🌍
+
+🌈 Final sach
+
+👉 Bhagwan ka naam = protection
+👉 Bhakti = sabse strong shield
+
+🌟 Moral:
+
+Sachchi protection bahar se nahi,
+andar ki shraddha aur bhakti se milti hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 9
     with st.expander("Chapter 9 - Viśvarūpa killed—Gods defeated by Vṛtra, advised to approach Dadhīci"):
-        text1 = """ """
+        text1 = """ 
+        ⚔️ Viśvarūpa ki galti
+
+Śuka rishi ne bataya,
+“Viśvarūpa devtaon ka guru ban gaya tha…”
+
+Par uske andar ek problem thi 😟
+
+👉 woh secretly asuro ko bhi help karta tha
+
+Kyuki uski maa asur side se thi."""
         create_image_text_layout(
             "attached_assets/chapter6/6.9.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        😠 Indra ka gussa
+
+Jab Indra ko yeh pata chala…
+
+👉 woh gussa ho gaya 😡
+👉 aur usne Viśvarūpa ko maar diya ⚔️
+
+⚠️ Paap ka bojh
+
+Par ek problem ho gayi…
+
+👉 Viśvarūpa ek Brahman tha
+👉 use maarna bada paap tha 😨
+
+Isliye Indra ne apna paap baant diya:
+
+dharti 🌍
+paani 🌊
+ped 🌳
+aur women
+😈 Vṛtra ka janam
+
+Viśvarūpa ke pita Tvaṣṭṛ ne badla lene ke liye
+ek yajna kiya 🔥
+
+Aur usse paida hua ek bhayanak asur — Vṛtra 😈
+
+😱 Vṛtra ka roop
+
+Vṛtra:
+
+bahut bada tha 😲
+uski aankhen darawni thi 👀
+woh aasman ko chhoo raha tha ☁️
+
+Log use dekh kar darr gaye 😨
+
+⚔️ Devta haar gaye
+
+Devtaon ne usse fight ki…
+
+👉 par Vṛtra ne unke weapons bhi nigal liye 😱
+
+Sab devta haar gaye 😔
+
+🙏 Bhagwan se help
+
+Phir sab milkar Bhagwan Vishnu ke paas gaye 🙏
+
+Aur bole,
+“Bas aap hi hume bacha sakte ho…”
+
+✨ Bhagwan ka darshan
+
+Bhagwan unke saamne prakat hue 🌟
+
+Sab devta khush ho gaye 😊
+Aur unhe pranam kiya।
+
+💡 Bhagwan ka solution
+
+Bhagwan bole:
+
+👉 “Tumhe ek special weapon chahiye” ⚔️
+
+👉 “Iske liye jao rishi Dadhīci ke paas”
+
+👉 “Woh apni haddiyan (bones) denge”
+
+👉 “Unse powerful weapon banega”
+
+🛡️ Ultimate plan
+
+Bhagwan ne kaha:
+
+👉 “Us weapon se tum Vṛtra ko hara sakte ho”
+
+👉 “Aur apni shakti wapas paoge” 💪
+
+🌈 Final sach
+
+👉 Galat kaam ka result hamesha milta hai
+👉 par Bhagwan hamesha solution dete hain
+
+🌟 Moral:
+
+Galti se problem aati hai,
+par shraddha aur sahi marg se solution milta hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 10
     with st.expander("Chapter 10 - With Vajra forged, Indra fights"):
-        text1 = """ """
+        text1 = """ 
+        🙏 Dadhīci ka balidaan
+
+Śuka rishi ne bataya,
+“Devta Dadhīci rishi ke paas gaye…”
+
+Unhone kaha,
+“Please hume apni haddiyan de dijiye…
+hume Vṛtra ko haraana hai.” 😟"""
         create_image_text_layout(
             "attached_assets/chapter6/6.10.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        😌 Rishi ka jawab
+
+Dadhīci muskuraaye 😊
+Aur bole,
+
+“Yeh body toh ek din waise bhi chali jayegi…”
+
+“Toh agar yeh kisi ke kaam aa jaaye…
+toh isse achha kya?” ❤️
+
+💖 Sacrifice ka sach
+
+Rishi ne kaha:
+
+👉 “Jo dusron ke liye apni body bhi de de…”
+👉 “Wahi sachcha mahaan insaan hai” ✨
+
+🧘‍♂️ Mahaan tyag
+
+Phir Dadhīci ne:
+
+👉 dhyaan lagaya 🧘‍♂️
+👉 apni aatma ko Brahman mein mila diya
+
+Aur apna sharir chhod diya 🙏
+
+⚡ Vajra ka janam
+
+Devtaon ne:
+
+👉 unki haddiyan li
+👉 aur Viśvakarma ne unse banaya —
+👉 Vajra (thunderbolt weapon) ⚡
+
+👑 Indra ready
+
+Ab Indra:
+
+👉 Airāvata par baitha 🐘
+👉 haath mein Vajra liya ⚡
+👉 aur battle ke liye ready ho gaya 💥
+
+⚔️ Maha yudh
+
+Narmada nadi ke paas
+ek bada yudh shuru hua ⚔️
+
+👉 Devta vs Asur 😈
+
+😈 Asuro ka attack
+
+Asuro ne:
+
+👉 talwar ⚔️
+👉 teer 🏹
+👉 gada 💥
+
+sab kuch use kiya
+
+Par devta sab rok rahe the 💪
+
+😨 Asur dar gaye
+
+Jab unke attacks fail ho gaye…
+
+👉 asur dar gaye 😟
+👉 aur bhagne lage
+
+😄 Vṛtra ka speech
+
+Par Vṛtra hansa 😄
+Aur bola:
+
+“Darr kyun rahe ho?”
+
+👉 “Death toh sabko aani hai”
+👉 “Toh darr kar kyun bhaagna?”
+
+🦁 Warrior ka mindset
+
+Vṛtra bola:
+
+👉 “Best death kya hai?”
+
+Dhyaan mein marna 🧘‍♂️
+Ya battlefield mein ladte hue marna ⚔️
+
+👉 “Darr ke bhaagna galat hai!”
+
+🌈 Final sach
+
+👉 Sacrifice se hi jeet milti hai
+👉 aur himmat sabse badi power hai
+
+🌟 Moral:
+
+Jo dusron ke liye tyag karta hai aur himmat se ladta hai,
+wahi sachcha veer hota hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
