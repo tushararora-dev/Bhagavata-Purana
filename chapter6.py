@@ -1793,51 +1793,276 @@ Attachment kam karo, tabhi dukh kam hoga aur mann shaant rahega."""
 
     # Chapter 16
     with st.expander("Chapter 16 - Citraketu’s Realization of Lord Ananta"):
-        text1 = """ """
+        text1 = """ 
+        Raja Citraketu ab thoda strong ho gaya tha, lekin uska mann ab bhi sach ki khoj me tha.
+
+Rishi Narada ne ek din usse ek special mantra sikhaya.
+
+Raja ne poore mann se us mantra ka dhyaan karna shuru kiya.
+
+Woh sirf paani pe reh kar tapasya karne laga.
+
+7 din tak usne full focus se meditation kiya.
+
+Phir ek din uske saamne ek divine darshan hua."""
         create_image_text_layout(
             "attached_assets/chapter6/6.16.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Usne Bhagwan Ananta ko dekha.
+
+Bhagwan bahut sundar aur powerful lag rahe the.
+
+Unhe dekh kar Citraketu ke aansu nikal aaye.
+
+Uska dil bhakti se bhar gaya.
+
+Woh jhuk kar unhe pranam karne laga.
+
+Kuch der tak woh bol bhi nahi paaya, itna emotional ho gaya tha.
+
+Phir usne shanti se Bhagwan ki stuti ki.
+
+Usne kaha,
+“Hey Prabhu, aap sabse bade ho. Sab kuch aapse hi aata hai.”
+
+“Duniya ki sab cheezein temporary hain, par aap hamesha rehte ho.”
+
+Bhagwan Ananta usse dekh kar khush ho gaye.
+
+Unhone kaha,
+“Tumne sahi raasta chun liya hai.”
+
+“Main hi sabka soul hoon. Sab kuch mujh me hi hai.”
+
+“Jo mujhe samajh leta hai, use sach me shanti milti hai.”
+
+“Jo log sirf duniya ke peeche bhaagte hain, unhe kabhi true happiness nahi milti.”
+
+Citraketu dhyan se sunta raha.
+
+Usne sab samajh liya.
+
+Ab uska mann bilkul shaant ho gaya tha.
+
+Thodi der baad Bhagwan wahan se antardhyan ho gaye.
+
+Lekin Citraketu ke andar ab ek nayi roshni aa chuki thi.
+
+Moral:
+True happiness bahar nahi, andar aur Bhagwan se connection me hoti hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 17
     with st.expander("Chapter 17 - Citraketu cursed by Pārvatī"):
-        text1 = """ """
+        text1 = """ 
+        Citraketu ab ek powerful yogi ban chuka tha.
+Woh aasman me ghoomta tha aur Bhagwan Hari ka naam leta tha.
+
+Ek din woh apne vimaan me ja raha tha.
+
+Tab usne ek ajeeb scene dekha.
+
+Bhagwan Shiva sab rishiyon ke beech baithe the.
+Aur Maa Parvati unki godh me baithi thi."""
         create_image_text_layout(
             "attached_assets/chapter6/6.17.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Yeh dekh kar Citraketu thoda hans pada.
+
+Usne mazaak me bola,
+“Yeh to bade guru hain, phir bhi sabke saamne aise baithe hain.”
+
+Sab log chup ho gaye.
+
+Bhagwan Shiva ne is baat par gussa nahi kiya.
+Woh sirf muskura diye.
+
+Lekin Maa Parvati ko yeh baat buri lag gayi.
+
+Unhone gusse me Citraketu ko shraap diya,
+“Tum ab ek Rakshasa ke roop me janam loge!”
+
+Sab shock ho gaye.
+
+Lekin Citraketu ne bilkul gussa nahi kiya.
+
+Woh shanti se jhuk gaya aur bola,
+“Main aapka shraap accept karta hoon.”
+
+“Jo bhi hota hai, woh Bhagwan ki marzi se hota hai.”
+
+“Na koi dukh deta hai, na koi khushi deta hai. Sab karma ka result hai.”
+
+Uski baat sun kar sab hairaan ho gaye.
+
+Bhagwan Shiva ne Maa Parvati se kaha,
+“Dekho, yeh ek sachcha bhakt hai.”
+
+“Isse koi farak nahi padta curse ho ya blessing.”
+
+Maa Parvati ka gussa shaant ho gaya.
+
+Baad me Citraketu ne Rakshasa ke roop me janam liya.
+Wahi aage chal kar Vritra bana.
+
+Lekin uske andar bhakti waise hi bani rahi.
+
+Moral:
+True bhakt har situation me calm rehta hai, chahe curse ho ya blessing."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 18
     with st.expander("Chapter 18 - The Birth of the Maruts"):
-        text1 = """ """
+        text1 = """ 
+        Ek baar Diti apne dono bete ke marne se bahut dukhi thi.
+Uske dil me gussa bhar gaya tha.
+
+Usne socha,
+“Mujhe ek aisa beta chahiye jo Indra ko hara sake.”
+
+Isliye usne apne pati Kashyap rishi ki seva shuru ki.
+
+Woh unka bahut dhyaan rakhti thi.
+Pyar se baat karti thi aur unhe khush rakhti thi."""
         create_image_text_layout(
             "attached_assets/chapter6/6.18.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Kashyap rishi usse khush ho gaye.
+
+Unhone bola,
+“Maang lo jo tumhe chahiye.”
+
+Diti ne turant kaha,
+“Mujhe ek aisa beta chahiye jo Indra ko maar sake.”
+
+Yeh sun kar Kashyap rishi thode tension me aa gaye.
+
+Lekin unhone ek condition rakhi,
+“Agar tum 1 saal tak ek special vrat follow karogi, tab tumhe aisa beta milega.”
+
+Diti maan gayi aur vrat start kar diya.
+
+Usne bahut strict rules follow kiye.
+
+Udhar Indra ko yeh baat pata chal gayi.
+
+Woh darr gaya ki future me koi usse hara dega.
+
+Isliye woh Diti ke paas seva karne laga.
+
+Lekin asli reason yeh tha ki woh uski galti dhundh raha tha.
+
+Diti almost perfect thi.
+Indra ko koi chance nahi mil raha tha.
+
+Phir ek din Diti thak gayi.
+Woh bina proper rules follow kiye so gayi.
+
+Bas, Indra ko mauka mil gaya.
+
+Woh magic se uske womb me gaya.
+
+Usne fetus ko tod diya.
+
+Lekin ek miracle hua.
+Woh mar nahi paaya.
+
+Woh 49 parts me divide ho gaya.
+
+Woh sab bachche zinda ho gaye.
+
+Woh sab Marut dev ban gaye.
+
+Subah Diti ne dekha ki uske 49 bachche hain.
+Woh hairaan ho gayi.
+
+Usne Indra se poocha kya hua.
+
+Indra ne sach bata diya aur maafi maangi.
+
+Diti ne use maaf kar diya.
+
+Sab bachche Indra ke saath devta ban gaye.
+
+Moral:
+Gussa aur badla kabhi sahi result nahi deta, lekin maafi aur bhakti se sab theek ho sakta hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 19
     with st.expander("Chapter 19 - The Details of the Vow called Puṃsavana"):
-        text1 = """ """
+        text1 = """ 
+        Raja ne rishi se poocha,
+“Yeh Puṃsavana vrat kya hota hai?”
+
+Rishi ne shanti se samjhaya.
+
+Unhone bola,
+“Yeh ek special vrat hai jo Bhagwan Vishnu ko khush karta hai.”
+
+“Isse insaan apni wishes poori kar sakta hai.”"""
         create_image_text_layout(
             "attached_assets/chapter6/6.19.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Rishi ne bataya ki yeh vrat ek saal tak follow karna hota hai.
+
+Roz subah naha kar saaf kapde pehenne chahiye.
+
+Phir Bhagwan Vishnu aur Maa Lakshmi ki pooja karni chahiye.
+
+Unhe phool, diya aur food offer karna chahiye.
+
+Dil se unka naam lena chahiye.
+
+Rishi ne kaha,
+“Pooja ke baad thoda food agni me chadhana chahiye.”
+
+“Phir bacha hua prasad khana chahiye.”
+
+Yeh sab daily karna hota hai.
+
+Is vrat me discipline bahut important hai.
+
+Husband aur wife dono milkar bhi kar sakte hain.
+
+Agar wife nahi kar paaye, toh husband bhi kar sakta hai.
+
+Rishi ne kaha,
+“Is vrat ko kabhi beech me nahi chhodna chahiye.”
+
+“Poore mann se follow karna chahiye.”
+
+Akhri din fast rakhna hota hai.
+
+Phir special pooja karke vrat complete hota hai.
+
+Rishi ne bataya,
+“Jo is vrat ko sahi se karta hai, uski wishes poori hoti hain.”
+
+“Life me happiness, health aur good fortune milta hai.”
+
+Raja yeh sab sun kar khush ho gaya.
+
+Usse samajh aa gaya ki faith aur discipline kitne important hain.
+
+Moral:
+Faith aur consistency se hi life me success aur blessings milti hain."""
         create_image_text_layout(text_content=text2, layout="full")
