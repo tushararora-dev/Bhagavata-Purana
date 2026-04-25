@@ -1447,66 +1447,347 @@ wahi sachcha veer hota hai."""
 
     # Chapter 11
     with st.expander("Chapter 11 - Vṛtra, Hari’s devotee, fights"):
-        text1 = """ """
+        text1 = """ 
+        Ek baar ek powerful Asura tha, jiska naam Vritra tha. Woh apni sena ko samjha raha tha.
+
+Lekin uski sena darr gayi thi.
+Woh sab bhaagne lage aur uski baat nahi suni.
+
+Yeh dekh kar Vritra ko gussa aa gaya.
+
+Usne zor se chillaya,
+“Jo bhaag rahe hain, unhe maarne me kya bahaduri hai?”"""
         create_image_text_layout(
             "attached_assets/chapter6/6.11.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        “Agar himmat hai, toh mere saamne aao!”
+
+Uski awaaz itni powerful thi ki devta bhi darr gaye.
+
+Kuch devta toh behosh ho gaye.
+
+Vritra ne apni shakti se sabko daba diya.
+
+Tab Indra wahan aaya.
+Usne apna weapon Vritra par pheka.
+
+Lekin Vritra ne use asaani se pakad liya.
+
+Fir usne Indra ke haathi Airavat par attack kiya.
+Airavat gir gaya aur injured ho gaya.
+
+Indra thoda weak feel karne laga.
+
+Lekin Vritra ne us waqt attack nahi kiya.
+
+Indra ne apne haathi ko theek kiya aur phir ready ho gaya.
+
+Tab Vritra ne Indra se kaha,
+“Tumne mere bhai ko dhokhe se maara tha.”
+
+“Ab main tumhe punishment dunga.”
+
+Vritra gusse me tha, lekin uske words me sach tha.
+
+Phir bhi usne ek alag baat kahi.
+
+Usne bola,
+“Main jeet ya haar se nahi darta.”
+
+“Main sirf Bhagwan Hari ko yaad karta hoon.”
+
+“Main unka bhakt hoon.”
+
+Vritra ne kaha ki use power ya kingdom nahi chahiye.
+
+Use sirf Bhagwan ke paas rehna hai.
+
+Usne Indra se bola,
+“Agar tum mujhe maaroge, toh bhi main khush rahunga.”
+
+“Kyuki main Bhagwan ke paas chala jaunga.”
+
+Vritra ka dil pure tha.
+
+Woh ek strong warrior bhi tha aur ek true devotee bhi.
+
+Moral:
+Asli strength sirf power me nahi hoti, balki faith aur devotion me hoti hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 12
     with st.expander("Chapter 12 - Vṛtra slain by Indra"):
-        text1 = """ """
+        text1 = """ 
+        Vritra ab final battle ke liye ready tha. Usne apna trishul uthaya aur Indra par attack kiya.
+
+Uska attack bahut powerful tha.
+
+Lekin Indra shaant raha.
+Usne apne Vajra se Vritra ka trishul aur uska haath kaat diya.
+
+Phir bhi Vritra rukha nahi.
+Usne gusse me Indra aur uske haathi Airavat par attack kiya.
+
+Indra ka weapon haath se gir gaya."""
         create_image_text_layout(
             "attached_assets/chapter6/6.12.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Sab log tension me aa gaye.
+
+Tab Vritra ne ek surprising baat boli.
+Usne kaha, “Indra, apna weapon uthao aur mujhe maaro.”
+
+“Yeh fight ka time hai, darne ka nahi.”
+
+Vritra ne samjhaya,
+“Jeet ya haar sirf hum par depend nahi karti.”
+
+“Sab kuch Bhagwan aur time decide karta hai.”
+
+Uski baatein bahut deep thi.
+
+Indra ne yeh sun kar respect feel kiya.
+
+Phir dono ne fir se fight shuru ki.
+
+Indra ne Vritra ke dusre haath bhi kaat diye.
+
+Vritra fir bhi fight karta raha.
+
+Woh itna bada ho gaya ki usne Indra aur Airavat ko nigal liya.
+
+Sab log darr gaye.
+
+Lekin Indra andar se safe tha.
+
+Usne apne Vajra se Vritra ke andar se attack kiya.
+
+Phir woh bahar nikla aur Vritra ka sir kaat diya.
+
+Vritra gir gaya aur uska end ho gaya.
+
+Sab devta khush ho gaye.
+Unhone Indra ki tareef ki aur phool barsaye.
+
+Us samay ek roshni Vritra ke sharir se nikli.
+Woh seedha Bhagwan me mil gayi.
+
+Yeh dikha ki Vritra ek sachcha bhakt tha.
+
+Moral:
+Sachchi bhakti aur pure dil wale log akhir me Bhagwan tak pahunch hi jaate hain."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 13
     with st.expander("Chapter 13 - The Triumph of Indra"):
-        text1 = """ """
+        text1 = """ 
+        Jab Vritra ka ant hua, tab sab log khush ho gaye.
+Teenon lok me shanti aa gayi.
+
+Lekin ek ajeeb baat hui.
+Sab khush the, par Indra khush nahi tha.
+
+Raja ne poocha, “Indra dukhi kyun hai?”"""
         create_image_text_layout(
             "attached_assets/chapter6/6.13.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Tab rishi ne bataya,
+“Indra ko darr tha ki usne ek Brahman ko maara hai.”
+
+Usse laga ki usne paap kiya hai.
+
+Rishiyon ne usse samjhaya,
+“Tum ek bada yagya karo. Sab theek ho jayega.”
+
+Lekin Indra ka darr kam nahi hua.
+
+Jab usne Vritra ko maara, tab paap uske peeche aa gaya.
+
+Woh paap ek darawni aurat ke roop me tha.
+Woh Indra ka peecha kar rahi thi.
+
+Indra bahut darr gaya.
+Woh har jagah bhaagne laga.
+
+Aakhir me woh ek jheel me chhup gaya.
+
+Wahan woh bahut saalon tak chup raha.
+Woh bas sochta raha ki apni galti kaise sudhare.
+
+Tab tak swarg ka rajya kisi aur ne sambhala.
+
+Lekin dheere-dheere Indra ne Bhagwan Vishnu ka dhyaan kiya.
+
+Uski galti ka bojh kam hone laga.
+
+Fir rishiyon ne use wapas bulaya.
+
+Indra ne ek bada yagya kiya aur Bhagwan ki pooja ki.
+
+Uske baad uska paap khatam ho gaya.
+
+Woh phir se apne purane roop me aa gaya.
+
+Moral:
+Galti ho jaye, toh use accept karke sudharna hi asli jeet hoti hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 14
     with st.expander("Chapter 14 - The Previous Birth of Vṛtra—King Citraketu"):
-        text1 = """ """
+        text1 = """ 
+        Ek din Raja Parikshit ne poocha,
+“Vritra itna bada Rakshasa hote hue bhi Bhagwan ka bhakt kaise tha?”
+
+Rishi ne kaha, “Iske peeche ek purani kahani hai.”
+
+Bahut pehle ek raja tha, jiska naam Citraketu tha.
+Woh bahut powerful aur rich tha.
+
+Uske paas sab kuch tha, lekin ek problem thi.
+Uske koi santaan nahi thi."""
         create_image_text_layout(
             "attached_assets/chapter6/6.14.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Is wajah se woh hamesha dukhi rehta tha.
+
+Ek din ek rishi uske mahal aaye.
+Raja ne unka respect kiya aur unse madad maangi.
+
+Raja bola,
+“Mere paas sab kuch hai, par ek bachcha nahi hai.
+Mujhe ek santaan chahiye.”
+
+Rishi ne uski madad ki.
+Unhone ek special prasad diya.
+
+Raja ki ek rani ne woh prasad khaya.
+Kuch time baad usse ek beta hua.
+
+Sab log bahut khush ho gaye.
+
+Raja apne bete se bahut pyaar karta tha.
+Woh usi ke saath zyada time spend karta tha.
+
+Baaki raniyan is baat se jealous ho gayi.
+
+Unhone socha,
+“Humari koi value nahi hai.”
+
+Jealousy badhti gayi aur unhone ek galat kaam kar diya.
+
+Unhone bachche ko poison de diya.
+
+Bachcha mar gaya.
+
+Jab maa ne dekha, woh shock me aa gayi.
+Woh zor-zor se rone lagi.
+
+Sab log dukhi ho gaye.
+
+Raja bhi toot gaya.
+Woh apne bete ke paas gir gaya aur ro pada.
+
+Pura mahal dukh se bhar gaya.
+
+Jo raniyan galti kar chuki thi, woh bhi pretend kar rahi thi ki woh dukhi hain.
+
+Sab jagah sirf rona aur dard tha.
+
+Tabhi wohi rishi wapas aaye, apne saath ek aur mahan rishi ko lekar.
+
+Moral:
+Jealousy aur ego hamesha dukh aur destruction laate hain."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 15
     with st.expander("Chapter 15 - Consolation of Citraketu"):
-        text1 = """ """
+        text1 = """ 
+        Raja Citraketu apne bete ke paas ro raha tha.
+Woh bilkul toot chuka tha.
+
+Tabhi do mahan rishi aaye – Angiras aur Narada.
+
+Unhone pyaar se raja ko uthaya aur samjhaya."""
         create_image_text_layout(
             "attached_assets/chapter6/6.15.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Rishi bole,
+“Raja, tum itna dukhi kyun ho?”
+
+“Yeh batao, kya yeh bachcha hamesha tumhara tha?”
+
+Raja chup ho gaya.
+
+Rishi ne kaha,
+“Jaise paani me ret ke dane milte aur alag hote hain, waise hi log milte aur bichhadte hain.”
+
+“Sab kuch time ke saath badalta hai.”
+
+“Yeh body alag hai, aur soul alag hai. Soul kabhi nahi marta.”
+
+Raja dhyan se sunne laga.
+
+Rishi ne fir kaha,
+“Jo cheezein tumhari lagti hain – jaise family, paisa, power – yeh sab temporary hain.”
+
+“Yeh sab ek sapne ki tarah hain.”
+
+Raja ka dukh thoda kam hone laga.
+
+Usne poocha,
+“Aap kaun hain? Aapne mujhe itni gehri baat samjhayi.”
+
+Tab rishi bole,
+“Main Angiras hoon. Maine hi tumhe beta diya tha.”
+
+“Aur yeh Narada hain.”
+
+Raja hairaan ho gaya.
+
+Rishi ne kaha,
+“Tumne beta maanga tha, isliye humne diya.”
+
+“Ab tum samajh gaye ho ki attachment kitna dukh deta hai.”
+
+“Yeh duniya ki cheezein hamesha ke liye nahi hoti.”
+
+Raja dheere-dheere strong banne laga.
+
+Narada ne kaha,
+“Ab tum apna mann Bhagwan par lagao.”
+
+“Dhyaan karo aur sach ko samjho.”
+
+Raja ne unki baat maan li.
+
+Usne apne dukh ko control kiya aur spiritual path par chalna shuru kiya.
+
+Moral:
+Attachment kam karo, tabhi dukh kam hoga aur mann shaant rahega."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
