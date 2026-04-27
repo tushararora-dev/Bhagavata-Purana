@@ -445,66 +445,369 @@ Sachchi bhakti aur strong belief se har mushkil ko jeeta ja sakta hai."""
 
     # Chapter 6
     with st.expander("Chapter 6 - Prahlāda’s Teaching"):
-        text1 = """ """
+        text1 = """ 
+        Ek din Prahlad apne school ke friends ke saath baitha tha.
+Usne unhe pyaar se bulaya aur bola,
+“Doston, meri baat dhyaan se suno.”
+
+“Life sirf khelne ke liye nahi hoti.”"""
         create_image_text_layout(
             "attached_assets/chapter7/7.6.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        “Bachpan se hi hume sach aur Bhagwan ko samajhna chahiye.”
+
+Sab bachche uski baat sunne lage.
+
+Prahlad ne kaha,
+“Human life bahut rare hoti hai.”
+
+“Yeh chhoti hai, par isse hum sabse bada goal achieve kar sakte hain.”
+
+“Isliye time waste mat karo.”
+
+Phir usne samjhaya,
+“Jo sukh hum duniya me dhoondte hain, woh temporary hai.”
+
+“Dukh bhi apne aap aata hai, sukh bhi.”
+
+“Toh sirf inke peeche bhaagna bekaar hai.”
+
+Bachche thoda confuse ho gaye.
+
+Prahlad ne simple example diya,
+“Zindagi 100 saal ki ho toh bhi aadha time sone me nikal jata hai.”
+
+“Bachpan aur budhape me bhi time nikal jata hai.”
+
+“Toh asli time bahut kam bachta hai.”
+
+“Isliye use wisely use karo.”
+
+Phir usne kaha,
+“Log family, paisa aur desires me itne busy ho jaate hain ki apna asli goal bhool jaate hain.”
+
+“Woh kabhi free nahi ho paate.”
+
+“Jaise ek silkworm khud hi apna jaal bana kar usme phas jaata hai.”
+
+Sab bachche ab seriously sun rahe the.
+
+Prahlad ne aage kaha,
+“Isliye buri sangati se door raho.”
+
+“Aur Bhagwan Vishnu ki sharan me jao.”
+
+“Sabke saath kindness aur friendship rakho.”
+
+“Bhagwan sabke andar hain.”
+
+“Unhe paana mushkil nahi hai.”
+
+Bachchon ko ab samajh aane laga.
+
+Unhone poocha,
+“Yeh sab tumne kaise seekha?”
+
+Prahlad muskura diya.
+
+Woh unhe apni story batane wala tha.
+
+Moral:
+Time precious hai—use sirf duniya ke peeche waste na karke, sahi cheezon me lagana chahiye."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7
     with st.expander("Chapter 7 - Prahlāda, enlightened while in mother’s womb"):
-        text1 = """ """
+        text1 = """ 
+        Prahlad ke friends ne poocha,
+“Tum itni badi baatein kaise jaante ho?”
+
+Prahlad muskuraaya aur bola,
+“Main tumhe apni kahani batata hoon.”
+
+Usne kaha,
+“Jab mere father tapasya kar rahe the, tab devta Asuro par attack kar rahe the.”
+
+“Us time meri maa ko Indra le ja raha tha.”"""
         create_image_text_layout(
             "attached_assets/chapter7/7.7.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Woh bahut dar gayi thi.
+
+Tab ek mahan rishi aaye—Narada.
+
+Unhone Indra ko roka aur kaha,
+“Is mahila ko chhod do.”
+
+“Iske womb me ek mahaan bhakt hai.”
+
+Indra ne unki baat maan li.
+
+Narada ji meri maa ko apne ashram le gaye.
+
+Wahan meri maa safe thi.
+
+Narada ji ne use Bhagwan aur life ka gyaan diya.
+
+Prahlad ne kaha,
+“Main tab maa ke womb me tha.”
+
+“Lekin maine woh sab suna aur samajh liya.”
+
+“Woh gyaan abhi tak mere saath hai.”
+
+Bachche hairaan ho gaye.
+
+Prahlad ne aage samjhaya,
+“Body change hoti rehti hai—janam, badhna, budhapa, death.”
+
+“Lekin soul kabhi nahi badalta.”
+
+“Woh hamesha same rehta hai.”
+
+“Isliye ‘main’ aur ‘mera’ sochna galat hai.”
+
+Phir usne kaha,
+“Sach me hum sab ek hi Supreme power ka part hain.”
+
+“Wahi sabke andar hai.”
+
+“Usse hi samajhna sabse important hai.”
+
+Prahlad ne simple words me bola,
+“Bhagwan ko yaad karo, unki kahani suno, aur sabke saath achha behave karo.”
+
+“Yahi sabse best life hai.”
+
+Sab bachche ab inspired feel kar rahe the.
+
+Unhe samajh aa gaya ki Prahlad itna special kyun hai.
+
+Moral:
+Sachcha gyaan aur bhakti kabhi waste nahi jaati—woh life bhar saath rehti hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 8
     with st.expander("Chapter 8 - Death of Hiraṇyakaśipu and Praise of Nṛsiṃha"):
-        text1 = """ """
+        text1 = """ 
+        Prahlad ki baatein sun kar sab bachche uski taraf ho gaye.
+Unhone uski baat maan li.
+
+Yeh dekh kar teachers darr gaye.
+Unhone jaakar Hiranyakashipu ko sab bata diya.
+
+Yeh sunte hi Hiranyakashipu gusse se kaanpne laga."""
         create_image_text_layout(
             "attached_assets/chapter7/7.8.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Usne Prahlad ko bulaya aur zor se daanta,
+“Tu meri baat kyun nahi maanta?”
+
+“Tu itna strong kaise hai?”
+
+Prahlad ne calmly jawab diya,
+“Sabki power ek hi source se aati hai—Bhagwan se.”
+
+“Woh sab jagah hain.”
+
+Hiranyakashipu aur gussa ho gaya.
+
+Usne poocha,
+“Agar Bhagwan har jagah hain, toh kya woh is pillar me bhi hain?”
+
+Prahlad ne bina dare kaha,
+“Haan, woh yahan bhi hain.”
+
+Yeh sun kar Hiranyakashipu ne pillar par zor se maara.
+
+Tabhi ek bahut zor ki awaaz hui.
+
+Aur pillar se ek adbhut roop nikla—
+na pura aadmi, na pura sher.
+
+Woh tha Narasimha.
+
+Uska roop bahut powerful aur darawna tha.
+
+Hiranyakashipu ne us par attack kiya.
+
+Lekin Narasimha ne use pakad liya.
+
+Usne use na din me mara, na raat me—
+shaam ke time.
+
+Na andar, na bahar—
+darwaze ke beech.
+
+Na zameen par, na aasman me—
+apni godh me bithakar.
+
+Aur bina weapon ke,
+apne naakhun se use maar diya.
+
+Is tarah sab conditions follow ho gayi.
+
+Sab devta khush ho gaye.
+
+Woh aasman se phool barsane lage.
+
+Lekin Narasimha ka gussa abhi shaant nahi hua tha.
+
+Koi bhi unke paas jaane ki himmat nahi kar raha tha.
+
+Tab Prahlad aage badha.
+
+Woh bina dare unke paas gaya.
+
+Usne jhuk kar pranam kiya.
+
+Narasimha ka gussa turant shaant ho gaya.
+
+Unhone Prahlad ko ashirwad diya.
+
+Sab log khush ho gaye.
+
+Moral:
+Sachchi bhakti aur sachai hamesha jeet ti hai, chahe kitni bhi badi problem kyun na ho."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 9
     with st.expander("Chapter 9 - Prahlāda eulogizes Nṛsiṃha"):
-        text1 = """ """
+        text1 = """ 
+        Hiranyakashipu ke marne ke baad bhi sab log darr rahe the.
+Bhagwan Narasimha ka gussa abhi bhi shaant nahi hua tha.
+
+Brahma ji aur baaki devta paas jaane ki himmat nahi kar pa rahe the.
+
+Unhone Maa Lakshmi ko bheja."""
         create_image_text_layout(
             "attached_assets/chapter7/7.9.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Lekin woh bhi unke roop ko dekh kar ruk gayi.
+
+Tab Brahma ji ne Prahlad se kaha,
+“Beta, tum hi jao.”
+
+Prahlad dheere-dheere aage badha.
+
+Woh bina dare Bhagwan ke paas gaya.
+
+Usne jhuk kar pranam kiya.
+
+Bhagwan Narasimha ka dil pighal gaya.
+
+Unhone Prahlad ke sir par haath rakha.
+
+Us touch se Prahlad ke andar divine gyaan aa gaya.
+
+Uski aankhon me khushi ke aansu aa gaye.
+
+Woh Bhagwan ki stuti karne laga.
+
+Prahlad ne kaha,
+“Main ek Asur family me paida hua hoon.”
+
+“Phir bhi aapne mujh par itni kripa ki.”
+
+“Na paisa, na power, na knowledge—
+sirf sachchi bhakti hi aapko khush karti hai.”
+
+Usne aur kaha,
+“Log duniya ke sukh ke peeche bhagte hain,
+lekin woh sab temporary hai.”
+
+“Real shanti sirf aapki bhakti me hai.”
+
+Prahlad ne apni wish bhi batayi.
+
+Usne bola,
+“Mujhe kuch nahi chahiye.”
+
+“Bas mujhe aapki seva karni hai.”
+
+“Main akela moksha nahi chahta.”
+
+“Main chahta hoon sab log aap tak pahunch jayein.”
+
+Bhagwan Narasimha bahut khush ho gaye.
+
+Unhone kaha,
+“Main tumse bahut prasann hoon.”
+
+“Jo chaaho maang lo.”
+
+Lekin Prahlad ne phir bhi kuch nahi maanga.
+
+Uski bhakti bilkul nishkaam thi.
+
+Moral:
+Sabse shuddh bhakti wahi hoti hai jisme insaan kuch bhi badle me nahi maangta."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 10
     with st.expander("Chapter 10 - Prahlāda enthroned—The conquest of Tripura"):
-        text1 = """ """
+        text1 = """ 
+        Bhagwan Narasimha ne Prahlad se kaha,
+“Tum jo chaho maang sakte ho.”
+
+Lekin Prahlad muskura diya.
+
+Usne bola,
+“Mujhe koi reward nahi chahiye.”"""
         create_image_text_layout(
             "attached_assets/chapter7/7.10.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        “Main aapka bhakt hoon, koi deal karne wala vyapari nahi.”
+“Sachcha bhakt kabhi badle me kuch nahi maangta.”
+Bhagwan yeh sun kar bahut khush ho gaye.
+Prahlad ne sirf ek hi baat maangi,
+“Mere dil me kabhi koi desire na aaye.”
+“Bas main hamesha aapki bhakti karta rahu.”
+Phir Prahlad ne apne father ke liye bhi prarthana ki.
+Usne kaha,
+“Please mere pita ko maaf kar dijiye.”
+Bhagwan ne pyaar se kaha,
+“Tumhare jaise bhakt ke wajah se tumhare pita aur unki puri family ka uddhaar ho gaya.”
+Prahlad khush ho gaya.
+Phir Bhagwan ne use kaha,
+“Ab tum raja banoge.”
+“Apne kartavya nibhao, lekin mann hamesha mere paas rakho.”
+Prahlad ne sab kuch accept kar liya.
+Usne apne pita ke rituals poore kiye.
+Phir use raja bana diya gaya.
+Sab log usse respect karne lage.
+Woh ek acha aur nyay-priya raja bana.
+Sab kuch theek chal raha tha.
+Baad me Bhagwan wahan se antardhyan ho gaye.
+Devta bhi apne-apne lok me wapas chale gaye.
+Prahlad apni praja ka dhyaan rakhte hue,
+Bhagwan ki bhakti me jeene laga.
+Moral:
+Sacchi bhakti bina kisi expectation ke hoti hai, aur wahi insaan ko sabse upar le jaati hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
