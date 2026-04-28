@@ -339,7 +339,7 @@ def main():
     if ch:
         try:
             ch_num = int(ch)
-            if 0 <= ch_num <= 7:
+            if 0 <= ch_num <= 13:
                 st.session_state.selected_chapter = ch_num
         except:
             pass  # ignore bad values
