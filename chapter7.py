@@ -813,64 +813,368 @@ Sacchi bhakti bina kisi expectation ke hoti hai, aur wahi insaan ko sabse upar l
 
     # Chapter 11
     with st.expander("Chapter 11 - The Eternal Path of Religion"):
-        text1 = """ """
+        text1 = """ 
+        Raja Yudhishthira ne rishi se poocha,
+“Sachcha dharm kya hota hai?”
+
+“Insaan ko kaise jeena chahiye?”
+
+Rishi Narada ne shanti se jawab diya."""
         create_image_text_layout(
             "attached_assets/chapter7/7.11.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Unhone kaha,
+“Dharm ka matlab sirf rules follow karna nahi hai.”
+
+“Dharm ka matlab hai achha insaan banna.”
+
+Phir unhone simple tarike se samjhaya.
+
+“Sach bolna,
+daya rakhna,
+aur patience rakhna—yeh sab dharm hai.”
+
+“Apne mann aur indriyon ko control karna bhi dharm hai.”
+
+“Dusron ko hurt na karna,
+aur help karna bhi dharm hai.”
+
+Raja dhyaan se sun raha tha.
+
+Rishi ne aage kaha,
+“Har insaan ka apna role hota hai.”
+
+“Koi teacher hai, koi warrior, koi businessman.”
+
+“Sabko apna kaam honestly karna chahiye.”
+
+“Yahi sabse bada dharm hai.”
+
+Phir unhone ek aur important baat boli.
+
+“Sabse upar hai Bhagwan ki bhakti.”
+
+“Unka naam sunna,
+gaana,
+yaad karna—yeh sab dharm ka part hai.”
+
+“Jab insaan apne kaam ko Bhagwan ko dedicate karta hai,
+tab woh sach me happy hota hai.”
+
+Yudhishthira ko sab samajh aa gaya.
+
+Usne feel kiya ki dharm simple hai—
+bas sahi tarike se jeena.
+
+Moral:
+Sachchai, daya aur apna duty honestly karna hi sabse bada dharm hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 12
     with st.expander("Chapter 12 - Inquiry into the Right Conduct"):
-        text1 = """ """
+        text1 = """ 
+        Raja ne phir poocha,
+“Ek insaan ko sahi tarike se kaise jeena chahiye?”
+
+Rishi Narada ne calmly samjhaya.
+
+Unhone kaha,
+“Life ke alag-alag stages hote hain.”
+
+“Har stage ka apna duty hota hai.”"""
         create_image_text_layout(
             "attached_assets/chapter7/7.12.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Sabse pehla stage hota hai—student life.
+
+Isme insaan ko discipline seekhna chahiye.
+
+Teacher ka respect karna chahiye.
+
+Simple life jeeni chahiye.
+
+Zyada desires se door rehna chahiye.
+
+Raja dhyaan se sun raha tha.
+
+Rishi ne aage bataya,
+“Control bahut important hai.”
+
+“Apne mann aur indriyon ko control karo.”
+
+“Galat cheezon se door raho.”
+
+“Focus sirf learning par rakho.”
+
+Phir unhone next stage samjhaya—
+
+“Jab insaan bada ho jaye,
+toh woh family aur society ke liye kaam kare.”
+
+“Apna duty honestly kare.”
+
+Aur life ke last stage me—
+
+“Insaan ko dheere-dheere sab chhod kar
+Bhagwan ki taraf dhyaan lagana chahiye.”
+
+“Nature ke beech rehkar simple life jeeni chahiye.”
+
+“Apne andar shanti dhoondhni chahiye.”
+
+Raja ko sab clearly samajh aa gaya.
+
+Usne feel kiya ki life ek journey hai,
+jahan har stage ka apna purpose hai.
+
+Moral:
+Life ke har stage me sahi duty follow karna hi true success aur shanti deta hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 13
     with st.expander("Chapter 13 - The Code of Conduct for Saṃnyāsins"):
-        text1 = """ """
+        text1 = """ 
+        Raja Prahlad ek din duniya dekhne nikla.
+Woh logon ko samajhna chahta tha.
+
+Raste me usne ek ajeeb sa aadmi dekha.
+
+Woh zameen par aaram se leta hua tha."""
         create_image_text_layout(
             "attached_assets/chapter7/7.13.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Na kaam kar raha tha, na kuch maang raha tha.
+
+Phir bhi woh healthy aur khush lag raha tha.
+
+Prahlad ko curiosity hui.
+
+Usne poocha,
+“Tum bina kaam kiye itne peaceful kaise ho?”
+
+Woh aadmi ek gyaani sage tha.
+
+Woh muskuraaya aur bola,
+
+“Main pehle duniya ke peeche bhaagta tha.”
+
+“Desires kabhi khatam nahi hoti.”
+
+“Unke peeche bhaagne se sirf dukh milta hai.”
+
+Prahlad dhyaan se sunne laga.
+
+Sage ne aage kaha,
+“Ek din mujhe samajh aaya ki asli khushi andar hoti hai.”
+
+“Bahaar dhoondne se kuch nahi milta.”
+
+“Jaise koi paani chhod kar mirage ke peeche bhaage.”
+
+Prahlad ko baat samajh aane lagi.
+
+Sage ne simple example diya,
+
+“Maine madhumakkhi se seekha—
+zyada collect karne ka koi fayda nahi.”
+
+“Dusra koi aake le jaata hai.”
+
+“Isliye zyada greed bekaar hai.”
+
+“Main ajgar (python) ki tarah bhi jeeta hoon.”
+
+“Jo milta hai, usme khush rehta hoon.”
+
+“Na complain karta hoon, na extra effort karta hoon.”
+
+Prahlad impress ho gaya.
+
+Sage ne aage kaha,
+“Na kisi ki burai karo, na kisi ki tareef me faso.”
+
+“Bas sabke liye achha socho.”
+
+“Apne mann ko control karo.”
+
+“Tabhi sachchi shanti milegi.”
+
+Prahlad ne respect ke saath unhe pranam kiya.
+
+Usne unse bahut kuch seekha.
+
+Phir woh wapas apne ghar chala gaya.
+
+Moral:
+Asli khushi bahar nahi, andar hoti hai—aur contentment hi sabse badi wealth hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 14
     with st.expander("Chapter 14 - The Duties of a householder"):
-        text1 = """ """
+        text1 = """ 
+        Raja ne phir poocha,
+“Ek householder ka life kaise hona chahiye?”
+
+Rishi Narada ne pyaar se samjhaya.
+
+Unhone kaha,
+“Ghar me rehkar bhi insaan moksha paa sakta hai.”"""
         create_image_text_layout(
             "attached_assets/chapter7/7.14.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        “Bas apne kaam Bhagwan ko dedicate karo.”
+
+Raja dhyaan se sun raha tha.
+
+Rishi ne kaha,
+“Apne daily duties honestly karo.”
+
+“Bhagwan ki kahani suno aur achhe logon ke saath raho.”
+
+“Dheere-dheere attachment kam karo.”
+
+“Samjho ki sab temporary hai.”
+
+Phir unhone ek important baat boli,
+“Zyada greed mat rakho.”
+
+“Jitna zaroori hai, utna hi lo.”
+
+“Extra cheez par right jamana galat hai.”
+
+Raja ko yeh baat deep lagi.
+
+Rishi ne aage kaha,
+“Sabke saath share karo.”
+
+“Animals aur chhote jeevon ko bhi apna samjho.”
+
+“Unhe bhi jeene ka haq hai.”
+
+“Guest aaye toh uska respect karo.”
+
+“Sabko khana aur help dena bhi dharm hai.”
+
+Phir unhone kaha,
+“Family se pyaar karo, lekin zyada attachment mat rakho.”
+
+“Apna duty karo, par mann free rakho.”
+
+“Samjho ki sab Bhagwan ka diya hua hai.”
+
+Raja ko ab clear ho gaya.
+
+Usne samjha ki ghar me rehkar bhi insaan ek achhi aur spiritual life jee sakta hai.
+
+Moral:
+Simple life, sharing aur detachment ke saath jeena hi ek ideal life hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 15
     with st.expander("Chapter 15 - Exposition of right Conduct (Concluded)"):
-        text1 = """ """
+        text1 = """ 
+        Raja ne dhyaan se sab baatein suni.
+Rishi Narada ne apni baat aage badhayi.
+
+Unhone kaha,
+“Har insaan alag-alag raaste follow karta hai.”
+
+“Koi padhai karta hai,
+koi tapasya karta hai,
+koi gyaan deta hai.”"""
         create_image_text_layout(
             "attached_assets/chapter7/7.15.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        “Lekin sabka goal ek hi hai—
+andar ki shanti.”
+
+Raja dhyaan se sun raha tha.
+
+Rishi ne kaha,
+“Sabse bada dharm hai—
+kisi ko hurt na karna.”
+
+“Na soch se, na bol se, na action se.”
+
+“Violence se kabhi real khushi nahi milti.”
+
+Phir unhone ek important baat boli,
+“Greed sabse bada dushman hai.”
+
+“Chahe kitna bhi mil jaye,
+insaan satisfied nahi hota.”
+
+“Isliye content rehna seekho.”
+
+Raja ko yeh baat samajh aa gayi.
+
+Rishi ne example diya,
+“Jo insaan apne paas jo hai usme khush rehta hai,
+uske liye har jagah happiness hoti hai.”
+
+“Jaise jiske paas shoes ho,
+use raste ke kaante chubhate nahi.”
+
+Phir unhone samjhaya,
+“Apne mann ko control karo.”
+
+“Desire, gussa aur dar ko dheere-dheere khatam karo.”
+
+“Yeh sab andar ke enemies hain.”
+
+Raja serious ho gaya.
+
+Rishi ne aage kaha,
+“Life ek rath jaisi hai.”
+
+“Body rath hai,
+indriyan ghode hain,
+aur mann uski lagam hai.”
+
+“Agar control nahi hua,
+toh yeh galat raste par le jayega.”
+
+“Lekin agar control ho gaya,
+toh tum apni manzil tak pahunch jaoge.”
+
+Raja ko sab clear ho gaya.
+
+Usne samjha ki real jeet bahar nahi,
+andar hoti hai.
+
+Ant me Narada ne apni kahani bhi batayi.
+
+Kaise woh pehle galti kar baitha tha,
+aur phir sudhar kar gyaan paaya.
+
+Raja ne unhe respect ke saath pranam kiya.
+
+Uska mann ab shant aur strong tha.
+
+Moral:
+Apne mann ko control karke aur content rehkar hi insaan sachchi shanti aur safalta paata hai."""
         create_image_text_layout(text_content=text2, layout="full")
