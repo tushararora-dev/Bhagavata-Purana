@@ -847,66 +847,442 @@ Bhagwan par vishwas aur sahi guidance se sab problems solve ho jaati hain."""
 
     # Chapter 11
     with st.expander("Chapter 11 - End of the Battle Between Gods and Asuras at Nārada’s Mediation"):
-        text1 = """ """
+        text1 = """ 
+        Devta aur asur ke beech battle chal rahi thi.
+
+Bhagwan ki kripa se devta fir strong ho gaye.
+
+Indra aur dusre devta ne
+asuron par powerful attack kiya.
+
+Indra ka saamna Bali se hua."""
         create_image_text_layout(
             "attached_assets/chapter8/8.11.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Indra gusse me bola,
+“Tum apni tricks se hume nahi hara sakte!”
+
+Lekin Bali shaant tha.
+
+Usne kaha,
+“Jeet aur haar sab time par depend karti hai.”
+
+“Wise log kabhi over-excited ya sad nahi hote.”
+
+Battle fir se shuru ho gayi.
+
+Indra ne apna Vajra use kiya
+aur Bali ko gira diya.
+
+Yeh dekh kar Bali ka dost Jambha aaya.
+
+Usne Indra par attack kiya
+aur uske haathi ko bhi hurt kiya.
+
+Indra ne turant react kiya
+aur Jambha ko maar diya.
+
+Phir aur asur aaye—
+Namuchi, Bala aur Paka.
+
+Unhone milkar Indra par arrows barsaye.
+
+Kuch time ke liye devta weak pad gaye.
+
+Lekin Indra wapas strong ho gaya.
+
+Usne Bala aur Paka ko bhi hara diya.
+
+Ab Namuchi bacha tha.
+
+Indra ne us par Vajra use kiya…
+lekin woh kaam nahi kiya!
+
+Indra confused ho gaya.
+
+Tab aasman se awaaz aayi,
+
+“Is asur ko na wet cheez se mara ja sakta hai,
+na dry cheez se.”
+
+Indra ne socha…
+
+Phir usse ek idea aaya.
+
+Usne samundar ki jhaag (foam) use ki.
+
+Foam na poori tarah wet hota hai,
+na dry.
+
+Usne us foam se Namuchi ko maar diya.
+
+Sab devta khush ho gaye.
+
+Gandharv gaane lage,
+aur apsaras dance karne lagi.
+
+Lekin tab Narad rishi aaye.
+
+Unhone kaha,
+“Ab fight band karo.”
+
+“Tumhe pehle hi amrit mil chuka hai.”
+
+Devta ne unki baat maan li.
+
+Woh wapas swarg chale gaye.
+
+Asur apne leader Bali ko lekar chale gaye.
+
+Unke guru Shukracharya ne
+unhe wapas zinda kar diya.
+
+Bali ne haar ke baad bhi
+apna mann strong rakha.
+
+Woh sad nahi hua.
+
+Moral:
+Real strength sirf jeet me nahi,
+balki haar ke baad bhi strong rehne me hoti hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 12
     with st.expander("Chapter 12 - Lord Śiva Fascinated by Mohinī"):
-        text1 = """ """
+        text1 = """ 
+        Ek din Bhagwan Shiva ne suna ki
+Bhagwan Vishnu ne Mohini ka roop lekar
+asuron ko confuse kiya tha.
+
+Unhe curiosity hui.
+
+Unhone socha,
+“Main bhi woh roop dekhna chahta hoon.”"""
         create_image_text_layout(
             "attached_assets/chapter8/8.12.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Shiva ji apni wife Parvati ke saath
+Vishnu ji ke paas gaye.
+
+Unhone respect se kaha,
+“Mujhe woh Mohini roop dikhaiye.”
+
+Bhagwan Vishnu muskuraaye.
+
+Unhone kaha,
+“Yeh roop bahut powerful hai…
+lekin agar tum dekhna chahte ho,
+toh main dikhata hoon.”
+
+Phir Vishnu ji wahan se gayab ho gaye.
+
+Kuch der baad…
+
+Ek beautiful garden me
+ek bahut hi sundar ladki dikhi.
+
+Woh ball se khel rahi thi.
+
+Woh itni charming thi
+ki sabka attention us par chala gaya.
+
+Shiva ji bhi use dekhkar attract ho gaye.
+
+Woh uski taraf dekhte hi reh gaye.
+
+Dheere-dheere unka mann control se bahar hone laga.
+
+Woh us ladki ke peeche chalne lage.
+
+Parvati ji sab dekh rahi thi.
+
+Woh ladki thodi sharma kar bhaag gayi.
+
+Shiva ji bhi uske peeche bhaag pade.
+
+Woh bilkul uske jaadu me aa gaye the.
+
+Lekin kuch time baad…
+
+Shiva ji ko suddenly realization hua.
+
+Unhe samajh aa gaya,
+“Yeh sab Vishnu ji ki maya hai.”
+
+Unhone apne aap ko control kiya.
+
+Woh wapas normal ho gaye.
+
+Tab Bhagwan Vishnu apne asli roop me aaye.
+
+Unhone Shiva ji se kaha,
+
+“Tumne meri maya ko pehchaan liya.”
+
+“Yeh bahut mushkil hota hai.”
+
+“Sirf strong aur aware log hi isse bahar aa sakte hain.”
+
+Shiva ji muskuraaye.
+
+Unhone Vishnu ji ko pranam kiya.
+
+Phir apni wife ke saath wapas chale gaye.
+
+Moral:
+Maya aur distractions powerful hote hain,
+lekin jo apne aap ko control karta hai,
+wahi sach me strong hota hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 13
     with st.expander("Chapter 13 - Description of the Future Manvantaras"):
-        text1 = """ """
+        text1 = """ 
+        Rishi ne ek aur interesting baat batayi.
+
+Unhone kaha,
+“Duniya time ke hisaab se chalti hai.”
+
+“Har period ko Manvantara kehte hain.”
+
+Abhi jo chal raha hai,
+woh Vaivasvata Manu ka time hai.
+
+Unke bahut saare bete the,"""
         create_image_text_layout(
             "attached_assets/chapter8/8.13.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        aur unhone duniya ko guide kiya.
+
+Rishi ne aage bataya,
+“Har Manvantara me naye devta,
+naye rishi aur naya Indra hota hai.”
+
+Sab kuch time ke saath change hota rehta hai.
+
+Phir unhone future ke baare me bataya.
+
+“Agla Manu hoga—Savarna.”
+
+Uske time par Bali Indra banega.
+
+Haan, wahi Bali
+jo pehle asuron ka king tha.
+
+Bhagwan Vishnu ki kripa se
+use yeh position milegi.
+
+Rishi ne aur bhi future bataya,
+
+“Har naye Manu ke saath
+Bhagwan alag roop me aayenge.”
+
+“Woh duniya ko protect karenge.”
+
+“Har baar dharm ko bachayenge.”
+
+Yeh cycle baar-baar chalta rahega.
+
+Naye log, naye leaders,
+lekin Bhagwan hamesha same rahenge.
+
+Raja dhyaan se sun raha tha.
+
+Usse samajh aa gaya,
+
+“Time change hota hai,
+lekin dharm aur Bhagwan kabhi nahi badalte.”
+
+Moral:
+Duniya change hoti rehti hai,
+lekin sach aur dharm hamesha stable rehte hain."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 14
     with st.expander("Chapter 14 - Duties of Manus and Their Functionaries"):
-        text1 = """ """
+        text1 = """ 
+        Raja ne rishi se poocha,
+“Yeh Manus aur dusre log kya kaam karte hain?”
+
+Rishi ne calmly jawab diya.
+
+Unhone kaha,
+“Sab kuch Bhagwan ke control me hota hai.”
+
+“Manu, devta, rishi aur Indra—
+sab unke guidance me kaam karte hain.”
+
+Raja dhyaan se sun raha tha."""
         create_image_text_layout(
             "attached_assets/chapter8/8.14.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Rishi ne samjhaya,
+
+“Har naye yug ke start me,
+rishi log tapasya karke
+dharm ka gyaan fir se samajhte hain.”
+
+“Phir Bhagwan unhe sahi raasta dikhate hain.”
+
+“Uske baad Manu duniya me
+dharm ko spread karte hain.”
+
+Rishi ne aage kaha,
+
+“Manu ke bete aur unki generations
+duniya ki raksha karte hain.”
+
+“Woh ensure karte hain ki sab log
+dharm follow karein.”
+
+“Indra rain laata hai
+aur nature ka balance maintain karta hai.”
+
+Phir unhone ek aur deep baat batayi,
+
+“Bhagwan har yug me alag roop lete hain.”
+
+“Kabhi rishi bankar gyaan dete hain.”
+
+“Kabhi king bankar burai ko khatam karte hain.”
+
+“Kabhi Time bankar sab kuch destroy kar dete hain.”
+
+Sab roles Bhagwan hi nibhate hain.
+
+Lekin ek twist hai.
+
+Rishi ne kaha,
+
+“Log Bhagwan ko directly nahi dekh paate.”
+
+“Kyunki woh unki maya me uljhe rehte hain.”
+
+Raja ko yeh baat samajh aa gayi.
+
+Usne realise kiya,
+“Sab kuch ek system se chal raha hai.”
+
+Aur us system ka controller Bhagwan hai.
+
+Moral:
+Duniya ek system se chalti hai, aur us system ke peeche ek supreme power hoti hai—use samajhna hi asli gyaan hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 15
     with st.expander("Chapter 15 - Bali’s Conquest of the Svarga (Celestial Region)"):
-        text1 = """ """
+        text1 = """ 
+        Raja ne rishi se poocha,
+“Bhagwan ne Bali se teen kadam zameen kyun maangi?”
+
+Rishi ne kahani shuru ki.
+
+Ek samay Bali asur haar gaya tha.
+
+Woh weak ho gaya tha."""
         create_image_text_layout(
             "attached_assets/chapter8/8.15.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Lekin uske guru Shukracharya ne
+use fir se strong bana diya.
+
+Bali ne apne guru ki poori respect ki.
+
+Usne sab kuch unhe dedicate kar diya.
+
+Rishiyon ne khush hokar
+uski madad ki.
+
+Unhone ek special yagya karwaya.
+
+Us yagya se Bali ko
+divine powers mili.
+
+Usse ek powerful chariot mila,
+special weapons mile,
+aur strong armor mila.
+
+Ab Bali fir se ready tha.
+
+Woh apni army ke saath
+Indra ke rajya ki taraf badha.
+
+Uski army bahut strong thi.
+
+Jab woh swarg ke paas pahucha,
+sab jagah uski power dikh rahi thi.
+
+Indra ka rajya bahut sundar tha—
+gardens, lakes, palaces sab perfect the.
+
+Lekin Bali ne us par attack kar diya.
+
+Usne apna shankh bajaya,
+aur sabko challenge diya.
+
+Indra tension me aa gaya.
+
+Woh apne guru Brihaspati ke paas gaya.
+
+Usne poocha,
+“Yeh Bali itna powerful kaise ho gaya?”
+
+Guru ne jawab diya,
+
+“Uski power Brahmanon ki blessings se aayi hai.”
+
+“Abhi tum usse nahi jeet sakte.”
+
+“Thoda time wait karo.”
+
+“Abhi swarg chhod do.”
+
+Indra ne unki baat maan li.
+
+Sab devta wahan se chale gaye.
+
+Ab Bali ne swarg par kabza kar liya.
+
+Usne teenon lok apne control me le liye.
+
+Rishiyon ne use aur powerful banane ke liye
+100 yagya karwaye.
+
+Ab Bali ek mahaan aur successful king ban gaya.
+
+Uski fame har jagah fail gayi.
+
+Woh apni power aur success me khush tha.
+
+Lekin kahani abhi khatam nahi hui…
+
+Moral:
+Power aur success mehnat aur guidance se milti hai,
+lekin uska sahi use hi asli wisdom hota hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
