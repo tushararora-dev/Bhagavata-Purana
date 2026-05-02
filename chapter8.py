@@ -1288,66 +1288,495 @@ lekin uska sahi use hi asli wisdom hota hai."""
 
     # Chapter 16
     with st.expander("Chapter 16 - Instruction in the observance of Payovrata to Aditi"):
-        text1 = """ """
+        text1 = """ 
+        Ek samay devta haar gaye the
+aur asur ne swarg par kabza kar liya.
+
+Devtaon ki maa Aditi bahut dukhi ho gayi.
+
+Unke bete pareshaan the,
+ghar aur power sab chala gaya tha.
+
+Woh bilkul helpless feel kar rahi thi.
+
+Tab unke husband, Rishi Kashyap wapas aaye."""
         create_image_text_layout(
             "attached_assets/chapter8/8.16.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Unhone dekha ki Aditi udaas hai.
+
+Unhone pyaar se poocha,
+
+“Sab theek hai na?”
+
+“Dharma, log, aur tumhare kaam sab sahi chal rahe hain?”
+
+Aditi ne kaha,
+
+“Sab theek hai…
+lekin mere bete sab kuch kho chuke hain.”
+
+“Unhe unke ghar se nikaal diya gaya hai.”
+
+“Please unki help kijiye.”
+
+Rishi Kashyap ne calmly samjhaya,
+
+“Yeh sab Bhagwan ki maya hai.”
+
+“Attachment hi dukh ka reason hai.”
+
+“Isliye Bhagwan Vishnu ki bhakti karo.”
+
+“Wahi tumhari help karenge.”
+
+Aditi ne poocha,
+“Kaise bhakti karu?”
+
+Tab Kashyap ne ek special vrat bataya—
+
+Payovrata.
+
+Unhone kaha,
+
+“12 din tak sirf doodh par rehna hai.”
+
+“Pure mann se Bhagwan Vishnu ki puja karni hai.”
+
+“Roz mantra bolna hai—
+‘Om Namo Bhagavate Vasudevaya’.”
+
+“Bhagwan ko phool, chandan aur bhog chadhana hai.”
+
+“Brahmanon ko khana khilana hai.”
+
+“Sach bolna hai, kisi ko hurt nahi karna.”
+
+“Apne mann ko control me rakhna hai.”
+
+“Bhakti aur discipline ke saath vrat complete karna hai.”
+
+Unhone aur bhi bataya,
+
+“Last me grand puja karni hai.”
+
+“Garib aur needy logon ko khana dena hai.”
+
+“Sabko respect dena hai.”
+
+“Tab Bhagwan Vishnu khush honge.”
+
+Aditi ne yeh sab dhyaan se suna.
+
+Usne decide kiya—
+“Main yeh vrat zaroor karungi.”
+
+Ab uski hope wapas aa gayi.
+
+Usse pata tha—
+bhakti aur shraddha se sab kuch possible hai.
+
+Moral:
+Sacchi bhakti, discipline aur patience se hi mushkilon ka solution milta hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 17
     with st.expander("Chapter 17 - The Manifestation of the Lord as Vāmana"):
-        text1 = """ """
+        text1 = """ 
+        Aditi ne poore mann se Payovrata complete kiya.
+
+Usne apne senses control kiye,
+aur poori devotion ke saath
+Bhagwan Vishnu ka dhyaan kiya.
+
+Uski bhakti itni strong thi
+ki Bhagwan khud uske saamne prakat ho gaye."""
         create_image_text_layout(
             "attached_assets/chapter8/8.17.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Unka roop divine tha—
+
+Peelay vastra,
+char haath,
+aur haath me shankh, chakra aur gada.
+
+Aditi unhe dekh kar emotional ho gayi.
+
+Woh zameen par gir kar pranam karne lagi.
+
+Uski aankhon me khushi ke aansu the.
+
+Woh Bhagwan ko dekh kar bas unhe mehsoos kar rahi thi.
+
+Phir usne dheere se unki stuti ki,
+
+“Aap sabke protector ho.”
+
+“Aap sab kuch de sakte ho.”
+
+“Mere bachchon ko bachaiye.”
+
+Bhagwan Vishnu muskuraaye.
+
+Unhone kaha,
+
+“Mujhe tumhari ichchha pata hai.”
+
+“Tum chahti ho ki tumhare bete
+phir se apni power aur rajya paayein.”
+
+“Lekin abhi asur strong hain.”
+
+“Unhe powerful Brahmanon ka support mila hua hai.”
+
+“Seedha yudh abhi kaam nahi karega.”
+
+Aditi thodi serious ho gayi.
+
+Tab Bhagwan ne ek plan bataya,
+
+“Main tumhara beta bankar janm lunga.”
+
+“Main hi tumhare bachchon ki help karunga.”
+
+Aditi hairaan bhi hui aur khush bhi.
+
+Bhagwan ne kaha,
+
+“Is baat ko secret rakhna.”
+
+“Sab kuch sahi time par hoga.”
+
+Yeh kehkar Bhagwan gayab ho gaye.
+
+Aditi apne husband Kashyap ke paas gayi.
+
+Unhone bhi yog shakti se samajh liya
+ki Bhagwan ka ansh unme aa gaya hai.
+
+Phir Kashyap ne us divine energy ko
+Aditi ke garbh me sthapit kiya.
+
+Is tarah Bhagwan Vishnu
+Aditi ke womb me aaye—
+
+aur future me Vamana roop lene wale the.
+
+Moral:
+Sachi bhakti aur patience se Bhagwan khud help karne aate hain—lekin hamesha sahi time aur smart plan ke saath."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 18
     with st.expander("Chapter 18 - The Lord incarnates as Vāmana. Visit to Bali’s sacrifice"):
-        text1 = """ """
+        text1 = """ 
+        Aditi ke garbh se Bhagwan Vishnu ne janm liya.
+
+Unka roop divine tha—
+
+Char haath,
+shankh, chakra, gada aur kamal,
+aur peele vastra."""
         create_image_text_layout(
             "attached_assets/chapter8/8.18.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Unki chamak se poora ghar roshan ho gaya.
+
+Har taraf khushi ka mahaul tha.
+
+Devta, rishi, gandharv—
+sab celebrate karne lage.
+
+Music bajne laga,
+apsaras dance karne lagi.
+
+Sabko samajh aa gaya—
+Bhagwan aa chuke hain.
+
+Phir ek amazing cheez hui.
+
+Bhagwan ne apna roop badal liya.
+
+Woh ek chhote se Brahmachari ladke ban gaye—
+
+Vamana.
+
+Chhota sa roop,
+lekin divine energy se bhara hua.
+
+Sab rishiyon ne unka
+upanayan (sacred thread ceremony) kiya.
+
+Har devta ne unhe gifts diye—
+
+Surya ne mantra diya,
+Brihaspati ne janeu diya,
+Prithvi ne deer-skin diya,
+Indra ne umbrella diya.
+
+Ab Vamana ready the.
+
+Unhe pata chala ki
+King Bali ek bada yagya kar raha hai.
+
+Toh woh wahan chale gaye.
+
+Jab woh chale,
+toh har kadam se dharti hil rahi thi.
+
+Woh Narmada ke paas
+Bali ke yagya sthal par pahunch gaye.
+
+Sab log unhe dekhkar hairaan ho gaye.
+
+Unki brightness itni thi
+ki sabko laga—
+
+“Yeh Surya hai?
+ya Agni?
+ya koi mahaan rishi?”
+
+Sab unki respect me khade ho gaye.
+
+King Bali khud unke paas aaya.
+
+Usne unka welcome kiya,
+unke pair dhoye,
+aur unhe seat di.
+
+Usne kaha,
+
+“Swagat hai!”
+
+“Aap jo chaho maang lo.”
+
+“Main aapko sab kuch dene ke liye ready hoon.”
+
+Vamana muskuraaye…
+
+Aur ab shuru hone wala tha
+ek bahut bada twist.
+
+Moral:
+Bhagwan kabhi simple roop me aate hain,
+lekin unka plan hamesha deep aur powerful hota hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 19
     with st.expander("Chapter 19 - Vāmana’s request for three paces of Land—Śukra’s opposition"):
-        text1 = """ """
+        text1 = """ 
+        King Bali ne Vamana ka warmly welcome kiya
+aur bola,
+“Jo chaho maang lo.”
+
+Bhagwan Vamana muskuraaye.
+
+Unhone kaha,"""
         create_image_text_layout(
             "attached_assets/chapter8/8.19.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        “Mujhe bas teen kadam zameen chahiye.”
+
+Sab log thoda surprise ho gaye.
+
+Itna bada king…
+aur itni chhoti si demand?
+
+Bali hans pada.
+
+Usne kaha,
+
+“Tum bacche ho, tumhe samajh nahi hai.”
+
+“Main tumhe poori duniya de sakta hoon!”
+
+“Tum sirf teen kadam kyun maang rahe ho?”
+
+Lekin Vamana ne calmly jawab diya,
+
+“Jo insaan apni ichchha control nahi karta,
+use poori duniya bhi kam lagti hai.”
+
+“Lekin jo santusht hai,
+use thoda bhi kaafi hota hai.”
+
+Yeh baat bahut deep thi.
+
+Bali impress ho gaya.
+
+Usne kaha,
+“Theek hai, main tumhe teen kadam zameen deta hoon.”
+
+Woh paani lekar daan dene laga.
+
+Tabhi ek twist aaya.
+
+Uske guru Shukracharya ne use rok diya.
+
+Unhone kaha,
+
+“Yeh koi normal ladka nahi hai!”
+
+“Yeh khud Bhagwan Vishnu hain!”
+
+“Yeh tumse sab kuch le lenge.”
+
+“Mat do yeh daan!”
+
+Bali shock ho gaya.
+
+Uske saamne ek bada decision tha—
+
+Apni promise todna,
+ya sab kuch khona.
+
+Guru ne samjhaya,
+
+“Agar tum sab de doge,
+toh tumhare paas kuch nahi bachega.”
+
+“Tum apni promise bhi pura nahi kar paoge.”
+
+Lekin Bali soch me pad gaya…
+
+Usne decide kiya—
+
+“Main apni baat se peeche nahi hatunga.”
+
+“Chahe jo ho jaye.”
+
+Usne daan dene ka decision le liya.
+
+Ab aane wala tha
+sabse bada moment…
+
+Moral:
+Sachchai aur commitment ke liye khade rehna hi asli greatness hai—
+chahe uske liye sab kuch sacrifice kyun na karna pade."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 20
     with st.expander("Chapter 20 - Manifestation of the Cosmic Form by Viṣṇu"):
-        text1 = """ """
+        text1 = """ 
+        Bali ek pal ke liye soch me pad gaya.
+
+Uske guru ne use warn kiya tha…
+lekin usne decide kar liya.
+
+“Main apni baat se peeche nahi hatunga.”
+
+Usne kaha,"""
         create_image_text_layout(
             "attached_assets/chapter8/8.20.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        “Jhooth bolna sabse bada paap hai.”
+
+“Main narak, garibi ya maut se nahi darta…”
+
+“Par main kisi Brahman ko dhokha nahi de sakta.”
+
+Yeh uski sachchi greatness thi.
+
+Guru ne use curse bhi de diya—
+
+“Tum apni power kho doge!”
+
+Lekin Bali fir bhi nahi badla.
+
+Usne calmly Vamana ko daan de diya.
+
+Uski wife Vindhyavali bhi aayi,
+aur unhone Vamana ke pair dhoye.
+
+Bali ne woh paani apne sir par daala—
+respect ke saath.
+
+Sab devta sky me khush ho gaye.
+
+Unhone flowers barsaaye,
+aur Bali ki tarif ki.
+
+Sab bol rahe the,
+
+“Kitna bada daan hai!”
+
+“Apne dushman ko bhi sab kuch de diya!”
+
+Tab achanak…
+
+Ek bada twist hua.
+
+Chhote se Vamana ka roop
+badalne laga…
+
+Woh grow hone lage…
+
+Aur grow…
+
+Aur grow…
+
+Unka roop itna bada ho gaya
+ki poora universe unke andar dikhne laga.
+
+Yeh tha Vishnu ka Vishwaroop.
+
+Bali ne dekha—
+
+Dharti unke pair me hai,
+aasmaan unke sir par,
+suraj unki aankhon me,
+aur samundar unke sharir me.
+
+Sab kuch unhi ke andar tha.
+
+Sab log shock ho gaye.
+
+Phir Bhagwan ne pehla kadam liya—
+
+Usse poori prithvi cover ho gayi.
+
+Dusra kadam liya—
+
+Poora swarg aur upar ke lok cover ho gaye.
+
+Ab…
+
+Teesra kadam rakhne ke liye
+jagah hi nahi bachi.
+
+Sab chup ho gaye.
+
+Ab Bali kya karega?
+
+Yahi tha sabse bada moment…
+
+Moral:
+Sachchai aur commitment par tikne wale log,
+chahe sab kuch kho dein—
+phir bhi duniya me amar ho jaate hain."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
