@@ -1782,51 +1782,444 @@ phir bhi duniya me amar ho jaate hain."""
 
     # Chapter 21
     with st.expander("Chapter 21 - Bali Bound Down"):
-        text1 = """ """
+        text1 = """ 
+        Bhagwan Vamana ne apna Vishwaroop dikha diya.
+
+Unka ek kadam prithvi par tha,
+aur doosra seedha swarg tak pahunch gaya.
+
+Brahma ji khud unke paas aaye.
+
+Unhone Bhagwan ke charan dhoye—
+
+Aur wahi pavitra jal
+baad me Ganga ban gaya.
+
+Sab devta, rishi aur gandharv
+Bhagwan ki stuti karne lage.
+
+Har jagah celebration ho raha tha."""
         create_image_text_layout(
             "attached_assets/chapter8/8.21.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Lekin Asur log gusse me aa gaye.
+
+Unhone kaha,
+
+“Yeh koi normal Brahmana nahi hai!”
+
+“Yeh Vishnu hai!”
+
+“Yeh hume dhokha dekar sab kuch le gaya!”
+
+Unhone weapons uthaye
+aur attack karne chale gaye.
+
+Tab Bhagwan ke sevak aaye—
+
+Garud, Jaya, Vijaya aur dusre.
+
+Unhone asuron ko easily rok diya.
+
+Battle shuru hone hi wali thi…
+
+Tab King Bali ne sabko rok diya.
+
+Usne kaha,
+
+“Abhi time humare favour me nahi hai.”
+
+“Yeh Bhagwan ka khel hai.”
+
+“Abhi fight karna bekaar hai.”
+
+Usne apni army ko retreat karne ko kaha.
+
+Phir ek aur bada moment aaya.
+
+Garud ne Bali ko
+Varun ke pash (rope) se baandh diya.
+
+Ab Bali bandha hua tha…
+
+Phir bhi uska mind calm tha.
+
+Bhagwan Vamana ne usse kaha,
+
+“Tumne mujhe teen kadam zameen dene ka promise kiya tha.”
+
+“Do kadam me maine sab le liya.”
+
+“Ab teesra kadam kahan rakhoon?”
+
+Sab chup ho gaye.
+
+Bhagwan ne aage kaha,
+
+“Agar tum apna promise pura nahi kar paoge,
+toh tumhe punishment milega.”
+
+“Jhooth bolne wale ko narak jana padta hai.”
+
+Situation tense ho gayi.
+
+Bali bandha hua tha…
+sab kuch kho chuka tha…
+
+Lekin uska dharm aur himmat abhi bhi strong thi.
+
+Ab uska next step hi
+uski asli greatness decide karega.
+
+Moral:
+Sachchai par tikna sabse mushkil hota hai—
+lekin wahi insaan ko sach me mahaan banata hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 22
     with st.expander("Chapter 22 - A Dialogue between Bali and Vāmana"):
-        text1 = """ """
+        text1 = """ Bali bandha hua tha…
+lekin uska mann bilkul strong tha.
+
+Bhagwan Vamana ne usse poocha,
+“Teesra kadam kahan rakhoon?”
+
+Sab log dekh rahe the—
+kya Bali apni baat se peeche hatega?"""
         create_image_text_layout(
             "attached_assets/chapter8/8.22.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Lekin Bali ne calmly jawab diya,
+
+“Aap sahi keh rahe ho…”
+
+“Main apna vachan poora nahi kar paaya.”
+
+“Isliye aap apna teesra kadam
+mere sir par rakh dijiye.”
+
+Sab shock ho gaye.
+
+Apna sab kuch kho kar bhi
+woh sachchai par tika hua tha.
+
+Bali ne kaha,
+
+“Mujhe narak ka dar nahi hai…”
+
+“Na bandhan ka…”
+
+“Na dukh ka…”
+
+“Lekin mujhe badnaam hone ka dar hai.”
+
+“Main jhootha nahi banna chahta.”
+
+Yeh uski asli greatness thi.
+
+Usne ek aur deep baat boli,
+
+“Bhagwan, aap dushman bankar nahi aaye…”
+
+“Balki aap mere teacher ho.”
+
+“Aapne mera ghamand tod diya.”
+
+“Mujhe sahi raasta dikha diya.”
+
+Tab ek aur emotional moment aaya.
+
+Uske grandfather Prahlad wahan aa gaye.
+
+Unhone Bali ko dekha—
+bandha hua, lekin strong.
+
+Unhone Bhagwan ko pranam kiya
+aur bola,
+
+“Yeh Bali lucky hai…”
+
+“Iska ghamand aapne khatam kiya.”
+
+“Yeh aapki kripa hai.”
+
+Phir Bali ki wife Vindhyavali bhi aayi.
+
+Usne folded hands se kaha,
+
+“Bhagwan, sab kuch aapka hi hai…”
+
+“Bali ne kuch galat nahi kiya…”
+
+“Please use maaf kijiye.”
+
+Brahma ji ne bhi request ki,
+
+“Bhagwan, Bali ne sab kuch de diya…”
+
+“Ab ise chhod dijiye.”
+
+Tab Bhagwan Vishnu ne sabko jawab diya,
+
+“Jis par main kripa karta hoon…”
+
+“Uska dhan le leta hoon.”
+
+“Kyunki dhan aur power
+insaan ko arrogant bana dete hain.”
+
+Phir Bhagwan ne Bali ki tareef ki,
+
+“Isne sab kuch kho diya…”
+
+“Phir bhi sachchai nahi chhodi.”
+
+“Yeh meri maya ko jeet chuka hai.”
+
+Phir Bhagwan ne Bali ko reward diya—
+
+“Tum Sutal lok me raho…”
+
+“Woh swarg se bhi zyada sundar hoga.”
+
+“Main khud wahan tumhari raksha karunga.”
+
+“Aur future me tum Indra banoge.”
+
+Bali khush ho gaya.
+
+Usne sab kuch kho diya…
+lekin Bhagwan ka saath jeet liya.
+
+Moral:
+Jab insaan sachchai aur dharm par tikta hai,
+toh haar bhi uski jeet ban jaati hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 23
     with st.expander("Chapter 23 - Bali, free from bonds, enters Sutala"):
-        text1 = """ """
+        text1 = """ 
+        Bali ab bhi folded hands ke saath
+Bhagwan ke saamne khada tha.
+
+Uski aankhon me aansu the—
+lekin dil me shanti thi.
+
+Usne Bhagwan ko pranam kiya
+aur kaha,
+
+“Yeh sab aapki kripa hai.”"""
         create_image_text_layout(
             "attached_assets/chapter8/8.23.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Bhagwan Vishnu ne use bandhan se free kar diya.
+
+Bali ab azad tha—
+lekin uski soch badal chuki thi.
+
+Ab woh pehle wala proud king nahi tha…
+woh ek vinamra bhakt ban gaya tha.
+
+Phir Bali apne logon ke saath
+Sutal lok gaya.
+
+Woh jagah itni sundar thi
+ki swarg se bhi better mani jaati hai.
+
+Aur sabse special baat—
+
+Bhagwan Vishnu khud wahan
+uski raksha karne wale the.
+
+Prahlad ne yeh sab dekha
+aur emotional ho gaye.
+
+Unhone Bhagwan se kaha,
+
+“Yeh bahut bada vardaan hai…”
+
+“Devtaon ko bhi aisi kripa nahi milti.”
+
+“Phir bhi aapne hum jaise asuron par itni daya ki.”
+
+Bhagwan ne Prahlad se kaha,
+
+“Tum aur Bali dono Sutal me raho.”
+
+“Main hamesha tumhare saath rahunga.”
+
+“Tumhe mujhe dekhne ka sukh milega.”
+
+Phir Bhagwan ne ek aur kaam kiya.
+
+Unhone Indra ko uska rajya wapas de diya.
+
+Swarg fir se devtaon ke control me aa gaya.
+
+Sab jagah balance restore ho gaya.
+
+Rishiyon ne Bali ke yagya ko bhi complete kiya.
+
+Aur sab log khush ho gaye.
+
+Aakhir me rishi ne kaha,
+
+“Jo bhi is kahani ko sunta hai…”
+
+“Uske paap kam ho jaate hain.”
+
+“Usse moksha mil sakta hai.”
+
+Moral:
+Jab insaan ego chhod deta hai aur sachchai par tikta hai,
+toh Bhagwan usse aur bhi bada bana dete hain—
+kabhi kabhi haar ke through hi asli jeet milti hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 24
     with st.expander("Chapter 24 - The Fish Incarnation of Lord Viṣṇu"):
-        text1 = """ """
+        text1 = """ 
+        Raja ne poocha,
+“Bhagwan ne machhli ka roop kyun liya?”
+
+Rishi ne ek amazing kahani sunayi.
+
+Ek samay aisa aaya
+jab poori duniya paani me doobne wali thi—
+
+Pralaya (mahavinash)."""
         create_image_text_layout(
             "attached_assets/chapter8/8.24.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Sab kuch destroy hone wala tha.
+
+Us waqt ek powerful asur tha—
+Hayagriva.
+
+Usne Brahma ji ke Vedas chura liye.
+
+Ab duniya me knowledge hi nahi bacha.
+
+Tab Bhagwan Vishnu ne decide kiya—
+
+“Ab mujhe avatār lena padega.”
+
+Aur unhone liya ek chhota sa roop—
+
+Machhli (Matsya avatar).
+
+Us samay ek raja tha—Satyavrata.
+
+Woh bahut dharmik aur bhakt tha.
+
+Ek din woh nadi me jal arpan kar raha tha.
+
+Tab uske haath me ek chhoti si machhli aayi.
+
+Machhli ne kaha,
+
+“Mujhe mat chhodo…”
+
+“Badi machhli mujhe kha jayegi.”
+
+Raja ko daya aa gayi.
+
+Usne use apne kamandal me rakh liya.
+
+Lekin ek raat me hi
+woh machhli badi ho gayi!
+
+Usne kaha,
+
+“Mujhe aur jagah chahiye.”
+
+Raja ne use bade pot me dala…
+phir lake me…
+phir samundar me…
+
+Lekin woh machhli har baar aur badi hoti gayi!
+
+Raja shock ho gaya.
+
+Usne samajh liya—
+
+“Yeh koi normal machhli nahi hai…”
+
+“Yeh Bhagwan Vishnu hain!”
+
+Usne pranam kiya
+aur poocha,
+
+“Bhagwan, aap yeh roop kyun liye ho?”
+
+Bhagwan ne kaha,
+
+“7 din me pralaya aane wala hai.”
+
+“Tum ek boat me sab seeds, plants,
+aur rishiyon ko le jana.”
+
+“Main tumhe guide karunga.”
+
+Time aaya…
+
+Paani har jagah fail gaya.
+
+Sab kuch doob gaya.
+
+Raja aur rishi boat me baith gaye.
+
+Tab ek giant golden fish aayi—
+
+Ek singh (horn) ke saath.
+
+Woh Bhagwan Vishnu the.
+
+Raja ne boat ko
+us fish ke horn se baandh diya—
+Vasuki naag ki rope se.
+
+Aur woh boat ko guide karte rahe
+poore pralaya ke dauran.
+
+Is beech Bhagwan ne raja ko
+sabse bada gyaan diya—
+
+Atma, dharm aur sachchai ka.
+
+Baad me Bhagwan ne
+Hayagriva ko maar diya
+
+Aur Vedas wapas Brahma ji ko de diye.
+
+Raja Satyavrata ko
+reward mila—
+
+Woh next Manu ban gaya
+(Manav jaati ka leader).
+
+Moral:
+Bhagwan har roop me aate hain—
+chahe chhoti machhli hi kyun na ho—
+lekin unka purpose hamesha hota hai
+duniya ko bachana aur sahi raasta dikhana."""
         create_image_text_layout(text_content=text2, layout="full")
