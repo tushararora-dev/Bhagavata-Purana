@@ -1946,66 +1946,1096 @@ Loyalty, compassion aur truth duniya ko Ram Rajya bana sakte hain."""
 
     # Chapter 11
     with st.expander("Chapter 11 - The Story of Rāma (concluded)"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shuka ne Bhagwan Ram ki story ka final part sunaya.
+
+👑 Ram’s Grand Sacrifices
+
+Ayodhya wapas aane ke baad
+Bhagwan Ram ne bahut bade yajnas perform kiye 🔥
+
+Woh sirf king nahi the—
+woh perfect dharmic ruler the."""
         create_image_text_layout(
             "attached_assets/chapter9/9.11.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Yajna complete hone ke baad
+Ram ne itni generosity dikhayi 😮
+
+👉 East kingdom priests ko de diya
+👉 West bhi donate kar diya
+👉 North-South bhi de diya
+
+Aur centre part Guru Vashishtha ko 🙏
+
+End me Ram ke paas
+sirf unke kapde aur ornaments bache 😌
+
+Sita ji ne bhi almost sab kuch donate kar diya 🌸
+
+Brāhmanas emotional ho gaye 😢
+
+Aur bole:
+
+👉 “Aap hume kya denge?”
+
+👉 “Aap toh already ignorance ka darkness destroy karte ho.”
+
+🌙 Ram Secretly Checks His Kingdom
+
+Ek raat Ram disguise me city me ghoom rahe the 👀
+
+Woh dekhna chahte the
+ki public unke baare me kya sochti hai.
+
+Tab unhone ek aadmi ko apni wife se argue karte suna 😮
+
+Woh bola:
+
+👉 “Main Ram nahi hoon…”
+
+👉 “Jo kisi aur ke ghar rehkar aayi wife ko accept kar loon.”
+
+Indirectly woh Sita ji par doubt kar raha tha 😔
+
+😢 Sita’s Exile
+
+Ram ka heart toot gaya 💔
+
+Unhe pata tha Sita ji pure hain…
+
+Lekin public opinion se woh disturb ho gaye.
+
+Aur dharma ke pressure me
+unhone Sita ji ko forest bhej diya 😢
+
+🌲 Valmiki Ashram
+
+Pregnant Sita ji
+Rishi Valmiki ke ashram pahunchi 🌸
+
+Wahan unhone twins ko janm diya:
+
+👦 Lava
+👦 Kusha
+
+Valmiki ji ne unki upbringing aur education ki.
+
+⚔️ Brothers’ Families
+
+Lakshman ke sons hue:
+
+Angada
+Chandraketu
+
+Bharat ke sons:
+
+Taksha
+Pushkala
+
+Shatrughna ke sons:
+
+Subahu
+Shrutasena
+🏙️ Mathura Founded
+
+Shatrughna ne demon Lavana ko maara ⚔️
+
+Aur us jagah:
+
+🏙️ Mathura city
+
+basayi.
+
+🌍 Sita Returns to Earth
+
+Ek din Sita ji ne
+apne sons ko Valmiki ji ke care me chhod diya 🌸
+
+Aur Ram ka dhyan karte hue…
+
+👉 Dharti Maa me sama gayi 🌍✨
+
+😢 Ram’s Deep Grief
+
+Bhagwan Ram divine the…
+
+Lekin Sita ji ko yaad karke
+woh bhi grief feel karte the 😔
+
+Rishi Shuka ne kaha:
+
+👉 “Agar Ram jaise mahaan being bhi attachment se pain feel kar sakte hain…”
+
+“Toh ordinary humans ka kya kehna.”
+
+🕉️ Ram’s Final Years
+
+Uske baad Ram ne:
+
+strict celibacy follow ki
+thousands of years tak yajnas kiye
+spiritual discipline maintain rakha 🔥
+
+Phir ek din…
+
+Bhagwan Ram
+apne eternal divine form me
+wapas chale gaye ✨
+
+🌟 Real Glory of Ram
+
+Rishi Shuka ne kaha:
+
+👉 Ravana ko maarna…
+👉 Samundar par bridge banana…
+
+yeh Ram ke liye koi impossible feat nahi tha.
+
+Kyunki woh khud Bhagwan Vishnu the 🌌
+
+Monkey army bhi bas divine play ka part thi 🐒✨
+
+🌸 Ayodhya’s Love for Ram
+
+Jab Ram exile se lautkar aaye थे—
+
+Ayodhya city completely decorate ho gayi 🎉
+
+flowers 🌸
+gold domes ✨
+flags 🚩
+perfumes 🌺
+arches & decorations
+
+Sab log rooftops par chadhkar
+Ram ko dekh rahe the 😍
+
+Aur flowers barsa rahe the 🌸🌸🌸
+
+🏰 Ram and Sita’s Palace
+
+Ram aur Sita ka palace bahut divine tha ✨
+
+emerald floors 💚
+crystal walls
+pearl decorations
+golden pillars
+
+Sab kuch heavenly lagta tha 😮
+
+Aur Ram-Sita wahan
+perfect harmony aur dharma ke saath rahe ❤️
+
+🌟 Final Teaching
+
+Rishi Shuka ne conclude kiya:
+
+👉 “Jo bhi Ram ki story shraddha se sunta hai…”
+
+👉 “Aur apne senses control karta hai…”
+
+Woh karma ke bondage se free ho sakta hai ✨
+
+Moral:
+
+True leadership sacrifice maangti hai
+Dharma kabhi-kabhi emotionally painful hota hai
+Aur Bhagwan Ram ka life ideal truth, duty, compassion aur self-control ka example hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 12
     with st.expander("Chapter 12 - The Description of Ikṣvāku’s Race (concluded)"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shuka ne Surya Vansh yani Ikshvaku dynasty ka final chapter sunaya.
+
+👑 Ram ke Baad ka Solar Dynasty
+
+Bhagwan Ram ke son the:
+
+🌟 Kusha
+
+Aur unse Surya Vansh aage chala."""
         create_image_text_layout(
             "attached_assets/chapter9/9.12.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Phir ek long line of kings aaye:
+
+Atithi
+Nishadha
+Nabha
+Pundarika
+Kshemadhanva
+Devanika
+Anīha
+Pariyatra
+Bala
+Sthala
+Vajranabha
+… aur bahut saare kings 👑
+☀️ Vajranabha
+
+Rishi ne mention kiya
+ki Vajranabha me Surya dev ka divine portion tha ✨
+
+🧘 Hiraṇyanabha – Master of Yoga
+
+Baad me ek mahaan king hua:
+
+🕉️ Hiraṇyanabha
+
+Woh sirf king nahi,
+ek great yogi bhi tha.
+
+Usne famous sage:
+
+🧘 Yajnavalkya
+
+ko deep spiritual yoga sikhaya.
+
+Yeh knowledge:
+
+👉 ego ko destroy karti thi
+👉 aur self-realisation tak le jaati thi ✨
+
+🔥 Maru – The Hidden King
+
+Baad me ek mysterious king hua:
+
+🌌 Maru
+
+Usne perfect yogic powers achieve kar li 😮
+
+Aur kaha jaata hai ki:
+
+👉 Woh abhi bhi alive hai
+👉 Kalapa naam ki hidden place me rehta hai 🏔️
+
+Rishi Shuka ne future prediction di:
+
+👉 “Kali Yuga ke end me…”
+
+Maru wapas aayega
+aur Surya Vansh ko revive karega ✨
+
+⚔️ Brihadbala and Mahabharata
+
+Generations baad ek king hua:
+
+👑 Brihadbala
+
+Woh Mahabharata war ke time tha.
+
+Usne Kauravas ka side liya ⚔️
+
+Lekin battle me:
+
+🔥 Abhimanyu
+
+(ne Arjuna ke son)
+usse maar diya.
+
+⏳ Future Kings
+
+Uske baad bhi lineage continue hui:
+
+Brihadraṇa
+Urukriya
+Vatsavriddha
+Bhanu
+Divaka
+Sahadeva
+Bṛhadasva
+Bhānumān
+… aur kai kings.
+🌸 Śākya Line
+
+Baad me ek king hua:
+
+👑 Śākya
+
+Uski line se aage aaye:
+
+Śuddhoda
+Lāṅgala
+Prasenajit
+Kṣudraka
+Raṇaka
+Suratha
+🌑 Last King – Sumitra
+
+Aur finally Surya Vansh ka last king hua:
+
+👑 Sumitra
+
+Rishi Shuka ne future prophecy di:
+
+👉 “Jab Sumitra rule karega…”
+
+👉 “Tab Ikshvaku dynasty ka end ho jayega.”
+
+Yeh sun kar King Parikshit silently sochne laga 😔
+
+Even the greatest dynasties…
+ek din end ho jaati hain.
+
+🌌 Deeper Meaning
+
+Rishi indirectly yeh samjha rahe the:
+
+👉 Kingdoms temporary hain
+👉 Dynasties temporary hain
+👉 Power temporary hai
+
+Lekin:
+
+✨ Dharma
+✨ Wisdom
+✨ Spiritual truth
+
+yeh eternal hain.
+
+Moral:
+Duniya ki sabse glorious dynasties bhi ek din khatam ho jaati hain—
+sirf spirituality aur dharma hi truly eternal hote hain."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 13
     with st.expander("Chapter 13 - The Description of the Race of Nimi"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shuka ne ab ek aur famous royal family ki kahani sunayi—
+
+👑 Mithila ke Janaka Vansh ki Story
+
+Yeh wahi dynasty thi
+jahan se Maa Sita ji ka janm hua tha 🌸"""
         create_image_text_layout(
             "attached_assets/chapter9/9.13.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🔥 King Nimi aur Vashishtha
+
+Ikshvaku ka second son tha—
+
+👑 Nimi
+
+Woh bahut wise aur philosophical king tha.
+
+Ek din usne huge yajna organise kiya 🔥
+
+Aur Guru Vashishtha ko invite kiya.
+
+Lekin Vashishtha ne kaha:
+
+👉 “Main already Indra ka yajna conduct kar raha hoon.”
+
+👉 “Pehle woh complete kar leta hoon,
+phir tumhare paas aaunga.”
+
+Nimi chup rahe 🤔
+
+Lekin unhone socha:
+
+👉 “Life bahut short hai…”
+
+👉 “Wait karte-karte time waste nahi karna chahiye.”
+
+Toh unhone dusre priests ke saath yajna start kar diya 🔥
+
+😠 Mutual Curse
+
+Jab Vashishtha wapas aaye
+aur dekha ki yajna bina unke start ho gaya 😨
+
+Woh gusse me aa gaye.
+
+Aur curse diya:
+
+👉 “Nimi ka body gir jaaye!”
+
+Nimi bhi upset ho gaya 😠
+
+Aur bola:
+
+👉 “Aap greed ki wajah se dharma bhool gaye.”
+
+👉 “Aapka body bhi fall ho.”
+
+Dono ka physical body destroy ho gaya 😮
+
+✨ Nimi Rejects His Body
+
+Rishis ne Nimi ka body preserve kiya.
+
+Aur gods se request ki:
+
+👉 “Please Nimi ko revive kar do.”
+
+Lekin Nimi ki soul ne mana kar diya 😶
+
+Usne kaha:
+
+👉 “Main dobara body me nahi jaana chahta.”
+
+👉 “Body hi sorrow, fear aur death ka source hai.”
+
+Usne deep spiritual truth samajh liya tha ✨
+
+👁️ Nimi Becomes the Blink of Eyes
+
+Gods impressed ho gaye 😊
+
+Aur bole:
+
+👉 “Theek hai.”
+
+👉 “Tum sab living beings ki eyes me reside karoge.”
+
+Tab se:
+
+👁️ Blinking of eyes
+
+ko “nimiṣa” se connect kiya gaya.
+
+Yani Nimi sab creatures ke eyelids me subtle form me present ho gaya ✨
+
+👶 Birth of Janaka
+
+Lekin kingdom ko king chahiye tha 😨
+
+Toh sages ne Nimi ke preserved body ko churn kiya 🔥
+
+Aur usme se ek child born hua 😮
+
+Uska naam pada:
+
+👑 Janaka
+
+Kyunki woh miraculous birth tha.
+
+Aur usse kaha gaya:
+
+🌌 Vaideha
+
+Kyunki woh body-less being (Videha/Nimi) se born hua tha.
+
+Aur usne build ki famous city:
+
+🏙️ Mithila
+🌸 Lineage of Sita
+
+Janaka ke descendants me kai kings aaye:
+
+Udavasu
+Nandivardhana
+Suketu
+Devarata
+Brihadratha
+… aur bahut generations.
+
+Phir ek king hua:
+
+👑 Hrasvaroma
+
+Uska son tha:
+
+🌾 Siradhvaja Janaka
+
+Yahi the:
+
+👉 Maa Sita ji ke father 🌸
+
+🌱 Discovery of Sita
+
+Ek sacrifice ke liye
+Janaka ji khud field plough kar rahe the 🚜
+
+Tab unhe earth ke andar se
+ek divine baby girl mili 😮✨
+
+Woh thi:
+
+🌸 Sita
+
+Isliye Janaka ko kaha gaya:
+
+🌾 Siradhvaja
+
+(plough-bannered king)
+
+🧘 Philosopher Kings
+
+Baad ke Mithila kings bhi special the.
+
+Woh sirf rulers nahi the—
+
+👉 Great yogis
+👉 Philosophers
+👉 Spiritual masters
+
+Ek famous king tha:
+
+🕉️ Keśidhvaja
+
+Woh spiritual wisdom me expert tha.
+
+Dusra:
+
+🔥 Khaṇḍikya
+
+rituals aur karma-path me expert tha.
+
+Rishi Shuka ne conclude kiya:
+
+👉 Mithila ke kings household life jeete hue bhi
+spiritually detached rehte the.
+
+Unhone pleasure-pain, gain-loss sabko transcend kar liya tha ✨
+
+Aur unki wisdom ka source tha:
+
+🧘 Yajnavalkya
+
+great yoga master.
+
+King Parikshit yeh sab sunkar amazed ho gaya 😮
+
+Usse samajh aa gaya—
+
+👉 Real greatness sirf kingdom rule karne me nahi…
+
+👉 Apne mind aur ego ko master karne me hai.
+
+Moral:
+True wisdom ka matlab duniya chhodna nahi—
+balki duniya me rehkar bhi spiritually detached rehna hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 14
     with st.expander("Chapter 14 - The Description of the Lunar Race"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shuka ne ab ek aur legendary dynasty ki kahani shuru ki—
+
+🌙 Chandra Vansh (Lunar Dynasty)
+
+Yeh Moon-god Soma ki royal line thi."""
         create_image_text_layout(
             "attached_assets/chapter9/9.14.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🌕 Birth of Soma
+
+Brahma ji ke great son the:
+
+🧘 Atri Rishi
+
+Unki tapasya aur joy se
+ek divine child born hua—
+
+🌙 Soma (Chandra Dev)
+
+Woh nectar jaisa glowing tha ✨
+
+Brahma ji ne use bana diya:
+
+stars ka king 🌌
+herbs aur plants ka protector 🌿
+Brahmanas ka guardian 🙏
+👑 Soma Becomes Arrogant
+
+Soma powerful aur famous hota gaya.
+
+Usne 3 worlds conquer kiye 😮
+
+Aur Vishnu ji ke honour me Rajasuya yajna bhi kiya 🔥
+
+Lekin power ke saath
+usme ego aa gaya 😔
+
+Usne forcibly kidnap kar li:
+
+🌸 Tara
+
+Jo Brihaspati ki wife thi.
+
+⚔️ Gods vs Demons War
+
+Brihaspati ne baar-baar bola:
+
+👉 “Meri wife wapas karo.”
+
+Lekin Soma ne mana kar diya 😠
+
+Result?
+
+⚔️ Huge war start ho gayi.
+
+Gods → Brihaspati side
+Asuras → Soma side
+
+Shukracharya bhi Soma ke side chale gaye 😮
+
+Aur Shiva ji Brihaspati ko support karne aaye 🔱
+
+Poora universe battlefield ban gaya 🌌⚔️
+
+Finally Brahma ji ko intervene karna pada.
+
+👶 Birth of Budha
+
+Brahma ji ne Soma ko force kiya
+ki Tara ko return kare.
+
+Lekin Tara pregnant thi 😮
+
+Jab child born hua,
+dono claim karne lage:
+
+👉 “Yeh mera beta hai!”
+
+Soma 😠
+Brihaspati 😠
+
+Sabne Tara se poocha:
+
+👉 “Asli father kaun hai?”
+
+Woh shame se chup rahi 😔
+
+Child khud gusse me bol pada 😮
+
+👉 “Sach bolo!”
+
+Finally Tara ne slowly confess kiya:
+
+👉 “Soma…” 🌙
+
+Tab Brahma ji ne child ka naam rakha:
+
+🌟 Budha
+
+Yani intelligent aur wise one.
+
+👑 Pururavas and Urvashi
+
+Budha ka son hua:
+
+👑 Pururavas
+
+Woh incredibly handsome, brave aur noble king tha ✨
+
+Swarg ki apsara:
+
+🌸 Urvashi
+
+uske baare me sunkar usse pyaar kar baithi ❤️
+
+Woh heaven se Earth par aayi
+aur Pururavas se mili.
+
+King usse dekhkar mesmerized ho gaya 😍
+
+Pururavas bola:
+
+👉 “Please mere saath raho.”
+
+👉 “Hum hamesha saath rahenge.”
+
+🌸 Urvashi’s Conditions
+
+Urvashi ne 3 conditions rakhi:
+
+🐑 Mere 2 lambs protect karna
+🧈 Main sirf ghee khaungi
+👀 Mujhe tum naked nahi dikhoge except intimacy ke time
+
+Pururavas maan gaya ❤️
+
+❤️ Their Love Story
+
+Dono heavenly gardens me enjoy karne lage 🌸✨
+
+Saalon tak happily rahe.
+
+Pururavas completely Urvashi me lost ho gaya 😍
+
+😢 Gandharvas Separate Them
+
+Indra ko heaven me Urvashi ki kami feel hui 😔
+
+Usne Gandharvas ko bheja.
+
+Ek dark night me
+Gandharvas ne Urvashi ke lambs chura liye 🐑😨
+
+Urvashi loudly royi:
+
+👉 “Mera husband coward nikla!”
+
+👉 “Woh sirf daytime hero hai!” 😡
+
+Pururavas hurt aur angry ho gaya 😤
+
+Woh sword lekar naked state me bhaaga.
+
+Tab Gandharvas ne lightning flash ki ⚡
+
+Aur Urvashi ne use naked dekh liya 😮
+
+Condition break ho gayi ❌
+
+Aur woh instantly disappear ho gayi 😢
+
+😭 Pururavas Goes Mad
+
+Pururavas heartbroken ho gaya 💔
+
+Woh pagal ki tarah Earth par bhatakne laga.
+
+Finally usne Urvashi ko
+Kurukshetra ke paas Saraswati river bank par dekha 🌊
+
+Woh apni celestial friends ke saath thi ✨
+
+Pururavas begged 😢
+
+👉 “Mujhe chhodkar mat jao…”
+
+👉 “Main tumhare bina mar jaunga.”
+
+🌸 Urvashi’s Wisdom
+
+Urvashi calmly boli:
+
+👉 “Control your senses.”
+
+👉 “Attachment wolves ki tarah insaan ko kha jaata hai.” 🐺
+
+Usne kaha:
+
+👉 “Women aur worldly desires unstable hote hain.”
+
+👉 “True peace attachment me nahi hai.”
+
+Lekin usne promise diya:
+
+👉 “Har saal ek raat ke liye milungi.”
+
+Aur bola ki uske child bhi honge.
+
+🔥 Birth of Sacrificial Fire
+
+Pururavas fir bhi obsessed tha 😔
+
+Gandharvas ne usse ek sacred fire vessel diya 🔥
+
+Woh usse Urvashi samajhkar forest me ghoomta raha 😢
+
+Ek din usse spiritual awakening hui ✨
+
+Usne sacred fire create ki
+aur Vedic rituals start kiye.
+
+Rishi Shuka ne explain kiya:
+
+👉 Earlier only ONE Veda tha
+👉 ONE divine sound “Om” tha 🕉️
+👉 ONE sacred fire tha 🔥
+
+Lekin Pururavas ke time se:
+
+3 Vedas
+3 sacred fires
+ritualistic sacrifices
+
+properly begin hue.
+
+Pururavas ne finally
+sacrificial fire aur devotion ke through
+Gandharva realm attain kar liya ✨
+
+Moral:
+
+Desire aur attachment insaan ko restless bana dete hain
+Worldly beauty temporary hai
+Aur true elevation spiritual realization aur self-control se milti hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 15
     with st.expander("Chapter 15 - The Story of Paraśurāma—Sahasrārjuna Slain"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shuka ne ab ek fierce aur legendary avatar ki story sunayi—
+
+⚔️ Bhagwan Parashurama
+
+Woh Vishnu ji ka warrior avatar the."""
         create_image_text_layout(
             "attached_assets/chapter9/9.15.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🌙 Pururavas ke Descendants
+
+Pururavas aur Urvashi ke 6 sons hue.
+
+Unki lineage me generations baad
+ek king hua:
+
+👑 Gadhi
+
+Uski daughter thi:
+
+🌸 Satyavati
+🧘 Rishi Richika’s Marriage
+
+Ek great sage the:
+
+🔥 Richika Rishi
+
+Woh Satyavati se marriage karna chahte the ❤️
+
+Lekin King Gadhi ko laga:
+
+👉 “Yeh poor sage meri princess ke layak nahi.”
+
+Isliye usne impossible dowry maangi 😮
+
+👉 “1000 white horses…”
+
+👉 “Jinke ek ear black ho.” 🐎
+
+Richika ne Varuna dev ki help se
+woh horses arrange kar diye ✨
+
+Aur Satyavati se shaadi ho gayi.
+
+🍚 The Sacred Food Mix-Up
+
+Ek din Richika ne special sacred food (charu) prepare kiya 🔥
+
+Ek Satyavati ke liye
+Ek uski mother ke liye
+
+Satyavati ki mother jealous ho gayi 😬
+
+Usne secretly bowls exchange kar diye 😮
+
+Jab Richika ko pata chala
+woh shock ho gaye 😨
+
+Unhone kaha:
+
+👉 “Ab tumhara son fierce warrior nature ka hoga…”
+
+👉 “Aur tumhara brother spiritual sage type hoga.”
+
+Satyavati ro padi 😢
+
+Aur request ki:
+
+👉 “Mera son violent na ho.”
+
+Richika bole:
+
+👉 “Theek hai…”
+
+👉 “Tumhara grandson waise nature ka hoga.”
+
+👶 Birth of Jamadagni and Parashurama
+
+Satyavati ka son hua:
+
+🧘 Jamadagni
+
+Aur Jamadagni ki wife thi:
+
+🌸 Renuka
+
+Unke youngest son hue:
+
+⚔️ Rama
+
+(Parashurama)
+
+Woh ordinary human nahi the 😮
+
+👉 Vishnu ji ka avatar the
+👉 Axe-wielding warrior sage 🔥
+
+😠 Why Parashurama Hated Corrupt Kings
+
+Us time bahut Kshatriya kings arrogant aur cruel ho gaye the 😔
+
+Woh Brahmanas aur common people ko oppress karte the.
+
+Sabse dangerous king tha:
+
+👑 Sahasrarjuna
+
+(Arjuna of Haihaya clan)
+
+Usne Dattatreya ji ki worship se
+incredible powers paayi thi ✨
+
+Uske paas the:
+
+👉 1000 arms 😳
+👉 huge strength 💪
+👉 mystical powers
+👉 unbeatable speed
+
+🌊 Sahasrarjuna vs Ravana
+
+Ek baar woh Narmada river me enjoy kar raha tha 🌊
+
+Aur apni thousand arms se
+river ka flow hi rok diya 😮
+
+Us time:
+
+👹 Ravana
+
+nearby camp me tha.
+
+Flood aaya toh Ravana angry ho gaya 😠
+
+Aur Sahasrarjuna ko challenge kiya.
+
+Lekin Sahasrarjuna ne usse easily capture kar liya 😂
+
+Bilkul monkey ki tarah bandh kar diya 🐒
+
+Aur later insult karke release kar diya.
+
+🐄 Kamadhenu Theft
+
+Ek din Sahasrarjuna hunting karte hue
+Jamadagni Rishi ke ashram pahunch gaya 🌳
+
+Rishi ke paas thi divine cow:
+
+🐄 Kamadhenu
+
+Jo magically sabke liye food aur luxury create kar deti thi ✨
+
+Rishi ne poori army ki hospitality ki 🙏
+
+Lekin king greedy ho gaya 😔
+
+Usne socha:
+
+👉 “Itni amazing cow mere paas honi chahiye.”
+
+Aur forcefully Kamadhenu ko chura liya 😡
+
+⚔️ Parashurama’s Wrath
+
+Jab Parashurama wapas aaye
+aur unhe pata chala 😨
+
+Woh snake ki tarah furious ho gaye 🐍🔥
+
+Unhone uthaya:
+
+divine axe 🪓
+bow 🏹
+arrows
+
+Aur king ke peeche bhaage ⚡
+
+⚔️ One Man vs Huge Army
+
+Sahasrarjuna ne:
+
+👉 17 massive armies bheji 😮
+
+Elephants, horses, chariots sab.
+
+Lekin Parashurama alone hi
+sabko destroy karte gaye 💥
+
+Jahan-jahan woh axe chalate:
+
+heads girte 😨
+arms cut hote
+chariots toot jaate
+
+Battlefield blood river ban gaya ⚔️🩸
+
+🪓 Thousand Arms Cut Down
+
+Finally Sahasrarjuna khud aaya 😠
+
+Usne ek saath
+500 bows use kiye 😳
+
+Lekin Parashurama ne instantly
+sab arrows destroy kar diye ⚡
+
+Sahasrarjuna ne mountains aur trees phenke 🌳🪨
+
+Parashurama ne apne axe se:
+
+👉 uski 1000 arms kaat di 😨🪓
+
+Bilkul snake ke hoods ki tarah.
+
+Phir uska head bhi cut kar diya 💥
+
+Uske sons fear me bhaag gaye 😱
+
+🧘 Jamadagni’s Lesson
+
+Parashurama Kamadhenu ko wapas le aaye 🐄
+
+Aur proudly father ko sab bataya.
+
+Lekin Jamadagni happy nahi hue 😮
+
+Unhone calmly kaha:
+
+👉 “Tumne sin kiya hai.”
+
+👉 “King ko maarna bahut serious act hai.”
+
+👉 “Forgiveness hi true Brahman greatness hai.” ✨
+
+Unhone Parashurama ko kaha:
+
+👉 “Holy rivers me jao…”
+
+👉 “Aur Vishnu ji ka meditation karke atonement karo.”
+
+Parashurama silently sunte rahe 😔
+
+Yeh warrior ko diya gaya
+compassion aur restraint ka lesson tha.
+
+Moral:
+
+Power jab arrogance ban jaaye toh destruction laati hai
+Justice zaroori hai, lekin anger ko wisdom se control karna aur bhi zaroori hai
+Forgiveness spiritual strength ka highest form hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
