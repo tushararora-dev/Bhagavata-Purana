@@ -3041,66 +3041,1450 @@ Forgiveness spiritual strength ka highest form hai."""
 
     # Chapter 16
     with st.expander("Chapter 16 - The Story of Paraśurāma (concluded)"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shuka ne Parashurama ki story ka emotional aur intense final part sunaya. ⚔️🔥
+
+🌊 Renuka and the Gandharva King
+
+Ek din Parashurama ki mother:
+
+🌸 Renuka
+
+Ganga se water lene gayi 🌊"""
         create_image_text_layout(
             "attached_assets/chapter9/9.16.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Wahan unhone dekha:
+
+✨ Citraratha
+
+(Gandharva king)
+
+celestial apsaras ke saath water me enjoy kar raha tha 😮
+
+Ek moment ke liye
+Renuka ka mind distract ho gaya 😔
+
+Woh bas us beauty aur scene ko dekhte reh gayi.
+
+Aur yajna ka fixed time miss ho gaya ⏳
+
+😨 Jamadagni’s Wrath
+
+Jab woh ashram wapas aayi
+toh Rishi Jamadagni instantly samajh gaye
+ki unka mind momentarily disturbed hua tha 😠
+
+Gusse me unhone apne sons ko order diya:
+
+👉 “Is sinful woman ko maar do.”
+
+Bade brothers shock me aa gaye 😨
+
+Kisi ne command follow nahi ki.
+
+⚔️ Parashurama Obeys
+
+Lekin:
+
+⚔️ Parashurama
+
+apne father ki spiritual power aur authority ko deeply jaante the.
+
+Unhone bina hesitate kiye 😔
+
+👉 mother
+👉 aur brothers
+
+sabko kill kar diya.
+
+😢 Jamadagni Grants a Boon
+
+Jamadagni pleased hue.
+
+Unhone kaha:
+
+👉 “Mango kya chahte ho.”
+
+Parashurama ne immediately bola ❤️
+
+👉 “Meri mother aur brothers wapas alive ho jaayein.”
+
+👉 “Aur unhe yaad bhi na rahe ki maine unhe maara tha.”
+
+Aur instantly sab revive ho gaye ✨
+
+Bilkul deep sleep se uthne jaise.
+
+😠 Sons of Sahasrarjuna Seek Revenge
+
+Lekin dusri side par
+Sahasrarjuna ke sons revenge me jal rahe the 😡
+
+Unhe apne father ki death ka dard bhool nahi raha tha.
+
+Ek din jab Parashurama forest me the 🌲
+
+Tab unhone chance dekha.
+
+Aur secretly Jamadagni ke ashram me ghus gaye ⚔️
+
+🩸 Murder of Jamadagni
+
+Rishi Jamadagni peacefully meditation me baithe the 🧘
+
+Unka mind Bhagwan Vishnu me absorbed tha ✨
+
+Lekin un cruel warriors ne 😨
+
+👉 unka head cut kar diya
+👉 aur usse le gaye 💀
+
+😭 Renuka’s Cry
+
+Renuka helpless hokar ro padi 💔
+
+Apne chest peette hue chillane lagi:
+
+👉 “Rama! Rama! Jaldi aao!” 😭
+
+⚔️ Parashurama’s Terrible Vow
+
+Door forest me Parashurama ne woh cry suni 😨
+
+Woh immediately ashram wapas aaye.
+
+Aur father ko dead dekha 😔
+
+Woh grief aur rage se bhar gaye 🔥
+
+👉 “O righteous father…”
+👉 “Aap hume chhodkar chale gaye…”
+
+Phir unhone ek horrifying vow liya ⚔️
+
+👉 “Main poori corrupt Kshatriya race ko destroy kar dunga.”
+
+🪓 Mass Destruction
+
+Parashurama axe lekar nikle 🔥
+
+Aur city:
+
+🏙️ Mahishmati
+
+par attack kar diya.
+
+Battle itni brutal thi 😨
+
+ki:
+
+👉 unhone heads ka mountain bana diya 💀
+👉 blood ki rivers baha di 🩸
+
+Rishi Shuka ne kaha:
+
+👉 Parashurama ne “21 times” Earth ko corrupt Kshatriyas se cleanse kiya ⚔️
+
+🩸 Lakes of Blood
+
+Kurukshetra ke paas:
+
+🌊 Samantapanchaka
+
+me blood-filled pools create hue 😨
+
+Yeh wars ki memory ban gaye.
+
+🙏 Restoring Jamadagni
+
+Parashurama finally apne father ka head recover kar laaye ❤️
+
+Aur usse body se rejoin kiya.
+
+Phir unhone huge sacrifices aur rituals perform kiye 🔥
+
+Aur Earth ka almost sab land priests aur sages ko donate kar diya ✨
+
+🌟 Jamadagni Becomes a Star
+
+Rishi Jamadagni later heavenly form attain kar gaye 🌌
+
+Aur sky me Great Sages ke among shine karne lage ✨
+
+⛰️ Parashurama Still Lives
+
+Rishi Shuka ne reveal kiya 😮
+
+👉 Parashurama abhi bhi alive hain
+👉 Mahendra mountain par meditate karte hain 🏔️
+
+Unhone violence chhod diya hai ✨
+
+Aur ab peaceful yogi ban chuke hain.
+
+🌌 Meaning of the Avatar
+
+Bhagwan Vishnu ne Parashurama avatar liya tha:
+
+👉 Earth ka burden kam karne ke liye
+👉 corrupt rulers ko stop karne ke liye ⚖️
+
+Lekin story yeh bhi dikhati hai:
+
+👉 revenge aur violence endless suffering laate hain 😔
+
+🌟 Vishwamitra’s Story Begins
+
+Uske baad Rishi Shuka ne ek aur legendary figure ka mention kiya:
+
+🔥 Vishwamitra
+
+Woh originally ek Kshatriya king the 👑
+
+Lekin tapasya aur spiritual power se:
+
+👉 Brahmarishi ban gaye ✨
+
+👦 Shunahshepa / Devarata
+
+Vishwamitra ne ek boy adopt kiya:
+
+🌟 Shunahshepa
+
+jise later:
+
+✨ Devarata
+
+bola gaya.
+
+Woh originally sacrifice ke liye sold hua tha 😨
+
+Lekin divine prayers se bach gaya 🙏
+
+Vishwamitra ne apne sons ko order diya:
+
+👉 “Isse apna eldest brother maano.”
+
+Kuch sons ne refuse kar diya 😠
+
+Toh Vishwamitra ne unhe curse diya:
+
+👉 “Tum outcast tribes ban jaoge.”
+
+Lekin kuch obedient sons maan gaye ❤️
+
+Aur Vishwamitra unse pleased hue.
+
+Is tarah:
+
+🌿 Kaushika lineage
+
+multiple branches me divide hui.
+
+King Parikshit quietly sunte rahe 😮
+
+Unhe samajh aaya:
+
+👉 Spiritual power caste ya birth se nahi…
+👉 discipline, tapasya aur character se aati hai.
+
+Moral:
+
+Anger aur revenge destruction laate hain
+Obedience without wisdom dangerous ho sakti hai
+Aur true greatness birth se nahi, spiritual effort se milti hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 17
     with st.expander("Chapter 17 - The Lunar Dynasty—The Descendants of Āyu, the Son of Purūravas"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shuka ne ab Lunar Dynasty ki aur branches ki story sunayi 🌙✨
+
+🌙 Sons of Ayu
+
+Pururavas aur Urvashi ke son:
+
+👑 Ayu
+
+ke 5 famous sons hue:
+
+Nahusha
+Kshatravriddha
+Raji
+Rambha
+Anenas"""
         create_image_text_layout(
             "attached_assets/chapter9/9.17.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Rishi ne bola:
+
+👉 “Ab main inki different lineages ki kahani bataunga.”
+
+🌟 Kshatravriddha’s Line
+
+Kshatravriddha ka son tha:
+
+👑 Suhotra
+
+Aur uske 3 sons hue:
+
+Kāśya
+Kuśa
+Gṛtsamada
+🧘 Shaunaka Rishi
+
+Gritsamada ki line me born hue:
+
+✨ Shaunaka Rishi
+
+Woh Rigveda ke greatest masters me se ek bane 📖
+
+🩺 Dhanvantari – God of Ayurveda
+
+Kāśya ki line me ek legendary king born hua:
+
+🩺 Dhanvantari
+
+Rishi Shuka ne bataya 😮
+
+👉 Woh Bhagwan Vasudeva ka divine portion the ✨
+
+Aur:
+
+🌿 Ayurveda
+
+(science of medicine)
+
+ke founder maane gaye.
+
+👑 Divodasa and Pratardana
+
+Iss line me later aaye:
+
+Divodasa
+Pratardana
+
+Pratardana ke bahut names the 😮
+
+Jaise:
+
+Shatrujit ⚔️
+Vatsa
+Ritadhvaja
+Kuvalayashva
+🌟 King Alarka
+
+Phir ek amazing king hua:
+
+👑 Alarka
+
+Rishi ne kaha 😮
+
+👉 Usne 66,000 years tak Earth rule ki 🌍
+
+Aur phir bhi:
+
+👉 Young aur healthy raha ✨
+
+Uski line me later aaye:
+
+Santati
+Sunitha
+Suketana
+Dharmaketu
+Satyaketu
+Dhṛṣṭaketu
+Sukumāra
+Vītihotra
+Bharga
+Bhārgabhūmi
+🌊 Rambha’s Line
+
+Ayu ke son:
+
+🌟 Rambha
+
+ki line bhi continue hui.
+
+Uske descendants the:
+
+Rabhasa
+Gambhira
+Akriya
+
+Rishi ne mention kiya
+ki Akriya ki queen se
+ek Brahmana lineage start hui ✨
+
+🧘 Anenas’ Line
+
+Ayu ke fifth son:
+
+🌌 Anenas
+
+ki line me aaye:
+
+Śuddha
+Śuci
+Trikakud
+
+Trikakud ko bola gaya:
+
+⚖️ Dharmasārathi
+
+(charioteer of dharma)
+
+Uska son tha:
+
+🧘 Śāntaraya
+
+Woh itna spiritually detached tha ✨
+
+ki usse kingdom aur dynasty continue karne me interest hi nahi tha.
+
+Uska focus liberation par tha 🌸
+
+⚔️ Raji and the War of Heaven
+
+Ab aayi most dramatic branch 😮
+
+⚡ King Raji
+
+Ayu ka powerful son tha.
+
+Uske:
+
+😳 500 mighty sons
+
+the.
+
+Ek time gods aur demons me huge war chal raha tha ⚔️
+
+Gods defeat ho rahe the 😨
+
+Toh unhone Raji se help maangi.
+
+⚔️ Raji Saves the Gods
+
+Raji ne Asuras ko defeat kar diya 🔥
+
+Aur heaven wapas Indra ko dilaya.
+
+Lekin Indra secretly scared tha 😬
+
+Usne socha:
+
+👉 “Raji bahut powerful ho gaya hai…”
+
+Toh usne diplomacy use ki 😮
+
+👉 Raji ko father ki tarah honour kiya
+👉 khud ko uska “son” declare kar diya
+
+😠 Raji’s Sons Seize Heaven
+
+Jab Raji mar gaya 😔
+
+Toh uske 500 sons greedy ho gaye.
+
+Unhone:
+
+👉 Heaven ka throne seize kar liya ⚡
+
+Aur Indra ko wapas nahi diya.
+
+Woh even sacrificial offerings bhi khud lene lage 😮
+
+Jo normally Indra ko milti thi.
+
+🧠 Brihaspati’s Strategy
+
+Indra helpless ho gaya 😨
+
+Toh Guru Brihaspati ne clever plan banaya.
+
+Unhone rituals perform kiye ✨
+
+Aur somehow Raji ke sons ko:
+
+👉 dharma se corrupt kar diya 😔
+
+Jab woh unrighteous ho gaye…
+
+Tab Indra ne attack kiya ⚡
+
+Aur sabko destroy kar diya 😨
+
+Ek bhi son survive nahi hua.
+
+🌿 Another Branch of Kuśa
+
+Kuśa ki line me later kings aaye:
+
+Prati
+Sanjaya
+Jaya
+Krita
+Haryashva
+Sahadeva
+Hina
+Jayasena
+Saṅkṛti
+Jaya
+
+Final king:
+
+⚔️ Kṣātradharmā
+
+Kshatriya dharma ko faithfully follow karta tha ✨
+
+🌌 Transition to Yayati
+
+Rishi Shuka ne finally kaha:
+
+👉 “Ab maine Kshatravriddha ki line explain kar di.”
+
+👉 “Ab next main Nahusha aur Yayati ki famous story sunaoonga.” ✨
+
+King Parikshit silently sunte rahe 😊
+
+Unhe samajh aaya:
+
+👉 Dynasties rise aur fall hoti rehti hain
+👉 Power temporary hai
+👉 Dharma aur wisdom hi lasting hain 🌸
+
+Moral:
+
+Power without righteousness eventually destroy ho jaati hai
+Wisdom aur self-control kings ko truly great banate hain
+Aur spiritual detachment worldly success se bhi higher hota hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 18
     with st.expander("Chapter 18 - The History of Nahuṣa’s Line—The Story of Yayāti"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shuka ne ab Lunar Dynasty ki sabse famous aur emotional stories me se ek sunayi ✨🌙
+
+👑 King Yayati ki Story
+
+Yeh desire, attachment aur human weakness ki deep story thi.
+
+🌙 Sons of Nahusha
+
+King Nahusha ke 6 sons the:
+
+Yati
+Yayati
+Samyati
+Ayati
+Viyati
+Kriti"""
         create_image_text_layout(
             "attached_assets/chapter9/9.18.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🧘 Yati Rejects the Throne
+
+Sabse bada son:
+
+🌸 Yati
+
+bahut spiritual tha.
+
+Usne kingdom lene se mana kar diya 😮
+
+Kyunki usse pata tha:
+
+👉 “Kingship aur power insaan ko self-realization se door le jaati hai.”
+
+Isliye throne mila:
+
+👑 Yayati
+
+ko.
+
+😨 Fall of Nahusha
+
+Us time Nahusha bhi ek shocking event se gir chuka tha.
+
+Usne Indra ki wife:
+
+⚡ Indrani
+
+ke saath misconduct kiya 😔
+
+Aur sages ne curse de diya 😨
+
+👉 “Tum giant snake ban jaoge!” 🐍
+
+Uske baad Yayati king bana.
+
+Aur usne apne brothers ko different directions me kingdoms de diye 🌍
+
+🌸 Devayani and Sharmishtha
+
+Ab story me entry hoti hai 2 girls ki 😮
+
+🌸 Devayani
+
+daughter of:
+
+🔥 Shukracharya
+
+(teacher of Asuras)
+
+Aur dusri thi:
+
+👑 Sharmishtha
+
+daughter of demon king Vrishaparva.
+
+Dono friends thi ❤️
+
+Aur ek din apni thousand companions ke saath
+garden me water games khelne gayi 🌸🌊
+
+😳 Shiva Suddenly Appears
+
+Jab woh water me thi,
+
+suddenly:
+
+🔱 Shiva and Parvati
+
+wahan se guzre 😮
+
+Sab girls embarrassment me quickly bahar nikli 😳
+
+Aur haste-haste clothes pehenne lagi.
+
+😠 The Dress Incident
+
+Confusion me:
+
+👑 Sharmishtha
+
+galti se Devayani ke clothes pehen leti hai.
+
+Devayani furious ho gayi 😡
+
+Aur insulting tone me boli:
+
+👉 “Tum servant ho!”
+
+👉 “Mere clothes kaise pehen liye?”
+
+👉 “Hum Brahmanas tumse superior hain!”
+
+Woh apni Brahmana lineage aur spiritual superiority boast karne lagi 😬
+
+🐍 Sharmishtha Gets Furious
+
+Sharmishtha insult tolerate nahi kar paayi 😠
+
+Woh snake ki tarah hiss karte hue boli:
+
+👉 “Tum khud beggar jaisi ho!”
+
+👉 “Tumhare father hamare palace me dependent hain!”
+
+Aur anger me 😨
+
+👉 Devayani ke clothes chheen liye
+👉 usse well me push kar diya 💥
+
+👑 Yayati Saves Devayani
+
+Coincidentally ussi waqt:
+
+👑 Yayati
+
+hunting karte hue nearby aaye 🌲🏹
+
+Unhe well me ek helpless girl dikhi 😮
+
+Yayati ne apna upper cloth diya 🙏
+
+Aur uska hand pakadkar usse bahar nikala ❤️
+
+❤️ Devayani Falls in Love
+
+Devayani emotionally boli:
+
+👉 “Tumne mera hand hold kiya hai…”
+
+👉 “Ab tum hi mere husband ho.” ❤️
+
+Usne explain kiya:
+
+👉 “Destiny ne hume milaya hai.” ✨
+
+Yayati bhi uski taraf attracted ho gaya 😊
+
+Aur proposal accept kar liya.
+
+😠 Shukra Gets Angry
+
+Devayani crying state me father ke paas gayi 😢
+
+Aur sab bata diya.
+
+Shukracharya furious ho gaye 😡🔥
+
+Unhone demon king Vrishaparva ka kingdom chhodne ka decision le liya.
+
+Vrishaparva panic me aa gaya 😨
+
+Kyunki bina Shukra ke
+Asuras weak ho jaate.
+
+🙏 Devayani’s Condition
+
+Shukra ne bola:
+
+👉 “Meri daughter ko satisfy karo.”
+
+Devayani ne condition rakhi 😮
+
+👉 “Sharmishtha aur uski thousand maids…”
+
+👉 “Meri servants bankar rahengi.”
+
+King मजबूर tha 😔
+
+Sharmishtha ne bhi apne people ko bachane ke liye sacrifice accept kar liya ❤️
+
+💍 Marriage of Yayati and Devayani
+
+Finally Devayani ki marriage Yayati se ho gayi 💍✨
+
+Lekin Shukra ne warning di ⚠️
+
+👉 “Kabhi bhi Sharmishtha ke saath relationship mat banana.”
+
+🌸 Secret Relationship
+
+Time passed ⏳
+
+Devayani ko sons hue:
+
+Yadu
+Turvasu
+
+Ek din Sharmishtha secretly Yayati ke paas aayi 😮
+
+Aur boli:
+
+👉 “Mujhe bhi children chahiye.”
+
+Yayati confused ho gaya 😔
+
+Usse Shukra ki warning yaad thi.
+
+Lekin usne socha:
+
+👉 “A woman asking for progeny should not be refused.”
+
+Aur destiny ke flow me
+usne relation accept kar liya.
+
+Sharmishtha ko 3 sons hue:
+
+Druhyu
+Anu
+Puru
+😡 Devayani Discovers the Truth
+
+Jab Devayani ko pata chala 😨
+
+Woh jealousy aur rage se bhar gayi 😭
+
+Aur directly father ke paas chali gayi.
+
+Yayati uske peeche gaya ❤️
+
+Usne:
+
+apologies ki
+sweet promises diye
+even uske feet massage kiye 😔
+
+Lekin Devayani calm nahi hui.
+
+⚡ The Curse of Old Age
+
+Shukracharya furious ho gaye 😡🔥
+
+Aur Yayati ko curse diya:
+
+👉 “Tum immediately old ho jaoge!” 👴
+
+Ek second me:
+
+wrinkles 😨
+weakness
+white hair
+
+sab aa gaya.
+
+😢 Yayati’s Plea
+
+Yayati begged 😔
+
+👉 “Main abhi pleasures se satisfied nahi hua…”
+
+👉 “Please kuch solution do.”
+
+Shukra ne kaha:
+
+👉 “Agar koi willingly apni youth tumhe de…”
+
+👉 “Toh tum exchange kar sakte ho.”
+
+👦 Sons Tested
+
+Yayati ne apne sons ko bulaya ❤️
+
+❌ Yadu Refuses
+
+Usne bola:
+
+👉 “Without enjoying youth properly…”
+
+👉 “Kaise detachment aayega?”
+
+Dusre sons bhi refuse karte gaye 😔
+
+Turvasu
+Druhyu
+Anu
+
+Sabne mana kar diya.
+
+🌟 Puru’s Great Sacrifice
+
+Finally youngest son:
+
+🌟 Puru
+
+aaya.
+
+Woh deeply respectful tha ❤️
+
+Usne kaha:
+
+👉 “Father ka debt kabhi repay nahi ho sakta.”
+
+👉 “Best son wahi hai jo father ki wish samajhkar fulfill kare.”
+
+Aur happily apni youth de di ✨
+
+👑 Yayati Enjoys for Thousands of Years
+
+Yayati fir young ban gaya 😮
+
+Aur thousands of years tak pleasures enjoy karta raha 🌸
+
+wealth 💰
+women ❤️
+luxury 👑
+power ⚔️
+
+Sab kuch.
+
+Lekin… 😔
+
+Uska desire kabhi end nahi hua.
+
+🔥 The Great Realization
+
+Finally Yayati ko truth samajh aaya ✨
+
+Usne famous wisdom bola:
+
+“Desire kabhi enjoyment se satisfy nahi hoti…”
+
+“Jaise fire me ghee daalne se fire aur badhti hai.” 🔥
+
+Yeh line immortal ho gayi Indian philosophy me 🌸
+
+🌌 Spiritual Shift
+
+Uske baad Yayati ne:
+
+👉 kingdom return kiya
+👉 detachment choose kiya
+👉 Lord Vishnu ki devotion start ki 🙏
+
+Usne realize kiya:
+
+👉 Mind aur senses endless craving create karte hain 😔
+
+Aur real peace sirf spiritual realization me hai ✨
+
+King Parikshit quietly sunte rahe 😮
+
+Unhe samajh aaya:
+
+👉 Desire fulfill karne se desire khatam nahi hoti…
+
+👉 Woh aur strong hoti jaati hai.
+
+Moral:
+
+Endless pleasure kabhi permanent satisfaction nahi deta
+Self-control aur spiritual wisdom hi true peace dete hain
+Aur real maturity tab aati hai jab insaan desire ki nature samajh leta hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 19
     with st.expander("Chapter 19 - Yayāti’s Retirement and Final Emancipation"):
-        text1 = """ """
+        text1 = """ 
+        👑 Yayati Finally Gets Tired of Pleasure
+
+Hazaaron saal tak luxury aur pleasures enjoy karne ke baad bhi 😮
+
+👑 King Yayati
+
+andar se empty feel karne laga.
+
+Usse realize hua 😔
+
+👉 “Main spiritually fall ho gaya hoon…”
+
+👉 “Desires ka koi end nahi.”"""
         create_image_text_layout(
             "attached_assets/chapter9/9.19.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Tab usne apni wife:
+
+🌸 Devayani
+
+ko ek deep symbolic story sunayi ✨
+
+🐐 The Story of the Goat
+
+Yayati bola:
+
+👉 “Ek jungle me ek male goat tha…”
+
+Ek din usne dekha 😮
+
+👉 ek female goat well me gir gayi thi 🕳️🐐
+
+Male goat uspar attracted ho gaya ❤️
+
+Aur apne horns se soil hata-hatakar
+uske liye escape path bana diya.
+
+❤️ Many Female Goats Gather
+
+Jab female goat bahar aayi
+toh woh us male goat se attached ho gayi ❤️
+
+Woh male goat strong aur attractive tha 😎
+
+Isliye aur bhi female goats uske paas aane lagi 😮
+
+Aur woh goat:
+
+👉 lust aur pleasure me itna lost ho gaya 😔
+
+ki apne real self ke baare me sochna hi bhool gaya.
+
+😠 Jealousy and Separation
+
+Ek din pehli female goat ne dekha 😨
+
+ki uska mate dusri goats ke saath enjoy kar raha hai.
+
+Woh hurt aur angry ho gayi 😢
+
+Aur usse chhodkar chali gayi.
+
+Male goat panic me uske peeche bhaaga 🐐💨
+
+Lekin woh mana nahi paaya.
+
+😨 The Castration
+
+Female goat ke owner ne 😳
+
+male goat ko punish kar diya.
+
+👉 uske testicles cut kar diye 😨
+
+Lekin later somehow
+unhe wapas restore bhi kar diya ✨
+
+Aur funny-sad part yeh tha 😮
+
+👉 Itne sab ke baad bhi
+woh goat pleasures me hi laga raha 😔
+
+Kabhi satisfied nahi hua.
+
+😔 Yayati’s Confession
+
+Yayati ne softly Devayani se kaha ❤️
+
+👉 “Woh goat main hoon…”
+
+👉 “Main bhi desires me itna trapped ho gaya…”
+
+👉 “Ki apne true self ko bhool gaya.”
+
+🔥 The Famous Wisdom
+
+Phir Yayati ne immortal line boli ✨
+
+“Desire enjoyment se kabhi satisfy nahi hoti…”
+
+“Jaise ghee daalne se fire aur badhti hai.” 🔥
+
+Usne realize kiya:
+
+👉 Wealth 💰
+👉 gold
+👉 women ❤️
+👉 luxury 👑
+
+kabhi permanent satisfaction nahi dete.
+
+🧘 Spiritual Realization
+
+Yayati ne kaha:
+
+👉 “Jo sab beings ko equal dekhta hai…”
+
+👉 “Aur attachment chhod deta hai…”
+
+👉 “Usse har direction me peace milti hai.” 🌸
+
+Usne warning bhi di 😮
+
+👉 “Senses bahut powerful hote hain.”
+
+👉 “Wise person bhi mislead ho sakta hai.”
+
+Aur confess kiya:
+
+👉 “1000 saal pleasures enjoy karne ke baad bhi…”
+
+👉 “Meri craving khatam nahi hui.” 😔
+
+🌲 Decision to Renounce
+
+Finally Yayati ne decide kiya ✨
+
+👉 “Ab main forest jaunga.”
+
+👉 “Mind ko Brahman me focus karunga.”
+
+👉 “Pleasure-pain se beyond jeena seekhunga.”
+
+👑 Returning Youth to Puru
+
+Usne apni youth:
+
+🌟 Puru
+
+ko wapas kar di ❤️
+
+Aur khud old age accept kar li 👴
+
+🌍 Division of the Kingdom
+
+Phir usne kingdom divide kiya:
+
+Druhyu → Southeast
+Yadu → South
+Turvasu → West
+Anu → North
+
+Aur:
+
+👑 Puru
+
+ko emperor banaya ✨
+
+Kyunki woh sabse virtuous tha.
+
+🌸 Yayati Leaves Everything
+
+Yayati quietly forest chala gaya 🌲
+
+Bilkul bird ki tarah
+jo full-grown hone ke baad nest leave kar deta hai 🕊️
+
+Usne:
+
+senses control kiye
+attachments chhode
+ego dissolve kiya
+meditation ki 🧘
+
+Aur finally:
+
+✨ Supreme Brahman
+
+me merge ho gaya.
+
+Bhagwan Vasudeva ki divine state attain kar li 🌌
+
+🌸 Devayani’s Awakening
+
+Devayani pehle uski goat story ko
+sirf emotional joke samajh rahi thi 😅
+
+Lekin baad me usse bhi realization hua ✨
+
+Usne samjha:
+
+👉 Relationships temporary hain
+👉 Sab karma aur Maya ke according milte-bichhadte hain 😔
+
+Bilkul travellers ki tarah
+jo kuch time ke liye ek water-place par milte hain 🚶‍♂️🚶‍♀️
+
+🙏 Devayani Also Renounces
+
+Devayani ne bhi attachments chhod diye 🌸
+
+Aur apna mind:
+
+✨ Lord Krishna / Vishnu
+
+par focus kar diya ❤️
+
+Aur finally
+woh bhi spiritually liberated ho gayi 🌌
+
+🌟 Final Prayer
+
+Rishi Shuka ne end me prayer ki 🙏
+
+👉 “Salutations to Lord Vasudeva…”
+
+👉 “Jo universe ka source hain…”
+
+👉 “Jo sab beings ke inner soul hain…” ✨
+
+King Parikshit silently sunte rahe 😮
+
+Unhe deeply samajh aaya:
+
+👉 Desire endless hai
+👉 Attachment temporary hai
+👉 Real freedom andar milti hai ✨
+
+Moral:
+
+Pleasure ki chasing kabhi complete satisfaction nahi deti
+Self-control aur spiritual wisdom hi true peace dete hain
+Aur sab relationships temporary hote hue bhi spiritual growth ka path ban sakte hain."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 20
     with st.expander("Chapter 20 - The History of Pūru’s race—Birth of Bharata"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shuka ne ab batayi 🌟
+
+👑 Puru Vansh ki Story
+
+Yahi woh royal line thi
+jisme later born hue:
+
+Bharata
+Kuru
+Pandavas
+Kauravas
+
+✨"""
         create_image_text_layout(
             "attached_assets/chapter9/9.20.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        👑 Descendants of Puru
+Puru ke baad lineage aise chali:
+
+
+Janamejaya
+
+
+Prachinvan
+
+
+Pravira
+
+
+Namasyu
+
+
+Charupada
+
+
+Sudyu
+
+
+Bahugava
+
+
+Samyati
+
+
+Ahamyati
+
+
+Raudrashva
+
+
+
+🌸 Raudrashva and the Celestial Nymph
+Raudrashva ne celestial apsara:
+✨ Ghritachi
+se marriage ki ❤️
+Aur unke 10 sons hue 😮
+
+Unme se ek tha:
+🌟 Rteyu
+jiski line me later born hua:
+👑 Dushyanta
+
+🌲 Dushyanta Meets Shakuntala
+Ek din King Dushyanta hunting par gaya 🏹🌲
+Aur chance se pahunch gaya:
+🧘 Kanva Rishi ke Ashram
+
+Wahan usne dekhi ek extraordinary beautiful girl 😮✨
+🌸 Shakuntala
+
+Uski beauty itni divine thi
+ki Dushyanta instantly attracted ho gaya ❤️
+Uski fatigue bhi disappear ho gayi 😳
+
+❤️ Their First Conversation
+King softly bola 😊
+👉 “Tum kaun ho?”
+👉 “Itni beautiful princess jungle me kya kar rahi hai?”
+
+Shakuntala politely boli 🌸
+👉 “Main Vishwamitra aur Menaka ki daughter hoon.”
+👉 “Rishi Kanva ne mujhe raise kiya hai.”
+
+Usne king ko hospitality offer ki 🍚
+Aur bola:
+👉 “Aap yahan rest kar sakte hain.”
+
+💍 Gandharva Marriage
+Dushyanta ne realize kiya 😮
+👉 “Tum royal lineage ki lagti ho.”
+
+Dono ek dusre ko pasand karne lage ❤️
+Aur unhone:
+💍 Gandharva Marriage
+kiya.
+Yani mutual love aur consent based marriage ✨
+
+Dushyanta next day capital laut gaya 👑
+Aur kuch time baad:
+👶 Shakuntala ne ek son ko birth diya
+
+🦁 Child Bharata
+Woh child ordinary nahi tha 😮
+Usme divine energy thi ✨
+
+Bachpan me hi:
+👉 lions pakad leta tha 🦁
+👉 wild animals ke saath khelta tha 😳
+Sab uski immense power dekhkar amazed ho jaate.
+
+🌸 Shakuntala Goes to the King
+Jab boy bada hua,
+Shakuntala usse lekar
+Dushyanta ke court pahunchi 👑
+Aur boli:
+👉 “Yeh tumhara son hai.”
+
+😔 Dushyanta Refuses
+Lekin king ne public me accept nahi kiya 😨
+Shayad reputation ya doubt ki wajah se.
+
+⚡ Divine Voice from Heaven
+Tab suddenly heaven se loud voice aayi 🌌⚡
+Sabne suna 😮
+
+Voice boli:
+👉 “Mother sirf child ko carry karti hai…”
+👉 “Son actually father ka extension hota hai.”
+👉 “Shakuntala sach bol rahi hai.”
+
+Aur bola:
+👉 “Is child ko neglect mat karo.”
+👉 “Yeh extraordinary greatness achieve karega.” ✨
+
+👑 Birth of Bharata’s Glory
+Dushyanta immediately emotional ho gaya ❤️
+Aur Shakuntala aur child ko accept kar liya.
+
+Woh child bana:
+🌟 Emperor Bharata
+
+India ka ancient name:
+🇮🇳 Bharat
+isi great king ke naam par pada ✨
+
+🌍 Bharata’s Greatness
+Bharata ke body par divine marks the 😮
+
+
+hand par chakra symbol ☸️
+
+
+feet par lotus marks 🌸
+
+
+
+Woh incredibly powerful emperor bana 👑
+Usne:
+
+
+many Ashvamedha sacrifices kiye 🔥
+
+
+huge donations diye 💰
+
+
+entire Earth conquer ki 🌍
+
+
+
+🐘 Massive Donations
+Rishi Shuka ne bataya 😮
+👉 Bharata ne lakhs of elephants donate kiye
+👉 countless cows gift ki
+👉 huge sacrifices perform kiye
+
+Uski glory itni great thi ✨
+ki future kings bhi uske level tak nahi pahunch sake.
+
+⚔️ Conquests
+Bharata ne many tribes defeat kiye:
+
+
+Hunas
+
+
+Yavanas
+
+
+Shakas
+
+
+Kiratas
+
+
+Aur unrighteous rulers ko punish kiya ⚔️
+
+🌌 Bharata’s Realization
+Lekin after ruling for thousands of years 😮
+Bharata ko realization hua ✨
+👉 “Kingdom temporary hai.”
+👉 “Power, fame aur senses sab unreal hain.”
+
+Aur usne detachment choose kiya 🌸
+
+😢 Tragedy of Bharata’s Sons
+Bharata ki 3 queens thi 👑
+Unke sons hue…
+Lekin Bharata ne feel kiya 😔
+👉 “Yeh mere jaise nahi lagte.”
+
+Queens darr gayi 😨
+ki king unhe reject kar dega.
+Aur fear me unhone apne hi children ko maar diya 😢
+
+😮 Bharata Gets a New Son
+Ab dynasty extinction ke danger me thi 😨
+Toh Bharata ne sacrifices kiye 🙏
+Aur:
+🌪️ Marut Gods
+ne usse ek child diya.
+
+Woh child tha:
+🌟 Bharadvaja
+
+😨 Strange Birth of Bharadvaja
+Uski birth story bhi shocking thi 😮
+Brihaspati ne forcefully relation banaya:
+🌸 Mamata
+ke saath
+jab woh already pregnant thi 😨
+
+Womb me existing child ne protest bhi kiya 😳
+Lekin Brihaspati ne ignore kiya.
+
+Fallen semen se ek child born hua ✨
+Lekin dono parents usse accept nahi karna chahte the 😔
+
+Woh literally argue karne lage:
+👉 “Tum raise karo!”
+👉 “Nahi tum raise karo!” 😅
+
+Isi argument se naam bana:
+🌟 Bharadvaja
+(“bhara dvajam” type phrase se derived)
+
+👑 Adopted by Bharata
+Finally gods ne child ko protect kiya ❤️
+Aur later usse Bharata ko de diya.
+
+Uska adopted royal name bana:
+👑 Vitatha
+
+Is tarah Bharata ki dynasty continue hui ✨
+
+King Parikshit quietly sunte rahe 😮
+Unhe samajh aaya:
+👉 Great dynasties bhi suffering aur imperfection se free nahi hoti 😔
+👉 Lekin dharma aur destiny lineage ko continue kar dete hain 🌸
+
+Moral:
+
+
+Fame aur power temporary hain
+
+
+Truth eventually reveal ho hi jaata hai
+
+
+Aur greatness birth se nahi, character aur destiny se emerge hoti hai.
+
+"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
