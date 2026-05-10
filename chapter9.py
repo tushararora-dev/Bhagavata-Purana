@@ -4490,51 +4490,1544 @@ Aur greatness birth se nahi, character aur destiny se emerge hoti hai.
 
     # Chapter 21
     with st.expander("Chapter 21 - The Race of Bharata—The History of Rantideva"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shuka ne ab ek aise king ki story batayi 🌸
+
+jise heaven aur earth dono jagah praise kiya jaata tha ✨
+
+👑 King Rantideva
+
+Woh Bharata dynasty ka king tha 👑
+
+Lekin uski greatness power ya war ki wajah se nahi…
+
+👉 compassion ❤️
+👉 sacrifice 🌸
+👉 selfless devotion ✨
+
+ki wajah se famous hui."""
         create_image_text_layout(
             "attached_assets/chapter9/9.21.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🌿 Rantideva’s Nature
+
+Rantideva ka attitude bahut unique tha 😊
+
+Jo bhi wealth uske paas aati 💰
+
+woh instantly donate kar deta tha 🙏
+
+Kyunki woh maanta tha:
+
+👉 “Wealth temporary hai.”
+
+Slowly situation itni extreme ho gayi 😮
+
+ki woh aur uski family khud poor aur hungry ho gaye 😔
+
+😢 Forty-Eight Days Without Food
+
+Ek time aisa aaya 😨
+
+ki:
+
+48 din tak
+
+Rantideva aur uski family ko proper food ya water nahi mila.
+
+Sab:
+
+weak 😵
+thirsty 💧
+trembling 😔
+
+ho gaye the.
+
+Finally 49th day 🌅
+
+unhe thoda food mila ❤️
+
+ghee
+sweet rice
+milk preparation
+aur thoda water 💧
+
+Family finally relief feel karne lagi 😊
+
+Sab khana khane hi wale the…
+
+🧘 A Brahmana Arrives
+
+Tabhi 😮
+
+ek hungry:
+
+🧘 Brahmana guest
+
+aa gaya.
+
+Ancient tradition ke according 🙏
+
+guest ko sacred maana jaata tha.
+
+Aur Rantideva har being me:
+
+✨ Lord Hari
+
+ko dekhte the.
+
+Isliye unhone respectfully
+apna food us Brahmana ko de diya ❤️
+
+😮 Another Guest Appears
+
+Ab jo food bacha tha 🍚
+
+family phir khane baithi.
+
+Lekin tabhi:
+
+🚶 ek Shudra traveller
+
+aa gaya.
+
+Woh bhi hungry tha 😔
+
+Rantideva ne bina hesitation usse bhi food de diya 🌸
+
+🐕 The Man With Dogs
+
+Ab aur bhi little food bacha tha 😮
+
+Tab ek aur stranger aaya:
+
+👉 apne hungry dogs ke saath 🐕🐕🐕
+
+Woh bola 😔
+
+👉 “King… mujhe aur mere dogs ko food do.”
+
+Rantideva ne lovingly 😢
+
+remaining food bhi unhe de diya.
+
+Aur dogs ko bhi respectfully bow kiya ❤️
+
+💧 The Final Test
+
+Ab bas:
+
+😨 ek glass water
+
+bacha tha.
+
+Rantideva khud almost dying tha thirst se 😔
+
+Lekin jaise hi woh water peene laga…
+
+tabhi ek exhausted:
+
+😢 Chandala
+
+(low social status person)
+
+wahan aa gaya.
+
+Woh painful voice me bola:
+
+👉 “Please… mujhe water de do…” 💧
+
+🌌 Rantideva’s Great Declaration
+
+Yeh sunkar Rantideva ka heart compassion se bhar gaya ❤️
+
+Aur usne immortal words bole ✨
+
+👉 “Mujhe supernatural powers nahi chahiye.”
+
+👉 “Mujhe liberation bhi nahi chahiye.”
+
+😮 “I Want To Bear Others’ Suffering”
+
+Woh bola 🌸
+
+👉 “Main bas itna chahta hoon…”
+
+👉 “Ki sab beings ka suffering khatam ho jaaye.”
+
+👉 “Agar mujhe unka pain bear karna pade…”
+
+👉 “Toh bhi main ready hoon.” ❤️
+
+Phir usne kaha 😢
+
+👉 “Is thirsty person ko water dene se…”
+
+👉 “Meri own hunger-thirst bhi meaningful lagne lagi.”
+
+Aur usne apna last water bhi de diya 💧🙏
+
+Khud almost death ke point par hote hue bhi.
+
+✨ The Divine Revelation
+
+Suddenly 😮🌌
+
+woh sab guests transform ho gaye.
+
+Actually woh ordinary people nahi the 😳
+
+👉 gods the
+👉 divine beings the
+
+Jo:
+
+🌟 Lord Vishnu
+
+ke instructions par Rantideva ko test kar rahe the.
+
+🙏 Gods Reveal Themselves
+
+Brahma aur dusre devas
+apne true divine forms me saamne aaye ✨
+
+Lekin shocking part 😮
+
+👉 Rantideva ne unse koi boon nahi manga.
+
+Na heaven ☁️
+Na power 👑
+Na moksha 🌌
+
+Uska mind already fully:
+
+❤️ Lord Vasudeva
+
+me absorbed tha.
+
+🌸 Freedom From Illusion
+
+Rishi Shuka ne explain kiya ✨
+
+ki Rantideva ka selfless devotion itna pure tha 😮
+
+ki:
+
+🌌 Maya (illusion)
+
+automatically disappear ho gayi.
+
+Bilkul dream ki tarah.
+
+Aur jo yogis uske saath rehte the 😊
+
+woh bhi inspired hokar:
+
+🙏 Narayana devotion
+
+me deeply immersed ho gaye.
+
+🏰 The Line of Hastinapura Begins
+
+Story ke baad Shuka lineage continue karta hai ✨
+
+Bharata line me later born hua:
+
+👑 Hasti
+
+jisne:
+
+🏰 Hastinapura
+
+city build ki.
+
+Wahi city later:
+
+Kauravas
+Pandavas
+
+ki capital bani ⚔️
+
+Uske descendants me hue:
+
+Ajamidha
+Dvimidha
+Purumidha
+
+aur later many famous lineages 🌸
+
+🌟 Birth of Kripa and Kripi
+
+Story me later ek strange birth bhi aati hai 😮
+
+Warrior sage:
+
+🏹 Sharadvan
+
+ne apsara Urvashi ko dekha ✨
+
+Aur accidentally uska seed reeds par gir gaya.
+
+Usse twins born hue 😳
+
+👦 Kripa
+👧 Kripi
+
+King Shantanu ne hunting ke time unhe discover kiya ❤️
+
+Aur compassion se adopt kar liya.
+
+Later:
+
+👧 Kripi
+
+became wife of:
+
+⚔️ Drona
+
+Aur:
+
+👦 Kripa
+
+Mahabharata ka famous warrior aur teacher bana ✨
+
+🌌 Deeper Meaning
+
+Rantideva ki story selfless compassion ka highest example hai ❤️
+
+Usne dikhaya:
+
+👉 Real spirituality sirf meditation nahi hoti.
+
+👉 Dusron ka suffering feel karna bhi divine path hai 🌸
+
+Uska ideal almost Bodhisattva jaisa tha ✨
+
+👉 “Main khud suffer kar lunga…”
+
+👉 “Lekin doosron ka pain kam ho jaaye.” ❤️
+
+🌟 Moral
+True greatness sacrifice me hoti hai
+Compassion sabse powerful spiritual quality hai
+Aur selfless service ego aur illusion ko dissolve kar sakti hai ✨"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 22
     with st.expander("Chapter 22 - The Royal Dynasties of Pāñcāla, Magadha and Kuru"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shuka ne ab bataya 🌌
+
+🌟 Great Royal Dynasties
+
+ki kaise famous kingdoms aur Mahabharata ke legendary heroes ek dusre se connected the.
+
+👑 Panchala Dynasty
+
+Story start hoti hai:
+
+👑 King Divodasa
+
+se.
+
+Unke descendants me later born hue:"""
         create_image_text_layout(
             "attached_assets/chapter9/9.22.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Mitreyu
+Cyavana
+Sudasa
+Sahadeva
+Somaka
+👶 Somaka’s Hundred Sons
+
+King Somaka ke 😮
+
+100 sons
+
+the.
+
+Unme:
+
+eldest → Jantu
+youngest → Prishata
+
+Prishata ka son bana:
+
+👑 Drupada
+
+Aur Drupada ke children hue 🌸⚔️
+
+🌸 Draupadi
+⚔️ Dhrishtadyumna
+
+aur dusre famous warriors.
+
+⚔️ Dhrishtadyumna’s Son
+
+Dhrishtadyumna ki line me later born hua:
+
+⚔️ Dhrishtaketu
+
+Isi lineage ko:
+
+🌟 Panchala Dynasty
+
+bola gaya.
+
+🌞 Birth of King Kuru
+
+Ab Shuka ne explain kiya 😮
+
+ki:
+
+👑 Samvarana
+
+ne marriage ki:
+
+☀️ Tapati
+
+(Sun-god ki daughter)
+
+se ❤️
+
+Unke son hue:
+
+🌟 King Kuru
+
+Wahi legendary king
+jiske naam par:
+
+⚔️ Kurukshetra
+
+famous hua ✨
+
+👑 Kuru’s Sons
+
+Kuru ke sons the:
+
+Parikshit
+Sudhanu
+Jahnu
+Nishadhashva
+
+Aur isi line se later
+Kauravas aur Pandavas born hue 🌌
+
+🏰 Magadha Dynasty and Jarasandha
+
+Kuru line ke parallel 😮
+
+another powerful kingdom rise hua:
+
+👑 Magadha
+
+Us dynasty me later born hua:
+
+😨 Jarasandha
+
+Uski birth bahut strange thi 😳
+
+King Brihadratha ko:
+
+👉 aadha-aadha child mila 😨
+
+Dono halves alive nahi the.
+
+Queen ne un parts ko throw kar diya 😔
+
+Lekin ek demoness:
+
+👹 Jara
+
+ne playfully unhe join kar diya ✨
+
+Aur suddenly child alive ho gaya 😮
+
+Isliye naam pada:
+
+😨 Jarasandha
+
+(“joined by Jara”)
+
+Later woh Mahabharata ka terrifying king bana ⚔️
+
+👑 Birth of Shantanu
+
+Ab lineage aati hai:
+
+👑 Pratipa
+
+par.
+
+Uske 3 sons hue:
+
+Devapi
+Shantanu
+Bahlika
+🌲 Devapi Leaves the Throne
+
+Eldest brother Devapi kingdom chhodkar forest chala gaya 🌲🧘
+
+Spiritual life choose karke.
+
+Isliye younger brother:
+
+👑 Shantanu
+
+king bana.
+
+✨ Shantanu’s Divine Power
+
+Shantanu ke paas magical blessing thi 😮
+
+👉 Jise woh touch karta…
+
+woh old person bhi young aur healthy feel karne lagta ✨
+
+Isi miracle ki wajah se
+uska naam famous hua:
+
+🌟 Shantanu
+🌧️ The Twelve-Year Drought
+
+Ek time kingdom me 😨
+
+12 saal tak rain nahi hui
+
+Brahmanas ne explain kiya 😮
+
+👉 “Elder brother living hone ke bawajood…”
+
+👉 “Younger brother ka throne par baithna imbalance create kar raha hai.”
+
+Shantanu ne Devapi ko wapas bulane ki try ki ❤️
+
+Lekin ministers ne secretly Devapi ko Vedas ke against ideas sikha diye 😔
+
+Jab Devapi ne anti-Vedic baatein bolni shuru ki 😨
+
+tab Indra ne finally rain bhej di 🌧️
+
+Kyunki ab Devapi officially throne ke unfit maana gaya.
+
+⚔️ Bhishma Is Born
+
+Ab story ka legendary moment aata hai ✨
+
+Shantanu ne:
+
+🌊 Goddess Ganga
+
+se marriage ki ❤️
+
+Unke son hue:
+
+⚔️ Bhishma
+
+Bhishma extraordinary tha 😮
+
+dharma expert 📜
+unmatched warrior ⚔️
+great devotee 🙏
+
+Even:
+
+⚡ Parashurama
+
+bhi uski fighting skill se impressed the 😳
+
+🌸 Satyavati and Vyasa
+
+Later Shantanu ne marriage ki:
+
+🌸 Satyavati
+
+se.
+
+Uske sons hue:
+
+Chitrangada
+Vichitravirya
+
+Lekin usse pehle 😮
+
+Satyavati ka ek son already tha:
+
+🌌 Vedavyasa
+
+Woh sage:
+
+✨ Parashara
+
+aur Satyavati ka son tha.
+
+Shuka proudly bolta hai 😊
+
+👉 “Maine Bhagavatam directly Vyasa se seekha.”
+
+😔 Death of Vichitravirya
+
+Vichitravirya ne marriage ki:
+
+Ambika
+Ambalika
+
+se ❤️
+
+Lekin young age me hi
+woh disease se mar gaya 😢
+
+Aur uske koi children nahi hue.
+
+🌌 Birth of Dhritarashtra, Pandu and Vidura
+
+Tab Satyavati ne request ki 🙏
+
+ki Vyasa dynasty continue kare.
+
+Vyasa se born hue:
+
+👑 Dhritarashtra
+⚔️ Pandu
+🌸 Vidura
+⚔️ Kauravas and Pandavas
+
+Dhritarashtra + Gandhari ke 😮
+
+100 sons
+
+hue.
+
+Sabse bada:
+
+😈 Duryodhana
+
+Pandu curse ki wajah se children produce nahi kar sakta tha 😔
+
+Isliye divine blessings se born hue:
+
+🌟 Yudhishthira
+💪 Bhima
+🏹 Arjuna
+
+through Kunti.
+
+Aur:
+
+✨ Nakula
+✨ Sahadeva
+
+through Madri.
+
+🌸 Draupadi’s Sons
+
+Draupadi ke bhi 5 sons hue ❤️
+
+Prativindhya
+Sutasena
+Shrutakirti
+Satanika
+Shrutakarma
+🐉 Other Famous Sons
+
+Bhima + Hidimba → 🌲 Ghatotkacha
+
+Arjuna + Ulupi → 🌊 Iravan
+
+Arjuna + Chitrangada → 👑 Babhruvahana
+
+🌟 Birth of Abhimanyu
+
+Arjuna + Subhadra ke son hue:
+
+⚔️ Abhimanyu
+
+Wahi heroic warrior
+jo Kurukshetra war me legendary bana ✨
+
+Aur Abhimanyu + Uttara ke son hue:
+
+👑 Parikshit
+⚡ Krishna Saves the Baby
+
+War ke end me 😨
+
+Ashwatthama
+
+ne Brahmastra launch kiya.
+
+Target tha:
+
+👉 unborn baby Parikshit.
+
+Lekin:
+
+🌟 Shri Krishna
+
+ne divine power se baby ko save kar liya ❤️✨
+
+👑 Future Kings
+
+Shuka ne future lineage bhi batayi 😮
+
+Parikshit ke sons:
+
+Janamejaya
+Shrutasena
+Bhimasena
+Ugrasena
+🐍 Snake Sacrifice
+
+Janamejaya later 😡
+
+snake king Takshaka se revenge lene ke liye:
+
+🔥 Sarpa Yajna
+
+perform karega.
+
+Jahan snakes ko sacrificial fire me pull kiya jaayega 😨🐍
+
+🌊 Destruction of Hastinapura
+
+Future me 😮
+
+🌊 Ganga flood
+
+Hastinapura ko wash away kar degi.
+
+Aur kings later:
+
+🏰 Kaushambi
+
+shift ho jayenge.
+
+🌌 End of the Lunar Dynasty
+
+Finally Shuka conclude karta hai ✨
+
+ki Kali Yuga ke end me:
+
+🌙 Lunar Dynasty
+
+gradually extinct ho jayegi.
+
+🌟 Deeper Meaning
+
+Yeh chapter basically:
+
+Mahabharata family tree 🌳
+destiny ⚖️
+rise and fall of kingdoms 👑
+divine intervention ✨
+
+sabko connect karta hai.
+
+It also shows 😮
+
+👉 Great dynasties bhi temporary hoti hain
+👉 Even mighty kingdoms disappear ho jaate hain
+👉 Lekin dharma aur stories immortal rehte hain 🌸
+
+🌌 Moral
+Power aur kingdoms temporary hain
+Destiny continuously generations ko shape karti hai
+Aur righteousness hi kisi lineage ko true greatness deta hai ✨"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 23
     with st.expander("Chapter 23 - The History of the Dynasties of Anu, Druhyu, Turvasu and Yadu"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shuka ne ab 🌙 Lunar Dynasty ki aur branches explain karni start ki ✨
+
+Yeh different kingdoms aur famous warriors ki origins ki story thi.
+
+🌟 Descendants of Anu
+
+King Yayati ke son:
+
+👑 Anu
+
+ki line me kai powerful kings born hue."""
         create_image_text_layout(
             "attached_assets/chapter9/9.23.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Sabse pehle aaye:
+
+Sabhanara
+Kalanara
+Srinjaya
+Janamejaya
+Mahashila
+Mahamanas
+👑 Ushinara and Titikshu
+
+Mahamanas ke 2 famous sons hue:
+
+Ushinara
+Titikshu
+⚔️ King Shibi
+
+Ushinara ke son hue:
+
+🌟 King Shibi
+
+Wahi legendary king 😮
+
+jo later apni flesh tak sacrifice karne ke liye famous hua ❤️
+
+Uske sons the:
+
+Vrishadarbha
+Suvira
+Madra
+Kaikeya
+🌍 Eastern Kingdoms Are Born
+
+Ab Titikshu ki line me later born hua:
+
+👑 Bali
+
+Bali childless tha 😔
+
+Toh sage:
+
+🧘 Dirghatamas
+
+ne uski queen se children produce kiye.
+
+Unse born hue 😮
+
+Anga
+Vanga
+Kalinga
+Suhma
+Pundra
+Andhra
+
+Aur inke names par hi later famous regions bane 🌍✨
+
+👉 Anga
+👉 Bengal (Vanga)
+👉 Kalinga
+👉 Andhra etc.
+
+🌧️ Romapada and Rishyashringa
+
+Iss line me later born hua:
+
+👑 Romapada
+
+Woh Ayodhya king:
+
+👑 Dasharatha
+
+ka close friend tha ❤️
+
+Ek time kingdom me rain band ho gayi 😨🌧️
+
+Sab drought se suffer karne lage.
+
+🧘 The Deer-Horned Sage
+
+Tab sages ne suggest kiya 😮
+
+👉 “Rishyashringa ko lao.”
+
+Woh innocent forest sage tha 🌲
+
+jo women se almost unfamiliar tha 😳
+
+Beautiful courtesans ne:
+
+music 🎶
+dance 💃
+flirting 😅
+
+use attract kiya
+aur kingdom me le aaye.
+
+Jaise hi woh aaya ✨
+
+👉 rain wapas aa gayi 🌧️❤️
+
+Usne sacrifices perform kiye 🔥
+
+Aur:
+
+Romapada ko child diya
+Dasharatha ko bhi sons milne ka blessing diya ✨
+⚔️ Birth of Karna
+
+Ab lineage me later born hua:
+
+👑 Adhiratha
+
+Ek din woh Ganga river ke paas tha 🌊
+
+Tab usse ek floating basket mili 😮
+
+Andar ek divine baby tha ✨👶
+
+Actually woh child tha:
+
+⚔️ Karna
+😢 Karna’s Secret Birth
+
+Kunti ne marriage se pehle
+Sun-god ki blessing se Karna ko birth diya tha ☀️
+
+Lekin society ke fear se 😔
+
+usne baby ko river me flow kar diya.
+
+Childless Adhiratha ne lovingly usse adopt kar liya ❤️
+
+Aur raise kiya as his own son.
+
+Later Karna ka son hua:
+
+⚔️ Vrishasena
+🌍 Descendants of Druhyu
+
+Yayati ke another son:
+
+👑 Druhyu
+
+ki line bhi continue hui.
+
+Uske descendants north regions me settle hue 🌌
+
+Aur many:
+
+🌍 Mleccha kingdoms
+
+establish kiye.
+
+👑 Descendants of Turvasu
+
+Turvasu ki line me later born hua:
+
+👑 Maruta
+
+Woh childless tha 😔
+
+Isliye usne adopt kiya:
+
+👑 Dushyanta
+
+ko.
+
+Lekin Dushyanta later
+wapas apni Puru dynasty me return kar gaya ✨
+
+🌟 Beginning of the Yadu Dynasty
+
+Ab Shuka excited tone me bolta hai 😊
+
+👉 “Ab main Yadu dynasty ki story bataunga.”
+
+Aur special reason bhi diya 😮
+
+👉 “Isi dynasty me Bhagwan Vishnu human form me descend honge.” ✨
+
+Yani:
+
+🌟 Shri Krishna’s Lineage
+⚔️ Haihaya Branch
+
+Yadu ke son:
+
+👑 Sahasrajit
+
+ki line me born hua:
+
+⚔️ Kartavirya Arjuna
+
+Woh insanely powerful king tha 😨
+
+Aur:
+
+🙏 Dattatreya
+
+ki grace se yogic powers gain ki thi.
+
+😮 Thousand-Armed King
+
+Kartavirya Arjuna ke baare me legends the 😳
+
+👉 uske 1000 arms the
+👉 seven continents rule karta tha 🌍
+👉 unmatched warrior tha ⚔️
+
+Usne:
+
+sacrifices
+donations
+tapasya
+victories
+
+sabme extraordinary greatness achieve ki.
+
+⚔️ Battle With Parashurama
+
+Lekin later 😨
+
+⚡ Parashurama
+
+ne uski dynasty destroy kar di.
+
+Uske 1000 sons me se
+sirf 5 survive kar paaye 😔
+
+Unme se ek line se later:
+
+🌟 Vrishni clan
+
+start hua.
+
+Aur isi se:
+
+🌟 Yadavas
+
+famous bane ✨
+
+🌸 The Strange Story of Jyamagha
+
+Ab aati hai ek funny-dramatic story 😅
+
+Yadu line me ek king hua:
+
+👑 Jyamagha
+
+Uski wife thi:
+
+🌸 Shaibya
+
+Problem yeh thi 😮
+
+👉 unke koi children nahi the
+👉 aur king wife se bahut darta tha 😅
+
+Isliye woh second marriage karne ki himmat nahi karta tha 😨
+
+😳 The Captured Princess
+
+Ek battle ke baad ⚔️
+
+Jyamagha ek beautiful princess ko chariot me le aaya.
+
+Shaibya ne dekha 😠
+
+Aur instantly furious ho gayi:
+
+👉 “Yeh kaun hai?!”
+
+👉 “Meri jagah chariot me kaise baithi hai?”
+
+King panic me aa gaya 😨💦
+
+Aur trembling voice me bola:
+
+👉 “W-Woh… tumhari daughter-in-law hai…” 😳
+
+😅 Shaibya’s Savage Reply
+
+Shaibya sarcastically boli 😏
+
+👉 “Main barren hoon.”
+
+👉 “Mera son hi nahi…”
+
+👉 “Toh daughter-in-law kahan se aa gayi?” 😅
+
+King ne quickly answer diya 😨
+
+👉 “Future me jo son tumse born hoga…”
+
+👉 “Yeh uski wife banegi.”
+
+🌌 Divine Blessing
+
+Actually secretly 😮
+
+Jyamagha gods aur ancestors ko pray kar raha tha 🙏
+
+Aur unhone bless kiya ✨
+
+👉 “So be it.”
+
+Kuch time baad miracle hua 😳
+
+👉 menopause ke baad bhi
+Shaibya pregnant ho gayi ❤️
+
+Aur unka son born hua:
+
+👑 Vidarbha
+
+Later usne wahi princess marry ki 🌸
+
+Aur:
+
+🌍 Vidarbha kingdom
+
+establish hua.
+
+🌌 Deeper Meaning
+
+Yeh chapter dikhata hai 😮
+
+ki dynasties sirf politics nahi hoti.
+
+Unme:
+
+destiny ✨
+divine intervention 🌌
+humor 😅
+suffering 😔
+love ❤️
+fear 😨
+
+sab mix hote hain.
+
+Especially Jyamagha story 😅
+
+human relationships ki awkwardness aur emotional reality ko beautifully show karti hai.
+
+🌟 Moral
+Destiny unexpected ways me unfold hoti hai
+Fear aur attachment kings ko bhi vulnerable bana dete hain
+Aur divine grace impossible situations ko bhi transform kar sakti hai ✨"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 24
     with st.expander("Chapter 24 - The History of the Race of Yadu"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shuka ne ab 🌟 Yadu Dynasty ki detailed story continue ki.
+
+Yahi woh legendary lineage thi 😮
+
+jisme later:
+
+🌟 Shri Krishna
+
+birth lene wale the."""
         create_image_text_layout(
             "attached_assets/chapter9/9.24.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        👑 Vidarbha’s Descendants
+King Vidarbha ke sons hue:
+
+
+Kusha
+
+
+Kratha
+
+
+Romapada
+
+
+
+🌸 Chedi Kingdom Begins
+Romapada ki line se later born hue:
+👑 Chedi kings
+
+Isi dynasty me later famous hua:
+😈 Shishupala
+
+Jo Krishna ka enemy bana ⚔️
+
+🌟 The Satvata Clan
+Kratha ki lineage me later born hua:
+🌟 Satvata
+
+Aur Satvata ke 7 sons hue 😮
+jinse different Yadava branches start hui:
+
+
+Bhajamana
+
+
+Bhaji
+
+
+Divya
+
+
+Vrishni
+
+
+Devavriddha
+
+
+Andhaka
+
+
+Mahabhoja
+
+
+
+Isi se later:
+
+
+Vrishnis
+
+
+Bhojas
+
+
+Andhakas
+
+
+Yadavas
+
+
+sab famous clans bane ✨
+
+🌸 Devavriddha and Babhru
+Shuka specially praise karta hai 😊
+🌟 Devavriddha
+aur uske son:
+🌟 Babhru
+ko.
+
+Itna spiritually powerful influence tha 😮
+ki:
+14,065 people
+unke guidance se liberation achieve kar gaye ✨🙏
+
+⚔️ The Vrishni Clan
+Vrishni ke descendants me later aaye:
+
+
+Sini
+
+
+Anamitra
+
+
+Nighna
+
+
+
+Nighna ke sons hue:
+
+
+Satrajit
+
+
+Prasena
+
+
+
+💎 Syamantaka Jewel Story Begins
+Yahi later:
+💎 Syamantaka jewel
+wali famous Krishna story ka starting point bana 😮
+
+⚔️ Satyaki’s Line
+Another branch me born hua:
+⚔️ Satyaki (Yuyudhana)
+
+Wahi Mahabharata ka heroic warrior ✨
+jo Krishna aur Pandavas ka loyal ally tha ❤️
+
+🌟 Akrura Is Born
+Vrishni line me later born hua:
+🌟 Akrura
+
+Woh Krishna ka great devotee aur wise diplomat tha 🌸
+
+Later wahi Mathura se:
+🌟 Krishna aur Balarama
+ko Vrindavan se le jaayega.
+
+😈 The Line of Kamsa
+Andhaka branch me later born hue:
+👑 Ahuka
+ke sons:
+
+
+Devaka
+
+
+Ugrasena
+
+
+
+😨 Ugrasena’s Son
+tha:
+😈 Kamsa
+
+Kamsa ke brothers bhi the:
+
+
+Sunama
+
+
+Nyagrodha
+
+
+Kanka etc.
+
+
+
+🌸 Devaki and Her Sisters
+Devaka ki 7 daughters thi ✨
+Sabse important:
+🌸 Devaki
+
+Later:
+🌟 Vasudeva
+ne Devaki aur uski sisters se marriage ki ❤️
+
+👑 Birth of Vasudeva
+Ab Shuka lineage ko Krishna ke father tak laata hai 🌌
+
+Lineage me later born hue:
+
+
+Shura
+
+
+Devamidhha
+
+
+Aur phir:
+🌟 Vasudeva
+
+Uske birth par heavenly drums baje 😮🥁
+Isliye uska title pada:
+🌟 Anakadundubhi
+
+🌸 Kunti’s Secret
+Shura ki daughter thi:
+🌸 Pritha (Kunti)
+
+Use childless king Kuntibhoja ko adopt kar diya gaya ❤️
+
+🧘 Durvasa’s Blessing
+Sage Durvasa usse pleased hue 😊
+Aur ek divine mantra diya ✨
+👉 jis se gods ko invoke kiya ja sakta tha.
+
+☀️ Birth of Karna
+Curiosity me 😮
+Kunti ne Sun-god ko invoke kar diya.
+Aur instantly:
+☀️ Surya
+uske saamne appear ho gaye 😳
+
+Kunti scared ho gayi 😨
+👉 “Main sirf mantra test kar rahi thi!”
+
+Lekin Surya ne kaha ✨
+👉 “Gods ka appearance fruitless nahi hota.”
+
+Aur Kunti ko ek divine son mila:
+⚔️ Karna
+
+Woh newborn baby:
+
+
+golden armor ✨
+
+
+earrings 💎
+
+
+ke saath born hua.
+
+Fear aur social shame ki wajah se 😔
+Kunti ne usse river me flow kar diya 🌊
+
+😈 Shishupala and Dantavakra
+Shura ki other daughters bhi important dynasties me married hui.
+
+Ek daughter se born hua:
+😈 Dantavakra
+
+Dusri se born hua:
+😈 Shishupala
+
+Dono actually:
+🌌 Vishnu’s gatekeepers
+(Jaya-Vijaya)
+ke cursed incarnations the 😮
+
+🌟 Vasudeva’s Many Wives
+Vasudeva ki many wives thi 😊
+Sabse important:
+
+
+🌸 Rohini
+
+
+🌸 Devaki
+
+
+
+🌟 Rohini’s Sons
+Rohini se born hue:
+💪 Balarama
+aur many brothers.
+
+🌟 Devaki’s Sons
+Devaki se 8 sons born hue.
+
+Pehle 6 ko 😢
+😈 Kamsa
+ne kill kar diya.
+
+7th child:
+💪 Sankarshana (Balarama)
+miraculously Rohini ke womb me transfer hua ✨
+
+Aur:
+🌟 8th child
+tha:
+🌟 Shri Krishna Himself
+
+🌸 Birth of Subhadra
+Shuka batata hai 😊
+ki Devaki line me later born hui:
+🌸 Subhadra
+
+Jo later:
+🏹 Arjuna
+ki wife bani ❤️
+Aur:
+⚔️ Abhimanyu
+ki mother bani.
+
+🌌 Why Krishna Incarnates
+Shuka ab deep philosophy explain karta hai ✨
+
+👉 Jab dharma decline hota hai
+👉 Aur evil increase hota hai
+Tab:
+🌟 Lord Hari
+earth par descend karte hain ❤️
+
+Unka purpose hota hai:
+
+
+devotees ko protect karna 🙏
+
+
+evil kings destroy karna ⚔️
+
+
+dharma restore karna ✨
+
+
+
+⚔️ Krishna Lightens Earth’s Burden
+Earth evil kings aur giant armies se overloaded ho gayi thi 😨
+Toh Krishna ne:
+⚔️ Mahabharata War
+ke through Earth ka burden reduce kiya.
+
+Lekin interestingly 😮
+👉 credit Arjuna ko diya gaya.
+
+🌟 Krishna’s Divine Beauty
+Shuka emotional tone me Krishna ko describe karta hai ❤️
+
+People Krishna ko dekhkar mesmerized ho jaate the 😮
+
+
+smiling face 😊
+
+
+lotus eyes 🌸
+
+
+shining earrings ✨
+
+
+sweet speech 🎶
+
+
+
+Aur log blink karne wale god:
+😠 Nimi
+par bhi angry ho jaate the 😂
+Kyunki blinking ki wajah se
+Krishna ka face ek second ke liye hide ho jaata tha 😅❤️
+
+🌸 Krishna’s Earthly Pastimes
+Krishna ne:
+
+
+Vrindavan me childhood spend kiya 🌿
+
+
+demons destroy kiye ⚔️
+
+
+many queens se marriage ki 👑
+
+
+sons produce kiye ✨
+
+
+sacrifices perform kiye 🔥
+
+
+Vedic dharma restore kiya 🌌
+
+
+
+🌟 Final Departure
+Earth mission complete hone ke baad 😔
+Krishna ne:
+🌌 Uddhava
+ko highest spiritual wisdom diya ✨
+Aur phir:
+🌟 apne divine abode
+wapas chale gaye ❤️
+
+🌌 Deeper Meaning
+Yeh chapter sirf genealogy nahi tha 😮
+Yeh Krishna ke divine appearance ki preparation thi ✨
+
+Sab lineages, dynasties aur births ultimately:
+🌟 Krishna Leela
+ki taraf lead kar rahe the.
+
+🌟 Moral
+
+
+Divine incarnations tab aate hain jab dharma weak ho jaata hai
+
+
+Great dynasties bhi Bhagwan ki cosmic plan ka part hoti hain
+
+
+Aur devotion Krishna ki beauty aur actions ko sunne se naturally awaken hoti hai ❤️
+
+"""
         create_image_text_layout(text_content=text2, layout="full")
