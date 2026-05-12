@@ -1909,66 +1909,286 @@ Aur parental love kabhi disappear nahi hota ❤️"""
 
     # Chapter 6
     with st.expander("Chapter 6 - Pūtanā emancipated"):
-        text1 = """ """
+        text1 = """ 
+        👶 Krishna aur Pūtanā ki Kahani
+
+Ek din Nanda Baba Mathura se wapas aa rahe the. Unhe Vasudeva ki baatein yaad aa rahi thi. Unka mann ajeeb fear se bhar gaya tha, isliye woh Bhagwan Hari ko yaad karne lage.
+
+Usi time Kans ne ek dangerous rakshasi Pūtanā ko bheja tha. Woh alag-alag gaon aur shahron mein jaakar chhote babies ko maar rahi thi."""
         create_image_text_layout(
             "attached_assets/chapter10/10.6.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Ek din Pūtanā sky se udkar Gokul pahunch gayi. Apni magic power se usne ek bahut beautiful woman ka roop le liya. Uske face par sweet smile thi aur sab log use dekhkar sochne lage ki shayad Lakshmi Mata khud aayi hain. Isliye kisi ne usse roka nahi.
+
+Pūtanā seedha Nanda Baba ke ghar pahunchi. Wahan chhote Krishna peacefully bed par lete hue the. Krishna sab samajh gaye ki yeh ek evil demoness hai, lekin woh chupchaap aankhen band karke lete rahe.
+
+Yaśodā aur Rohiṇī bhi Pūtanā ki fake beauty dekhkar confuse ho gayin. Pūtanā ne Krishna ko godh mein uthaya aur unhe poisoned milk pilane lagi.
+
+Lekin Krishna ordinary baby nahi the.
+
+Unhone zor se Pūtanā ka breast pakad liya aur sirf milk hi nahi, uski life force bhi kheench li.
+
+Pūtanā pain se zor zor se chillane lagi,
+
+“Bas! Mujhe chhod do!”
+
+Uski scream itni loud thi ki earth aur sky dono hil gaye. Fir woh apne asli giant demon form mein gir padi. Uska huge body itna bada tha ki girte waqt bahut saare trees toot gaye.
+
+Gokul ke log darr gaye. Lekin sabne dekha ki chhote Krishna bilkul fear ke bina Pūtanā ke body par khel rahe the.
+
+Yaśodā aur Gopa women turant Krishna ko uthakar protection rituals karne lagi. Unhone cow dust, cow urine aur Bhagwan ke holy names se Krishna ki safety ke liye prayers ki.
+
+Thodi der baad Nanda Baba aur dusre Gopas wapas aaye. Pūtanā ka giant body dekhkar sab shock ho gaye. Unhe samajh aa gaya ki Vasudeva ki warning sach thi.
+
+Fir villagers ne Pūtanā ke body ko jalaya. Surprisingly, uske body se sweet fragrance aane lagi, kyunki Krishna ke touch se uske saare sins destroy ho gaye the.
+
+Śrī Śuka ne kaha,
+
+“Pūtanā Krishna ko maarne aayi thi, fir bhi Krishna ne usse moksha de diya. Toh jo log sachche love aur devotion se Krishna ko yaad karte hain, unhe kitni badi blessing milegi!”
+
+Nanda Baba ne Krishna ko godh mein uthaya aur unhe tightly hug kar liya. Unka heart happiness aur relief se bhar gaya."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7
     with st.expander("Chapter 7 - Destruction of the Cart and Tṛṇāvarta"):
-        text1 = """ """
+        text1 = """ 
+        🌪️ Krishna aur Tṛṇāvarta ki Kahani
+
+Śrī Śuka ne kaha,
+
+Chhote Krishna dheere dheere bade ho rahe the aur apni cute playful acts se Gokul ke sab logon ko khush karte the.
+
+Ek din Krishna ke turning ceremony ka celebration ho raha tha. Gokul mein music baj raha tha, songs gaaye ja rahe the aur sab log bahut happy the. Yaśodā ne Krishna ko nahlaaya aur lovingly ek cart ke neeche cradle mein sula diya."""
         create_image_text_layout(
             "attached_assets/chapter10/10.7.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Thodi der baad Krishna ko bhookh lagi aur woh rokar apne tiny feet hilane lage. Unke chhote se kick se woh bada cart achanak ulat gaya. Pots toot gaye aur poora cart bikhar gaya.
+
+Sab log shock ho gaye.
+
+Paas khel rahe children bole,
+
+“Krishna ne apne pair se cart giraya hai!”
+
+Lekin bade logon ko yakeen nahi hua. Unhe laga bachche bas funny stories bana rahe hain.
+
+Yaśodā ne Krishna ko uthaya aur protection prayers karwayi. Nanda Baba ne bhi Brahmanas ko bulaakar blessings dilwayi aur charity di.
+
+Kuch din baad Yaśodā Krishna ko godh mein lekar pyaar kar rahi thi. Suddenly Krishna ka weight itna heavy ho gaya jaise mountain ho. Surprise hokar Yaśodā ne unhe neeche bitha diya.
+
+Usi waqt Kans ka servant demon Tṛṇāvarta whirlwind ka form lekar Gokul aaya. Woh huge storm bankar Krishna ko sky mein utha le gaya.
+
+Poora Gokul dust aur darkness se bhar gaya. Kisi ko kuch dikh nahi raha tha. Yaśodā panic mein Krishna ko dhoondhne lagi. Jab woh unhe nahi mili, toh woh dukhi hokar zameen par gir padi aur zor zor se rone lagi.
+
+Tṛṇāvarta Krishna ko lekar bahut upar sky mein gaya. Lekin suddenly Krishna ka weight bahut zyada heavy ho gaya. Demon unhe sambhal hi nahi paaya.
+
+Krishna ne uska gala tightly pakad liya. Tṛṇāvarta saans nahi le paaya aur helpless hokar sky se neeche gir gaya. Girte hi uska body toot gaya aur woh mar gaya.
+
+Sab Gopīs aur Gopas bhaagkar aaye. Unhone dekha Krishna bilkul safe hain aur demon ke body par happily baithe hue hain. Sab log relief aur happiness se bhar gaye.
+
+Sab kehne lage,
+
+“Yeh sach mein miracle hai! Krishna baar baar danger se bach jaate hain.”
+
+Ek din Yaśodā Krishna ko milk pila rahi thi. Krishna cute smile kar rahe the. Fir achanak unhone yawning ki.
+
+Jaise hi Yaśodā ne unke mouth ke andar dekha, woh shock ho gayi.
+
+Unhe Krishna ke mouth mein poora universe dikhai diya — sky, stars, moon, sun, mountains, rivers, oceans aur saari duniya.
+
+Yaśodā fear aur surprise se kaanpne lagi. Woh samajh hi nahi paayi ki yeh sab kya tha."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 8
     with st.expander("Chapter 8 - Kṛṣṇa’s Sports—Display of Viśvarūpa"):
-        text1 = """ """
+        text1 = """ 
+        🌌 Krishna ke Cute Pranks aur Viśvarūpa
+
+Śrī Śuka ne kaha,
+
+Ek din sage Garga secretly Nanda Baba ke ghar aaye. Nanda Baba ne unka bahut respect se welcome kiya aur kaha,
+
+“Please mere dono sons ke naming rituals kar dijiye.”
+
+Garga Muni ne quietly ceremony ki, taki Kans ko koi doubt na ho."""
         create_image_text_layout(
             "attached_assets/chapter10/10.8.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Unhone Rohiṇī ke son ka naam rakha “Rāma” aur “Balarāma,” kyunki woh bahut strong aur sabko happy karne wale the.
+
+Fir unhone Krishna ke baare mein kaha,
+
+“Yeh child har age mein different forms leta hai. Ab yeh dark complexion mein aaya hai, isliye iska naam Krishna hoga. Yeh bahut special hai aur sabko protect karega.”
+
+Yeh sunkar Nanda Baba bahut happy ho gaye.
+
+Thode time baad Krishna aur Balarāma crawling karte hue poore Gokul mein ghoomne lage. Unke tiny anklets ki sweet sound sabko bahut cute lagti thi.
+
+Kabhi dono calves ki tails pakad lete aur unke peeche peeche ghiste chale jaate. Gokul ki ladies yeh dekhkar zor zor se hansne lagti thi.
+
+Lekin Krishna bahut naughty bhi the.
+
+Woh secretly butter aur curd chura lete, monkeys ko khila dete, aur kabhi kabhi pots bhi tod dete. Agar kuch na mile toh dusre babies ko rula kar bhaag jaate.
+
+Gopīs daily Yaśodā ke paas complaints lekar aati thi,
+
+“Tumhara Krishna bahut mischief karta hai!”
+
+Lekin Yaśodā Krishna ka innocent face dekhkar kabhi unhe punish nahi kar paati thi.
+
+Ek din Balarāma aur dusre boys bhaagte hue aaye aur bole,
+
+“Maiya! Krishna ne mitti kha li!”
+
+Yaśodā ne Krishna ka haath pakadkar poocha,
+
+“Tumne earth kyun khaayi?”
+
+Krishna ne cute face banakar kaha,
+
+“Nahi Maiya, maine nahi khaayi. Agar aapko doubt hai toh mera mouth dekh lo.”
+
+Yaśodā ne kaha,
+
+“Achha, mouth kholo.”
+
+Krishna ne jaise hi mouth khola, Yaśodā shock ho gayi.
+
+Unhone Krishna ke mouth ke andar poora universe dekha — sky, stars, sun, moon, rivers, mountains, oceans aur poora Gokul bhi. Unhone khud ko bhi Krishna ke mouth ke andar dekha.
+
+Yaśodā ka heart fear aur surprise se bhar gaya. Woh sochne lagi,
+
+“Kya yeh dream hai? Ya koi divine power?”
+
+Lekin Krishna ki divine magic ne fir Yaśodā ko normal motherly love se bhar diya. Woh sab bhool gayi aur Krishna ko fir se apni godh mein lekar pyaar karne lagi.
+
+Śuka ne bataya ki Nanda aur Yaśodā ne past life mein Bhagwan se yahi blessing maangi thi ki unhe Krishna ke parents banne ka chance mile. Isliye Krishna ne unke ghar janam lekar sabko happiness di."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 9
     with st.expander("Chapter 9 - Grace upon the Gopī (Yaśodā) (Kṛṣṇa tied to the mortar)"):
-        text1 = """ """
+        text1 = """ 
+        🧈 Krishna ki Butter Mischief aur Yaśodā ka Love
+
+Śrī Śuka ne kaha,
+
+Ek din Yaśodā Maiya khud curd churn kar rahi thi. Kaam karte waqt woh Krishna ki cute naughty stories ga rahi thi aur smile kar rahi thi.
+
+Tab chhote Krishna wahan aaye. Unhe milk peena tha, isliye unhone churning rod pakadkar Maiya ka kaam rok diya.
+
+Yaśodā ne pyaar se Krishna ko godh mein bithaya aur milk pilane lagi. Krishna happily unka face dekh rahe the."""
         create_image_text_layout(
             "attached_assets/chapter10/10.9.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+Lekin tabhi stove par rakha milk ubalne laga. Yaśodā jaldi se Krishna ko chhodkar milk bachane chali gayi.
+
+Krishna ko gussa aa gaya.
+
+Unhone lips bite kiye, ek stone uthaya aur curd ka pot tod diya. Fir chupke se andar jaakar butter khane lage aur monkeys ko bhi khilane lage.
+
+Jab Yaśodā wapas aayi, unhone broken pot dekha aur samajh gayi ki yeh Krishna ki mischief hai.
+
+Thodi der baad unhone Krishna ko ek ulte mortar par khade dekha. Krishna monkeys ko butter de rahe the aur idhar-udhar dekh rahe the ki koi pakad na le.
+
+Yaśodā quietly unke peeche gayi.
+
+Jaise hi Krishna ne Maiya ko stick ke saath dekha, woh darr kar bhaagne lage. Yaśodā bhi unke peeche bhaagi.
+
+Finally bahut effort ke baad Yaśodā ne Krishna ko pakad liya.
+
+Krishna ro rahe the, apni eyes rub kar rahe the aur fear se Maiya ko dekh rahe the. Yeh dekhkar Yaśodā ka heart melt ho gaya. Unhone stick phenk di.
+
+Fir Yaśodā ne socha ki Krishna ko punishment ke liye mortar se baandh diya jaaye.
+
+Lekin jab bhi woh rope baandhti, rope har baar bas “do fingers” chhoti reh jaati. Woh aur rope jodti gayi, fir bhi same problem hoti rahi.
+
+Gokul ki ladies yeh funny scene dekhkar hansne lagi. Yaśodā bhi surprise ho gayi.
+
+Finally Krishna ne dekha ki Maiya bahut tired ho gayi hain aur unke forehead par sweat aa gaya hai. Tab Krishna ne pyaar se khud ko tie hone diya.
+
+Śrī Śuka ne kaha,
+
+“Jo Bhagwan poore universe ko control karte hain, woh bhi apne devotees ke love ke saamne surrender ho jaate hain.”
+
+Yaśodā ko jo special love Krishna se mila, woh even great gods ko bhi easily nahi milta.
+
+Usi time Krishna ne paas khade do bade Arjuna trees ko dekha. Woh actually Kubera ke sons the, jo ek curse ki wajah se trees ban gaye the."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 10
     with st.expander("Chapter 10 - Uprooting of Arjuna Trees—Redemption of Nalakūbara and Maṇigrīva"):
-        text1 = """ """
+        text1 = """ 
+        🌳 Krishna aur Do Arjuna Trees ka Miracle
+
+King Parīkṣit ne poocha,
+
+“Nalakūbara aur Maṇigrīva ko tree banne ka curse kyun mila?”
+
+Śrī Śuka ne kaha,
+
+Nalakūbara aur Maṇigrīva Kubera ke sons the. Woh bahut rich aur powerful the. Dheere dheere unhe apne wealth aur luxury ka bahut pride ho gaya."""
         create_image_text_layout(
             "attached_assets/chapter10/10.10.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Ek din woh heavenly river ke paas wine peekar dancing girls ke saath enjoy kar rahe the. Tabhi sage Nārada wahan aaye.
+
+Dancing girls ne respectfully apne clothes pehen liye, lekin dono brothers itne arrogant the ki woh waise hi khade rahe.
+
+Yeh dekhkar Nārada ne calmly kaha,
+
+“Pride aur wealth insaan ko andha bana dete hain. Jo log sirf pleasure mein doobe rehte hain, woh right aur wrong bhool jaate hain.”
+
+Fir Nārada ne unhe curse diya,
+
+“Tum dono trees banoge, taki tumhara arrogance khatam ho. Lekin meri blessing se tumhe apni mistake yaad rahegi. Aur ek din Krishna tumhe free karenge.”
+
+Kuch time baad Gokul mein chhote Krishna abhi bhi mortar se tied the. Krishna slowly crawling karte hue do bade Arjuna trees ke beech chale gaye.
+
+Mortar trees ke beech atak gaya.
+
+Krishna ne zor se pull kiya.
+
+Suddenly dono huge trees ek loud crash ke saath gir pade. Poora Gokul shock ho gaya.
+
+Trees ke andar se do shining divine beings bahar aaye. Woh Nalakūbara aur Maṇigrīva the.
+
+Dono ne Krishna ko fold hands karke pranam kiya aur bole,
+
+“O Krishna, aap Supreme Lord ho. Hamara arrogance destroy karne aur hume save karne ke liye thank you.”
+
+Unhone prayer ki,
+
+“Hamara mind hamesha aapko yaad kare, hamare ears aapki stories sune aur hamare hands hamesha good deeds kare.”
+
+Krishna muskura kar bole,
+
+“Nārada ka curse actually tumhare liye blessing tha. Ab tum dono ke hearts mein true devotion aa gayi hai. Ab tum peacefully apne heavenly home wapas jao.”
+
+Dono brothers ne Krishna ko baar baar pranam kiya aur happiness ke saath heaven ki taraf chale gaye."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
