@@ -2194,66 +2194,326 @@ Dono brothers ne Krishna ko baar baar pranam kiya aur happiness ke saath heaven 
 
     # Chapter 11
     with st.expander("Chapter 11 - Exodus from Gokula—Destruction of demons Vatsa and Baka"):
-        text1 = """ """
+        text1 = """ 
+        🌿 Krishna’s Move to Vṛndāvana and the Defeat of Demons
+Śrī Śuka ne kaha,
+Jab Arjuna trees girne ki loud sound aayi, tab Nanda Baba aur sab cowherds darr kar wahan bhaage. Unhone dekha ki dono huge trees zameen par gire hue hain aur Krishna mortar ko drag kar rahe hain. 
+Chhote boys bole,
+“Krishna ne hi trees giraye!”
+Lekin bade logon ko yakeen nahi hua. Unhe laga itna chhota child yeh kaise kar sakta hai. """
         create_image_text_layout(
             "attached_assets/chapter10/10.11.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Nanda Baba smile karte hue Krishna ko rope se free kar diya. Fir Krishna apni cute child-like activities se sabko happy karne lage. Kabhi dance karte, kabhi songs gaate aur kabhi Gopīs ke kehne par chhoti chhoti cheezein laakar dete.
+
+Ek din ek fruit seller aayi aur awaaz lagayi,
+
+“Fruits le lo!”
+
+Krishna jaldi se apne tiny hands mein grains lekar uske paas gaye. Unke hands se grains gir rahe the, lekin fruit seller ne pyaar se unhe fruits de diye. Miraculously uski basket precious gems se bhar gayi.
+
+Kuch time baad Gokul mein baar baar strange dangers aane lage. Isliye Upananda ne sabko advice di,
+
+“Hume yeh place chhodkar Vṛndāvana move ho jaana chahiye. Wahan forests, grass aur cows ke liye sab kuch perfect hai.”
+
+Sabne uski baat maan li.
+
+Next day poora Gokul carts, cows aur families ke saath Vṛndāvana ki taraf nikal pada. Trumpets aur horns baj rahe the. Gopīs happily Krishna ki stories ga rahi thi.
+
+Yaśodā aur Rohiṇī bhi Krishna aur Balarāma ko godh mein lekar journey enjoy kar rahi thi.
+
+Vṛndāvana pahunchkar Krishna aur Balarāma bahut happy ho gaye. Wahan woh calves charane lage aur friends ke saath games khelte the — flute bajana, fruits se ball games aur birds ki sounds imitate karna.
+
+Ek din ek demon calf ka form lekar calves ke beech aa gaya. Krishna ne usse pehchaan liya.
+
+Woh slowly uske paas gaye, uski tail aur legs pakadkar usse hawa mein ghumaya aur tree par phenk diya. Demon turant mar gaya.
+
+Sab boys excited hokar bole,
+
+“Bravo Krishna!”
+
+Gods ne bhi sky se flowers barsaaye.
+
+Ek aur din Krishna aur unke friends calves ko paani pilane le gaye. Wahan ek huge scary crane jaisa demon tha — Baka.
+
+Suddenly Baka ne Krishna ko nigal liya.
+
+Sab boys fear se freeze ho gaye.
+
+Lekin Krishna demon ke throat mein fire ki tarah burn karne lage. Baka ne turant Krishna ko bahar nikaal diya aur fir attack karne ki koshish ki.
+
+Krishna ne calmly uski beak pakdi aur easily usse do pieces mein tod diya, jaise ek grass blade todte hain.
+
+Heaven ke gods ne phir flowers aur music se Krishna ki victory celebrate ki. Cowherd boys shock aur happiness se Krishna ko hug karne lage.
+
+Jab sab Vraja wapas aaye aur yeh story sunayi, toh Gopas aur Gopīs Krishna ko pyaar aur relief se dekhne lage. Woh bolne lage,
+
+“Jo bhi Krishna ko harm karna chahta hai, wahi khud destroy ho jaata hai.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 12
     with st.expander("Chapter 12 - Slaying of Aghāsura"):
-        text1 = """ """
+        text1 = """ 
+        🐍 Krishna aur Aghāsura ki Kahani
+
+Śrī Śuka ne kaha,
+
+Ek subah Krishna jaldi uth gaye aur apne horn ki sweet sound se sab cowherd boys ko bulaaya. Sab boys happily calves ke saath forest ki taraf nikal pade.
+
+Woh sab raste bhar games khel rahe the — flute bajana, birds ki awaaz imitate karna, monkeys ke saath masti karna aur streams mein koodna.
+
+Sabke beech Krishna sabse zyada charming lag rahe the. Boys unke saath khelkar bahut happy the."""
         create_image_text_layout(
             "attached_assets/chapter10/10.12.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Lekin us din ek dangerous demon unhe dekh raha tha — Aghāsura. Woh Pūtanā aur Baka ka younger brother tha aur Kans ne use Krishna ko maarne bheja tha.
+
+Aghāsura ne socha,
+
+“Krishna ne mere brother aur sister ko maara hai. Aaj main Krishna aur uske friends sabko khatam kar dunga.”
+
+Fir usne ek giant python ka form le liya. Uska body mountain jaisa huge tha aur uska open mouth ek giant cave ki tarah lag raha tha.
+
+Cowherd boys us huge mouth ko dekhkar bole,
+
+“Wow! Yeh toh kisi giant serpent ka mouth lag raha hai!”
+
+Dusra boy bola,
+
+“Agar yeh sach mein serpent hua aur hume kha gaya, toh Krishna ise bhi Bakāsura ki tarah destroy kar denge!”
+
+Sab boys laughing aur clapping karte hue uske mouth ke andar chale gaye.
+
+Krishna samajh gaye ki yeh ek demon hai. Woh apne friends ko bachana chahte the, lekin tab tak boys aur calves andar ja chuke the.
+
+Krishna ne socha,
+
+“Kaise main apne friends ko bhi bachaun aur is demon ko bhi khatam karun?”
+
+Fir Krishna bhi Aghāsura ke mouth ke andar chale gaye.
+
+Gods fear se chillane lage, jabki Kans aur demons khush ho gaye.
+
+Lekin suddenly Krishna ne apna body huge kar diya. Aghāsura ka breathing path block ho gaya. Demon pain se tadapne laga aur finally uski life force uske head se bahar nikal gayi.
+
+Uske baad Krishna ne apni divine glance se sab boys aur calves ko safely revive kar diya aur sabko lekar serpent ke mouth se bahar aa gaye.
+
+Tab ek bright divine light Aghāsura ke body se nikli aur directly Krishna mein merge ho gayi. Sab gods yeh miracle dekhkar shock ho gaye.
+
+Heaven se flowers ki rain hone lagi. Gandharvas songs gaane lage aur celestial beings Krishna ki praise karne lage.
+
+Even Brahmā ji bhi yeh amazing event dekhne aaye aur wonder mein pad gaye.
+
+Śrī Śuka ne kaha,
+
+“Krishna itne merciful hain ki ek dangerous demon Aghāsura ko bhi unhone liberation de di.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 13
     with st.expander("Chapter 13 - Infatuation of God Brahmā"):
-        text1 = """ """
+        text1 = """ 
+        🌟 Brahmā Becomes Confused by Krishna’s Divine Power
+Śrī Śuka ne kaha,
+Aghāsura ko defeat karne ke baad Krishna apne cowherd friends ko river ke sandy bank par le aaye aur bole,
+“Yeh place kitni beautiful hai! Chalo yahin lunch karte hain. Calves nearby grass kha lenge.” 
+Sab boys happily circle mein baith gaye. Koi leaves ko plate bana raha tha, koi fruits use kar raha tha. Sab apna food share karte hue jokes aur laughter mein lunch enjoy karne lage. 
+Beech mein Krishna baithe the — flute unke waist ke paas thi, ek hand mein curd-rice ka morsel tha aur woh funny jokes se sabko hasa rahe the. Gods bhi sky se yeh cute scene dekhkar amazed ho rahe the."""
         create_image_text_layout(
             "attached_assets/chapter10/10.13.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Tabhi calves dheere dheere forest ke andar chale gaye.
+
+Cowherd boys darr gaye, lekin Krishna ne smile karke kaha,
+
+“Tum log tension mat lo. Main calves ko le aata hoon.”
+
+Krishna calves ko dhoondhne gaye, lekin wapas aaye toh boys bhi missing the.
+
+Actually Brahmā ji Krishna ki divine powers dekhkar curious ho gaye the. Unhone secretly calves aur cowherd boys ko hide kar diya tha.
+
+Krishna sab samajh gaye.
+
+Fir unhone ek amazing miracle kiya.
+
+Krishna khud hi har calf aur har cowherd boy ka exact form ban gaye — same clothes, same voice, same habits aur same personality.
+
+Is tarah Krishna hi sab calves aur boys ban kar Vraja wapas gaye.
+
+Mothers apne “children” ko hug karne lagi aur cows bhi apne “calves” ko extra love se milk pilane lagi. Sabka affection pehle se bhi zyada badhne laga, kyunki actually woh sab Krishna hi the.
+
+Poora ek saal aise hi beet gaya.
+
+Ek din Balarāma ko surprise hua ki sab log apne children aur calves ko unusual amount mein love kyun kar rahe hain. Fir apni spiritual vision se unhone dekha ki har boy aur calf actually Krishna hi hain.
+
+Meanwhile Brahmā ji ek moment baad wapas aaye — lekin earth par ek poora year beet chuka tha.
+
+Woh shock ho gaye.
+
+Jin boys aur calves ko unhone hide kiya tha, woh ab bhi hidden the. Lekin Krishna fir bhi unhi boys aur calves ke saath happily khel rahe the.
+
+Brahmā confuse ho gaye ki yeh sab kaise possible hai.
+
+Tab suddenly sab cowherd boys aur calves divine four-armed Viṣṇu forms mein transform ho gaye. Har form ke hands mein conch, discus, mace aur lotus tha.
+
+Poora universe un divine forms ki worship kar raha tha. Brahmā ki senses bhi overwhelm ho gayi. Woh samajh gaye ki Krishna ordinary child nahi, Supreme Lord hain.
+
+Krishna ne fir apni divine illusion hata di.
+
+Brahmā turant apne swan se neeche utar gaye aur Krishna ke feet par gir pade. Tears of joy ke saath unhone Krishna ko pranam kiya aur folded hands se unki praise karne lage."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 14
     with st.expander("Chapter 14 - God Brahmā eulogizes Kṛṣṇa"):
-        text1 = """ """
+        text1 = """ 
+        🙏 Brahmā Praises Little Krishna
+
+Śrī Śuka ne kaha,
+
+Brahmā ji Krishna ki divine power dekhkar completely amazed ho gaye. Folded hands ke saath woh Krishna ki praise karne lage.
+
+Unhone Krishna ko dekha — dark raincloud jaisa beautiful complexion, yellow clothes, peacock feather, forest flowers aur hand mein little food morsel. Krishna ek simple cowherd child ki tarah lag rahe the, lekin actually Supreme Lord the.
+
+Brahmā ji ne humbly kaha,"""
         create_image_text_layout(
             "attached_assets/chapter10/10.14.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        “Main creator hoke bhi aapko fully samajh nahi sakta. Aapki divine power mind aur words se bahar hai.”
+
+Fir unhone kaha,
+
+“Jo log sirf knowledge ke peeche bhaagte hain aur devotion ko ignore karte hain, unki mehnat empty husk peetne jaisi hai. Real path devotion ka hai.”
+
+Brahmā ne accept kiya ki unhone arrogance mein Krishna ko test karne ki mistake ki.
+
+Unhone shame se kaha,
+
+“Main bahut foolish tha. Main aapko apni māyā se confuse karna chahta tha, jabki aap toh sab māyā ke master ho.”
+
+Fir Brahmā ji ne Krishna se forgiveness maangi.
+
+Unhone kaha,
+
+“Jaise ek baby maa ke womb mein kick karta hai aur maa usse offence nahi maanti, waise hi please meri mistakes ko forgive kar dijiye.”
+
+Brahmā Krishna ki Vraja family ko dekhkar bhi emotional ho gaye.
+
+Unhone kaha,
+
+“Gokul ki cows aur mothers kitni blessed hain! Krishna unka milk itne love se peete hain. Even great sacrifices bhi Krishna ko itna satisfy nahi kar paate.”
+
+Fir woh bole,
+
+“Nanda Baba aur Vraja ke cowherds kitne lucky hain ki Supreme Brahman unka friend bankar unke saath khelte hain.”
+
+Brahmā ji ne ek aur beautiful wish maangi,
+
+“Mujhe next life mein kuch bhi bana do — even grass in Vṛndāvana — taki mujhe devotees ke feet ki dust mil sake.”
+
+Unhone kaha,
+
+“Pūtanā ne fake motherly love dikhaya tha, fir bhi Krishna ne usse liberation de di. Toh jo log sach mein Krishna se love karte hain, unki blessing kitni great hogi!”
+
+Finally Brahmā ji ne Krishna ko baar baar pranam kiya aur permission lekar apne loka wapas chale gaye.
+
+Uske baad Krishna fir se apne cowherd friends ke paas aaye.
+
+Boys ko laga Krishna bas ek moment ke liye gaye the. Sab happily saath mein lunch complete karne lage.
+
+Shaam ko Krishna flute aur horns ki sweet sounds ke saath Vraja wapas aaye. Cowherd boys excitement se sabko batane lage,
+
+“Aaj Krishna ne ek giant serpent ko maara aur hume bachaya!”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 15
     with st.expander("Chapter 15 - Slaying the demon Dhenuka"):
-        text1 = """ """
+        text1 = """ 
+        🐴 Krishna aur Balarāma Defeat Dhenukāsura
+
+Śrī Śuka ne kaha,
+
+Jab Krishna aur Balarāma thode bade hue, tab unhe cows charane ki permission mil gayi. Dono brothers apne cowherd friends ke saath Vṛndāvana ke forests mein happily ghoomte the.
+
+Krishna flute bajate, birds ki sounds imitate karte aur kabhi peacocks ki tarah dance karte. Kabhi woh cows ko loudly naam lekar bulate aur sab friends hansne lagte.
+
+Kabhi Krishna tired Balarāma ke feet press karte aur kabhi friends ke saath wrestling aur games khelte. Sab boys Krishna ke saath bahut happy rehte the.
+
+Ek din Śrīdāma aur dusre boys ne Krishna aur Balarāma se kaha,"""
         create_image_text_layout(
             "attached_assets/chapter10/10.15.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        “Nearby ek huge palm forest hai. Wahan bahut sweet fruits hain, lekin ek dangerous demon Dhenuka unhe kisi ko khane nahi deta.”
+
+Boys ne fear se kaha,
+
+“Woh demon donkey ka form lekar rehta hai aur humans ko bhi maar deta hai. Isliye koi wahan nahi jaata.”
+
+Krishna aur Balarāma smile karne lage aur bole,
+
+“Chalo, chalte hain.”
+
+Dono brothers friends ke saath palm forest pahunch gaye.
+
+Wahan Balarāma ne ek huge palm tree ko zor se shake kiya. Sweet fruits dhad-dhad karke neeche girne lage.
+
+Yeh sound sunkar Dhenukāsura gusse mein daudta hua aaya. Woh ek giant donkey jaisa scary demon tha. Earth tak shake hone lagi.
+
+Usne Balarāma ko apni hind legs se kick kiya aur loudly bray karne laga.
+
+Lekin Balarāma bilkul fear nahi hue.
+
+Jaise hi demon fir attack karne aaya, Balarāma ne uski dono hind legs pakad li aur use hawa mein fast ghumaya. Fir unhone usse ek tall palm tree par phenk diya. Demon turant mar gaya.
+
+Uska body trees par itni force se gira ki ek ke baad ek bahut saare palm trees girne lage, jaise storm aa gaya ho.
+
+Dhenuka ke dusre donkey-demons bhi gusse mein attack karne aaye.
+
+Tab Krishna aur Balarāma ne sabko pakad-pakadkar trees par phenk diya aur easily defeat kar diya.
+
+Gods heaven se flowers barsane lage aur Krishna-Balarāma ki praise karne lage.
+
+Ab forest safe ho gaya tha.
+
+Villagers aur animals fear ke bina wahan jaane lage aur sweet palm fruits enjoy karne lage.
+
+Shaam ko Krishna aur Balarāma flute bajate hue Vraja wapas aaye. Gopīs unhe dekhkar bahut happy ho gayin.
+
+Yaśodā aur Rohiṇī ne dono brothers ko lovingly nahlaaya, achhe clothes pehnaaye aur tasty food khilaaya. Fir Krishna aur Balarāma peacefully so gaye.
+
+Kuch din baad Krishna apne friends aur cows ke saath Yamunā river gaye. Bahut garmi thi aur sabko pyaas lagi thi.
+
+Lekin river ka water poison se polluted tha.
+
+Jaise hi cows aur boys ne paani piya, sab zameen par gir pade.
+
+Krishna ne apni divine glance se sab par nazar daali.
+
+Unki nectar jaisi glance se sab instantly wapas alive ho gaye.
+
+Sab boys shock aur relief se ek dusre ko dekhne lage. Unhe samajh aa gaya ki Krishna ne hi unki lives save ki hain."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
