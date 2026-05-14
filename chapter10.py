@@ -2519,66 +2519,306 @@ Sab boys shock aur relief se ek dusre ko dekhne lage. Unhe samajh aa gaya ki Kri
 
     # Chapter 16
     with st.expander("Chapter 16 - Expulsion of Kāliya"):
-        text1 = """ """
+        text1 = """ 
+        🐍 Krishna aur Kāliya Nāga ki Kahani
+
+Śrī Śuka ne kaha,
+
+Yamunā river ka ek part bahut dangerous ho gaya tha. Wahan Kāliya naam ka poisonous serpent rehta tha. Uske poison se water ubal raha tha aur uske upar se udne wale birds bhi mar jaate the.
+
+River ke paas ke plants aur animals bhi poisonous hawa ki wajah se suffer kar rahe the. Yeh dekhkar Krishna ne decide kiya ki ab Kāliya ko rokna hoga."""
         create_image_text_layout(
             "attached_assets/chapter10/10.16.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Krishna ek tall Kadamba tree par chadhe, apni waist cloth tight ki aur heroically poisonous water mein jump kar gaye. Splash itna powerful tha ki huge waves har side fail gayin.
+
+Kāliya ko laga koi uske home par attack kar raha hai.
+
+Woh gusse mein hiss karta hua Krishna ke paas aaya aur unhe apni giant coils mein tightly baandh liya.
+
+Krishna ke friends aur cows yeh dekhkar fear se ro pade. Sabko laga Krishna danger mein hain.
+
+Gokul mein bhi strange bad omens dikhne lage. Nanda Baba, Yaśodā aur sab villagers panic mein Yamunā ki taraf daud pade.
+
+Sabne Krishna ko serpent ke coils mein dekha toh woh almost unconscious ho gaye. Gopīs tears bahaane lagi aur Yaśodā Krishna ke paas bhaagna chahti thi, lekin Balarāma ne sabko calmly rok diya. Unhe pata tha Krishna safe hain.
+
+Thodi der baad Krishna ne apna body suddenly expand kar diya.
+
+Pressure itna zyada tha ki Kāliya ko Krishna ko chhodna pada. Fir serpent ne apne huge hoods uthaaye aur fire jaisa poison nikaalne laga.
+
+Krishna fearlessly uske around move karne lage, jaise Garuḍa apne prey ke saath play karta hai. Fir Krishna ne ek jump mein Kāliya ke giant hood par chadhkar divine dance shuru kar diya.
+
+Har step ke saath Kāliya weak hota gaya. Krishna uske har raised hood par dance karke uska pride tod rahe the.
+
+Heaven ke Gandharvas, Siddhas aur Apsarās sky mein aakar drums aur music ke saath Krishna ki victory celebrate karne lage. Flowers ki rain hone lagi.
+
+Kāliya ka body tootne laga aur woh blood vomit karne laga. Finally uska arrogance completely destroy ho gaya aur usne Krishna ko Supreme Lord maan liya.
+
+Tab Kāliya ki wives apne children ko lekar Krishna ke paas aayi. Woh folded hands ke saath pray karne lagi,
+
+“O Lord, aapka punishment bhi blessing jaisa hai. Please hamare husband ko forgive kar dijiye.”
+
+Unhone kaha,
+
+“Kāliya evil nature mein born hua hai, lekin aapki touch se uska life blessed ho gaya.”
+
+Fir Kāliya ne bhi humbly Krishna se kaha,
+
+“Hum serpents naturally angry aur cruel hote hain. Please jo aapko theek lage wahi punishment ya mercy dijiye.”
+
+Krishna ne calmly kaha,
+
+“Tum ab yahan nahi reh sakte. Yamunā ka water cows aur people ke liye safe hona chahiye. Apni family ke saath samundar chale jao.”
+
+Kāliya fearfully bola,
+
+“Lekin Garuḍa mujhe maar dega.”
+
+Krishna muskuraaye aur bole,
+
+“Ab Garuḍa tumhe harm nahi karega, kyunki tumhare hoods par mere footprints rahenge.”
+
+Yeh sunkar Kāliya aur uski wives bahut grateful ho gaye. Unhone Krishna ko divine clothes, jewels aur lotus garlands offer kiye. Fir respectfully unke around parikrama karke pranam kiya.
+
+Uske baad Kāliya apni family ke saath Ramaṇaka island chala gaya.
+
+Krishna ki grace se Yamunā ka water phir se pure aur sweet ho gaya. Sab Vraja-vāsīs relief aur happiness se bhar gaye."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 17
     with st.expander("Chapter 17 - Rescue from the Forest Conflagration"):
-        text1 = """ """
+        text1 = """ 
+        🔥 Krishna Saves Vraja from the Forest Fire
+
+King Parīkṣit ne poocha,
+
+“Kāliya originally Nāgas ke island Ramaṇaka mein rehta tha. Fir woh Yamunā mein kyun aaya? Uska Garuḍa se kya problem tha?”
+
+Śrī Śuka ne kaha,"""
         create_image_text_layout(
             "attached_assets/chapter10/10.17.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Pehle sab Nāgas Garuḍa ko respect ke saath monthly offerings dete the, taki woh unhe attack na kare. Lekin Kāliya apne poison aur power par bahut proud ho gaya tha.
+
+Ek din usne Garuḍa ke liye rakhe offerings khud hi kha liye. Yeh dekhkar Garuḍa bahut gusse mein aa gaya aur Kāliya par attack kar diya.
+
+Kāliya ne fight karne ki koshish ki, lekin Garuḍa ki power ke saamne woh tik nahi paaya. Fear mein woh Yamunā ke ek special pool mein chhup gaya.
+
+Us pool mein Garuḍa enter nahi kar sakta tha, kyunki sage Śaubhari ne curse diya tha ki agar Garuḍa wahan fish khayega, toh uski death ho jayegi. Sirf Kāliya ko yeh secret pata tha.
+
+Krishna ne jab Kāliya ko defeat karke Yamunā se bahar nikala, tab unka body divine ornaments, jewels aur sandal paste se shine kar raha tha.
+
+Sab cowherds aur Gopīs unhe dekhkar relief aur happiness se bhar gaye. Woh Krishna ko tightly hug karne lage, jaise unhe life wapas mil gayi ho.
+
+Yaśodā Maiya ne Krishna ko godh mein bithakar baar baar hug kiya aur tears of joy bahaane lagi. Nanda Baba ne Brahmanas ko cows aur gold donate kiya.
+
+Balarāma quietly smile kar rahe the, kyunki woh Krishna ki divine power already jaante the.
+
+Us din sab log Yamunā ke paas hi rest karne lage. Sab thake hue the aur dheere dheere raat mein so gaye.
+
+Lekin midnight mein ek terrible forest fire suddenly jungle mein fail gaya. Dry trees aur grass ki wajah se fire bahut fast spread hone laga aur poore Vraja ko surround kar liya.
+
+Heat aur smoke se sab log panic mein uth gaye.
+
+Sab fear mein Krishna aur Balarāma ko pukarne lage,
+
+“O Krishna! O Rāma! Please hume save kijiye! Yeh deadly fire hume destroy kar dega!”
+
+Villagers crying voice mein bole,
+
+“Hum aapke devotees hain. Hum aapke feet kabhi nahi chhod sakte. Please hume protect karo.”
+
+Krishna ne dekha ki sab completely helpless aur terrified hain.
+
+Tab Supreme Lord Krishna ne calmly us huge terrifying fire ko ek hi moment mein swallow kar liya.
+
+Poora forest instantly safe ho gaya.
+
+Sab Vraja-vāsīs Krishna ko wonder aur gratitude ke saath dekhne lage."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 18
     with st.expander("Chapter 18 - Slaying of the Demon Pralamba"):
-        text1 = """ """
+        text1 = """ 
+        🌳 Balarāma Defeats the Demon Pralamba
+
+Śrī Śuka ne kaha,
+
+Kāliya aur forest fire ke incidents ke baad Krishna aur Balarāma happily cows ke saath Vraja wapas aaye. Sab villagers unki glory gaate hue bahut joyful the.
+
+Summer season aa gaya tha, lekin Vṛndāvana itna beautiful tha ki woh spring jaisa lagta tha. Waterfalls ki sound, cool breeze, flowers ki fragrance aur green forests har taraf happiness faila rahe the."""
         create_image_text_layout(
             "attached_assets/chapter10/10.18.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Krishna aur Balarāma apne cowherd friends ke saath forest mein games khelte, flute bajate aur dance karte the. Kabhi wrestling, kabhi jumping aur kabhi hide-and-seek khelte.
+
+Kabhi woh birds aur animals ki funny sounds imitate karte aur sab boys zor zor se hansne lagte.
+
+Ek din ek dangerous demon Pralamba secretly cowherd boy ka disguise lekar unke group mein aa gaya. Uska plan Krishna aur Balarāma ko kidnap karna tha.
+
+Krishna sab jaante the, lekin unhone pretend kiya jaise kuch pata hi nahi. Woh demon ko game mein include kar liya.
+
+Krishna ne sab boys se kaha,
+
+“Chalo teams banaakar game khelte hain!”
+
+Ek side Krishna captain bane aur doosri side Balarāma. Rule yeh tha ki jo lose karega, woh winners ko apni back par carry karega.
+
+Game start hua aur Balarāma ki team jeet gayi.
+
+Rules ke according Krishna ne Śrīdāmā ko carry kiya aur Pralamba ko Balarāma ko apni back par bithana pada.
+
+Pralamba slowly Balarāma ko group se bahut door le gaya. Fir suddenly usne apna giant demon form dikha diya.
+
+Uska body dark cloud jaisa huge tha, eyes fire ki tarah burn kar rahi thi aur golden ornaments shine kar rahe the. Woh sky mein fast speed se bhaagne laga.
+
+Ek moment ke liye Balarāma surprise hue.
+
+Lekin next second unhe apni divine strength yaad aa gayi. Woh bilkul fearless ho gaye.
+
+Balarāma ne apna fist tightly bandhkar Pralamba ke head par ek terrifying punch maara — bilkul Indra ke thunderbolt ki tarah.
+
+Impact itna powerful tha ki demon ka head toot gaya. Woh blood vomit karta hua loudly roar karte hue zameen par gir gaya aur turant mar gaya.
+
+Cowherd boys yeh dekhkar shock aur excitement se chillane lage,
+
+“Bravo Balarāma! Wah!”
+
+Sab friends happiness aur love se Balarāma ko hug karne lage, jaise woh death se wapas aaye hon.
+
+Heaven ke gods ne bhi flowers barsaaye aur Balarāma ki victory celebrate ki."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 19
     with st.expander("Chapter 19 - Swallowing up of a Forest-conflagration"):
-        text1 = """ """
+        text1 = """ 
+        🔥 Krishna Swallows Another Forest Fire
+
+Śrī Śuka ne kaha,
+
+Ek din Krishna, Balarāma aur cowherd boys games mein itne busy ho gaye ki cows bahut door jungle ke andar chali gayin. Fresh green grass dekhkar woh aur bhi deep forest mein pahunch gayin.
+
+Thodi der baad cows thirsty aur tired hokar loudly lowing karne lagi. Woh reeds aur thick grass ke dangerous area mein phans gayin."""
         create_image_text_layout(
             "attached_assets/chapter10/10.19.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Jab boys ko cows nahi mili, toh sab worried ho gaye.
+
+Krishna aur Balarāma ke saath sabne unke footprints aur grass ke marks follow kiye.
+
+Finally unhe cows mil gayin.
+
+Krishna ek tall tree par chadh gaye aur dark raincloud jaisi sweet voice mein har cow ko uske naam se bulaane lage.
+
+Krishna ki voice sunkar cows happiness se loudly respond karne lagi aur unke paas aa gayin.
+
+Lekin usi waqt suddenly forest mein ek huge fire lag gaya.
+
+Strong wind ki wajah se fire har side fast spread hone laga. Flames itni dangerous thi ki lag raha tha poora forest destroy ho jayega.
+
+Cowherd boys aur cows fear se kaanpne lage. Sab Krishna aur Balarāma ke paas bhaagkar aaye aur bole,
+
+“O Krishna! O powerful Balarāma! Please hume save kijiye! Yeh fire hume jala dega!”
+
+Unhone folded hands se kaha,
+
+“Hum aapke apne log hain. Humne aapko hi apna protector maana hai.”
+
+Krishna ne calmly sabko assure kiya,
+
+“Fear mat karo. Sab apni eyes band kar lo.”
+
+Sabne turant Krishna ki baat maani aur eyes close kar li.
+
+Usi moment Krishna ne apni divine yogic power se poori terrifying forest fire ko swallow kar liya.
+
+Jab sabne eyes open ki, toh woh shock ho gaye.
+
+Na fire thi, na danger.
+
+Sab cows aur boys bilkul safe the aur Bhāṇḍīra tree ke paas khade the.
+
+Ab cowherd boys ko aur strongly feel hone laga ki Krishna koi ordinary child nahi hain. Unke andar divine power hai.
+
+Shaam ko Krishna aur Balarāma flute bajate hue cows ke saath Vraja wapas aaye. Cowherd boys unki praise gaate hue chal rahe the.
+
+Gopīs Krishna ko dekhkar supreme happiness se bhar gayin, kyunki unke liye Krishna se ek moment ki separation bhi bahut long lagti thi."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 20
     with st.expander("Chapter 20 - Description of the Rainy Season and the Autumn"):
-        text1 = """ """
+        text1 = """ 
+        🌧️ Rainy Season and Autumn in Vṛndāvana
+
+Śrī Śuka ne kaha,
+
+Cowherd boys ghar jaakar sabko batane lage ki Krishna ne kaise forest fire se sabko bachaya aur Balarāma ne Pralamba demon ko kaise defeat kiya.
+
+Yeh stories sunkar Gopas aur Gopīs bahut amazed ho gaye. Dheere dheere sabko feel hone laga ki Krishna aur Balarāma ordinary children nahi, divine beings hain."""
         create_image_text_layout(
             "attached_assets/chapter10/10.20.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Uske baad rainy season aa gaya.
+
+Sky dark blue clouds se bhar gaya. Thunder ki loud sounds aur lightning se atmosphere magical lagne laga.
+
+Parched earth par jab rain girne lagi, tab poori nature fresh aur green ho gayi. Dry lands phir se alive lagne lagi, jaise koi weak person suddenly strength pa le.
+
+Raat ko fireflies shine karte the aur frogs rain ki sound sunkar loudly croak karne lagte the. Rivers aur streams overflow hokar har taraf behne lagi.
+
+Fields green grass se bhar gaye, mushrooms ug aaye aur red insects earth ko colorful bana rahe the. Farmers khush the kyunki crops bahut achhi ho rahi thi.
+
+Peacocks clouds dekhkar happily dance karne lage. Trees bhi fresh water peeke naye leaves, flowers aur fruits se bhar gaye.
+
+Kabhi kabhi Krishna cows aur friends ke saath forest mein ghoomte. Cows Krishna ki voice sunkar jaldi jaldi unke paas daud aati aur joy mein milk tak leak hone lagta.
+
+Krishna forest ki beauty enjoy karte — honey dripping trees, waterfalls ki sound aur caves ki echoes sabko magical bana deti thi.
+
+Jab heavy rain hoti, Krishna aur Balarāma kisi tree ke neeche ya cave mein shelter lete aur fruits, roots aur simple food enjoy karte.
+
+Kabhi woh stone slab par baithkar curd-rice apne friends ke saath share karte. Nearby cows aur calves green grass par peacefully rest karte rehte.
+
+Is tarah rainy season happiness aur beauty se bhar gaya.
+
+Fir dheere dheere autumn season aa gaya.
+
+Sky bilkul clear aur bright ho gaya. Lakes aur rivers ka water crystal jaisa transparent lagne laga aur lotuses khilne lage.
+
+White clouds clean aur peaceful dikh rahe the, jaise sages sab desires chhodkar calm ho gaye hon. Cool breezes forests ki fragrance lekar chal rahi thi.
+
+Autumn nights mein stars brightly shine karte the aur full moon sky mein bahut beautiful lagta tha.
+
+Villages aur cities mein harvest festivals celebrate hone lage. Fields ripe crops se golden shine kar rahi thi.
+
+Sab creatures nature ki beauty enjoy kar rahe the.
+
+Lekin Gopīs ke hearts mein ek alag feeling thi.
+
+Cool autumn breeze sabko comfort de rahi thi, lekin Krishna se separation ki feeling unke hearts mein aur strong ho rahi thi."""
         create_image_text_layout(text_content=text2, layout="full")
         
         # Chapter 21
