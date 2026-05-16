@@ -3232,66 +3232,426 @@ Finally Krishna Balarāma aur cowherd boys ke saath happily Gokula wapas chale g
 
     # Chapter 26
     with st.expander("Chapter 26 - Conversation between Nanda and Cowherds"):
-        text1 = """ """
+        text1 = """ 
+        🐄 The Cowherds Wonder About Krishna
+
+Śrī Śuka ne kaha,
+
+Govardhana mountain lift karne ke baad Vraja ke cowherds completely amazed ho gaye. Unhe samajh hi nahi aa raha tha ki little Krishna itne impossible miracles kaise kar pa rahe hain.
+
+Sab Nanda Baba ke paas gaye aur bole,"""
         create_image_text_layout(
             "attached_assets/chapter10/10.26.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        “Yeh child ordinary nahi ho sakta. Hum jaise simple cowherds ke ghar aisa divine boy kaise born ho sakta hai?”
+
+Woh wonder se bole,
+
+“Sirf seven years ka child itna huge Govardhana mountain ek hand par kaise hold kar sakta hai?”
+
+Fir cowherds Krishna ke purane miracles yaad karne lage.
+
+“Jab woh tiny baby the, tab unhone Pūtanā demoness ka life suck kar liya tha.”
+
+“Ek month ke baby hoke bhi unhone kick maar kar heavy cart overturn kar diya tha.”
+
+“Unhone Tṛṇāvarta demon ko sky mein hi kill kar diya.”
+
+“Mother Yaśodā ne jab unhe mortar se baandha tha, tab crawling karte hue unhone do huge Arjuna trees gira diye.”
+
+Cowherds aur excited hokar bole,
+
+“Krishna ne Baka demon ka beak phaad diya, Dhenuka aur uske donkey friends ko destroy kar diya aur Kāliya serpent ko bhi defeat kar diya.”
+
+“Unhone forest fire se bhi sabko save kiya!”
+
+Fir sab lovingly Nanda Baba se bole,
+
+“O Nanda, hum sab Krishna se deeply attached hain aur Krishna bhi hum sabko bahut love karte hain.”
+
+“Lekin ab hume lagta hai ki Krishna ki real nature kuch divine hai.”
+
+Tab Nanda Baba smile karke bole,
+
+“Main tum sabko ek secret batata hoon jo sage Garga ne Krishna ke baare mein kaha tha.”
+
+Nanda Baba ne explain kiya,
+
+“Garga Muni ne kaha tha ki different yugas mein Krishna white, red aur yellow forms mein appear hue hain, aur ab woh dark-complexioned form mein aaye hain.”
+
+“Unhone yeh bhi kaha tha ki Krishna pehle Vasudeva ke son ke roop mein born hue the, isliye wise people unhe Vāsudeva bhi kahenge.”
+
+Nanda Baba ne proudly kaha,
+
+“Krishna ke countless names aur forms hain. Woh Gokula ko happiness aur protection dene aaye hain.”
+
+“Jo bhi Krishna se love karega, woh enemies aur dangers se protected rahega.”
+
+Fir Nanda Baba calmly bole,
+
+“Garga Muni ne kaha tha ki Krishna qualities aur power mein Lord Nārāyaṇa jaise hain. Isliye unke miracles par surprise nahi hona chahiye.”
+
+Yeh sab sunkar Vraja-vāsīs ka fear aur confusion disappear ho gaya.
+
+Ab woh Krishna ko aur bhi zyada love aur respect karne lage.
+
+Sabke hearts gratitude se bhar gaye, kyunki Krishna ne Indra ke storm se poore Gokula ko protect kiya tha — bilkul ek playful child ki tarah mushroom uthaakar Govardhana mountain hold karke."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 27
     with st.expander("Chapter 27 - Indra coronates Kṛṣṇa"):
-        text1 = """ """
+        text1 = """ 
+        👑 Indra Apologizes to Krishna
+
+Śrī Śuka ne kaha,
+
+Jab Krishna ne Govardhana mountain lift karke poore Vraja ko save kar liya, tab Indra ka pride completely break ho gaya.
+
+Usse realize hua ki Krishna koi ordinary child nahi, supreme divine Lord hain."""
         create_image_text_layout(
             "attached_assets/chapter10/10.27.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Tab heavenly wish-fulfilling cow Surabhi Goloka se Krishna ke paas aayi. Indra bhi shame aur regret ke saath wahan pahunch gaya.
+
+Indra quietly Krishna ke paas gaya aur apna shining crown Krishna ke feet par rakhkar bow karne laga.
+
+Folded hands ke saath woh deeply emotional voice mein bola,
+
+“O Lord, aap pure spiritual existence ho. Aap par ignorance ya pride ka effect kabhi nahi hota.”
+
+Indra ne accept kiya,
+
+“Main apni power aur kingship ke pride mein blind ho gaya tha. Isi arrogance mein maine Vraja ko destroy karne ki foolish attempt ki.”
+
+Woh regret se bola,
+
+“Please mujhe forgive kar dijiye. Main aapki real greatness nahi samajh paaya.”
+
+Indra ne samjha ki Krishna duniya ke protector hain aur proud people ka ego todkar unhe right path par laate hain.
+
+Fir Krishna smilingly reply karne lage. Unki voice thundercloud jaisi deep thi.
+
+Krishna bole,
+
+“O Indra, tum apni heavenly power ke pride mein intoxicated ho gaye the. Isliye maine tumhari worship stop karwayi taki tum mujhe yaad rakho.”
+
+Krishna ne calmly samjhaya,
+
+“Jab kisi person ko apni wealth aur power ka too much pride ho jaata hai, tab kabhi kabhi main uska arrogance remove kar deta hoon — yeh bhi meri grace hoti hai.”
+
+Fir Krishna ne gently kaha,
+
+“Ab peacefully apne heavenly duties par wapas jao aur future mein pride mat karna.”
+
+Uske baad celestial cow Surabhi Krishna ke saamne aayi aur boli,
+
+“O Krishna! Aap hi cows, Brāhmaṇas aur saintly people ke real protector ho.”
+
+“Aap hi hamare true Lord ho.”
+
+Fir Surabhi ne Krishna ka special coronation karne ka decide kiya.
+
+Surabhi ne apne divine milk se Krishna ka abhiṣeka kiya.
+
+Indra ne bhi Airāvata elephant ke through heavenly Gaṅgā water laakar Krishna ko ceremonially bathe kiya. Gods, sages aur celestial beings bhi wahan gather ho gaye.
+
+Tab Indra loudly announce karne laga,
+
+“Main gods ka Indra hoon, lekin Krishna cows ke supreme Lord hain. Isliye duniya inhe Govinda ke naam se jaane gi!”
+
+Yeh sunkar Gandharvas songs gaane lage, heavenly dancers dance karne lagi aur gods flowers barsaane lage.
+
+Us divine moment mein poori creation happiness se bhar gayi.
+
+Cows earth par milk bahaane lagi, rivers sweet drinks ki tarah flow karne lagi aur trees honey drip karne lage.
+
+Even naturally violent animals bhi peacefully behave karne lage.
+
+Finally Indra ne Krishna ko pranam kiya aur gods ke saath heaven wapas chala gaya."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 28
     with st.expander("Chapter 28 - Nanda rescued from Varuṇa"):
-        text1 = """ """
+        text1 = """ 
+        🌊 Krishna Rescues Nanda from Varuṇa
+
+Śrī Śuka ne kaha,
+
+Ekādaśī ke sacred day par Nanda Baba ne full fast rakha aur Lord Viṣṇu ki worship ki.
+
+Next morning, yani Dvādaśī ke time, woh Yamunā river mein bath karne gaye.
+
+Lekin unhe pata nahi tha ki woh dangerous night-time period tha jo demons ke liye reserved maana jaata tha.
+
+Jaise hi Nanda Baba water mein gaye, Varuṇa ka ek servant unhe pakadkar underwater kingdom mein le gaya."""
         create_image_text_layout(
             "attached_assets/chapter10/10.28.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Jab cowherds ko Nanda Baba nahi mile, sab panic mein chillane lage,
+
+“O Krishna! O Balarāma!”
+
+Krishna immediately samajh gaye ki kya hua hai.
+
+Apne devotees ki protection ke liye woh instantly Varuṇa ke realm mein pahunch gaye.
+
+Varuṇa ne Krishna ko aate hi dekh liya.
+
+Woh excitement aur devotion se bhar gaya aur respectfully Krishna ko worship karne laga.
+
+Varuṇa folded hands ke saath bola,
+
+“O Lord, aaj mera life successful ho gaya. Oceans ke treasures bhi aapke darshan ke saamne kuch nahi hain.”
+
+Usne deeply humble voice mein kaha,
+
+“Mera servant ignorant tha. Usne mistake se aapke father ko yahan le aaya. Please uski fault forgive kar dijiye.”
+
+Fir Varuṇa lovingly bola,
+
+“O Krishna, yeh aapke father hain. Please inhe apne saath wapas le jaiye.”
+
+Krishna peacefully Nanda Baba ko lekar Vraja wapas aa gaye.
+
+Sab cowherds Nanda Baba ko safe dekhkar bahut happy ho gaye.
+
+Nanda Baba excitement aur amazement se sabko Varuṇa ke divine underwater kingdom ke baare mein bataane lage.
+
+Woh bole,
+
+“Varuṇa aur dusre great gods bhi Krishna ko supreme respect dete hain!”
+
+Yeh sunkar Vraja-vāsīs aur bhi zyada wonder mein bhar gaye.
+
+Unhone socha,
+
+“Krishna definitely supreme divine Lord hain. Kaash hum bhi unka eternal spiritual world dekh paayein.”
+
+Krishna sabke hearts ki wish samajh gaye.
+
+Out of compassion, unhone decide kiya ki woh Vraja-vāsīs ko apna divine eternal realm dikhaayenge.
+
+Krishna ne unhe ek special spiritual state experience karwayi — jo ignorance aur material suffering se completely beyond thi.
+
+Fir unhone apna eternal divine abode reveal kiya.
+
+Wahan everything eternal, self-luminous aur full of pure spiritual bliss tha. Great sages meditation ke through jis state ko realize karte hain, Vraja-vāsīs ne Krishna ki grace se directly uska darshan kiya.
+
+Nanda Baba aur dusre cowherds ne wahan Krishna ko divine hymns aur Vedas ke praises ke beech glorified hota hua dekha.
+
+Sab overwhelming joy aur amazement se bhar gaye."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 29
     with st.expander("Chapter 29 - Lord Kṛṣṇa’s Rāsa with Gopīs"):
-        text1 = """ """
+        text1 = """ 
+🌕 Krishna Calls the Gopīs with His Flute
+
+Śrī Śuka ne kaha,
+
+Autumn season ki beautiful full-moon nights aa gayin. Jasmine flowers ki fragrance aur cool moonlight se Vṛndāvana magical lag raha tha.
+
+Krishna ne apni divine Yogamāyā power se rāsa pastime karne ka decide kiya.
+
+Moon sky mein rise hua aur uski soft silver light forests aur Yamunā ko beautify karne lagi.
+
+Usi time Krishna ne apni flute bajaani shuru ki."""
         create_image_text_layout(
             "attached_assets/chapter10/10.29.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Unki flute ki sweet melody sunkar Vraja ki Gopīs ke hearts completely Krishna ki taraf khinch gaye.
+
+Woh itni attracted ho gayin ki sab apna kaam beech mein hi chhodkar Krishna ki taraf daudne lagi.
+
+Koi cows milk kar rahi thi aur kaam aadha chhod diya. Koi stove par milk boil kar rahi thi aur waise hi chhod diya.
+
+Koi husbands ko food serve kar rahi thi, koi babies ko feed kar rahi thi, koi khud kha rahi thi — lekin sab instantly sab kuch bhoolkar Krishna ki taraf bhaag gayin.
+
+Kuch Gopīs jaldi mein ulte-seedhe ornaments aur clothes pehenkar hi nikal padi.
+
+Families ne unhe rokne ki koshish ki, lekin Krishna ke love mein absorbed Gopīs kisi ki baat nahi maani.
+
+Kuch Gopīs ko ghar mein lock bhi kar diya gaya.
+
+Woh bahar nahi aa paayin, toh unhone eyes close karke Krishna ka deep meditation kiya. Krishna ki separation ki intense feeling mein unhone material bondage tak transcend kar diya.
+
+Finally Gopīs Krishna ke paas forest mein pahunch gayin.
+
+Krishna ne loving smile ke saath unka welcome kiya, lekin playfully unki devotion test karne lage.
+
+Woh bole,
+
+“Welcome, O beautiful ladies! Itni raat ko tum sab yahan kyun aayi ho?”
+
+Krishna ne teasing tone mein kaha,
+
+“Yeh forest dangerous hai. Wild animals yahan ghoomte hain. Tumhe ab ghar wapas jaana chahiye.”
+
+“Tumhare parents, husbands aur relatives tumhe dhoondh rahe honge.”
+
+Fir Krishna ne kaha,
+
+“Good women ko apne husbands, children aur family ki service karni chahiye.”
+
+“Sirf physically mere paas rehna hi devotion nahi hota. Mere stories sunna, mujhe remember karna aur meri glories gaana bhi enough hai. Isliye ab wapas jao.”
+
+Krishna ki yeh baatein sunkar Gopīs deeply sad ho gayin.
+
+Unki eyes tears se bhar gayin aur woh silence mein ground ko toe se scratch karne lagi.
+
+Fir trembling voice mein unhone Krishna se kaha,
+
+“O Lord, aap humse itni harsh baat kaise kar sakte ho? Hum sab kuch chhodkar sirf aapke paas aaye hain.”
+
+Gopīs boli,
+
+“Aap sabke real soul aur dearest beloved ho. Jab aap mil gaye, toh worldly husbands aur relatives kya value rakhte hain?”
+
+Unhone helplessly kaha,
+
+“Hamaare hearts, hands aur feet sab aapne chura liye hain. Ab hum ghar jaakar bhi kya kar sakte hain?”
+
+Fir woh emotional prayer karne lagi,
+
+“Aapki flute, smiles aur glances ne hamaare hearts mein intense longing jaga di hai. Please hume reject mat kijiye.”
+
+“Aapke lotus feet ki dust tak Goddess Lakṣmī desire karti hain. Hum bhi bas aapki servants banna chahti hain.”
+
+Krishna unki sincere love aur devotion dekhkar smile karne lage.
+
+Out of mercy unhone Gopīs ko accept kiya aur unke saath forest mein joyful pastimes karne lage.
+
+Krishna flowers ki Vaijayantī garland pehne hue full moon ki tarah shine kar rahe the, aur Gopīs stars ki tarah unke around gathered thi.
+
+Woh sab Yamunā ke cool sandy banks par ghoomne lage. Gentle breeze aur lotus fragrance atmosphere ko aur sweet bana rahi thi.
+
+Krishna jokes, smiles, playful glances aur loving gestures se Gopīs ko happiness dene lage.
+
+Lekin dheere dheere kuch Gopīs ko apni special fortune par pride feel hone laga.
+
+Har Gopī sochne lagi ki Krishna usse sabse zyada love karte hain.
+
+Krishna ne unke hearts ka yeh pride samajh liya.
+
+Aur unka ego remove karne ke liye suddenly Krishna un sabke beech se disappear ho gaye."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 30
     with st.expander("Chapter 30 - Search after Kṛṣṇa"):
-        text1 = """ """
+        text1 = """ 
+        🌌 The Gopīs Search for Krishna
+
+Śrī Śuka ne kaha,
+
+Jab Krishna suddenly disappear ho gaye, tab Gopīs deeply heartbroken ho gayin. Woh bilkul un female elephants ki tarah distressed thi jinse unka leader bichhad gaya ho.
+
+Krishna ki smiles, loving glances, sweet talks aur playful pastimes unke minds mein continuously chal rahe the."""
         create_image_text_layout(
             "attached_assets/chapter10/10.30.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Separation mein woh itni absorbed ho gayin ki Krishna ki actions imitate karne lagi.
+
+Koi Gopī proudly bolti,
+
+“Main Krishna hoon!”
+
+Sab milkar Krishna ke songs gaane lagi aur forests mein unhe search karne lagi — bilkul lovesick people ki tarah.
+
+Woh trees aur plants se bhi poochne lagi,
+
+“O Aśvattha tree! O Kadamba tree! Kya tumne Nanda ke son Krishna ko dekha?”
+
+“Kya woh yahan se apni charming smile ke saath guzre the?”
+
+Tulasi plant se woh lovingly boli,
+
+“O blessed Tulasi! Tum Krishna ko bahut dear ho. Kya tumne Govinda ko yahan dekha?”
+
+Fir woh Earth se poochne lagi,
+
+“O Earth, tumne kaunsi tapasya ki thi jo Krishna ke lotus feet tumhe touch karte hain?”
+
+Searching ke dauraan Gopīs Krishna ke old childhood pastimes bhi act karne lagi.
+
+Ek Gopī Pūtanā ban gayi aur doosri baby Krishna bankar uska milk peene lagi.
+
+Koi cart demon Śakaṭāsura ka role play karne lagi aur doosri Krishna bankar usse kick maarne lagi.
+
+Koi Govardhana-līlā imitate karte hue apna cloth uthaakar boli,
+
+“Fear mat karo! Main tum sabko storm se protect karungi!”
+
+Ek Gopī flute bajane ka acting karne lagi aur baaki sab happily clap karne lagi.
+
+Koi forest fire pastime imitate karke boli,
+
+“Sab eyes close karo! Main tumhe fire se save karti hoon!”
+
+Is tarah Krishna ki remembrance mein woh completely lost ho gayin.
+
+Suddenly searching karte karte unhe ground par Krishna ke footprints dikhayi diye.
+
+Gopīs excitement se boli,
+
+“Yeh definitely Krishna ke footprints hain! In par lotus, flag aur vajra ke divine marks hain.”
+
+Lekin kuch distance baad unhone notice kiya ki Krishna ke footprints ke saath ek woman ke footprints bhi hain.
+
+Sab thodi jealous aur sad hokar boli,
+
+“Kaunsi lucky Gopī hai jise Krishna apne saath le gaye?”
+
+“Usne definitely Krishna ko special devotion se please kiya hoga.”
+
+Fir woh clues dekhte hue imagine karne lagi ki Krishna us special Gopī ke saath kya kar rahe honge.
+
+Kisi ne kaha,
+
+“Dekho, yahan us Gopī ke footprints missing hain. Shayad Krishna ne uske soft feet ko grass se bachane ke liye use shoulders par utha liya.”
+
+Dusri boli,
+
+“Yahan Krishna flowers gather kar rahe the uske hair decorate karne ke liye.”
+
+Aage jaakar unhe wahi special Gopī akeli aur crying condition mein mili.
+
+Usne sadly bataya,
+
+“Krishna mujhe alone le gaye the. Mujhe pride ho gaya aur maine kaha ki main chal nahi sakti.”
+
+“Krishna ne bola, ‘Mere shoulders par chadh jao,’ lekin jaise hi maine try kiya… woh suddenly disappear ho gaye.”
+
+Woh regret aur sorrow mein Krishna ko pukaarne lagi,
+
+“O beloved Krishna! Please wapas aa jao!”
+
+Moonlight dheere dheere disappear hone lagi, isliye Gopīs forest search stop karke Yamunā river ke sandy banks par wapas aa gayin.
+
+Wahan baithkar woh sirf Krishna ke baare mein baat karne, unki glories gaane aur unke return ka wait karne lagi."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
