@@ -2823,66 +2823,410 @@ Cool autumn breeze sabko comfort de rahi thi, lekin Krishna se separation ki fee
         
         # Chapter 21
     with st.expander("Chapter 21 - The Song of Gopīs (cowherd-women)"):
-        text1 = """ """
+        text1 = """ 
+        🎶 The Gopīs Sing About Krishna’s Flute
+
+Śrī Śuka ne kaha,
+
+Autumn season mein Vṛndāvana bahut beautiful lag raha tha. Clear lakes, lotus flowers aur cool fragrant breeze har taraf sweetness faila rahe the.
+
+Krishna cows, Balarāma aur cowherd boys ke saath deep forest mein ghoomte hue flute bajane lage. Forest birds, bees, rivers aur mountains unki flute ki sound se magical lagne lage."""
         create_image_text_layout(
             "attached_assets/chapter10/10.21.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Jab Vraja ki Gopīs ne distance se Krishna ki flute suni, unke hearts love aur longing se bhar gaye. Woh apni friends ke saath Krishna ki beauty aur sweetness ki baatein karne lagi.
+
+Lekin Krishna ko yaad karke woh itni emotional ho gayin ki properly bol bhi nahi pa rahi thi.
+
+Unke minds mein Krishna ka beautiful form aa gaya —
+
+Peacock feather crown, yellow clothes, flower garland aur lips par flute. Cowherd boys unki glory gaate hue unke saath chal rahe the.
+
+Gopīs lovingly boli,
+
+“Friends, eyes ka real purpose sirf Krishna ko dekhna hai. Isse bada blessing aur kya ho sakta hai?”
+
+Unhone kaha,
+
+“Krishna aur Balarāma jab forest mein flowers aur peacock feathers pehenkar dance aur sing karte hain, tab woh stage actors se bhi zyada beautiful lagte hain.”
+
+Fir Gopīs flute ko dekhkar jealous hone lagi.
+
+Woh boli,
+
+“Yeh flute kitni lucky hai! Yeh freely Krishna ke lips ka nectar enjoy karti rehti hai, jo actually hamara right hona chahiye tha!”
+
+Unhone imagine kiya ki bamboo trees aur rivers bhi flute ki good fortune par happy hain. Rivers lotuses khilaakar joy express kar rahi hain aur bamboo trees dew drops ke through tears of happiness baha rahe hain.
+
+Fir Gopīs ne Vṛndāvana ki glory praise ki.
+
+“Vṛndāvana earth ka sabse blessed place hai, kyunki Krishna ke lotus feet usko touch karte hain.”
+
+Unhone dekha ki peacocks Krishna ki flute sunkar happily dance kar rahe hain aur dusre animals quietly unhe dekh rahe hain.
+
+Gopīs boli,
+
+“Even deer kitne blessed hain! Woh apne husbands ke saath Krishna ko loving glances se worship kar paati hain.”
+
+Heaven ki celestial women bhi Krishna ki flute sunkar enchanted ho jaati thi. Unke flower garlands aur hair tak loose ho jaate the.
+
+Cows bhi Krishna ki flute sunkar motionless ho jaati thi. Calves apne mouths mein milk hold karke bas Krishna ko stare karte rehte the. Tears of joy unki eyes se nikalte the.
+
+Gopīs ne birds ko dekhkar kaha,
+
+“Yeh birds surely great sages honge. Woh silently branches par baithkar bas Krishna ki flute sunte rehte hain, bilkul deep meditation ki tarah.”
+
+Rivers bhi Krishna ki taraf slowly flow karte hue apni waves se unke feet ko hug karne ki koshish karti thi.
+
+Clouds Krishna ko sun se protect karne ke liye umbrella ki tarah unke upar shadow bana dete aur flower-like rain barsaate.
+
+Gopīs ne Govardhana Hill ko bhi praise kiya.
+
+“Govardhana sabse great servant hai, kyunki woh Krishna, Balarāma, cows aur cowherd boys ko water, caves, grass aur fruits provide karta hai.”
+
+Is tarah Krishna ki flute aur forest pastimes ki baatein karte karte Gopīs completely Krishna mein absorbed ho gayin."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 22
     with st.expander("Chapter 22 - Cowherd-maids Pray to Kātyāyanī"):
-        text1 = """ """
+        text1 = """ 
+        🌸 The Gopīs Pray to Goddess Kātyāyanī
+
+Śrī Śuka ne kaha,
+
+Winter season ke first month mein Vraja ki young Gopīs ek special vow observe karne lagi. Unki ek hi wish thi — Krishna unke husband banein.
+
+Roz subah bahut early woh sab Yamunā river par jaati thi. Wahan river bank ki sand se Goddess Kātyāyanī ki murti banaakar unki worship karti thi."""
         create_image_text_layout(
             "attached_assets/chapter10/10.22.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Woh sandal paste, flowers, incense, lamps, fruits aur grains offer karti aur ek prayer repeat karti thi:
+
+“O Goddess Kātyāyanī, please Nanda Baba ke son Krishna ko hamara husband bana dijiye.”
+
+Ek poore month tak Gopīs simple pure food khaakar yeh vow karti rahi. Roz ek dusre ko naam se bulaakar Yamunā jaati aur Krishna ki glory gaate hue bath leti thi.
+
+Ek din vow ke last day par sab Gopīs apne clothes river bank par rakhkar happily water mein play karne lagi. Unka mind completely Krishna mein absorbed tha.
+
+Krishna sab samajh gaye.
+
+Woh apne cowherd friends ke saath quietly wahan aaye aur sab Gopīs ke clothes lekar ek Kadamba tree par chadh gaye.
+
+Fir laughingly bole,
+
+“O girls! Agar tumhe apne clothes chahiye, toh yahan aakar le lo.”
+
+Cowherd boys bhi Krishna ke saath hansne lage.
+
+Gopīs sharm aur love se confuse ho gayin. Woh cold water mein neck tak chupkar khadi rahi.
+
+Woh pleading voice mein boli,
+
+“O Krishna, please hamare saath aisa mat karo. Hum thand se kaanp rahe hain. Aap Vraja ke most loved boy ho, please hamare clothes wapas de do.”
+
+Unhone softly threaten bhi kiya,
+
+“Agar aapne clothes return nahi kiye, toh hum Nanda Baba ko bata denge.”
+
+Krishna mischievously smile karke bole,
+
+“Agar tum meri servants ho aur meri baat maanti ho, toh bahar aakar apne clothes le lo.”
+
+Finally Gopīs shivering body ke saath water se bahar aayi. Woh apne hands se khud ko cover karne ki koshish kar rahi thi.
+
+Krishna ne lovingly unki purity aur devotion dekhi aur smile karne lage.
+
+Fir unhone playfully kaha,
+
+“Tumne sacred vow observe karte hue nude bath liya hai. Pehle folded hands se respectfully bow karo, fir apne clothes le lo.”
+
+Gopīs ne obediently Krishna ko pranam kiya.
+
+Krishna unki sincere devotion se very pleased ho gaye aur unke clothes wapas de diye.
+
+Gopīs ko Krishna ke saath yeh time itna precious laga ki woh bilkul angry nahi hui. Woh bas shy smiles aur loving glances se Krishna ko dekhti rahi.
+
+Tab Krishna ne gently kaha,
+
+“Main tumhari wish already jaanta hoon. Tumhari devotion mujhe pasand hai aur future mein tumhari desire fulfill hogi.”
+
+“Tum autumn nights mein mere saath joyful pastimes enjoy karogi.”
+
+Yeh sweet words sunkar Gopīs ka heart happiness se bhar gaya. Woh Krishna ke lotus feet ko mind mein yaad karti hui dheere dheere Vraja wapas laut gayin.
+
+Uske baad Krishna, Balarāma aur cowherd boys cows ko lekar forest mein aur deep chale gaye.
+
+Raste mein Krishna ne apne friends ko trees ki greatness samjhayi.
+
+Woh bole,
+
+“Trees kitne noble hote hain. Yeh heat, rain aur storms khud bear karte hain, lekin dusron ko shade, fruits, flowers aur shelter dete hain.”
+
+“Ek truly good life wahi hai jo dusron ke benefit ke liye use ho.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 23
     with st.expander("Chapter 23 - Spiritual Emancipation of the Wives of Brāhmaṇa Sacrificers"):
-        text1 = """ """
+        text1 = """ 
+        🍚 The Wives of the Brāhmaṇas Meet Krishna
+
+Śrī Śuka ne kaha,
+
+Ek din Krishna, Balarāma aur cowherd boys forest mein cows chara rahe the. Bahut der tak ghoomne ki wajah se sab boys ko zor ki bhookh lag gayi.
+
+Cowherd boys Krishna se bole,
+
+“O Krishna! O powerful Balarāma! Hume bahut bhookh lagi hai. Please kuch food arrange kijiye.”"""
         create_image_text_layout(
             "attached_assets/chapter10/10.23.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Krishna smile karke bole,
+
+“Nearby kuch Brāhmaṇas ek big sacrifice perform kar rahe hain. Tum log wahan jao aur hamare naam se cooked food maango.”
+
+Cowherd boys respectfully Brāhmaṇas ke paas gaye aur folded hands se bole,
+
+“Krishna aur Balarāma nearby cows chara rahe hain. Unhe aur hume bhookh lagi hai. Please thoda food dijiye.”
+
+Lekin woh Brāhmaṇas rituals aur sacrifices mein itne busy the ki unhone boys ki baat ignore kar di. Woh spiritually proud the aur Krishna ko ek ordinary village boy samajh rahe the.
+
+Disappointed hokar cowherd boys Krishna ke paas wapas aa gaye aur sab bata diya.
+
+Krishna lightly hans pade aur bole,
+
+“Ab Brāhmaṇas ki wives ke paas jao. Woh mujhe bahut love karti hain. Woh zaroor food dengi.”
+
+Boys Brāhmaṇa ladies ke paas gaye aur respectfully bole,
+
+“Krishna aur Balarāma nearby hain aur hungry hain.”
+
+Jaise hi ladies ne Krishna ka naam suna, unke hearts excitement aur devotion se bhar gaye. Woh pehle se hi Krishna ki stories sunkar unse deeply attached thi.
+
+Woh immediately delicious food — rice, sweets, fruits aur many dishes — vessels mein bharne lagi aur Krishna ki taraf daud padi.
+
+Unke husbands, brothers aur relatives ne unhe rokne ki koshish ki, lekin unhone kisi ki baat nahi maani.
+
+Finally woh Yamunā ke bank par Krishna ko dekh paayi.
+
+Krishna dark-blue complexion mein shine kar rahe the. Peacock feathers, flower garlands aur yellow silk clothes mein woh unbelievably beautiful lag rahe the.
+
+Ladies Krishna ko dekhkar itni overwhelmed ho gayin ki unka saara sorrow aur separation instantly disappear ho gaya.
+
+Krishna lovingly bole,
+
+“Welcome! Tumhara yahan aana bahut auspicious hai. Batao, main tumhare liye kya kar sakta hoon?”
+
+Fir Krishna ne gently samjhaya,
+
+“True wise people without selfish motives mujhme devotion rakhte hain, kyunki main sabka real beloved Self hoon.”
+
+Uske baad Krishna ne kaha,
+
+“Ab tum apne homes wapas jao. Tumhare husbands tumhe reject nahi karenge.”
+
+Lekin Brāhmaṇa ladies emotional hokar boli,
+
+“O Krishna, hum sab kuch chhodkar aapke paas aaye hain. Please hume reject mat kijiye.”
+
+Krishna ne kindly reassure kiya,
+
+“Fear mat karo. Sab tumhe accept karenge. Aur agar tum apna mind hamesha mujhme fix rakhogi, toh tum jaldi hi mujhe attain kar logi.”
+
+Krishna ki command maan kar woh ladies reluctantly wapas chali gayin. Unke husbands surprisingly unse angry nahi hue aur sacrifice peacefully continue hua.
+
+Ek lady jo forcefully roki gayi thi, woh Krishna ko deeply meditate karte karte apna body hi leave kar gayi aur spiritually Krishna ko attain kar liya.
+
+Krishna ne fir cowherd boys ko delicious food khilaya aur baad mein khud bhi khaya.
+
+Meanwhile Brāhmaṇas ko apni mistake realize hui.
+
+Woh shame se bole,
+
+“Fie upon our scholarship aur rituals! Hum Vedas jaante hue bhi Krishna ko pehchaan nahi paaye.”
+
+Unhone accept kiya,
+
+“Hamaari wives humse zyada blessed hain, kyunki unki devotion pure aur true hai.”
+
+Fir woh Krishna se heart mein forgiveness maangne lage, lekin Kans ke fear ki wajah se unke paas personally ja nahi paaye."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 24
     with st.expander("Chapter 24 - Prevention of Sacrifice to Indra"):
-        text1 = """ """
+        text1 = """ 
+        ⛰️ Krishna Stops the Worship of Indra
+
+Śrī Śuka ne kaha,
+
+Ek time Vṛndāvana mein cowherds rain-god Indra ke liye big sacrifice prepare kar rahe the. Krishna sab jaante the, lekin unhone innocent child ki tarah act kiya.
+
+Krishna politely Nanda Baba aur elder Gopas se bole,
+
+“Father, aap sab itni busy preparations kyun kar rahe ho? Yeh sacrifice kisliye hai?”
+
+Nanda Baba ne explain kiya,"""
         create_image_text_layout(
             "attached_assets/chapter10/10.24.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        “Indra rain ka lord hai. Rain se crops aur grass grow hoti hain. Isliye hum uski worship karte hain.”
+
+“Hum cowherds aur farmers sab uski blessings par depend karte hain.”
+
+Krishna ne calmly answer diya,
+
+“People ko apne actions aur nature ke according results milte hain. Sirf Indra hi sab kuch control nahi karta.”
+
+Fir Krishna ne cowherds ko important lesson diya.
+
+Woh bole,
+
+“Har person ko apna natural duty follow karna chahiye. Hum forest-dwellers hain. Hum cows, mountains aur forests par depend karte hain.”
+
+“Isliye hume Govardhana mountain, cows aur Brāhmaṇas ki worship karni chahiye.”
+
+Krishna ne suggest kiya,
+
+“Indra ke liye jo food aur preparations ready hain, unhe Govardhana festival mein use karo.”
+
+Fir Krishna ne detail mein bataya kya kya prepare karna hai.
+
+“Sweet rice, puddings, cakes, milk preparations aur many delicious foods banao. Brāhmaṇas ko charity do, cows ko grass khilao aur sab log happily feast karo.”
+
+“Uske baad ornaments aur nice clothes pehenkar Govardhana mountain ki circumambulation karo.”
+
+Nanda Baba aur sab Gopas ko Krishna ki baat bahut achhi lagi.
+
+Sabne happily kaha,
+
+“Bilkul sahi!”
+
+Fir unhone Krishna ke instructions follow kiye.
+
+Brāhmaṇas ne prayers aur blessings diye. Delicious foods huge quantity mein prepare hue. Cows ko feed kiya gaya aur Govardhana mountain ko offerings diye gaye.
+
+Gopīs Krishna ki glories gaate hue decorated bullock carts par mountain ke around parade karne lagi.
+
+Tab Krishna ne ek amazing miracle kiya.
+
+Unhone ek gigantic divine form appear kiya aur loudly announce kiya,
+
+“Main hi Govardhana mountain hoon!”
+
+Us huge form ne saari offerings happily consume kar li.
+
+Cowherds yeh dekhkar shock aur wonder se bhar gaye.
+
+Krishna fir apne normal form mein bhi sabke saath mountain ko bow karne lage aur bole,
+
+“Dekho! Govardhana mountain ne hamari worship accept kar li.”
+
+Sab Gopas aur Gopīs joyfully Govardhana ko pranam karne lage.
+
+Is tarah Krishna ne Vraja-vāsīs ko Govardhana, cows aur Brāhmaṇas ki worship karna sikhaya aur indirectly Indra ke pride ko challenge kiya."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 25
     with st.expander("Chapter 25 - Lifting up of Mount Govardhana"):
-        text1 = """ """
+        text1 = """ 
+        ⛰️ Krishna Lifts Govardhana Mountain
+
+Śrī Śuka ne kaha,
+
+Jab Indra ko pata chala ki Vraja-vāsīs ne uski worship stop karke Govardhana festival celebrate kiya hai, toh woh bahut angry ho gaya.
+
+Usne proudly socha,
+
+“Yeh simple cowherds ek mortal boy Krishna ki baat maan kar mujhe insult kar rahe hain!”
+
+Gusse mein Indra ne destructive Saṁvartaka clouds ko bulaya — woh same clouds jo universe destruction ke time use hote hain.
+
+Indra ne order diya,"""
         create_image_text_layout(
             "attached_assets/chapter10/10.25.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        “Jaao! Vraja ko storms aur floods se destroy kar do. In arrogant cowherds aur unki cows ko punish karo!”
+
+Fir terrifying storm start hua.
+
+Sky dark clouds se bhar gaya. Thunder loudly roar karne laga, lightning flash hone lagi aur giant hailstones girne lage.
+
+Rain itni heavy thi ki poori earth flood hone lagi. Strong winds sab kuch udaane lage.
+
+Cows cold aur fear se kaanpne lagi. Gopas aur Gopīs apne children aur calves ko cover karke Krishna ke paas bhaage.
+
+Sab crying voice mein bole,
+
+“O Krishna! Aap hi hamare protector ho. Please hume Indra ke anger se bachaiye!”
+
+Krishna samajh gaye ki yeh sab Indra ke pride ki wajah se ho raha hai.
+
+Unhone calmly socha,
+
+“Indra ko lagta hai ki woh supreme ruler hai. Ab uska pride todna zaroori hai.”
+
+Fir Krishna ne apni divine yogic power use ki.
+
+Sabke saamne unhone Govardhana mountain ko ek haath se uproot kar liya — bilkul aise jaise koi child mushroom uthata ho.
+
+Krishna ne little finger par poora mountain hold kar liya.
+
+Fir loudly bole,
+
+“O Mother! O Father! O people of Vraja! Fear mat karo. Sab cows aur belongings ke saath mountain ke neeche aa jao.”
+
+“Mountain meri hand se kabhi nahi girega.”
+
+Vraja-vāsīs Krishna ki baat sunkar quickly mountain ke neeche shelter lene lage. Cows, carts, grains, families — sab safely andar aa gaye.
+
+Krishna continuously seven days aur seven nights tak Govardhana ko hold kiye rahe. Woh bilkul tired nahi hue.
+
+Sab Gopas aur Gopīs bas Krishna ko wonder aur love se dekhte rahe. Hunger aur thirst tak bhool gaye.
+
+Indra yeh impossible miracle dekhkar shock ho gaya.
+
+Uska pride completely break hone laga. Finally usne storms aur clouds ko rok diya.
+
+Sky clear ho gaya. Sun shine karne laga aur floods dheere dheere disappear ho gaye.
+
+Tab Krishna ne gently kaha,
+
+“Ab danger khatam ho gaya hai. Sab bahar aa sakte ho.”
+
+Cowherds slowly apni cows aur carts ke saath mountain ke neeche se bahar aaye.
+
+Fir Krishna ne playfully Govardhana mountain ko uski original place par wapas rakh diya.
+
+Sab Vraja-vāsīs love aur gratitude se Krishna ke paas daud pade. Gopīs ne curd aur rice se unki worship ki aur blessings dene lagi.
+
+Yaśodā, Nanda Baba, Rohiṇī aur Balarāma ne Krishna ko tightly hug kiya.
+
+Sky mein gods, Gandharvas aur heavenly beings flowers barsaane lage aur Krishna ki glory gaane lage.
+
+Finally Krishna Balarāma aur cowherd boys ke saath happily Gokula wapas chale gaye, jabki Gopīs poore raste Krishna ke amazing miracle ke songs gaati rahi."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
