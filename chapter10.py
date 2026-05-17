@@ -3657,66 +3657,504 @@ Wahan baithkar woh sirf Krishna ke baare mein baat karne, unki glories gaane aur
 
     # Chapter 31
     with st.expander("Chapter 31 - Gopīs’ song (prayer for Kṛṣṇa’s return)"):
-        text1 = """ """
+        text1 = """ 
+        🌙 The Gopīs Sing in Separation from Krishna
+
+Śrī Śuka ne kaha,
+
+Yamunā ke sandy banks par baithkar Gopīs Krishna ki separation mein deeply sad ho gayin.
+
+Unke hearts sirf Krishna ke thoughts se filled the.
+
+Fir one by one woh Krishna ke liye emotional songs gaane lagi.
+
+Gopīs boli,"""
         create_image_text_layout(
             "attached_assets/chapter10/10.31.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        “O Krishna! Aapke birth ki wajah se Vraja blessed aur prosperous ban gaya hai.”
+
+“Hum sirf aapko dekhne ki hope mein zinda hain. Please hume apna darshan dijiye.”
+
+Fir woh painful voice mein boli,
+
+“O beloved! Aapki lotus-like eyes aur beautiful glances hume love se fill kar dete hain. Ab hume ignore karke kya aap hume maarna chahte ho?”
+
+Gopīs Krishna ke past protections yaad karne lagi.
+
+“Aapne hume poisonous water, Aghāsura serpent, storms, lightning, forest fire aur many demons se bachaya tha.”
+
+“Toh ab humari protection kyun nahi kar rahe?”
+
+Fir unhone Krishna ki divine nature ko remember kiya.
+
+“Aap sirf Yaśodā ke son nahi ho. Aap sab living beings ke hearts mein present Supreme Lord ho.”
+
+Gopīs folded hands ke saath pray karne lagi,
+
+“Please apna lotus hand humare heads par rakhiye aur hume fear aur sorrow se protect kijiye.”
+
+“O Vraja ke protector! Apni sweet smiling face ka darshan dijiye.”
+
+Woh intensely emotional hokar boli,
+
+“Apne lotus feet humare hearts par rakhiye — wahi feet jo cows ke piche forests mein chalte hain aur Kāliya serpent ke heads par dance kar chuke hain.”
+
+“Unhi feet se humare hearts ka burning pain remove ho sakta hai.”
+
+Fir Gopīs Krishna ki sweet speech aur lips ko remember karne lagi.
+
+“Aapki words aur smile humari life hain. Please hume apne lips ka nectar dijiye aur hume revive kijiye.”
+
+Ek Gopī lovingly boli,
+
+“Blessed hain woh log jo Krishna ki stories gaate hain. Unki kathā nectar se bhi sweeter hai aur sab sorrow destroy kar deti hai.”
+
+Fir sab Krishna ki playful acts yaad karke aur emotional ho gayin.
+
+“Aapke laughs, loving glances aur secret jokes humare hearts ko completely restless bana dete hain.”
+
+Gopīs worried voice mein boli,
+
+“Jab aap cows graze karne forests mein jaate ho, hum sochte rehte hain ki soft lotus feet ko sharp grass aur stones hurt toh nahi kar rahe.”
+
+Evening return ka scene yaad karke woh aur emotional ho gayin.
+
+“Jab aap curly hair aur cow-dust se covered face ke saath wapas aate ho, humari love aur bhi increase ho jaati hai.”
+
+Fir woh sadly complain karne lagi,
+
+“Brahmā ne eyelids kyun banaye? Blink karne ki wajah se hum ek moment ke liye bhi aapko dekh nahi paate.”
+
+Gopīs boldly boli,
+
+“Humne husbands, children aur relatives sab kuch chhodkar sirf aapke paas aana choose kiya.”
+
+“O Krishna, ab hume abandon mat kijiye.”
+
+Woh Krishna ke loving promises aur smiles yaad karke aur bhi overwhelmed ho gayin.
+
+“Aapka broad chest, sweet glances aur charming smile humare hearts mein endless longing jagate hain.”
+
+Finally sab Gopīs deeply humble voice mein boli,
+
+“O Krishna, aapka appearance duniya ka sorrow remove karne ke liye hua hai.”
+
+“Please humari separation pain bhi remove kijiye.”
+
+“Humare hearts aur lives completely aapke hain.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 32
     with st.expander("Chapter 32 - Kṛṣṇa comforts Gopīs"):
-        text1 = """ """
+        text1 = """ 
+        🌙 Krishna Comforts the Gopīs
+
+Śrī Śuka ne kaha,
+
+Krishna ki separation mein Gopīs loudly ro rahi thi, unka naam gaa rahi thi aur pain mein kabhi kabhi incoherent baatein bhi karne lagi thi.
+
+Tabhi suddenly Krishna unke beech appear ho gaye."""
         create_image_text_layout(
             "attached_assets/chapter10/10.32.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Unka lotus-like smiling face, yellow clothes aur flower garland dekhkar woh Cupid ko bhi enchant karne wale lag rahe the.
+
+Krishna ko dekhte hi weak aur sorrowful Gopīs instantly joy se bhar gayin — bilkul dead body mein life wapas aa jaaye waise.
+
+Woh Krishna ki beauty ko apni eyes se continuously drink karne lagi, lekin fir bhi unka heart satisfy nahi ho raha tha.
+
+Ek Gopī happily Krishna ka lotus-hand pakadne lagi.
+
+Dusri ne lovingly unka sandal-paste smeared arm apne shoulder par rakh liya.
+
+Ek aur Gopī ne Krishna ka chewed betel apne hands mein receive kiya, jabki dusri love mein trembling condition mein unke lotus-feet apne chest par rakhne lagi.
+
+Koi Gopī fake anger se Krishna ko side-glances dene lagi aur lips bite karne lagi.
+
+Ek dusri Gopī Krishna ke face ko bina blink kiye bas dekhti hi rahi.
+
+Ek aur Gopī ne Krishna ko apni eyes ke through heart mein imagine kiya aur eyes close karke mentally unhe hug karne lagi. Uska body spiritual bliss se thrill hone laga.
+
+Krishna ko dekhkar sab Gopīs ka separation pain disappear ho gaya.
+
+Krishna un sabke beech bilkul moon surrounded by stars ki tarah shine kar rahe the.
+
+Fir Krishna unhe Yamunā ke beautiful sandy banks par le gaye.
+
+Cool breeze jasmine flowers ki fragrance lekar chal rahi thi aur autumn moonlight poore atmosphere ko magical bana rahi thi.
+
+Gopīs ne lovingly Krishna ke liye saffron-stained clothes se ek special seat prepare ki.
+
+Krishna us par baith gaye aur poori gathering aur bhi divine lagne lagi.
+
+Fir smiling aur playful glances ke saath Gopīs ne Krishna se slightly angry tone mein poocha,
+
+“O Krishna, kuch log sirf unse love karte hain jo unhe love karte hain.”
+
+“Kuch log unse bhi love karte hain jo unhe love nahi karte.”
+
+“Aur kuch kisi se bhi love nahi karte. Aap batayiye inmein difference kya hai?”
+
+Krishna gently smile karke reply karne lage.
+
+Woh bole,
+
+“Jo log sirf return mein love karte hain, unka love mostly self-interest par based hota hai.”
+
+“Lekin jo unhe bhi love karte hain jo unse love nahi karte — jaise parents — unka love truly compassionate aur pure hota hai.”
+
+Fir Krishna ne explain kiya,
+
+“Kuch log kisi se bhi attachment nahi dikhate. Koi spiritual bliss mein absorbed hota hai, koi fully satisfied hota hai, koi ungrateful hota hai aur koi naturally cruel.”
+
+Uske baad Krishna lovingly Gopīs ki taraf dekhkar bole,
+
+“Lekin main in categories mein nahi aata.”
+
+“Main kabhi kabhi apne devotees se temporarily hidden ho jaata hoon taki unka mind aur deeply mere thoughts mein absorbed ho jaaye.”
+
+Krishna ne example diya,
+
+“Jaise koi poor man apna lost treasure continuously remember karta hai, waise hi devotees mujhe intensely remember karte hain.”
+
+Fir Krishna emotional voice mein bole,
+
+“Tum sabne mere liye family, social customs aur worldly attachments tak chhod diye.”
+
+“Main tumhari pure devotion ka debt kabhi repay nahi kar sakta.”
+
+“Even gods ki long life bhi enough nahi hogi.”
+
+Finally Krishna lovingly bole,
+
+“Tumhari own pure devotion hi tumhara reward banegi.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 33
     with st.expander("Chapter 33 - Description of Rāsa Krīḍā"):
-        text1 = """ """
+        text1 = """ 
+        🌕 The Divine Rāsa Dance of Krishna
+
+Śrī Śuka ne kaha,
+
+Krishna ki sweet comforting words sunkar Gopīs ka separation pain completely disappear ho gaya.
+
+Unka joy aur bhi increase ho gaya jab woh personally Krishna ke saath rehne lagi.
+
+Yamunā ke sandy banks par Lord Govinda ne divine Rāsa dance start kiya."""
         create_image_text_layout(
             "attached_assets/chapter10/10.33.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Beautiful Gopīs circle banaakar Krishna ke saath dance karne lagi.
+
+Tab Krishna ne apni amazing yogic power dikhayi.
+
+Woh har do Gopīs ke beech ek alag form mein appear ho gaye.
+
+Har Gopī ko laga,
+
+“Krishna sirf mere saath dance kar rahe hain.”
+
+Sky mein heavenly gods aur their wives bhi aerial chariots mein aakar yeh divine scene dekhne lage.
+
+Drums bajne lage aur flowers ki rain hone lagi.
+
+Gandharvas Krishna ki glory gaane lage.
+
+Rāsa circle jingling bangles, anklets aur sweet music se bhar gaya.
+
+Krishna golden Gopīs ke beech emerald jewel ki tarah shine kar rahe the.
+
+Gopīs graceful dance steps, smiles aur playful eyebrow movements ke saath Krishna ki praise kar rahi thi.
+
+Dance karte waqt unke hair loosen hone lage aur faces par tiny sweat drops sparkle karne lage.
+
+Kuch Gopīs Krishna ke saath loudly different melodies mein songs gaane lagi.
+
+Ek Gopī ne Krishna ke saath higher musical note mein sing kiya. Krishna happily bole,
+
+“Well done!”
+
+Ek dusri Gopī dance se tired hokar Krishna ke shoulder par lean kar gayi.
+
+Dusri ne Krishna ke sandal-scented arm ko kiss kiya aur bliss se thrill ho gayi.
+
+Ek aur Gopī ne Krishna ke cheek se apna cheek touch kiya, toh Krishna ne lovingly usse apna half-chewed betel diya.
+
+Koi Gopī singing aur dancing se tired hokar Krishna ka lotus-hand apne chest par rakhne lagi.
+
+Gopīs Krishna ko paakar endless happiness feel kar rahi thi.
+
+Unke ornaments aur flower garlands loosen hokar girne lage, lekin joy mein woh unhe fix karna bhi bhool gayin.
+
+Even celestial ladies Krishna ke divine love-sports dekhkar amazed aur enchanted ho gayin.
+
+Moon-god bhi wonder mein ruk sa gaya.
+
+Krishna har Gopī ke saath individually dance aur play kar rahe the, phir bhi fully self-controlled aur divine the.
+
+Jab Gopīs dance se tired ho gayin, Krishna lovingly apne blissful hands se unke faces ka sweat wipe karne lage.
+
+Fir Krishna aur Gopīs Yamunā river mein water-sports karne chale gaye.
+
+Gods sky se flowers shower karte hue Krishna ki praise karne lage.
+
+Krishna Gopīs ke saath cool fragrant groves mein happily wander karte rahe.
+
+Śrī Śuka ne kaha,
+
+In sab nights mein Krishna ne divine joy enjoy kiya, lekin unka mind completely controlled aur pure raha.
+
+Tab King Parīkṣit confused hokar poochne lage,
+
+“Krishna toh dharma establish karne aaye the. Fir unhone dusron ki wives ke saath aisa divine dance kyun kiya?”
+
+Śrī Śuka calmly explain karne lage,
+
+“Great divine beings ke actions ordinary humans jaise nahi hote.”
+
+“Jaise fire impure cheezein consume karke bhi impure nahi hoti, waise hi Supreme Lord bhi untouched rehte hain.”
+
+“Ordinary people ko unki imitation kabhi nahi karni chahiye.”
+
+“Lord Krishna sabke hearts mein present Supreme Controller hain. Woh sab par grace shower karne ke liye human form mein aaye.”
+
+Śrī Śuka ne finally kaha,
+
+“Jo person faith aur devotion se Krishna ki Rāsa-līlā sunta ya narrate karta hai, uska heart gradually lust aur worldly desires se purified ho jaata hai.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 34
     with st.expander("Chapter 34 - Sudarśana emancipated and slaying of Śaṅkhacūḍa"):
-        text1 = """ """
+        text1 = """ 
+        🐍 Krishna Saves Nanda from the Giant Serpent
+
+Śrī Śuka ne kaha,
+
+Ek baar Vraja ke cowherds ne decide kiya ki woh Lord Śiva aur Goddess Pārvatī ke sacred place Ambikāvana ki pilgrimage karenge.
+
+Sab bullock carts mein baithkar happily journey par nikle."""
         create_image_text_layout(
             "attached_assets/chapter10/10.34.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Wahan pahunchkar unhone Sarasvatī river mein bath liya aur devotion se Śiva aur Pārvatī ki worship ki.
+
+Unhone Brahmanas ko cows, gold, clothes, honey aur sweets bhi donate kiye.
+
+Nanda Baba aur dusre elders ne full-day fast rakha aur raat ko Sarasvatī river ke bank par rest karne lage.
+
+Lekin late night ek huge hungry python wahan aa gaya.
+
+Woh directly sleeping Nanda Baba ko nigalne laga.
+
+Fear mein Nanda loudly chillaye,
+
+“O Krishna! Krishna! Yeh giant serpent mujhe kha raha hai! Please mujhe bachao!”
+
+Unki scream sunkar sab cowherds shock mein uth gaye.
+
+Woh burning sticks lekar serpent ko maarne lage, lekin python ne Nanda Baba ko chhoda nahi.
+
+Tab Lord Krishna quickly wahan pahunch gaye.
+
+Krishna ne calmly us serpent ko apne lotus-foot se touch kiya.
+
+Jaise hi Krishna ka divine touch mila, serpent ka curse instantly break ho gaya.
+
+Woh ugly snake-body chhodkar ek shining heavenly being ban gaya.
+
+Uska naam Sudarśana tha — ek Vidyādhara.
+
+Krishna ne poocha,
+
+“Tum kaun ho? Aur tumhe yeh horrible serpent form kyun mila?”
+
+Sudarśana respectfully folded hands ke saath bola,
+
+“Main pehle ek handsome heavenly Vidyādhara tha.”
+
+“Mujhe apni beauty par bahut pride tha.”
+
+“Ek baar maine ugly-looking sages ka insult aur mockery ki.”
+
+“Un sages ne mujhe curse de diya ki main serpent ban jaaun.”
+
+Lekin fir woh gratefully bola,
+
+“Ab mujhe samajh aa gaya ki woh curse actually blessing tha.”
+
+“Aapke lotus-feet ke touch se mere saare sins destroy ho gaye.”
+
+“Jo sirf aapka name chant karta hai woh bhi purified ho jaata hai.”
+
+“Toh jise aap personally touch karein, uska toh kya kehna!”
+
+Sudarśana Krishna ko bow karke heaven wapas chala gaya.
+
+Nanda Baba safe dekhkar sab Vraja-vāsīs Krishna ki divine power dekhkar amazed ho gaye.
+
+Sab Krishna ki glories discuss karte hue Vraja wapas laut aaye.
+
+💎 Krishna Slays Śaṅkhacūḍa
+
+Ek dusri raat Krishna aur Balarāma Vraja ki Gopīs ke saath forest mein walk kar rahe the.
+
+Moon aur stars sky mein shine kar rahe the aur cool fragrant breeze chal rahi thi.
+
+Krishna aur Balarāma sweet melodies gaa rahe the.
+
+Unki music sunkar Gopīs trance-like joy mein chali gayin.
+
+Tabhi suddenly Kubera ka servant Śaṅkhacūḍa wahan aa gaya.
+
+Woh boldly Gopīs ko forcefully north direction mein le jaane laga.
+
+Gopīs fear mein loudly chillane lagi,
+
+“O Krishna! O Balarāma! Save us!”
+
+Krishna aur Balarāma immediately furious hokar uske piche daud pade.
+
+Dono ne huge Śāla trees weapons ki tarah utha liye aur loudly assure kiya,
+
+“Fear mat karo!”
+
+Śaṅkhacūḍa jab un dono brothers ko death-gods ki tarah apni taraf aate dekha, toh woh terrified ho gaya.
+
+Usne instantly Gopīs ko chhod diya aur khud bhaagne laga.
+
+Balarāma Gopīs ko protect karne ke liye wahin ruk gaye, jabki Krishna directly Śaṅkhacūḍa ke piche bhaage.
+
+Krishna ne quickly us evil Yakṣa ko catch kar liya.
+
+Ek powerful punch se Krishna ne uska head aur uske shining jewel dono separate kar diye.
+
+Śaṅkhacūḍa instantly mar gaya.
+
+Krishna ne woh brilliant jewel uthaya aur affection se apne elder brother Balarāma ko de diya — sab Gopīs ke saamne."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 35
     with st.expander("Chapter 35 - Gopīs’ Song (in pairs of verses)"):
-        text1 = """ """
+        text1 = """ 
+        🎶 The Gopīs Sing About Krishna’s Flute
+
+Śrī Śuka ne kaha,
+
+Jab Krishna cows ko graze karane forest chale jaate the, tab Gopīs ka heart bhi unke saath chala jaata tha.
+
+Separation mein woh poora din Krishna ke sweet pastimes aur flute ki glories gaati rehti thi.
+
+Gopīs ek dusri se boli,"""
         create_image_text_layout(
             "attached_assets/chapter10/10.35.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        “O friends! Jab Krishna apni flute lips par rakhte hain aur eyebrows dance karte hue sweet melody bajate hain, tab even heavenly women bhi enchanted ho jaati hain.”
+
+“Woh apne husbands ke saath sky mein travel kar rahi hoti hain, lekin Krishna ki flute sunkar love mein completely lost ho jaati hain.”
+
+Fir Gopīs wonder se boli,
+
+“Dekho Krishna ki flute ka magic!”
+
+“Jab Nanda ka son smiling face ke saath flute bajata hai, tab cows aur deer bhi motionless ho jaate hain.”
+
+“Unke mouths mein half-chewed grass tak ruk jaata hai, aur woh bas ears khade karke Krishna ko sunte rehte hain.”
+
+Ek Gopī ne lovingly kaha,
+
+“Jab Krishna peacock feather aur colorful forest decorations pehenkar flute bajate hain, tab rivers bhi flow karna stop kar deti hain.”
+
+“Woh apni waves ke arms se Krishna ke lotus-feet ki dust touch karna chahti hain.”
+
+Dusri Gopī Govardhana hill ki taraf dekhkar boli,
+
+“Jab Krishna cows ko flute se naam lekar bulaate hain, tab trees aur creepers joy se bhar jaate hain.”
+
+“Unki branches fruits aur flowers se bend ho jaati hain aur honey drip hone lagta hai.”
+
+Fir ek Gopī ne lake ki birds ko notice kiya.
+
+“Dekho swans aur cranes ko! Krishna ki flute sunkar woh eyes close karke silent meditation mein chale jaate hain.”
+
+“Jaise great sages Lord Hari ka dhyān karte hain.”
+
+Ek aur Gopī smilingly boli,
+
+“Jab Krishna aur Balarāma mountain tops par flute aur songs perform karte hain, tab clouds bhi respectfully unke upar umbrella ki tarah spread ho jaate hain.”
+
+“Clouds softly thunder karte hain — bilkul flute ki rhythm follow karte hue.”
+
+Fir kuch Gopīs Yaśodā Maiyā se boli,
+
+“O blessed Yaśodā! Aapka son kitna amazing hai.”
+
+“Jab Krishna flute bajate hain, tab even Brahmā, Śiva aur Indra bhi unki music ko fully understand nahi kar paate.”
+
+“Woh bas wonder mein sunkar khade reh jaate hain.”
+
+Ek Gopī deeply emotional hokar boli,
+
+“Jab Krishna lotus-feet se earth par chalte hain aur flute bajate hain, hum love mein completely stunned ho jaate hain.”
+
+“Hume apne clothes aur hair tak ka hosh nahi rehta.”
+
+Fir dusri Gopī happily boli,
+
+“Jab Krishna cows count karte hue flute bajate hain aur friend ke shoulder par hand rakhte hain, tab female deer bhi unke piche chalne lagti hain.”
+
+“Woh ghar wapas jaana tak bhool jaati hain — bilkul humari tarah.”
+
+Ek aur Gopī Yamunā river ko dekhkar boli,
+
+“Jab Krishna friends aur cows ke saath Yamunā bank par games khelte hain, tab cool fragrant breeze bhi lovingly unki service karti hai.”
+
+“Even heavenly beings sky se aakar songs aur instruments ke saath unki worship karte hain.”
+
+Fir Gopīs proudly Govardhana-līlā yaad karne lagi.
+
+“Krishna ne cows aur Vraja-vāsīs ko protect karne ke liye Govardhana mountain lift kiya tha.”
+
+“Woh truly sabke protector hain.”
+
+Evening return ka thought aate hi Gopīs aur emotional ho gayin.
+
+“Jab Krishna cows ke saath flute bajate hue ghar lautte hain, tab cow-dust unki flower garlands ko cover kar deti hai.”
+
+“Us time woh evening moon ki tarah shine karte hain.”
+
+Ek Gopī dreamy voice mein boli,
+
+“Unki rolling eyes, golden earrings aur elephant-jaisi graceful walk humara poora day-long sorrow remove kar deti hai.”
+
+Śrī Śuka ne kaha,
+
+Is tarah Vraja ki blessed Gopīs Krishna ke flute aur pastimes gaate hue apna separation pain happily pass karti thi."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
