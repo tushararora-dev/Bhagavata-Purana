@@ -4160,66 +4160,612 @@ Is tarah Vraja ki blessed Gopīs Krishna ke flute aur pastimes gaate hue apna se
 
     # Chapter 36
     with st.expander("Chapter 36 - Akrūra deputed to bring Kṛṣṇa and Balarāma to Mathurā"):
-        text1 = """ """
+        text1 = """ 
+        🐂 Krishna Kills the Bull Demon Ariṣṭa
+
+Śrī Śuka ne kaha,
+
+Ek din Vraja mein suddenly ek terrifying demon aaya jo giant bull ke form mein tha. Uska naam Ariṣṭa tha.
+
+Uska huge hump aur sharp horns dekhkar sab fear mein aa gaye.
+
+Woh apne hoofs se earth ko tod raha tha aur loud terrifying roars kar raha tha.
+
+Uski roar itni horrible thi ki cows aur women fear se tremble karne lagi."""
         create_image_text_layout(
             "attached_assets/chapter10/10.36.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Kuch pregnant cows aur women tak fear ki wajah se miscarriages suffer karne lagi.
+
+Cattle panic mein Gokula chhodkar bhaagne lage.
+
+Sab loudly Krishna ko pukaarne lage,
+
+“O Krishna! Save us!”
+
+Krishna calmly sabko reassure karte hue bole,
+
+“Fear mat karo.”
+
+Fir Krishna Ariṣṭa ke saamne khade ho gaye aur loudly challenge kiya,
+
+“O wicked fool! Poor cowherds aur cows ko terrorize karke tumhe kya mil raha hai?”
+
+“Main evil proud demons ka arrogance crush karne ke liye yahan hoon.”
+
+Krishna ne apne arms clap karke us demon ko aur provoke kiya.
+
+Furious Ariṣṭa bloodshot eyes ke saath thunderbolt ki tarah Krishna par charge karne laga.
+
+Lekin Krishna ne uske horns pakad liye aur usse eighteen steps tak push back kar diya — bilkul elephant apne rival ko push karta hai waise.
+
+Ariṣṭa phir bhi rukka nahi.
+
+Woh fir se rage mein Krishna ki taraf dauda.
+
+Tab Krishna ne uske horns pakadkar usse ground par violently phek diya.
+
+Ek foot se usse press karke Krishna ne uska body twist kiya — bilkul wet cloth ko wring karte hain waise.
+
+Fir Krishna ne uska ek horn todkar usi se usse strike kiya.
+
+Ariṣṭa blood vomit karta hua, pain mein legs kick karta hua ground par gir gaya aur mar gaya.
+
+Sky se gods flowers shower karne lage aur Krishna ki praise karne lage.
+
+Krishna aur Balarāma victorious condition mein Gokula wapas aaye. Gopīs unhe dekhkar happiness se bhar gayin.
+
+😨 Nārada Reveals Krishna’s Secret to Kaṃsa
+
+Ariṣṭa ke death ke baad sage Nārada Kaṃsa ke paas gaye.
+
+Unhone Kaṃsa ko truth bata diya,
+
+“Krishna Devakī aur Vasudeva ke real son hain.”
+
+“Balarāma Rohiṇī ke son hain.”
+
+“Tumhare bheje hue demons ko in dono ne hi kill kiya hai.”
+
+Yeh sunkar Kaṃsa extreme rage se bhar gaya.
+
+Woh sword lekar Vasudeva ko maarne ke liye ready ho gaya.
+
+Lekin usse roka gaya.
+
+Fir Kaṃsa ne Vasudeva aur Devakī ko iron chains mein imprison kar diya.
+
+Usne Keśī demon ko bhi order diya,
+
+“Jaao aur Krishna-Balarāma ko maar do.”
+
+🏟️ Kaṃsa’s Evil Plan
+
+Kaṃsa ne apne wrestlers Cāṇūra aur Muṣṭika ko bulaya.
+
+Woh bola,
+
+“Krishna aur Balarāma mere death ka cause banne wale hain.”
+
+“Jab woh Mathurā aayenge, tum wrestling match mein unhe kill kar dena.”
+
+Usne giant elephant Kuvalayāpīḍa ko bhi arena entrance par ready rakhne ka order diya taki Krishna-Balarāma ko crush kiya ja sake.
+
+Fir Kaṃsa ne apni hatred explain ki aur bola ki woh Vasudeva, Ugrasena aur Yadavas sabko destroy kar dega.
+
+Woh proudly bola,
+
+“Jarāsandha mera support karega. Śambara, Naraka aur Bāṇa bhi mere allies hain.”
+
+“Main poori earth enjoy karunga.”
+
+🚩 Akrūra is Sent to Bring Krishna to Mathurā
+
+Finally Kaṃsa ne Akrūra ko bulaya.
+
+Usne politely bola,
+
+“O Akrūra, mujhe tum par trust hai. Please Vraja jaao aur Krishna-Balarāma ko Mathurā le aao.”
+
+“Unhe bolo ki woh bow-sacrifice aur Mathurā city dekhne aayein.”
+
+Lekin secretly Kaṃsa unhe kill karne ka plan bana raha tha.
+
+Akrūra calmly reply karne lage,
+
+“O King, man plans bahut kuch karta hai, lekin final result destiny decide karti hai.”
+
+“Main aapka order follow karunga.”
+
+Śrī Śuka ne kaha,
+
+Iske baad Kaṃsa apne palace chala gaya aur Akrūra bhi apne home wapas laut gaya — Krishna se milne ki journey ki preparation karte hue."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 37
     with st.expander("Chapter 37 - Slaying of Asuras Keśin and Vyoma"):
-        text1 = """ """
+        text1 = """ 
+        🐎 Krishna Kills the Horse Demon Keśin
+
+Śrī Śuka ne kaha,
+
+Kaṃsa ne ek terrifying demon Keśin ko Krishna ko maarne ke liye bheja.
+
+Keśin ne gigantic horse ka form liya.
+
+Uski speed mind jaisi fast thi aur uski loud neighing se poora Vraja fear se tremble karne laga.
+
+Uske huge mane ki movement se clouds aur heavenly chariots tak scatter ho rahe the."""
         create_image_text_layout(
             "attached_assets/chapter10/10.37.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Big eyes, giant mouth aur dark-cloud jaisi neck wala woh demon directly Nanda Baba ke Vraja ki taraf dauda.
+
+Sab log fear mein aa gaye.
+
+Tab Krishna calmly uske saamne khade ho gaye aur usse challenge karne lage.
+
+Furious Keśin loudly roar karta hua Krishna ki taraf charge hua.
+
+Woh apne hind legs se Krishna ko hard kick karna chahta tha.
+
+Lekin Krishna ne easily dodge karke uske dono hind legs pakad liye.
+
+Fir Krishna ne usse fast spin karke bahut door throw kar diya — bilkul Garuḍa snake ko phekta hai waise.
+
+Keśin thodi der baad phir uth gaya.
+
+Extreme anger mein usne huge mouth khola aur Krishna par dubara attack kiya.
+
+Krishna fearlessly smile karte hue apna left arm uske mouth mein daal diya.
+
+Jaise hi Keśin ne Krishna ka arm bite karna chaha, uske teeth red-hot iron touch karne jaise instantly tootkar gir gaye.
+
+Krishna ka arm gradually huge hone laga aur Keśin ki breathing block ho gayi.
+
+Woh pain mein legs kick karne laga, body sweat se bhar gayi aur eyes roll hone lagi.
+
+Finally woh ground par girkar mar gaya.
+
+Krishna ne calmly apna arm uske body se bahar nikala — bilkul ripe cucumber nikalte hain waise.
+
+Gods sky se flowers shower karne lage aur Krishna ki praise karne lage.
+
+Lekin Krishna ko slightest pride bhi nahi hua.
+
+🌟 Nārada Praises Krishna
+
+Keśin ke death ke baad sage Nārada Krishna ke paas aaye.
+
+Woh respectfully bole,
+
+“O Krishna! Aap sabke hearts mein present Supreme Lord ho.”
+
+“Aap earth par demons ko destroy karne aur devotees ko protect karne aaye ho.”
+
+Fir Nārada future events predict karne lage.
+
+Woh bole,
+
+“Main jaldi hi Kaṃsa, Cāṇūra, Muṣṭika aur Kuvalayāpīḍa elephant ka destruction dekhunga.”
+
+“Main aapki many heroic deeds bhi dekhunga.”
+
+Nārada ne Krishna ko bow kiya aur permission lekar wahan se chale gaye.
+
+Krishna meanwhile happily cowherd boys ke saath cows graze karte rahe aur Vraja-vāsīs ko joy dete rahe.
+
+🏔️ Krishna Saves the Cowherd Boys from Vyoma
+
+Ek din Krishna aur cowherd boys mountain ke upar cows graze kar rahe the.
+
+Wahan sab hide-and-seek jaisa game khelne lage.
+
+Kuch boys thieves bane, kuch guards aur kuch sheep ka role play karne lage.
+
+Tabhi secretly Vyoma naam ka demon wahan aaya.
+
+Woh Maya demon ka son tha aur black magic mein expert tha.
+
+Usne cowherd boy ka disguise liya aur game join kar liya.
+
+Lekin secretly woh boys ko kidnap karne laga.
+
+Woh har captured boy ko mountain cave mein daal deta aur huge rock se entrance close kar deta.
+
+Thodi der mein sirf four-five boys hi bahar bache.
+
+Krishna ne instantly us demon ki evil activity notice kar li.
+
+Woh lion ki tarah quickly Vyoma ko pakadne daude.
+
+Vyoma ne apna original giant mountain-like form le liya aur escape karne ki try ki, lekin Krishna ki grip se free nahi ho paaya.
+
+Krishna ne usse ground par violently phek diya aur sacrifice animal ki tarah kill kar diya.
+
+Gods sky se yeh heroic act dekh rahe the.
+
+Uske baad Krishna ne cave entrance block karne wala huge rock tod diya aur sab cowherd boys ko safely bahar nikaal liya.
+
+Gods aur cowherds sab Krishna ki loudly praise karne lage.
+
+Fir Krishna sabke saath happily Gokula wapas laut aaye."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 38
     with st.expander("Chapter 38 - The Arrival of Akrūra to Gokula"):
-        text1 = """ """
+        text1 = """ 
+        🚩 Akrūra’s Joyful Journey to Meet Krishna
+
+Śrī Śuka ne kaha,
+
+Mathurā mein ek raat rukne ke baad Akrūra apni chariot par baithkar Nanda Baba ke Vraja ki taraf nikal pade.
+
+Journey ke dauraan unka heart Krishna-bhakti se completely filled tha.
+
+Woh khud se emotional thoughts karne lage,
+
+“Maine kaunsa great punya kiya hoga ki aaj mujhe Lord Krishna ka darshan milega?”
+
+“Krishna ka darshan paana bahut rare blessing hai.”
+
+Akrūra deeply humble feel karte hue bole,"""
         create_image_text_layout(
             "attached_assets/chapter10/10.38.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        “Main toh ordinary aur material desires mein attached person hoon. Fir bhi shayad aaj mujhe Krishna ka audience mil jaaye.”
+
+Woh happily sochne lage,
+
+“Kaṃsa ne unknowingly mujh par bahut bada favor kiya hai.”
+
+“Uske order ki wajah se hi main Krishna ke lotus-feet dekh paunga.”
+
+Akrūra Krishna ke feet ko remember karte hue emotional ho gaye.
+
+“Wahi lotus-feet jinko Brahmā, Śiva aur Lakṣmī worship karte hain…”
+
+“Wahi feet jo Vṛndāvana forests mein cows ke saath walk karte hain aur Gopīs ke saffron se tinged hue hain.”
+
+Fir unhone sky aur surroundings mein auspicious signs notice kiye.
+
+Woh happily bole,
+
+“Aaj mujhe definitely Krishna ka smiling lotus-face dekhne ko milega.”
+
+“Curly hair, reddish eyes aur sweet smile wala woh divine face…”
+
+Akrūra Krishna ki divine nature ko remember karte hue bole,
+
+“Lord Krishna hi Supreme Soul hain jo sabke hearts mein secretly present hain.”
+
+“Aur unki kathā duniya ke sins aur sorrow destroy karti hai.”
+
+Fir woh lovingly imagine karne lage,
+
+“Jaise hi main Krishna aur Balarāma ko dekhunga, main instantly chariot se utar kar unke feet mein bow karunga.”
+
+“Shayad Krishna apna lotus-hand mere head par rakhen…”
+
+“Shayad woh mujhe lovingly ‘Uncle Akrūra’ kehkar bulaayein.”
+
+Yeh thoughts karte karte Akrūra evening time Vraja pahunch gaye.
+
+Wahan unhone Krishna ke sacred footprints dekhe — jinpar lotus, flag, thunderbolt aur goad ke marks bane hue the.
+
+Un footprints ko dekhkar Akrūra ka devotion uncontrollable ho gaya.
+
+Unki eyes tears se bhar gayin aur body thrill se kaanpne lagi.
+
+Woh chariot se jump karke Krishna ke foot-dust mein roll karne lage.
+
+Akrūra repeatedly bol rahe the,
+
+“Kitni blessed hai yeh dust jo Lord ke feet ko touch karti hai!”
+
+Fir woh cows ke milking area mein pahuche.
+
+Wahan unhone Krishna aur Balarāma ko dekha.
+
+Krishna yellow clothes mein the aur Balarāma blue garments mein shine kar rahe the.
+
+Dono ki eyes autumn lotuses ki tarah beautiful thi.
+
+Krishna dark-blue emerald mountain jaise lag rahe the aur Balarāma silver mountain jaise shine kar rahe the.
+
+Unke smiling eyes compassion aur sweetness se filled the.
+
+Akrūra overwhelming devotion mein unke feet par full-length prostrate ho gaye.
+
+Emotion ki wajah se woh properly apna introduction tak nahi de pa rahe the.
+
+Krishna ne lovingly unhe apne hands se uthaya aur warmly hug kiya.
+
+Balarāma ne bhi smile ke saath Akrūra ko embrace kiya aur respectfully ghar le gaye.
+
+Wahan unhone perfect hospitality di.
+
+Akrūra ke feet wash kiye gaye, unhe comfortable seat di gayi aur delicious food serve kiya gaya.
+
+Meal ke baad unhe sweet betel, perfumes aur flower garlands bhi offer kiye gaye.
+
+Sab formalities complete hone ke baad Nanda Baba sadly bole,
+
+“O Akrūra, tum log cruel Kaṃsa ke rule mein kaise peacefully reh paate ho?”
+
+“Woh toh apni own sister ke children tak ko maar chuka hai.”
+
+“Hume samajh nahi aata uske kingdom mein koi safe kaise reh sakta hai.”
+
+Akrūra Nanda Baba ki sweet hospitality aur loving words sunkar deeply touched ho gaye."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 39
     with st.expander("Chapter 39 - Akrūra returns with Kṛṣṇa and Balarāma"):
-        text1 = """ """
+        text1 = """ 
+        😢 The Gopīs Hear Krishna is Leaving for Mathurā
+
+Śrī Śuka ne kaha,
+
+Akrūra ko Krishna aur Balarāma ne great respect ke saath welcome kiya.
+
+Dinner ke baad Krishna lovingly unse poochne lage,
+
+“O dear uncle, kya Mathurā mein sab safe hain?”
+
+“Kaṃsa hamare relatives ke saath kaise behave kar raha hai?”
+
+Krishna sadly bole,"""
         create_image_text_layout(
             "attached_assets/chapter10/10.39.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        “Hamare innocent parents Vasudeva aur Devakī ne mere liye bahut suffering endure ki hai.”
+
+“Unke children tak ko Kaṃsa ne maar diya.”
+
+Fir Krishna ne gently poocha,
+
+“Please batayiye aap kis purpose se yahan aaye hain?”
+
+Tab Akrūra ne Kaṃsa ka full evil plan explain kiya.
+
+Unhone bataya ki Kaṃsa Krishna-Balarāma ko Mathurā bulaakar wrestlers aur elephant ke through kill karna chahta hai.
+
+Krishna aur Balarāma yeh sunkar bas smile karne lage.
+
+Fir Nanda Baba ne sab cowherds ko announce kar diya,
+
+“Kal hum Mathurā jaayenge aur king ko milk products aur gifts tribute mein denge.”
+
+Yeh news sunte hi Gopīs ka heart toot gaya.
+
+Krishna unki very life the, aur ab woh Vraja chhodkar jaane wale the.
+
+Kuch Gopīs grief mein itni disturbed ho gayin ki unke clothes loose ho gaye aur hair dishevelled ho gaya.
+
+Kuch toh Krishna ke thoughts mein itni absorbed ho gayin ki unhe outside world ka hosh hi nahi raha.
+
+Sab Gopīs groups mein milkar tears ke saath complain karne lagi.
+
+Woh sadly boli,
+
+“O Creator! Tum kitne cruel ho.”
+
+“Pehle tum loving people ko milate ho, fir bina reason unhe separate kar dete ho.”
+
+Ek Gopī emotional hokar boli,
+
+“Tumne hume Krishna ka beautiful smiling face dikhaya… aur ab usse humse cheen rahe ho.”
+
+Dusri Gopī angrily boli,
+
+“Akrūra ka naam actually galat hai.”
+
+“Woh ‘not cruel’ nahi, bahut cruel hai. Woh humari life hi humse le ja raha hai.”
+
+Fir woh Mathurā ki women ko imagine karne lagi.
+
+“Mathurā ki ladies kitni fortunate hongi.”
+
+“Woh Krishna ka sweet smiling face aur loving side-glances dekh paayengi.”
+
+Ek Gopī fearfully boli,
+
+“Krishna new people aur new company ko easily love karte hain.”
+
+“Mathurā ki refined ladies unhe apni sweet talks aur shy smiles se attract kar lengi.”
+
+“Fir woh hum simple village girls ko yaad bhi karenge?”
+
+Woh crying voice mein boli,
+
+“Humne Krishna ke liye homes, relatives aur husbands tak chhod diye…”
+
+“Ab woh hume abandon karke ja rahe hain.”
+
+Morning hote hi Akrūra ne chariot ready kar diya.
+
+Krishna aur Balarāma comfortably us par baith gaye.
+
+Cowherds bhi bullock carts mein unke piche chalne lage.
+
+Gopīs desperately Krishna ke piche bhaagne lagi.
+
+Krishna baar baar lovingly mudkar unki taraf dekh rahe the.
+
+Unka affectionate glance dekhkar Gopīs ko thodi hope mili.
+
+Krishna ne secretly ek messenger ke through promise bheja,
+
+“Main jaldi wapas aaunga.”
+
+Fir bhi Gopīs motionless khadi rahi.
+
+Jab tak chariot ka flag aur dust visible tha, woh painted statues ki tarah bas Krishna ko dekhti rahi.
+
+Finally jab Krishna completely out of sight ho gaye, tab woh hopeless aur heartbroken condition mein Vraja wapas laut gayin.
+
+Apna sorrow kam karne ke liye woh continuously Krishna ki glories aur pastimes gaane lagi.
+
+🌊 Akrūra Sees Krishna’s Divine Form
+
+Krishna, Balarāma aur Akrūra noon tak Yamunā river ke paas pahuche.
+
+Krishna aur Balarāma nearby grove mein rest karne lage, jabki Akrūra Yamunā mein bath karne gaye.
+
+Jab Akrūra sacred mantras chant karte hue water mein dip liya, tab unhone amazing vision dekha.
+
+Unhone Krishna aur Balarāma ko water ke andar divine form mein dekha.
+
+Shock mein woh immediately water se bahar aaye aur chariot ki taraf dekha.
+
+Krishna-Balarāma toh wahan pehle ki tarah peacefully baithe the!
+
+Confused Akrūra dubara river mein gaye.
+
+Is baar unhone thousand-headed Śeṣa Nāga ko dekha.
+
+Uske coils par Lord Viṣṇu divine form mein seated the.
+
+Unka complexion dark rain-cloud jaisa tha aur woh yellow silk garments pehne hue the.
+
+Unke four hands mein conch, discus, mace aur lotus shine kar rahe the.
+
+Kaustubha jewel aur Śrīvatsa mark unke chest par glow kar rahe the.
+
+Brahmā, Śiva, Nārada, Prahlāda aur many sages unki praise kar rahe the.
+
+Lakṣmī aur many divine goddesses bhi unki service kar rahi thi.
+
+Yeh divine vision dekhkar Akrūra devotion aur joy se completely overwhelmed ho gaye.
+
+Unki eyes tears se fill ho gayin aur folded hands ke saath woh Lord ki prayers karne lage."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 40
     with st.expander("Chapter 40 - Akrūra’s Hymn (in praise of the Lord)"):
-        text1 = """ """
+        text1 = """ 
+        🙏 Akrūra’s Divine Prayer to Krishna
+
+Śrī Śuka ne kaha,
+
+Yamunā ke water mein Krishna ka divine form dekhkar Akrūra ka heart pure joy aur devotion se bhar gaya.
+
+Unki eyes tears se fill ho gayin aur folded hands ke saath woh Lord ki prayer karne lage.
+
+Akrūra बोले,
+
+“O Lord Krishna, main aapko bow karta hoon.”"""
         create_image_text_layout(
             "attached_assets/chapter10/10.40.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        “Aap hi sab causes ke ultimate cause ho.”
+
+“Aap hi Nārāyaṇa ho, jo sabke hearts mein present ho.”
+
+“Aapke navel se lotus nikla, aur us lotus se Brahmā appeared, jisne universe create kiya.”
+
+Fir Akrūra ne kaha,
+
+“Earth, water, fire, air, sky, mind, senses aur sab gods — yeh sab aapse hi originate hue hain.”
+
+“Aap hi sabke source ho.”
+
+Woh respectfully bole,
+
+“Even Brahmā aur great gods bhi aapki real divine nature ko fully understand nahi kar paate.”
+
+“Kyuki aap material qualities se completely beyond ho.”
+
+Fir Akrūra different spiritual paths explain karne lage.
+
+“Kuch people sacrifices aur Vedic rituals ke through aapki worship karte hain.”
+
+“Kuch meditation aur spiritual knowledge ke through.”
+
+“Kuch aapko Nārāyaṇa form mein worship karte hain, aur kuch Śiva form mein.”
+
+“Lekin sab paths ultimately aap tak hi pahunchte hain.”
+
+Akrūra ne beautiful example diya,
+
+“Jaise sab rivers finally ocean mein mil jaati hain, waise hi sab worship aur devotion aap tak hi aati hai.”
+
+Fir woh Krishna ke universal form ko describe karne lage.
+
+“Fire aapka mouth hai.”
+
+“Earth aapke feet hai.”
+
+“Sun aapki eyes hai.”
+
+“Oceans aapka belly hain aur mountains aapki bones.”
+
+“Poora universe aapke divine body mein exist karta hai.”
+
+Akrūra lovingly बोले,
+
+“Lord, jab bhi aap different incarnations lete ho, aap duniya ka sorrow remove karte ho.”
+
+Fir woh Krishna ke many avatāras ko bow karne lage.
+
+“Main Matsya avatār ko bow karta hoon.”
+
+“Kurma, Varāha aur Narasiṁha ko bow karta hoon.”
+
+“Vāmana, Paraśurāma aur Lord Rāma ko bow karta hoon.”
+
+“Buddha aur future Kalki avatār ko bhi bow karta hoon.”
+
+Fir Akrūra emotional hokar बोले,
+
+“Lord, māyā ki wajah se duniya ‘me’ aur ‘mine’ mein trapped hai.”
+
+“Log temporary things ko permanent samajhte hain.”
+
+“Main bhi foolishly body, family, wealth aur house mein attached raha.”
+
+Woh sadly बोले,
+
+“Jaise koi mirage ko real water samajhkar uske piche bhaagta hai, waise hi main bhi unreal things ke piche bhaagta raha.”
+
+“My uncontrolled senses mujhe idhar-udhar kheenchti rahi.”
+
+Fir Akrūra full surrender ke saath बोले,
+
+“O Krishna! Aaj main aapke lotus-feet ki shelter mein aaya hoon.”
+
+“Saintly devotees ki association se hi aapke feet mein attachment develop hota hai.”
+
+“Aap hi pure consciousness aur all knowledge ke source ho.”
+
+“Please mujhe protect karo.”
+
+“Main completely aapki shelter mein hoon.”"""
         create_image_text_layout(text_content=text2, layout="full")
         
         
