@@ -4771,66 +4771,856 @@ Fir Akrūra full surrender ke saath बोले,
         
         # Chapter 41
     with st.expander("Chapter 41 - Kṛṣṇa’s Arrival at Mathurā"):
-        text1 = """ """
+        text1 = """ 
+        🏙️ Krishna Arrives at Mathurā
+
+Śrī Śuka continued,
+
+Akrūra ko divine vision dikhane ke baad Lord Krishna ne apna Viṣṇu form suddenly withdraw kar liya — bilkul ek actor ki tarah jo role finish karke stage se disappear ho jaata hai.
+
+Akrūra amazed aur emotional state mein water se bahar aaye.
+
+Krishna smilingly unse poochne lage,"""
         create_image_text_layout(
             "attached_assets/chapter10/10.41.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        “Kya tumne land, sky ya water mein koi wonderful thing dekhi?”
+
+Akrūra folded hands ke saath बोले,
+
+“Lord, poori universe ke saare wonders aapke andar hi exist karte hain.”
+
+“Jisne aapko directly dekh liya, uske liye aur kya miracle baaki reh sakta hai?”
+
+Fir Akrūra Krishna aur Balarāma ko chariot mein lekar evening tak Mathurā city ke paas le aaye.
+
+Road ke side gathered villagers Krishna-Balarāma ko dekhkar mesmerized ho gaye.
+
+Koi bhi unse apni eyes hata nahi paa raha tha.
+
+Meanwhile Nanda aur Vraja ke cowherds already city ke nearby park mein wait kar rahe the.
+
+Krishna lovingly Akrūra ka hand pakadkar बोले,
+
+“Tum pehle city chale jao.”
+
+“Hum thodi der rest karke baad mein Mathurā enter karenge.”
+
+Lekin devoted Akrūra emotional hokar बोले,
+
+“Main aap dono ko yahan chhodkar city nahi ja sakta.”
+
+“Please mere ghar ko apne lotus feet se sanctify kijiye.”
+
+“Jinke feet wash karne se Bali ko glory aur liberation mili, unhi divine feet ki dust mere home ko bless kare.”
+
+Krishna kindly बोले,
+
+“Pehle main Kaṁsa ko defeat karunga.”
+
+“Uske baad main definitely tumhare ghar aaunga.”
+
+Akrūra slightly disappointed hokar city chale gaye.
+
+🌸 The Beauty of Mathurā
+
+Next day Krishna aur Balarāma cowherd boys ke saath Mathurā city enter karne lage.
+
+Mathurā dazzling beauty se filled thi.
+
+Huge crystal gateways, golden doors, decorated mansions aur deep moats city ko magnificent bana rahe the.
+
+Roads water aur flowers se sprinkled the.
+
+Har ghar festive decorations, lamps, banana trees aur colorful flags se decorated tha.
+
+Jaise hi city women ne Krishna aur Balarāma ke arrival ki news suni, sab excited hokar gharon se bahar daudne lagi.
+
+Koi ek hi earring pehenkar aa gayi.
+
+Koi ek eye mein hi collyrium laga paayi.
+
+Koi half meal chhodkar bhaagi.
+
+Koi babies ko feed karte hue hi terrace par daud gayi.
+
+Sab Krishna ko directly dekhna chahti thi.
+
+Krishna royal elephant jaisi majestic walk karte hue city mein move kar rahe the.
+
+Unke smiles aur glances sabke hearts capture kar rahe the.
+
+Mathurā women mentally unhe apne hearts mein embrace karne lagi.
+
+Terraces se flowers rain hone lage.
+
+Brāhmaṇas joyfully sandal paste, garlands aur gifts se Krishna-Balarāma ka worship karne lage.
+
+Women ek dusre se lovingly boli,
+
+“Vraja ki gopīs ne zaroor extraordinary austerities ki hongi…”
+
+“Tabhi unhe daily Krishna aur Balarāma ko dekhne ka fortune mila hai.”
+
+👕 Krishna Punishes the Washerman
+
+Road par Krishna ne ek royal washerman ko dekha jo Kaṁsa ke expensive clothes carry kar raha tha.
+
+Krishna smilingly बोले,
+
+“Hume kuch beautiful clothes de do.”
+
+“Tumhe great prosperity milegi.”
+
+Lekin arrogant washerman angrily insult karne laga.
+
+“Tum jungle-dwellers royal clothes pehenne layak nahi ho!”
+
+“King ke servants tum jaise insolent logon ko punish karte hain.”
+
+Yeh rude words sunkar Krishna slightly angry ho gaye.
+
+Unhone sirf fingertips se us washerman ka head body se separate kar diya.
+
+Baaki servants fear mein clothes chhodkar bhaag gaye.
+
+Krishna aur Balarāma ne apne favorite garments pehne aur remaining clothes cowherd boys ko de diye.
+
+🧵 The Weaver and Florist Sudāmā
+
+Uske baad ek humble weaver Krishna-Balarāma ke paas aaya aur lovingly unhe colorful royal garments pehnaye.
+
+Beautiful dress aur ornaments mein Krishna aur Balarāma festival elephants ki tarah radiant lag rahe the.
+
+Krishna pleased hokar weaver ko blessings diye — wealth, strength, memory aur future liberation tak ka boon diya.
+
+Fir dono brothers florist Sudāmā ke house pahuche.
+
+Sudāmā immediately ground par bow hokar unka welcome karne laga.
+
+Usne garlands, sandal paste aur hospitality offer ki.
+
+Emotionally woh bola,
+
+“Aaj meri life successful ho gayi.”
+
+“Aap dono poori universe ke soul aur protectors ho.”
+
+“Please mujhe command dijiye ki main aapki kya service kar sakta hoon.”
+
+Sudāmā ne specially fragrant flower garlands Krishna aur Balarāma ko dedicate kiye.
+
+Lord dono brothers usse extremely pleased hue.
+
+Sudāmā ne sirf teen cheezein maangi:
+
+“Unwavering devotion…”
+
+“Devotees ke saath friendship…”
+
+“Aur sab beings ke prati compassion.”
+
+Krishna ne happily usse blessings, prosperity, long life aur glory grant ki — aur fir Balarāma ke saath city mein aage badh gaye."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 42
     with st.expander("Chapter 42 - Description of the Wrestling Arena"):
-        text1 = """ """
+        text1 = """ 
+        🌺 Krishna Meets Kubjā in Mathurā
+
+Śrī Śuka continued,
+
+Royal road par chalte hue Krishna ne ek young woman ko dekha jo sandal paste aur perfumes ka vessel carry kar rahi thi.
+
+Uska body three places par bent tha, isliye uska naam Tri-vakrā (Kubjā) tha.
+
+Krishna smilingly usse bole,"""
         create_image_text_layout(
             "attached_assets/chapter10/10.42.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        “O beautiful lady, tum kaun ho?”
+
+“Yeh fragrant sandal paste kis ke liye hai?”
+
+“Hume bhi thoda sandal paste do.”
+
+“Tum bahut blessed ho jaogi.”
+
+Kubjā shyly boli,
+
+“Main King Kaṁsa ki maidservant hoon.”
+
+“Main special ointments aur perfumes prepare karti hoon jo king ko bahut pasand hain.”
+
+“Lekin honestly… aapse zyada koi in fragrances ka worthy nahi hai.”
+
+Krishna aur Balarāma ki beauty, smiles aur loving glances dekhkar Kubjā ka heart completely melt ho gaya.
+
+Usne lovingly dono brothers ko sandal paste se anoint kar diya.
+
+Sandal paste lagne ke baad Krishna aur Balarāma aur bhi radiant lagne lage.
+
+Krishna Kubjā ki devotion se pleased ho gaye.
+
+Unhone decide kiya ki woh uska crooked body straight karenge — taaki duniya ko dikhe ki Lord ka darśan kya fruit deta hai.
+
+Krishna ne gently apne feet se uske feet press kiye aur do fingers se uska chin lift kiya.
+
+Instantly miracle ho gaya.
+
+Kubjā ka bent body perfectly straight aur beautiful ho gaya.
+
+Woh suddenly extraordinarily gorgeous young woman ban gayi.
+
+Krishna ke touch se uske heart mein deep love awaken ho gaya.
+
+Woh smilingly Krishna ka cloth pakadkar boli,
+
+“O hero, please mere ghar chaliye.”
+
+“Main aapke bina nahi reh sakti.”
+
+Krishna loudly laugh karne lage aur teasing tone mein बोले,
+
+“Kaṁsa ko defeat karne ke baad main definitely tumhare ghar aaunga.”
+
+“Tum toh homeless travelers jaise hum logon ka only shelter ho.”
+
+Sweet words sunkar Kubjā blissfully unhe dekhte reh gayi.
+
+🏹 Krishna Breaks the Great Bow
+
+Krishna aur Balarāma market streets se aage badhe.
+
+Merchants unhe gifts, perfumes, pearl garlands aur betel leaves offer karne lage.
+
+Mathurā ki women unki beauty dekhkar itni overwhelmed ho gayin ki kuch motionless khadi reh gayin — bilkul painted pictures ki tarah.
+
+Fir Krishna ne people se Bow-Sacrifice arena ka direction poocha aur wahan enter kiya.
+
+Andar ek gigantic jeweled bow rakha hua tha — rainbow ki tarah shining.
+
+Bahut saare armed guards usse protect kar rahe the.
+
+Guards ne Krishna ko rokne ki try ki, lekin Krishna casually aage badh gaye.
+
+Unhone sportively sirf left hand se giant bow utha liya.
+
+Fir uski string chadha kar usse full stretch kiya…
+
+CRACK!!!
+
+Krishna ne us massive bow ko instantly do pieces mein tod diya.
+
+Sound itna loud tha ki sky aur all directions vibrate karne lage.
+
+Mathurā ke log shock mein reh gaye.
+
+Kaṁsa ne jab yeh sound suna, woh terror se freeze ho gaya.
+
+Guards rage mein chillane lage,
+
+“Pakdo unhe! Bind them!”
+
+Lekin Krishna aur Balarāma angry ho gaye.
+
+Unhone broken bow ke pieces ko hi weapons bana liya aur soldiers ko defeat kar diya.
+
+Entire battalion destroy ho gaya.
+
+Citizens Krishna-Balarāma ki fearless power aur beauty dekhkar unhe divine beings samajhne lage.
+
+Evening tak dono brothers city roam karte rahe aur finally cowherd camp mein wapas aa gaye.
+
+😨 Kaṁsa’s Terrifying Omens
+
+Krishna ke heroic acts ki reports sunkar Kaṁsa panic aur fear se bhar gaya.
+
+Usse neend hi nahi aa rahi thi.
+
+Usne terrifying death omens dekhne start kiye.
+
+Kabhi mirror mein apna reflection dekhta toh head missing lagta.
+
+Kabhi ek lamp ke do-do reflections dikhte.
+
+Kabhi apne shadow mein holes nazar aate.
+
+Kabhi footsteps hi visible nahi hote.
+
+Dreams mein woh dead logon ko hug karta hua dikhta.
+
+Kabhi donkey ride karta hua.
+
+Kabhi poison peeta hua.
+
+Kabhi naked aur oil-smeared wandering karta hua.
+
+Kaṁsa fully terrified ho gaya.
+
+Woh poori raat death fear mein jagta raha.
+
+🏟️ The Wrestling Arena is Prepared
+
+Morning hote hi Kaṁsa ne grand wrestling festival organize karne ka order diya.
+
+Arena garlands, flags aur decorations se beautifully decorate kiya gaya.
+
+Trumpets aur drums loudly bajne lage.
+
+Citizens, Brāhmaṇas, princes aur kings apni-apni seats par baith gaye.
+
+Kaṁsa royal throne par baitha tha — lekin andar se anxiety aur fear uska heart torture kar rahe the.
+
+Great wrestlers bhi arena mein aa gaye:
+
+Cāṇūra, Muṣṭika, Kūṭa, Śala aur Tośala.
+
+Meanwhile Nanda aur Vraja ke cowherds bhi invited guests ki tarah alag platform par baith gaye.
+
+Sabko wait tha us moment ka…
+
+jab Krishna aur Balarāma arena mein enter karenge."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 43
     with st.expander("Chapter 43 - Killing of the elephant Kuvalayāpīḍa"):
-        text1 = """ """
+        text1 = """ 
+        🐘 Krishna Kills the Elephant Kuvalayāpīḍa
+
+Śrī Śuka continued,
+
+Next morning Krishna aur Balarāma ne bath aur morning rituals complete kiye.
+
+Wrestling arena se drums, trumpets aur cheering ki loud sounds aa rahi thi.
+
+Dono brothers excitedly tournament dekhne ke liye nikle."""
         create_image_text_layout(
             "attached_assets/chapter10/10.43.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Arena ke entrance par ek gigantic terrifying elephant khada tha — Kuvalayāpīḍa.
+
+Kaṁsa ne specially us elephant ko Krishna ko kill karne ke liye wahan station kiya tha.
+
+Krishna calmly ready hue.
+
+Unhone apna waist-cloth tight kiya aur curly hair ko upper garment se baandh liya.
+
+Fir thunder-like voice mein elephant driver se बोले,
+
+“Side ho jao.”
+
+“Hume passage do.”
+
+“Nahi toh main tumhe aur tumhare elephant dono ko Yama ke paas bhej dunga.”
+
+Driver rage mein aa gaya aur usne elephant ko Krishna par charge kar diya.
+
+Huge elephant furiously Krishna ki taraf dauda aur trunk se unhe pakad liya.
+
+Lekin Krishna instantly uski grip se slip hokar uske legs ke beech disappear ho gaye.
+
+Elephant confused ho gaya.
+
+Smell se Krishna ko locate karne ki try karne laga.
+
+Tab Krishna ne suddenly elephant ki tail pakad li aur us giant beast ko easily drag karne lage — bilkul Garuḍa snake ko kheenchta hai waise.
+
+Kabhi elephant right turn leta, toh Krishna usse opposite side ghuma dete.
+
+Kabhi left turn leta, toh Krishna usse spin kar dete.
+
+Scene bilkul aisa lag raha tha jaise koi boy calf ke saath play kar raha ho.
+
+Fir Krishna directly elephant ke saamne aaye aur powerful punch maara.
+
+Elephant repeatedly Krishna ko crush karne ki try karta raha, lekin Krishna lightning speed se dodge karte rahe.
+
+Ek moment par Krishna playful way mein ground par girte hue dikhe.
+
+Infuriated elephant ne socha Krishna neeche hi hain aur apne tusks se earth ko pierce kar diya.
+
+Lekin Krishna already side mein jump kar chuke the.
+
+Finally Krishna directly charging elephant ki taraf daude.
+
+Unhone uski trunk pakadkar poore elephant ko ground par slam kar diya.
+
+Fir lion ki tarah uske body par foot rakhkar ek tusk forcibly nikaal liya.
+
+Usi tusk se Krishna ne elephant aur uske drivers ko kill kar diya.
+
+Blood aur ichor se stained body, shoulder par giant tusk aur lotus-like smiling face ke saath Krishna unbelievably heroic lag rahe the.
+
+Balarāma aur cowherd boys ke saath Krishna arena mein enter hue.
+
+🏟️ Krishna Enters the Arena
+
+Jab Krishna arena mein enter hue, har group ne unhe different way se perceive kiya.
+
+Wrestlers ko woh thunderbolt jaise lage.
+
+Ordinary men ko superhuman hero lage.
+
+Women ko Cupid incarnate lage.
+
+Cowherds ko beloved relative lage.
+
+Parents ko innocent child lage.
+
+Yogīs ko Supreme Brahman dikhe.
+
+Aur Kaṁsa ko…
+
+khud Death nazar aaye.
+
+Kaṁsa ka fear aur bhi intense ho gaya.
+
+Meanwhile Mathurā ke citizens Krishna-Balarāma ko fascinated hokar dekh rahe the.
+
+Unki beauty aur heroism ko dekhkar log ek dusre se stories discuss karne lage.
+
+“Kṛṣṇa ne Pūtanā ko maara…”
+
+“He subdued Kāliya serpent…”
+
+“He lifted Govardhana mountain for seven days…”
+
+“He protected Vraja from Indra’s storm…”
+
+“Kṛṣṇa aur Balarāma definitely divine beings hain!”
+
+Sabke hearts devotion aur wonder se fill ho gaye.
+
+🤼 Cāṇūra Challenges Krishna
+
+Trumpets ke loud sounds ke beech giant wrestler Cāṇūra arena mein aaya.
+
+Woh Krishna aur Balarāma se बोला,
+
+“O Krishna, O Balarāma! King Kaṁsa ne specially aap dono ko wrestling dekhne ke liye invite kiya hai.”
+
+“Subjects ko king ki wishes obey karni chahiye.”
+
+“Hume pata hai ki aap dono wrestling aur combat mein experts ho.”
+
+Krishna politely बोले,
+
+“Hum forest cowherd boys hain.”
+
+“Hume apne equal strength walon ke saath wrestle karna chahiye.”
+
+“Fair match hi proper dharma hai.”
+
+Lekin Cāṇūra loudly laugh karke बोला,
+
+“Tum ordinary boys nahi ho!”
+
+“Tumne thousand elephants jitni strength wale elephant ko sport ki tarah kill kiya hai.”
+
+“Isliye koi injustice nahi hai.”
+
+“Krishna, tum mere saath wrestle karoge…”
+
+“Aur Balarāma Muṣṭika ke saath.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 44
     with st.expander("Chapter 44 - Slaying of Kaṃsa"):
-        text1 = """ """
+        text1 = """ 
+        🤼 Krishna and Balarāma Enter the Wrestling Match
+
+Śrī Śuka continued,
+
+Cāṇūra aur Muṣṭika ke challenge accept karne ke baad Krishna ne firmly Cāṇūra ko pakad liya, aur Balarāma Muṣṭika ki taraf badhe.
+
+Dono sides victory ke liye determined the.
+
+Wrestlers ek dusre ke hands, legs aur shoulders lock karke violently pull aur push karne lage.
+
+Kabhi fists se strike karte…
+
+kabhi knees se…
+
+kabhi heads aur chests se collide hote.
+
+Kabhi ek dusre ko whirl karte, kabhi ground par slam karte, kabhi tightly crush karne ki try karte.
+
+Entire arena thunderous combat se vibrate hone laga."""
         create_image_text_layout(
             "attached_assets/chapter10/10.44.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        😢 Women of Mathurā Protest
+
+Arena mein present women yeh unequal fight dekhkar deeply disturbed ho gayin.
+
+Woh groups mein discuss karne lagi,
+
+“Yeh totally unfair hai!”
+
+“Yeh wrestlers mountain jaise giant aur powerful hain…”
+
+“Aur Krishna-Balarāma toh abhi delicate young boys lagte hain.”
+
+“Such injustice ko tolerate karna bhi sin hai.”
+
+Fir women Krishna ki beauty aur Vraja life ko lovingly remember karne lagi.
+
+“Kya blessed land hogi Vraja…”
+
+“Jahan Lord Krishna wild flower garlands pehenkar flute bajate hue cows graze karte hain.”
+
+“Gopīs ne zaroor unimaginable tapasya ki hogi…”
+
+“Tabhi woh har roz Krishna ke smiling lotus-face ko dekh paati hain.”
+
+Women emotionally Vraja women ki devotion glorify karne lagi:
+
+“Woh milking, churning, sweeping aur lullabies gaate hue bhi Krishna ka naam gaati rehti hain.”
+
+“Unka heart completely Krishna mein absorbed rehta hai.”
+
+Meanwhile Devakī aur Vasudeva bhi fearful ho gaye.
+
+Unhe abhi tak Krishna-Balarāma ki divine strength ka full realization nahi tha.
+
+Par Krishna ne decide kar liya tha — ab evil wrestlers ka end hona hi hai.
+
+💥 Krishna Kills Cāṇūra
+
+Fight aur intense ho gayi.
+
+Cāṇūra repeatedly Krishna par thunderbolt-like punches aur attacks use kar raha tha.
+
+Ek moment par woh hawk ki speed se jump karke dono fists Krishna ke chest par de maarta hai.
+
+Lekin Krishna ek inch bhi move nahi hue.
+
+Bilkul elephant par flower-garland strike karne jaisa effect hua.
+
+Fir Krishna ne suddenly Cāṇūra ke dono arms pakad liye.
+
+Unhone us giant wrestler ko rapidly spin karna start kar diya.
+
+Speed itni terrifying thi ki Cāṇūra ki life-force hi extinguish hone lagi.
+
+Finally Krishna ne usse violently ground par smash kar diya.
+
+Uske ornaments scatter ho gaye, hair dishevelled ho gaya, aur woh dead pad gaya — bilkul broken flagstaff ki tarah.
+
+💪 Balarāma Defeats Muṣṭika
+
+Same time Balarāma aur Muṣṭika ka battle bhi raging tha.
+
+Muṣṭika ne powerful punch maara, lekin Balarāma ne usse violent palm-strike diya.
+
+Muṣṭika internally crushed feel karne laga.
+
+Woh blood vomit karta hua storm se uprooted tree ki tarah gir gaya — dead.
+
+Uske baad Balarāma ne casually left fist se Kūṭa ko kill kar diya.
+
+Krishna ne Śala aur Tośalaka ko kicks se instantly finish kar diya.
+
+Remaining wrestlers fear se arena se bhaag gaye.
+
+🎉 Arena Rejoices
+
+Krishna aur Balarāma happily apne cowherd friends ko arena mein le aaye.
+
+Trumpets aur drums loudly bajne lage.
+
+Dono brothers dancing aur sporting karne lage, unke anklets sweetly jingle kar rahe the.
+
+Entire audience except Kaṁsa joy se bhar gayi.
+
+Brāhmaṇas loudly cheer karne lage:
+
+“Excellent!”
+
+“Bravo!”
+
+Lekin Kaṁsa rage aur terror se explode ho gaya.
+
+Usne angrily orders dene start kiye:
+
+“Krishna aur Balarāma ko city se nikaalo!”
+
+“Cowherds ki wealth confiscate karo!”
+
+“Nanda ko arrest karo!”
+
+“Vasudeva aur Ugrasena ko immediately kill kar do!”
+
+👑 Krishna Slays Kaṁsa
+
+Kaṁsa ke cruel orders sunkar Krishna furious ho gaye.
+
+Woh lightning speed se royal platform ki taraf leap kar gaye.
+
+Kaṁsa ne Krishna ko approaching Death ki tarah dekha.
+
+Woh instantly sword aur shield lekar defensive stance mein aa gaya.
+
+Lekin Krishna unstoppable the.
+
+Garuḍa snake ko pakadta hai waise Krishna ne Kaṁsa ko firmly seize kar liya.
+
+Unhone uska crown gira diya aur hair se pakadkar usse high throne se neeche arena floor par throw kar diya.
+
+Fir Lord Krishna — universe ke support aur Supreme Viṣṇu — directly uske upar jump kar gaye.
+
+Us impact se Kaṁsa ki life instantly leave ho gayi.
+
+Entire arena screams aur shock se bhar gaya.
+
+Krishna ne dead Kaṁsa ko lion ki tarah ground par drag kiya.
+
+🌸 Kaṁsa’s Liberation
+
+Śrī Śuka explained,
+
+Kaṁsa continuously Krishna ke fear mein jeeta tha.
+
+Eating, sleeping, walking — har moment woh Krishna ko remember karta rehta tha.
+
+Isliye death ke baad bhi usse rare spiritual liberation mila.
+
+⚔️ Kaṁsa’s Brothers are Killed
+
+Kaṁsa ke eight brothers revenge lene ke liye attack karne lage.
+
+Lekin Balarāma ne elephant tusk ko club ki tarah use karke sabko lion ki tarah destroy kar diya.
+
+Sky mein heavenly drums bajne lage.
+
+Brahmā, Śiva aur gods flowers rain karne lage.
+
+Celestial women dance karne lagi.
+
+😭 Kaṁsa’s Queens Lament
+
+Kaṁsa aur uske brothers ki widows crying condition mein arena mein aayi.
+
+Woh apne husbands ke bodies ko hug karke loudly lament karne lagi.
+
+“Mathurā ab joyless ho gayi…”
+
+“Cruelty toward innocents hi tumhari downfall ka cause bani…”
+
+“Koi bhi Krishna ke against jaakar happy nahi reh sakta.”
+
+🙏 Krishna Meets His Parents
+
+Krishna ne royal women ko console kiya aur proper funeral rites perform karvaye.
+
+Uske baad Krishna aur Balarāma jail mein gaye aur Devakī-Vasudeva ko chains se free kar diya.
+
+Dono brothers ne deeply respectfully unke feet touch kiye.
+
+Lekin Devakī aur Vasudeva fully realize kar chuke the ki unke sons actually Supreme Lords hain.
+
+Is divine awe aur reverence ki wajah se woh initially Krishna-Balarāma ko normal parents ki tarah hug bhi nahi kar paaye."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 45
     with st.expander("Chapter 45 - Restoration of Preceptor Sāndīpani’s son"):
-        text1 = """ """
+        text1 = """ 
+        👨‍👩‍👦 Krishna Comforts His Parents
+
+Śrī Śuka continued,
+
+Devakī aur Vasudeva ko Krishna-Balarāma ki divine nature realize ho chuki thi.
+
+Unke heart mein parental affection ki jagah awe aur reverence aa gaya tha.
+
+Yeh dekhkar Lord Krishna ne apni Yogamāyā use ki — taaki unke parents phir naturally unse apne children ki tarah love kar sakein.
+
+Fir Krishna aur Balarāma great humility ke saath unke paas gaye aur respectfully बोले,
+
+“O Mother… O Father…”"""
         create_image_text_layout(
             "attached_assets/chapter10/10.45.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Krishna emotional tone mein बोले,
+
+“Unfortunately hum aapko apna infancy aur childhood enjoy nahi kara paaye.”
+
+“Hum aapke paas rehkar parental affection receive nahi kar sake.”
+
+“Parents ka debt toh hundred years mein bhi repay nahi ho sakta.”
+
+“Jo son capable hoke bhi parents ki service nahi karta, woh spiritually dead jaisa hai.”
+
+“Kaṁsa ke terror ki wajah se hum aapki properly service nahi kar paaye.”
+
+“Please hume forgive kijiye.”
+
+Krishna ke sweet humble words sunkar Devakī aur Vasudeva ka heart melt ho gaya.
+
+Woh Krishna aur Balarāma ko lap mein lekar tightly embrace karne lage.
+
+Unki eyes tears se fill ho gayin aur emotion ki wajah se woh properly speak bhi nahi kar pa rahe the.
+
+👑 Ugrasena Becomes King Again
+
+Parents ko comfort karne ke baad Krishna ne apne maternal grandfather Ugrasena ko Yadus ka king bana diya.
+
+Krishna respectfully बोले,
+
+“O great king, please hum sabko rule kijiye.”
+
+“Yadu dynasty par ancient curse hai, isliye hum throne occupy nahi karenge.”
+
+“Jab main aapka servant bankar stand karta hoon, toh even gods bhi aapko honour karenge.”
+
+Fir Krishna ne Kaṁsa ke fear se exile hue Yadus, Vṛṣṇis, Andhakas aur other relatives ko wapas bulaaya.
+
+Unhe homes, wealth aur security provide ki.
+
+Entire Mathurā Krishna-Balarāma ki protection mein joyful aur prosperous ho gayi.
+
+Log daily Krishna ke smiling lotus-face ko dekhkar bliss feel karte the.
+
+Even old people rejuvenated aur energetic feel karne lage.
+
+🐄 Krishna Says Goodbye to Nanda
+
+Uske baad Krishna aur Balarāma Nanda Bābā ke paas gaye.
+
+Unhone lovingly Nanda ko embrace karke कहा,
+
+“O Father, aap aur Mother Yaśodā ne hume unimaginable love diya.”
+
+“True parents wahi hote hain jo abandoned children ko bhi apne own kids ki tarah nourish karein.”
+
+“Ab aap Vraja wapas jaiye.”
+
+“Hum Mathurā mein relatives aur kingdom ka welfare settle karke soon aapse milne aayenge.”
+
+Nanda deeply emotional ho gaye.
+
+Eyes tears se filled thi jab unhone Krishna-Balarāma ko hug kiya.
+
+Fir Vraja ke cowherds sadly wapas chale gaye.
+
+🎓 Sacred Thread Ceremony
+
+Vasudeva ne proper Vedic rituals ke saath Krishna aur Balarāma ka sacred-thread ceremony perform karvaya.
+
+Family priest Garga aur many Brāhmaṇas invite kiye gaye.
+
+Huge charity bhi di gayi:
+
+Golden ornaments aur silk-cloth se decorated cows Brāhmaṇas ko gift ki gayin.
+
+Krishna aur Balarāma officially brahmacārī students ban gaye.
+
+📚 Krishna and Balarāma Study Under Sāndīpani
+
+Though Krishna aur Balarāma omniscient the, phir bhi unhone ordinary students ki tarah behave kiya — taaki duniya ko ideal conduct sikhaya ja sake.
+
+Dono brothers Avantī city mein sage Sāndīpani ke gurukul gaye.
+
+Wahan unhone perfect humility aur devotion ke saath guru ki service ki.
+
+Sāndīpani extremely pleased hue aur unhe Vedas, Upaniṣads, military science, law, logic aur politics sab sikhaya.
+
+Amazing baat yeh thi:
+
+Jo bhi lesson guru ek baar bolte, Krishna-Balarāma instantly master kar lete.
+
+Sirf sixty-four days aur nights mein dono ne sixty-four arts aur sciences complete kar liye.
+
+🌊 Guru Dakṣiṇā — Restoring the Guru’s Son
+
+Education complete hone ke baad Krishna aur Balarāma ne respectfully poocha,
+
+“Guruji, aap kya guru-dakṣiṇā chahte hain?”
+
+Sāndīpani aur unki wife ne consult karke ek heartbreaking request rakhi.
+
+“Hamāra son ocean mein Prabhāsa ke paas mar gaya tha…”
+
+“Agar possible ho, usse wapas le aao.”
+
+Krishna aur Balarāma immediately बोले,
+
+“So be it.”
+
+Dono chariot mein Prabhāsa ocean ke shore par gaye.
+
+Ocean deity personally aakar unka worship karne laga.
+
+Krishna ne directly poocha,
+
+“Hamāre guru ka son hume return karo.”
+
+Ocean deity respectfully bola,
+
+“Main responsible nahi hoon.”
+
+“Pañcajana naam ka demon conch-form mein waters mein rehta hai.”
+
+“Usne shayad boy ko carry away kiya.”
+
+Krishna instantly ocean mein dive kar gaye.
+
+Unhone Pañcajana demon ko kill kiya, lekin boy uske body mein nahi mila.
+
+Krishna us demon ke conch-shell ko lekar wapas aaye — jo later famous Pāñcajanya conch bana.
+
+Fir Krishna aur Balarāma Yama’s city Saṁyamanī gaye aur conch loudly blow kiya.
+
+Yama himself deep devotion ke saath unka worship karne laga.
+
+Krishna बोले,
+
+“Hamāre guru ka son yahan ho toh immediately le aao.”
+
+Yama instantly obey kar gaya.
+
+Guru ka dead son alive form mein Krishna-Balarāma ko return kar diya gaya.
+
+Dono brothers us boy ko wapas Sāndīpani ke paas le aaye.
+
+Guru overwhelmed ho gaye.
+
+Woh बोले,
+
+“O Krishna, tumne perfect guru-dakṣiṇā de di.”
+
+“Ab mujhe aur kuch nahi chahiye.”
+
+“Tumhari glory poori world ko purify kare.”
+
+Blessings lekar Krishna aur Balarāma wind-speed chariot mein Mathurā wapas aa gaye.
+
+Unhe dekhkar citizens utne hi joyful hue jitna lost treasure recover hone par log hote hain."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
