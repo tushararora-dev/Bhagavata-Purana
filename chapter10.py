@@ -5626,66 +5626,1322 @@ Unhe dekhkar citizens utne hi joyful hue jitna lost treasure recover hone par lo
 
     # Chapter 46
     with st.expander("Chapter 46 - Uddhava deputed for consoling Nanda"):
-        text1 = """ """
+        text1 = """ 
+        💛 Kṛṣṇa Sends Uddhava to Vraja
+
+Śrī Śuka narrated,
+
+Uddhava Vṛṣṇis ka foremost counselor tha aur Lord Kṛṣṇa ka extremely beloved friend bhi.
+
+Woh Bṛhaspati ka direct disciple tha aur extraordinary intelligence rakhta tha.
+
+Ek din Kṛṣṇa ne lovingly Uddhava ka hand pakadkar usse kaha:
+
+“O gentle Uddhava, please Vraja jao.”
+
+“Mere parents — Nanda aur Yaśodā — ko meri message dekar comfort karo.”
+
+“Aur Gopīs jo separation mein suffering kar rahi hain, unhe bhi console karo.”"""
         create_image_text_layout(
             "attached_assets/chapter10/10.46.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🌸 Kṛṣṇa Describes the Love of the Gopīs
+
+Kṛṣṇa deeply emotional hokar बोले:
+
+“Gopīs ne apna heart aur soul completely mujhe dedicate kar diya hai.”
+
+“Mere liye unhone husbands, sons aur even bodily comforts tak abandon kar diye.”
+
+“They think only of me.”
+
+“Main un logon ko always support karta hoon jo everything sacrifice karke sirf mujhe love karte hain.”
+
+“Mere distant hone ki wajah se woh constant grief aur longing mein live kar rahi hain.”
+
+“Sirf meri return ki hope unhe somehow alive rakhi hui hai.”
+
+🚩 Uddhava Arrives in Gokula
+
+Kṛṣṇa ka sacred message receive karke Uddhava immediately chariot par Vraja ke liye depart hua.
+
+Sunset ke time woh Nanda’s Gokula pahunch gaya.
+
+Entire Vraja beautiful pastoral life se filled tha:
+
+cows returning home
+dust clouds rising from hoofs
+bulls roaring
+calves joyfully jumping
+flute music echoing everywhere
+
+🌿 Evening Beauty of Vraja
+
+Gokula heavenly beauty se shine kar raha tha.
+
+Gopīs aur Gopas songs mein Kṛṣṇa aur Balarāma ke exploits glorify kar rahe the.
+
+Everywhere:
+
+lamps glowing
+incense burning
+sacred worship happening
+blossoming groves
+humming bees
+lotus ponds with swans
+
+Vraja divine paradise jaisa lag raha tha.
+
+🤗 Nanda Welcomes Uddhava
+
+Uddhava ko dekhkar Nanda Mahārāja immense joy se fill ho gaye.
+
+Unhone lovingly embrace karke honour diya — almost as if Kṛṣṇa himself aa gaya ho.
+
+After hospitality aur rest, Nanda emotionally questions poochne lage.
+
+😢 Nanda Remembers Kṛṣṇa
+
+“Dear Uddhava,” Nanda बोले,
+
+“Kya Vasudeva aur sab relatives well hain?”
+
+“Kya Kṛṣṇa humein yaad karta hai?”
+
+“Yaśodā ko…”
+
+“Uske friends ko…”
+
+“Vṛndāvana ko…”
+
+“Govardhana ko…”
+
+“Hamari cows ko…”
+
+“Will he come back even once so that we can see his smiling face again?”
+
+Nanda then remembered all dangers from which Kṛṣṇa had protected Vraja:
+
+forest fire
+storms
+Kāliya serpent
+Ariṣṭa demon
+deadly accidents
+
+“Kṛṣṇa ko yaad karte hi hamare actions ruk jaate hain.”
+
+“Yamunā, forests aur playgrounds dekhkar hamara mind automatically usmein absorb ho jata hai.”
+
+⚡ Nanda Realizes Kṛṣṇa’s Divinity
+
+Nanda further बोले,
+
+“Garga Muni ki prophecy mujhe yaad hai.”
+
+“Mujhe lagta hai Balarāma aur Kṛṣṇa ordinary children nahi hain.”
+
+“They seem like great divine beings descended for some cosmic mission.”
+
+Fir unhone Kṛṣṇa’s impossible feats remember kiye:
+
+Kaṃsa’s death
+Cāṇūra and Muṣṭika’s destruction
+Kuvalayāpīḍa elephant slain
+Govardhana lifted for seven days
+demons like Pralamba, Dhenuka, Ariṣṭa, Tṛṇāvarta, Baka killed effortlessly
+
+😭 Yaśodā’s Tears
+
+Kṛṣṇa ke childhood exploits sunte-sunte Nanda silent ho gaye, overwhelmed by longing and love.
+
+Meanwhile Yaśodā tears se completely drenched ho gayi.
+
+Maternal affection ki intensity se unke breasts se milk spontaneously flow hone laga.
+
+🌌 Uddhava Reveals Kṛṣṇa’s Divine Nature
+
+Nanda aur Yaśodā ki supreme devotion dekhkar Uddhava deeply moved ho gaya.
+
+Woh बोले:
+
+“O blessed ones, aap dono truly most fortunate beings ho.”
+
+“Kṛṣṇa ordinary child nahi hai.”
+
+“He is Nārāyaṇa himself — source of the universe.”
+
+“Balarāma aur Kṛṣṇa are the primal cause of creation.”
+
+“At death, jo even ek moment ke liye usmein mind fix karta hai, woh all karmas burn karke highest liberation attain karta hai.”
+
+💫 Promise of Reunion
+
+Uddhava lovingly assured them:
+
+“Kṛṣṇa soon Vraja wapas aayega.”
+
+“He will fulfil every promise he made after Kaṃsa’s death.”
+
+“Please grief mein mat doobiye.”
+
+“He eternally lives in the hearts of all beings.”
+
+Fir Uddhava explained Kṛṣṇa’s transcendental nature:
+
+no attachment
+equal to all
+beyond birth and karma
+incarnates only for protecting righteousness
+
+“He is not merely your son…”
+
+“He is the soul, father, mother and essence of everything.”
+
+🌅 Dawn in Vraja
+
+Is spiritual conversation mein poori night pass ho gayi without anyone realizing it.
+
+Morning hote hi Gopīs wake up hui aur:
+
+lamps light kiye
+household deities worship ki
+curd churning start kiya
+
+Jewels aur earrings lamp-light mein shine kar rahe the.
+
+Unki bangles rhythmic sound create kar rahi thi while they loudly sang Kṛṣṇa’s divine deeds.
+
+Entire heaven un songs aur churning sounds se fill ho gaya, dispelling all inauspiciousness.
+
+🚩 The Gopīs Notice Uddhava’s Chariot
+
+Sunrise ke baad Gopīs ne Nanda’s house ke bahar ek golden chariot dekha.
+
+Woh suspiciously poochne lagi:
+
+“Kya Akrūra phir se aaya hai?”
+
+“Wahi jisne Kṛṣṇa ko Mathurā le jaakar hamse separate kar diya?”
+
+“Kya ab woh hamare bodies ko dead Kaṃsa ke funeral offerings banane aaya hai?”
+
+Isi discussion ke beech Uddhava morning duties complete karke unke paas arrive hua."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 47
     with st.expander("Chapter 47 - Uddhava’s Discourse on the Real Nature of the Lord"):
-        text1 = """ """
+        text1 = """ 
+        🌸 Uddhava Meets the Gopīs
+
+Śrī Śuka continued,
+
+Morning mein jab Gopīs ne Uddhava ko properly dekha, woh stunned reh gayin.
+
+Uski appearance almost Kṛṣṇa jaisi thi:
+
+lotus-like eyes
+yellow silk clothes
+lotus garland
+shining earrings
+cheerful smiling face
+
+Sab Vraja maidens curiosity aur longing se uske around gather ho gayin."""
         create_image_text_layout(
             "attached_assets/chapter10/10.47.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Jab unhe pata chala ki woh Kṛṣṇa ka messenger hai, they respectfully welcomed him with shy smiles aur sweet words.
+
+Fir privately usse questions poochne lagi.
+
+💔 The Gopīs Speak Their Pain
+
+Gopīs sadly boli:
+
+“Humein pata chala hai ki tum Kṛṣṇa ke messenger ho aur Nanda-Yaśodā ko comfort dene aaye ho.”
+
+“Lekin honestly… Gokula mein ab uske liye yaad rakhne layak kya bacha hai?”
+
+Fir unhone worldly relationships ki temporary nature explain ki:
+
+courtesans poor lovers ko abandon karti hain
+subjects weak king ko leave kar dete hain
+birds fruitless trees ko chhod dete hain
+guests meal ke baad chale jaate hain
+
+“Exactly waise hi Kṛṣṇa bhi humein leave kar gaya…”
+
+😭 Gopīs Lose Their Shyness
+
+Kṛṣṇa ke childhood aur rāsa memories yaad karke Gopīs openly weep karne lagi.
+
+Social shyness completely disappear ho gayi.
+
+Unki speech, body aur thoughts sab completely Kṛṣṇa mein absorbed thi.
+
+🐝 The Famous “Bhramara-gītā” — Song to the Bee
+
+Ek particular Gopī, Kṛṣṇa ke thoughts mein deeply immersed thi.
+
+Tab usne ek black bee ko dekha.
+
+Usne imagine kiya ki yeh bee actually Kṛṣṇa ka messenger hai.
+
+Then she began speaking to the bee in intense divine madness of love.
+
+😠 “Don’t Touch Our Feet!”
+
+Gopī sarcastically boli:
+
+“O bee! O friend of that rogue Kṛṣṇa!”
+
+“Hamaare feet ko touch mat karo.”
+
+“Tumhari beard-like tentacles Mathurā women ke saffron se stained hain.”
+
+“Jaakar wahi city ladies ko please karo.”
+
+💔 Complaint Against Kṛṣṇa
+
+Fir usne Kṛṣṇa ko compare kiya black bee se:
+
+“Jaise bee flower ka honey drink karke immediately usse abandon kar deta hai…”
+
+“Waise hi Kṛṣṇa ne humein ek baar apne lips ka nectar taste karaya aur instantly leave kar diya.”
+
+“How strange that Lakṣmī still serves him!”
+
+“She must be enchanted by his sweet talks.”
+
+🌲 “Go Sing for the Women of Mathurā”
+
+Gopī continued:
+
+“Humein Kṛṣṇa ki glories mat sunaao.”
+
+“Jaao Mathurā women ke paas.”
+
+“Wahi tumhe rewards dengi, because they now enjoy his embraces and affection.”
+
+“How can any woman resist his charming smiles and dancing eyebrows?”
+
+“We forest girls are nothing before him.”
+
+😢 Love Mixed with Anger
+
+Bee jab uske feet ke paas hover karne laga, she said:
+
+“Humein sweet words se reconcile karne ki koshish mat karo.”
+
+“We abandoned:
+
+husbands
+children
+social honour
+future happiness
+
+sirf Kṛṣṇa ke liye.”
+
+“Aur usne humein abandon kar diya.”
+
+⚡ Gopī Criticizes Previous Avatāras
+
+Divine love-madness mein Gopī ne Kṛṣṇa ke previous avatāras par bhi playful accusations lagaye.
+
+“As Rāma, he secretly killed Vālī.”
+
+“He disfigured Śūrpaṇakhā.”
+
+“As Vāmana he accepted Bali’s worship and then bound him.”
+
+“Enough of friendship with this dark-complexioned trickster!”
+
+Lekin immediately she admitted:
+
+“Still… his stories are too sweet to give up.”
+
+🌌 Kṛṣṇa’s Stories Make People Renounce the World
+
+Gopī said:
+
+“Jo log even once Kṛṣṇa’s līlās ka nectar hear karte hain…”
+
+“Woh homes aur worldly attachments abandon karke wandering ascetics ban jaate hain.”
+
+“Exactly like birds flying free.”
+
+🦌 “We Were Like Innocent Deer”
+
+“We innocent girls hunter ke music se trapped deer ki tarah thi.”
+
+“Kṛṣṇa ke sweet promises ko genuine samajh liya…”
+
+“And now we suffer unbearable pangs of separation.”
+
+💛 Longing for Kṛṣṇa
+
+Finally anger slowly melted into longing.
+
+“O bee…” she softly asked,
+
+“Kya Kṛṣṇa humein remember karta hai?”
+
+“Does he remember Nanda’s house?”
+
+“Uski maidservants?”
+
+“Would that he once again place his sandal-fragrant arm upon my head…”
+
+🌟 Uddhava Praises the Gopīs
+
+Yeh extraordinary love sunkar Uddhava overwhelmed ho gaya.
+
+Woh बोला:
+
+“O Gopīs, you have achieved the highest purpose of human life.”
+
+“Supreme devotion to Kṛṣṇa is attained after:
+
+charity
+austerities
+Vedic studies
+self-control
+
+Lekin tumne naturally attain kar li.”
+
+“You abandoned everything for Kṛṣṇa.”
+
+“Even sages struggle to achieve such devotion.”
+
+🕉️ Kṛṣṇa’s Message Through Uddhava
+
+Then Uddhava delivered Kṛṣṇa’s own message.
+
+Kṛṣṇa said:
+
+“There can never truly be separation between you and me.”
+
+“Just as five elements exist everywhere…”
+
+“I exist within all beings as the Inner Soul.”
+
+Mind, senses aur universe sab uski māyā ke through operate karte hain.
+
+🧘 Purpose of Separation
+
+Kṛṣṇa explained:
+
+“Main physically distant isliye hoon taaki tumhara mind constantly mujh mein absorbed rahe.”
+
+“When beloved is far away, remembrance becomes even deeper.”
+
+“Since you have fully surrendered your hearts to me…”
+
+“You will soon attain me completely.”
+
+🌸 Gopīs Hear the Message
+
+Kṛṣṇa’s message sunkar Gopīs deeply comforted hui.
+
+Fir bhi they continued asking about him:
+
+“Does he ever speak about us in Mathurā?”
+
+“Does he remember those moonlit rāsa nights in Vṛndāvana?”
+
+“Will he return and revive us like rain revives dried forests?”
+
+Some sadly accepted:
+
+“He has now gained kingdom, fame and city wives…”
+
+“Why would he return to forest girls like us?”
+
+🌿 Impossible to Forget Kṛṣṇa
+
+Yet all Gopīs agreed on one thing:
+
+“It is impossible to forget him.”
+
+Everywhere reminded them of Kṛṣṇa:
+
+Yamunā river
+Govardhana
+Vṛndāvana forests
+flute music
+his footprints
+
+“Our hearts have been stolen by his smile, gait, glances and words.”
+
+“How can we ever forget him?”
+
+🙏 “Save Gokula from the Ocean of Grief”
+
+At last the Gopīs cried:
+
+“O Lord of Vraja!”
+
+“O destroyer of our suffering!”
+
+“Please rescue Gokula submerged in the ocean of sorrow!”
+
+🌟 Uddhava Glorifies the Gopīs
+
+Uddhava stayed in Vraja for many months, constantly speaking Kṛṣṇa-kathā and reducing everyone’s grief.
+
+Gradually he became awestruck by the Gopīs’ devotion.
+
+Finally he openly praised them:
+
+“Only these Gopīs have truly fulfilled human life.”
+
+“Their love for Kṛṣṇa is what sages and liberated souls aspire for.”
+
+🌱 Uddhava’s Famous Prayer
+
+Uddhava then made one of the most famous prayers in Bhāgavata Purāṇa:
+
+“I wish to become even a shrub, creeper or blade of grass in Vṛndāvana…”
+
+“…so that I may receive the dust of the feet of these Gopīs who abandoned everything for Kṛṣṇa.”
+
+He repeatedly bowed to the dust beneath the feet of the Vraja women.
+
+🚩 Uddhava Returns to Mathurā
+
+Finally Uddhava prepared to leave.
+
+Nanda, Yaśodā aur all cowherds tear-filled eyes ke saath gifts lekar aaye.
+
+They prayed:
+
+“May our minds always stay fixed on Kṛṣṇa’s lotus feet.”
+
+“May our speech always glorify him.”
+
+“May our bodies always bow before him.”
+
+Deeply moved by their devotion, Uddhava returned to Mathurā and reported everything to Kṛṣṇa."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 48
     with st.expander("Chapter 48 - Visit to the Houses of Trivakrā and Akrūra"):
-        text1 = """ """
+        text1 = """ 
+        🌸 Kṛṣṇa Visits Trivakrā
+
+Śrī Śuka continued,
+
+Kṛṣṇa ne realize kiya ki Trivakrā (Kubjā) intense love aur longing mein unke liye pine kar rahi thi.
+
+Being omniscient aur everyone ke indwelling soul, Lord personally uske house gaye taaki uski heartfelt desire fulfil kar sakein."""
         create_image_text_layout(
             "attached_assets/chapter10/10.48.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🏡 Trivakrā’s Luxurious House
+
+Kubjā ka house extraordinary luxury se decorated tha:
+
+pearl garlands
+flags and canopies
+rich beds and seats
+fragrant incense
+scented lamps
+flowers and perfumes
+
+Entire atmosphere erotic beauty aur royal elegance se filled tha.
+
+Walls beautiful kāmaśāstra-style paintings se adorned thi.
+
+💛 Trivakrā Welcomes Kṛṣṇa
+
+Jab Trivakrā ne Kṛṣṇa ko arrive hote dekha, woh excitement aur nervous joy se immediately seat se uth gayi.
+
+Apni female companions ke saath aage badhkar usne Kṛṣṇa aur Uddhava ka warm welcome kiya.
+
+High comfortable seats aur worship articles respectfully offer kiye gaye.
+
+Uddhava humility se floor par baith gaye, while Kṛṣṇa worldly etiquette follow karte hue inner chamber ki taraf chale gaye.
+
+🌺 Trivakrā Beautifies Herself
+
+Trivakrā then lovingly prepared herself:
+
+bath liya
+cosmetics apply kiye
+fine clothes pehne
+ornaments aur flower garlands se decorate hui
+perfumes aur betel use kiya
+
+Shy smiles aur amorous glances ke saath woh Kṛṣṇa ke paas aayi.
+
+✨ Kṛṣṇa Grants Her Desire
+
+First meeting ki bashfulness ki wajah se woh slightly nervous thi.
+
+Kṛṣṇa ne affectionately uska bracelet-adorned hand pakda aur usse bed par apne paas bithaya.
+
+Lord ne usse woh desired happiness diya jo woh deeply wish karti thi.
+
+Bhāgavata explains ki yeh reward tha us “small act of merit” ka — jab usne Kaṃsa ke liye le ja raha fragrant sandal-paste lovingly Kṛṣṇa ko offer kiya tha.
+
+💞 Trivakrā’s Love-Fever Ends
+
+Kṛṣṇa ke lotus-feet ki fragrance aur touch ne Trivakrā ke separation-pain aur love-fever ko instantly destroy kar diya.
+
+Usne blissfully Kṛṣṇa ko embrace kiya aur long separation ka suffering finally disappear ho gaya.
+
+🙏 Trivakrā’s Request
+
+Even after receiving Kṛṣṇa’s association, Trivakrā emotionally pleaded:
+
+“O beloved Lord…”
+
+“Please kuch din mere house mein stay kijiye.”
+
+“I cannot bear separation from you.”
+
+🌟 Kṛṣṇa Leaves After Blessing Her
+
+Kṛṣṇa ne uski desire fulfil ki aur honour bhi diya.
+
+Then respectful Lord of the Universe Uddhava ke saath wapas palace return kar gaye.
+
+Bhāgavata then remarks:
+
+Jo person Supreme Lord ko worship karke sirf sensual pleasures maangta hai, uski intelligence actually distorted hai — because Lord can grant ultimate liberation itself.
+
+🚩 Kṛṣṇa Visits Akrūra
+
+After this Kṛṣṇa ne decide kiya ki Akrūra ko ek important mission diya jaye.
+
+So Kṛṣṇa, Balarāma aur Uddhava together Akrūra ke house gaye.
+
+Distance se hi Akrūra unhe dekhkar overwhelming joy se bhar gaya.
+
+Woh quickly aage badha aur un sabko lovingly receive kiya.
+
+🙇 Akrūra Worships the Lords
+
+Though older in age, Akrūra knew their divine nature.
+
+Isliye usne respectfully Kṛṣṇa aur Balarāma ko bow kiya.
+
+Then he:
+
+washed their feet
+sprinkled that sacred water on his head
+offered clothes, perfumes, garlands and ornaments
+massaged their feet after placing them in his lap
+
+Deep devotion aur humility ke saath he began glorifying them.
+
+🌌 Akrūra Praises Kṛṣṇa
+
+Akrūra बोले:
+
+“Kaṃsa aur uske followers ko kill karke aapne Yadu race ko endless suffering se rescue kar diya.”
+
+“You are actually:
+
+Pradhāna (Primordial Matter)
+Puruṣa (Supreme Self)
+
+Both cause and support of the universe.”
+
+🕉️ Supreme Brahman
+
+Akrūra further explained:
+
+“O Kṛṣṇa, you are Supreme Brahman itself.”
+
+“You create the universe through your powers and then enter it as the Inner Soul.”
+
+“Just as earth, water and fire appear in countless forms…”
+
+“You also manifest in innumerable beings and forms.”
+
+🌠 Beyond Bondage
+
+Akrūra clarified an important spiritual point:
+
+Though Kṛṣṇa appears born like ordinary beings, actually:
+
+no bondage
+no limitation
+no real birth
+no karma
+
+can ever apply to him.
+
+“All such ideas are projections of ignorance.”
+
+⚔️ Purpose of the Incarnation
+
+Akrūra said:
+
+“You incarnated in Vasudeva’s house along with Balarāma to remove Earth’s burden by slaying demonic kings.”
+
+“And also to increase the glory of the Yadu dynasty.”
+
+🙏 “Cut My Bonds of Māyā”
+
+Then Akrūra made a heartfelt prayer:
+
+“O Lord!”
+
+“Please cut away my attachments to:”
+
+sons
+wife
+wealth
+relatives
+even my own body
+
+😊 Kṛṣṇa’s Sweet Reply
+
+Hearing these prayers, Kṛṣṇa smiled sweetly and affectionately addressed Akrūra.
+
+“You are our elder relative and well-wisher.”
+
+“We are like your children.”
+
+“Saintly persons like you are greater than even holy places.”
+
+“Tīrthas purify gradually…”
+
+“But saints sanctify immediately merely by their presence.”
+
+📜 Mission to Hastināpura
+
+Finally Kṛṣṇa revealed why he had come.
+
+“O Akrūra, please go to Hastināpura.”
+
+“Investigate the condition of the Pāṇḍavas.”
+
+“We have heard that after Pāṇḍu’s death they are living under Dhṛtarāṣṭra’s care.”
+
+“But blind Dhṛtarāṣṭra is controlled by his wicked son Duryodhana and may not be treating them fairly.”
+
+“Find out the truth carefully.”
+
+“Then we will act for the welfare of our friends.”
+
+🚩 Akrūra Accepts the Mission
+
+Thus briefing Akrūra about the mission, Lord Hari returned with Balarāma and Uddhava back to the palace."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 49
     with st.expander("Chapter 49 - Akrūra’s Mission to Hastinapura"):
-        text1 = """ """
+        text1 = """ 
+        🚩 Akrūra Arrives in Hastināpura
+
+Śrī Śuka continued,
+
+Akrūra finally Hastināpura pahunch gaye — glorious capital of the Puru dynasty.
+
+Wahan unhone many important figures ko dekha:
+
+Dhṛtarāṣṭra
+Bhīṣma
+Vidura
+Kuntī
+Droṇa
+Kṛpa
+Karṇa
+Duryodhana
+Aśvatthāmā
+Pāṇḍavas
+
+aur many royal elders and relatives."""
         create_image_text_layout(
             "attached_assets/chapter10/10.49.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🤝 Akrūra Meets the Kuru Elders
+
+Akrūra ne sab relatives aur elders ko proper respect aur affection ke saath meet kiya.
+
+Sabne Mathurā ke Yādavas ke welfare ke baare mein poocha aur Akrūra ne bhi unke wellbeing ke baare mein enquire kiya.
+
+🕵️ Akrūra Secretly Investigates
+
+Kṛṣṇa ka real purpose yaad rakhte hue Akrūra Hastināpura mein several months tak ruk gaye.
+
+Woh carefully observe kar rahe the:
+
+Dhṛtarāṣṭra ka behaviour
+Duryodhana ki jealousy
+Śakuni ka influence
+Pāṇḍavas ke against conspiracies
+☠️ Poisoning of Bhīma and Other Plots
+
+Vidura aur Kuntī ne Akrūra ko secretly sab truth bataya.
+
+Unhone explain kiya ki Dhṛtarāṣṭra ke sons:
+
+Bhīma ko poison de chuke the
+constantly Pāṇḍavas se jealous the
+unki popularity aur strength tolerate nahi kar pa rahe the
+
+Subjects ka love bhi Pāṇḍavas ki taraf tha, jis wajah se Kauravas aur insecure ho gaye the.
+
+😭 Kuntī’s Emotional Questions
+
+Jab Kuntī ne apne cousin Akrūra ko dekha, woh deeply emotional ho gayi.
+
+Birthplace aur relatives ko remember karke unki eyes tears se fill ho gayi.
+
+Woh poochne lagi:
+
+“Kya mere parents mujhe yaad karte hain?”
+
+“Kya Vasudeva, Devakī aur sab relatives well hain?”
+
+“Kya Kṛṣṇa aur Balarāma apni paternal aunt aur uske sons ko remember karte hain?”
+
+🐺 “We Live Among Wolves”
+
+Kuntī sadly boli:
+
+“Main yahan enemies ke beech reh rahi hoon…”
+
+“Bilkul wolves ke surrounded deer ki tarah.”
+
+“Mere children fatherless hain.”
+
+“Will Kṛṣṇa ever comfort us?”
+
+🙏 Kuntī’s Prayer to Kṛṣṇa
+
+Then Kuntī directly Kṛṣṇa ko prayer karne lagi:
+
+“Oh Kṛṣṇa! Oh Great Yogin!”
+
+“Oh Soul of the Universe!”
+
+“Please protect me and my children.”
+
+“I have taken refuge in you alone.”
+
+🌌 Supreme Refuge
+
+Kuntī further declared:
+
+“For those terrified by death and saṃsāra…”
+
+“There is no refuge except Kṛṣṇa’s lotus feet.”
+
+She bowed mentally to Kṛṣṇa as:
+
+Supreme Brahman
+Supreme Soul
+Lord of Yoga
+Embodiment of Divine Reality
+
+💛 Akrūra and Vidura Console Kuntī
+
+Kuntī loudly lament karne lagi while remembering Kṛṣṇa and her relatives.
+
+Akrūra aur wise Vidura ne lovingly unhe console kiya.
+
+Unhone remind karaya ki Pāṇḍavas ordinary humans nahi the — they had divine origin and great destiny connected to Kṛṣṇa’s mission.
+
+👑 Akrūra Advises Dhṛtarāṣṭra
+
+Mathurā return karne se pehle Akrūra directly Dhṛtarāṣṭra ke paas gaye.
+
+Sab relatives ke saamne unhone respectful but firm advice diya.
+
+⚖️ “Rule With Impartiality”
+
+Akrūra बोले:
+
+“O son of Vicitravīrya, after Pāṇḍu’s death aap throne par baithe hain.”
+
+“If you govern righteously and treat both your sons and the Pāṇḍavas equally…”
+
+“Then you will gain prosperity and eternal fame.”
+
+🔥 Warning of Destruction
+
+Lekin Akrūra ne warning bhi di:
+
+“Agar partiality aur injustice follow karoge…”
+
+“Toh duniya mein blame milega aur after death hellish suffering bhi.”
+
+“So please behave impartially toward both Kauravas and Pāṇḍavas.”
+
+⌛ Temporary Nature of Relationships
+
+Akrūra then gave deep spiritual wisdom:
+
+“In this world no companionship is eternal…”
+
+“Not even with one’s own body.”
+
+“Then what to say of wives, sons and wealth?”
+
+“Person is born alone…”
+
+“dies alone…”
+
+“and experiences karma alone.”
+
+💰 Wealth and Sons Cannot Save Anyone
+
+Akrūra explained:
+
+Foolish people unrighteously wealth accumulate karte hain thinking:
+
+“These are my sons, my possessions.”
+
+Lekin eventually wahi people unka wealth consume kar lete hain aur unhe abandon bhi kar dete hain.
+
+Then sinful person apne karmas ka burden alone carry karta hai.
+
+🌙 “World Is Like a Dream”
+
+Akrūra finally concluded:
+
+“This world dream, illusion aur imagination ki tarah temporary hai.”
+
+“So control your mind and become calm and impartial.”
+
+😔 Dhṛtarāṣṭra’s Honest Reply
+
+Dhṛtarāṣṭra admitted:
+
+“O Akrūra, your advice nectar jaisa sweet aur beneficial hai.”
+
+“But unfortunately…”
+
+“Mera mind mere sons ke attachment ki wajah se unstable aur partial hai.”
+
+“Your teachings mere heart mein permanently stay nahi kar pa rahi.”
+
+🌌 Dhṛtarāṣṭra Accepts Kṛṣṇa’s Supreme Will
+
+Dhṛtarāṣṭra further reflected:
+
+“Who can oppose Supreme Lord’s will?”
+
+“Kṛṣṇa himself Yadu race mein Earth ka burden remove karne descend hue hain.”
+
+He bowed mentally to Kṛṣṇa as:
+
+creator of the universe
+controller of karma
+source and end of saṃsāra
+
+🚩 Akrūra Returns to Mathurā
+
+Dhṛtarāṣṭra ka inner mindset properly understand karne ke baad Akrūra sab relatives se farewell lekar Mathurā return ho gaye.
+
+Wahan unhone Kṛṣṇa aur Balarāma ko full report diya regarding:
+
+Dhṛtarāṣṭra’s bias
+Kauravas’ jealousy
+dangers surrounding the Pāṇḍavas
+
+which was the real purpose of his mission to Hastināpura."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 50
     with st.expander("Chapter 50 - Settlement at the Fort of Dvārakā"):
-        text1 = """ """
+        text1 = """ 
+        👑 Jarāsandha Seeks Revenge
+
+Śrī Śuka continued,
+
+Kaṃsa ki wives — Asti aur Prāpti — apne husband ki death ke baad grief se shattered ho gayin aur apne father Jarāsandha ke paas Magadha chali gayin.
+
+Unhone fully explain kiya ki Kṛṣṇa ne Kaṃsa ko slay kar diya.
+
+Yeh sunkar mighty king Jarāsandha rage aur sorrow se bhar gaya.
+
+Usne immediately decide kiya:
+
+“Main entire Yādava race ko earth se wipe out kar dunga.”"""
         create_image_text_layout(
             "attached_assets/chapter10/10.50.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        ⚔️ Siege of Mathurā
+
+Jarāsandha ne gigantic army assemble ki:
+
+➡️ 23 Akṣauhiṇīs!
+
+Entire Mathurā city ko all four sides se surround kar diya gaya.
+
+Many allied kings bhi uske saath aaye:
+
+Śiśupāla
+Śālva
+Rukmī
+Jayadratha
+Śakuni
+Drupada
+Pauṇḍraka
+Ekalavya
+
+aur countless other rulers.
+
+War-drums, conches aur battle-cries ocean ki roaring jaise sound create kar rahe the.
+
+🌌 Kṛṣṇa Understands His Mission
+
+Mathurā panic aur fear se fill ho gayi.
+
+Lekin Kṛṣṇa perfectly calm rahe.
+
+Unhone internally reflect kiya:
+
+“Mera incarnation earth ka burden remove karne ke liye hua hai.”
+
+“Yeh massive armies actually Earth ka heavy burden hain.”
+
+“Main ab in armies ko destroy karunga…”
+
+“Lekin Jarāsandha ko abhi nahi marunga.”
+
+“Woh repeatedly aur armies gather karega — aur Earth ka burden aur reduce hoga.”
+
+☀️ Divine Chariots Descend from Heaven
+
+Jab Kṛṣṇa ye thoughts kar rahe the, suddenly sky se two blazing celestial chariots descend hue.
+
+Saath hi divine weapons bhi manifest hue:
+
+Sudarśana discus
+Kaumodakī mace
+Śārṅga bow
+Nandaka sword
+inexhaustible quivers
+
+Balarāma ke liye:
+
+plough weapon
+pestle-club
+
+appear hue.
+
+🛡️ Kṛṣṇa Encourages Balarāma
+
+Kṛṣṇa lovingly बोले:
+
+“O respected brother, Yādavas great danger mein hain.”
+
+“Please apne divine weapons lekar unhe protect kijiye.”
+
+“Our incarnation ka purpose hi righteous people ko protect karna hai.”
+
+“Today we must destroy this massive army.”
+
+🚪 Defense of the Four Gates
+
+Kṛṣṇa ne Yādava warriors ko different city gates par deploy kiya:
+
+Eastern Gate
+Vasudeva
+Kṛtavarmā
+Uddhava
+Northern Gate
+Ugrasena
+Sudāman
+Western Gate
+Sātyaki
+Gada
+Akrūra
+
+Then Kṛṣṇa aur Balarāma personally northern gate se battlefield ki taraf nikle.
+
+🐚 The Roar of Pāñcajanya
+
+Kṛṣṇa ne apna conch Pāñcajanya loudly blow kiya.
+
+Uski sound ne enemy armies ke hearts mein terror fill kar diya.
+
+Balarāma ne bhi lion-like roar kiya.
+
+Entire battlefield tremble karne laga.
+
+😠 Jarāsandha Insults Kṛṣṇa
+
+Kṛṣṇa aur Balarāma ko dekhkar Jarāsandha mocked Kṛṣṇa:
+
+“I will not fight with a mere boy like you.”
+
+“You coward! You hid from Kaṃsa.”
+
+“You are only a cowherd.”
+
+Fir usne Balarāma ko challenge kiya:
+
+“If you have courage, then fight me!”
+
+🔥 Kṛṣṇa’s Calm Reply
+
+Kṛṣṇa calmly बोले:
+
+“True heroes boast nahi karte.”
+
+“They prove their valour through action.”
+
+“We don’t take seriously the words of those who are delirious or near death.”
+
+⚔️ The Great Battle Begins
+
+Jarāsandha’s gigantic army storm-cloud ki tarah Yādavas ko surround karne lagi.
+
+Mathurā ki women walls aur towers se battle dekh rahi thi.
+
+Jab unhone Kṛṣṇa aur Balarāma ke chariots ko enemy masses mein disappear hota dekha, many women fear se faint ho gayin.
+
+🏹 Kṛṣṇa’s Devastating Archery
+
+Then Kṛṣṇa ne Śārṅga bow stretch kiya.
+
+Bowstring ki thunderous sound battlefield mein echo hone lagi.
+
+Rapid speed se:
+
+arrows nikalna
+set karna
+release karna
+
+start hua.
+
+Kṛṣṇa continuously:
+
+elephants destroy kar rahe the
+horses cut down kar rahe the
+chariots shatter kar rahe the
+infantry annihilate kar rahe the
+
+Unka bow blazing fire-brand ki tarah whirl ho raha tha.
+
+🐚 Pāñcajanya Terrifies the Kings
+
+Kṛṣṇa ne fir Pāñcajanya conch blow kiya.
+
+Terrifying blast sunkar many kings ka courage break ho gaya.
+
+Meanwhile Yādava warriors inspired hokar all four gates par enemies ko push back karne lage.
+
+⚡ Kṛṣṇa vs Śiśupāla
+
+Śiśupāla loudly challenged:
+
+“Stop, Kṛṣṇa!”
+
+Battle instantly intense ho gaya.
+
+Śiśupāla ne:
+
+Kṛṣṇa ke horses ko hit kiya
+charioteer ko strike kiya
+many arrows launch kiye
+
+Kṛṣṇa smilingly बोले:
+
+“Well done, Śiśupāla.”
+
+“You truly are a skilled archer.”
+
+Fir suddenly Kṛṣṇa ne:
+
+thirty kings ke bows cut kiye
+horses aur charioteers kill kiye
+Śiśupāla ka bow, crown aur umbrella destroy kar diya
+
+Enemy army confusion aur panic mein aa gayi.
+
+🩸 River of Blood
+
+Battlefield horrifying scene ban gaya.
+
+Dead:
+
+elephants
+horses
+soldiers
+broken chariots
+
+everywhere scattered the.
+
+Bhāgavata battlefield ko blood-river se compare karta hai:
+
+severed arms = snakes
+floating heads = tortoises
+bows = ripples
+weapons = bushes
+
+🌪️ Balarāma’s Terrifying Power
+
+Meanwhile Balarāma apne pestle aur plough weapons se enemies ko smash kar rahe the.
+
+Unki attacks se blood-streams flow hone lagi.
+
+Cowards terror se freeze ho rahe the…
+
+Lekin brave warriors aur inspired ho rahe the.
+
+🏔️ Balarāma Captures Jarāsandha
+
+Entire army destroy hone ke baad Jarāsandha alone remaining warrior tha.
+
+Fir Balarāma aur Jarāsandha ka mountain-like duel start hua.
+
+Jarāsandha ne giant mace Balarāma par throw ki.
+
+Balarāma smilingly us attack ko dodge karke apne pestle se destroy kar diya.
+
+Fir unhone Jarāsandha ka chariot aur charioteer destroy kar diya.
+
+Finally lion ki tarah Balarāma ne Jarāsandha ko capture kar liya.
+
+✋ Kṛṣṇa Releases Jarāsandha
+
+Balarāma Jarāsandha ko bind karne wale the…
+
+Lekin Kṛṣṇa ne stop kar diya.
+
+Because Kṛṣṇa ka bigger plan tha:
+
+Jarāsandha repeatedly armies gather karega aur Earth ka burden further reduce hoga.
+
+Thus Jarāsandha ko intentionally release kar diya gaya.
+
+😔 Jarāsandha’s Shame
+
+Defeated aur humiliated Jarāsandha initially forest jaakar penance perform karna chahta tha.
+
+Lekin allied kings ne usse samjhaya:
+
+“Victory aur defeat karma ke result hote hain.”
+
+Finally woh sadness ke saath Magadha return kar gaya.
+
+🎉 Victory Celebration in Mathurā
+
+Gods sky se flowers rain karne lage.
+
+Kṛṣṇa victorious state mein Mathurā return hue.
+
+Entire city decorate hui:
+
+flags
+flowers
+arches
+music
+Vedic chanting
+
+Women lovingly:
+
+flowers shower kar rahi thi
+curd-rice tilak apply kar rahi thi
+joyful eyes se Kṛṣṇa ko dekh rahi thi
+
+🔁 Seventeen More Invasions
+
+Bhāgavata states:
+
+Jarāsandha ne total 17 more times same gigantic armies ke saath attack kiya.
+
+Har baar:
+
+Yādavas army destroy kar deti
+Jarāsandha escape kar jata
+
+Kṛṣṇa intentionally usse alive leave karte rahe.
+
+⚠️ Kālayavana Appears
+
+18th invasion ke around another danger appear hua:
+
+➡️ mighty Yavana king Kālayavana.
+
+Nārada ne usse bataya tha ki Yādavas uske equal opponents hain.
+
+He invaded Mathurā with:
+
+➡️ 3 crore Mleccha warriors!
+
+🌊 Creation of Dvārakā
+
+Kṛṣṇa realized:
+
+“Agar Jarāsandha aur Kālayavana simultaneously attack karenge…”
+
+“Toh Yādavas danger mein aa jayenge.”
+
+Therefore Kṛṣṇa ne decide kiya:
+
+➡️ sea ke andar ek impregnable fortress-city construct karni hogi.
+
+Using divine yogic power, Lord ne western ocean mein magnificent city build ki:
+
+✨ Dvārakā ✨
+
+🏙️ Beauty of Dvārakā
+
+Dvārakā extraordinary wonder thi:
+
+12 yojanas wide
+crystal balconies
+golden towers
+jeweled palaces
+celestial gardens
+divine parks
+silver and brass storehouses
+emerald floors
+
+🌳 Gifts from the Gods
+
+Different gods ne divine gifts offer kiye:
+
+Indra
+Sudharmā assembly hall
+Pārijāta tree
+Varuṇa
+thousands of celestial horses
+Kubera
+eight treasures
+
+Even Siddhas apni powers Kṛṣṇa ko resubmit karne lage.
+
+🚪 Yādavas Shift to Dvārakā
+
+Finally Kṛṣṇa ne apni yogic powers se all Yādavas ko safely Dvārakā transfer kar diya.
+
+Balarāma remaining Mathurā population ki protection handle kar rahe the.
+
+Then lotus-garland pehne hue, completely unarmed, Kṛṣṇa Mathurā gates se bahar nikle — ready to deal personally with Kālayavana."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
