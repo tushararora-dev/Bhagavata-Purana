@@ -6947,66 +6947,1422 @@ Then lotus-garland pehne hue, completely unarmed, Kṛṣṇa Mathurā gates se 
 
     # Chapter 50(a)
     with st.expander("Chapter 50(a) - Jarāsandha’s Second Expedition"):
-        text1 = """ """
+        text1 = """ 
+        ⚔️ Jarāsandha’s Humiliation Burns Within Him
+
+Śrī Śuka continued,
+
+Previous defeat ke baad mighty king Jarāsandha day and night humiliation aur anger se burn ho raha tha.
+
+Exactly third month mein usne once again all allied kings ko war ke liye summon kiya."""
         create_image_text_layout(
             "attached_assets/chapter10/10.50a.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🌍 Massive Alliance of Kings
+
+Jarāsandha ke saath enormous coalition gather hui including rulers of:
+
+Matsya
+Mālava
+Cedi
+Kuru
+Pāñcāla
+Kerala
+Avanti
+Kāśī
+Gandhāra
+Kaliṅga
+Andhra
+Sindhu
+Madra
+Sauvīra
+Trigarta
+
+and many mountain warriors.
+
+Entire force totaled:
+
+➡️ 23 Akṣauhiṇīs
+
+again.
+
+🏕️ Encampment Near Mathurā
+
+Huge army westward march karke finally Mathurā pahunchi.
+
+Yamunā riverbank par massive war-camp establish hua:
+
+royal tents
+elephants
+cavalry
+chariots
+infantry
+camp followers
+
+everywhere spread out the.
+
+Jarāsandha relaxed while:
+
+Sūtas
+Māgadhas
+royal bards
+
+uski praises sing kar rahe the.
+
+🧠 Kṛṣṇa’s Strategic War Council
+
+Enemy preparations sunkar Kṛṣṇa immediately war council convene kiya.
+
+Meeting mein present the:
+
+Balarāma
+Vasudeva
+Uddhava
+Akrūra
+Śaineya (Sātyaki)
+Āhuka
+Sāraṇa
+
+Entire night strategy discuss hoti rahi.
+
+🌅 Surprise Attack at Dawn
+
+Before sunrise Kṛṣṇa ne Yādava army ko mobilize kiya.
+
+He divided the fourfold army into:
+
+elephants
+cavalry
+chariots
+infantry
+
+and arranged them in three divisions.
+
+🛡️ Deployment of the Yādavas
+Left Wing
+
+Kṛṣṇa sent:
+
+Balarāma
+Hārdikya
+Gada
+Sāraṇa
+
+Right Wing
+
+He deployed:
+
+Sātyaki
+Vipṛthu
+Pṛthu
+Uddhava
+
+with strong forces.
+
+Center
+
+Kṛṣṇa personally entered from the front directly into Jarāsandha’s vast army.
+
+😴 Enemy Army Completely Unprepared
+
+At that early dawn enemy camp still deeply relaxed and unprepared tha.
+
+Bhāgavata vividly describes:
+
+horses unsaddled the
+elephants armourless the
+soldiers ne weapons tak nahi uthaye the
+hair untied the
+coats of mail nahi pehne the
+chariots yoked nahi the
+battle-flags raised nahi the
+
+Entire army unsuspectingly sleeping ya casually resting thi.
+
+☀️ Kṛṣṇa Enters at Sunrise
+
+As sunrise eastern mountains par glow kar raha tha…
+
+birds singing
+lotuses blooming
+bees humming
+
+usi moment yellow-clad Kṛṣṇa directly enemy camp ke andar enter hue.
+
+😱 Total Chaos in the Camp
+
+Suddenly three sides se attack hote hi allied kings panic mein aa gaye.
+
+Nobody samajh nahi pa raha tha:
+
+“Kya ho raha hai?”
+
+Some:
+
+rallied together
+grabbed weapons
+counterattacked
+
+while others fear mein flee kar gaye.
+
+🩸 Brutal Battlefield
+
+Battle instantly horrifying ban gaya.
+
+Some soldiers:
+
+armour shattered
+limbs severed
+thighs cut
+arms destroyed
+
+Even in chaos, brave warriors mounted unsaddled horses aur desperate resistance dene lage.
+
+⚔️ Kṛṣṇa Fights Single-Handedly
+
+Govinda apne chariot par almost single-handedly enemy formations ke andar penetrate kar gaye.
+
+Jo bhi warriors unke against aaye:
+
+➡️ Kṛṣṇa rapidly unhe destroy karte gaye.
+
+🌪️ Balarāma’s Devastation
+
+Meanwhile mighty Balarāma left flank se enemy forces par toot pade.
+
+Unhone Magadhan army ko heavily rout kar diya.
+
+🏹 Sātyaki’s Assault
+
+Right side par Sātyaki ne:
+
+elephants
+cavalry
+infantry
+chariots
+
+ke saath violent attack launch kiya.
+
+Enemy ko “sound drubbing” diya gaya.
+
+🏃 Complete Collapse of Jarāsandha’s Army
+
+Soon entire Magadhan alliance terror se break ho gayi.
+
+Army every direction mein flee karne lagi.
+
+Sātyaki ne fleeing enemies ko:
+
+5 yojanas tak pursue kiya
+
+aur immense destruction ke baad victorious return kiya.
+
+🐘 Immense War Spoils
+
+Kṛṣṇa ne battlefield se huge spoils seize kiye:
+
+giant elephants
+weapons
+chariots
+horses
+flags
+armour
+
+He also captured:
+
+jewel-studded umbrellas
+crowns
+belts
+earrings
+gold ornaments
+luxurious garments
+
+👑 Balarāma Seizes Jarāsandha’s Wealth
+
+Kṛṣṇa ke instruction par Balarāma enormous wealth collect kar laaye:
+
+treasury
+vehicles
+weapons
+ornaments
+women of Jarāsandha’s harem
+captured subjects
+
+Entire spoils finally king Ugrasena ko present kiye gaye."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 50(b)
     with st.expander("Chapter 50(b) - The Third Siege of Mathura: Jarāsandha’s defeat"):
-        text1 = """ """
+        text1 = """ 
+        😠 Jarāsandha Seeks Help from Bāṇa
+
+Śrī Śuka continued,
+
+Second defeat ke baad Jarāsandha ka pride completely wounded ho gaya tha.
+
+Humiliated king directly Śoṇitapura gaya — mighty thousand-armed demon king Bāṇa ke paas help maangne."""
         create_image_text_layout(
             "attached_assets/chapter10/10.50b.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        🏰 Grand Welcome in Śoṇitapura
+
+Jab Bāṇa ko pata chala ki uska close friend Jarāsandha aa raha hai, woh personally huge royal procession ke saath welcome karne nikla.
+
+Procession mein the:
+
+decorated elephants
+caparisoned horses
+splendid chariots
+banners and flags
+umbrellas
+drums and trumpets
+dancers and courtesans
+Sūtas and bards
+
+Entire city festival atmosphere se fill ho gayi.
+
+🤝 Friendship Between Bāṇa and Jarāsandha
+
+Bhāgavata emphasizes ki dono rulers extremely close friends aur mutual well-wishers the.
+
+Royal assembly mein respectfully seat lene ke baad Jarāsandha apni humiliation narrate karne laga.
+
+⚡ Jarāsandha Complains About Kṛṣṇa
+
+Jarāsandha bitterly bola:
+
+“That wicked cowherd Kṛṣṇa attacked me through surprise tactics.”
+
+“He plundered my:
+
+elephants
+horses
+chariots
+weapons
+
+and huge war resources.”
+
+Then he added:
+
+“My allied kings prevented me from fighting him single-handedly.”
+
+“So now I seek your military assistance.”
+
+💎 Bāṇa’s Generous Promise
+
+Bāṇa immediately declared:
+
+“Nothing I possess is separate from you.”
+
+“These elephants, horses, subjects, kingdom — all are at your disposal.”
+
+🐘 Massive Reinforcements
+
+Then Bāṇa supplied Jarāsandha with enormous military support:
+
+60,000 elephants
+100,000 chariots
+1 million swift horses
+
+Aur bhi dangerous:
+
+➡️ 300 expert Dānavas skilled in magical warfare.
+
+👹 Kumbhāṇḍa and Kūpakarṇa
+
+Bāṇa ne apne two powerful ministers bhi bheje:
+
+Kumbhāṇḍa
+Kūpakarṇa
+
+These Daityas black magic warfare mein specialists the.
+
+Bhāgavata comments ki unki power Lord Hari ke saamne insignificant thi.
+
+⚔️ Third Siege of Mathurā
+
+Supreme power of Viṣṇu ko na samajh paane ki wajah se all kings again war preparations mein lag gaye.
+
+Jarāsandha gigantic fourfold army lekar phir Mathurā pahunch gaya.
+
+City ko completely surround kar diya gaya.
+
+🏙️ Attack on Mathurā’s Walls
+
+Enemy forces:
+
+spears
+clubs
+pickaxes
+catapults
+huge stones
+
+use karke Mathurā ke fortifications destroy karne lage.
+
+🥁 War Drums of the Yādavas
+
+Attack ki news sunkar enraged Kṛṣṇa aur Balarāma ne war-drums beat karwaye.
+
+Army rapidly assemble hui.
+
+Leading Yādava warriors included:
+
+Sātyaki
+Kṛtavarmā
+Ugrasena
+Gada
+Āhuka
+Vasudeva
+
+Then Kṛṣṇa aur Balarāma lion-like fury ke saath battlefield ki taraf nikle.
+
+🐚 Blast of Pāñcajanya
+
+Mathurā se bahar nikalte hi lotus-eyed Kṛṣṇa ne loudly Pāñcajanya conch blow kiya.
+
+Its terrifying sound enemy hearts mein fear bharne laga.
+
+👹 Demonic Illusion Warfare
+
+Battle begin hote hi Bāṇa ke demon ministers:
+
+Kumbhāṇḍa
+Kūpakarṇa
+
+apni māyā-based magical warfare use karne lage.
+
+Illusions aur supernatural tactics ki wajah se Yādava army disturbed hone lagi.
+
+🌟 Kṛṣṇa Destroys the Illusions
+
+Kṛṣṇa ne instantly situation understand kar li.
+
+Using:
+
+“Knowledge-Missile” (Jñāna-astra)
+
+Lord ne ek moment mein saari illusions destroy kar di.
+
+Then he ordered:
+
+“Sātyaki aur Kṛtavarmā — you engage those Daityas.”
+
+⚔️ Fierce Duels Begin
+
+Immediately:
+
+Sātyaki vs Kumbhāṇḍa
+Kṛtavarmā vs Kūpakarṇa
+
+terrible battles start hue.
+
+🏹 Kṛṣṇa’s Impossible Archery
+
+Bhāgavata marvelously describes Kṛṣṇa’s combat skill.
+
+With just one bow in hand, he single-handedly fought hundreds of Kṣatriyas simultaneously.
+
+From Śārṅga bow:
+
+10 arrows per soldier
+100 per horse
+1000 per chariot
+10,000 per elephant
+
+release ho rahe the!
+
+The text calls it:
+
+“a tremendously aweful miracle.”
+🩸 Battlefield Carnage
+
+Battlefield horrific ban gaya:
+
+trunks of elephants severed
+horses neck-cut dead pade the
+shattered chariots everywhere scattered the
+bleeding soldiers uprooted Kiṃśuka trees jaise lag rahe the
+
+😡 Jarāsandha Challenges Balarāma
+
+Apni army ko collapsing dekhkar Jarāsandha directly Balarāma ki taraf charge hua.
+
+He remembered previous humiliation and shouted:
+
+“Take up your pestle if you dare!”
+
+“Show me your strength before I crush you with my mace!”
+
+⚡ Balarāma’s Terrifying Rage
+
+Challenge sunkar Balarāma’s eyes rage se blaze karne lage.
+
+He grasped his lightning-like pestle exactly like Yama lifting his rod at cosmic destruction.
+
+Then:
+
+thousand circles mein whirl kiya
+fiery pestle hurl kiya
+lion-like roar kiya
+
+🏔️ The Titanic Duel
+
+Jarāsandha ka chariot shaken ho gaya.
+
+Lekin he jumped down and rushed with giant iron mace.
+
+Balarāma bhi chariot leave karke foot combat mein aa gaye.
+
+Then gigantic duel begin hua:
+
+mace blows
+grappling
+wrestling
+chest collisions
+ground rolling
+
+Bhāgavata compares them to:
+
+two maddened elephants.
+🌲 Trees and Rocks Pulverized
+
+Dono warriors ek dusre ko drag karte hue battlefield mein move kar rahe the.
+
+Their strength se:
+
+nearby trees
+rocks
+ground itself
+
+powder banne laga.
+
+😨 Allied Kings Lose Courage
+
+Jarāsandha aur Balarāma ki terrifying duel dekhkar many kings mentally collapse hone lage.
+
+They started thinking:
+
+“Jarāsandha may actually die today.”
+
+Fear ki wajah se unka enthusiasm for battle disappear hone laga.
+
+🏹 Sātyaki Defeats Kumbhāṇḍa
+
+Meanwhile Kumbhāṇḍa ne Sātyaki ko three arrows se wound kiya.
+
+Angry serpent ki tarah breathing karte hue Sātyaki ne:
+
+five iron arrows liye
+bowstring ears tak pull ki
+Kumbhāṇḍa ko chest, forehead, throat aur crown par strike kiya
+
+Daitya unconscious hoke chariot mein gir gaya.
+
+His frightened charioteer immediately battlefield se usse le gaya.
+
+👹 Daityas Flee the Battlefield
+
+Kumbhāṇḍa ko defeated dekhkar Kūpakarṇa bhi battle abandon kar gaya.
+
+Both demon ministers:
+
+remaining troops lekar
+without even informing Jarāsandha
+
+directly Śoṇitapura return kar gaye."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 50(c)
     with st.expander("Chapter 50(c) - Conquest of Karvīrapura"):
-        text1 = """ """
+        text1 = """ 
+        😨 Jarāsandha’s Army Collapses
+
+Śrī Śuka continued,
+
+Jab Bāṇa ke demon forces battlefield abandon karke bhaag gaye, tab remaining allied kings completely demoralized ho gaye.
+
+Yādava weapon-showers ki wajah se entire enemy army exhausted aur terrified feel karne lagi.    """
         create_image_text_layout(
             "attached_assets/chapter10/10.50c.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        ⚡ Balarāma Overpowers Jarāsandha
+
+Battlefield mein Balarāma suddenly realized ki enemy strength almost collapse ho chuki hai.
+
+Enraged Balarāma ne:
+
+➡️ Jarāsandha ke hair pakad liye with his left hand.
+
+Then he prepared to smash Jarāsandha’s head with his terrible pestle.
+
+🌌 Divine Voice from Heaven
+
+Exactly us moment sky se thundercloud-like incorporeal voice sunai di:
+
+“O Balarāma, Jarāsandha tumhare dwara marne ke liye destined nahi hai.”
+“Battle se peacefully return karo.”
+
+🙏 Balarāma Obeys the Divine Command
+
+Hearing heavenly order, mighty Balarāma immediately stopped.
+
+He released Jarāsandha and returned to his chariot.
+
+Meanwhile:
+
+Siddhas
+sages
+bards
+singers
+Brahmaṇas
+
+unke glory praises karne lage.
+
+😔 Jarāsandha Retreats in Shame
+
+Jarāsandha:
+
+head lowered
+tiny surviving force ke saath
+defeated kings se surrounded
+
+battlefield leave karke apni capital return kar gaya.
+
+🏹 Kṛṣṇa Continues the Slaughter
+
+While Jarāsandha retreat kar raha tha, Kṛṣṇa still battlefield mein enemy kings ko devastate karte rahe.
+
+Bhāgavata says:
+
+➡️ He routed and killed the majority of hostile kings.
+
+🎉 Triumphant Return to Mathurā
+
+Victory ke baad Kṛṣṇa grand procession ke saath Mathurā return hue.
+
+Unke saath:
+
+Sūtas
+Māgadhas
+bards
+praising Brahmaṇas
+
+constantly victory songs ga rahe the.
+
+🏙️ Mathurā Celebrates
+
+Bhāgavata beautifully describes Mathurā:
+
+high fortification walls
+lofty gates
+banners waving
+lamps shining everywhere
+
+As Kṛṣṇa entered city:
+
+flowers shower kiye gaye
+fried grains scatter hue
+women rooftops se folded palms ke saath blessings dene lagi
+
+Citizens ne:
+
+garlands
+perfumes
+gifts
+precious presents
+
+offer kiye to Kṛṣṇa aur Balarāma.
+
+👑 Royal Assembly of the Yādavas
+
+Assembly hall mein Kṛṣṇa seated hue together with:
+
+Balarāma
+Sātyaki
+Ugrasena
+Uddhava
+Akrūra
+
+Yādavas aur Brahmaṇas ne Lord ko Indra-like honours diye.
+
+🏔️ Desire to Visit Gomanta
+
+Some time later Kṛṣṇa aur Balarāma ne southern direction travel karne ka decision liya.
+
+Unka goal tha:
+
+Mount Gomanta
+
+— famous inaccessible mountain fortress.
+
+🌍 Journey Through Many Lands
+
+Dono brothers crossed:
+
+Yamunā
+rivers
+hills
+mountains
+forests
+many kingdoms
+
+during their southern journey.
+
+🌲 Encounter with Paraśurāma
+
+Travelling ke dauraan they suddenly saw:
+
+➡️ a radiant sage beneath a tree.
+
+He had:
+
+matted hair
+bark garments
+deer-skin clothing
+kamaṇḍalu beside him
+hundreds of disciples
+
+and shone like the Sun itself.
+
+This sage was:
+
+Paraśurāma.
+
+🙏 Kṛṣṇa Greets Paraśurāma
+
+Kṛṣṇa aur Balarāma respectfully bowed before him.
+
+Then Kṛṣṇa said:
+
+“I bow to you, O Paraśurāma, son of Jamadagni.”
+
+“We are known as Balarāma and Kṛṣṇa.”
+
+“Have you heard of us?”
+
+🌟 Paraśurāma Recognizes the Supreme Lord
+
+Paraśurāma lovingly gazed upon both brothers and replied:
+
+“I know you are the Supreme transcendent Lord born in the Yadu dynasty.”
+
+He further glorified Kṛṣṇa:
+
+cause of all creation
+ancient supreme person
+source of all worlds
+
+❓ Why Have You Come Here?
+
+Paraśurāma then asked:
+
+“What purpose brings you both here?”
+
+Kṛṣṇa replied:
+
+“We desire to see Mount Gomanta and its fortress.”
+
+⚔️ Warning About Karavīra
+
+Paraśurāma warned them:
+
+“At Gomanta’s foot lies city Karavīra.”
+
+“It is ruled by Śṛgāla Vāsudeva.”
+
+“He will not tolerate your presence.”
+
+“So first defeat him in battle.”
+
+🏔️ Arrival at Gomanta and Karavīra
+
+After taking leave of Paraśurāma, both brothers continued southward.
+
+Soon they saw:
+
+gigantic sky-touching trees
+Mount Gomanta
+fortified city Karavīra
+
+with:
+
+towers
+ramparts
+palaces
+huge gates
+
+🐚 Kṛṣṇa Blows the Conch
+
+Upon arrival Kṛṣṇa loudly blew his conch.
+
+Hearing the blast:
+
+Śṛgāla Vāsudeva became furious.
+
+He immediately marched out with massive:
+
+infantry
+cavalry
+elephants
+chariot divisions
+
+⚔️ Battle at Karavīra
+
+Śṛgāla attacked fiercely and covered Kṛṣṇa-Balarāma with torrents of arrows.
+
+But both Yādava heroes fought calmly on foot and threw enemy formations into confusion.
+
+🌊 Kṛṣṇa Stops Śṛgāla Like a Shore Stops the Sea
+
+Bhāgavata gives a beautiful comparison:
+
+As Śṛgāla rushed forward in rage,
+
+Kṛṣṇa stopped him just as the coastline restrains the ocean tide.
+
+☠️ Śṛgāla Vāsudeva Killed
+
+Then fierce duel begin hua between the two Vāsudevas.
+
+But very quickly:
+
+➡️ Lord Govinda cut off Śṛgāla’s crowned head.
+
+🏃 Enemy Army Flees
+
+Apne king ko dead dekhkar surviving soldiers panic mein every direction bhaag gaye.
+
+👑 Kṛṣṇa Enters Karavīra
+
+After victory:
+
+Kṛṣṇa
+Balarāma
+
+entered Karavīra city.
+
+Brāhmaṇas aur merchants ne unhe apne beloved lords ki tarah worship kiya.
+
+💎 Seizure of the Royal Wealth
+
+Finally Kṛṣṇa ordered Śṛgāla’s:
+
+elephants
+horses
+soldiers
+chariots
+treasure
+royal wealth
+
+to be secured under guard."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 50(d)
     with st.expander("Chapter 50(d) - Kṛṣṇa Crowned: Jarāsandha’s Defeat"):
-        text1 = """ """
+        text1 = """ 
+        🏔️ Kṛṣṇa and Balarāma Ascend Mount Gomanta
+
+Śrī Śuka continued,
+
+Karavīra victory ke baad Kṛṣṇa aur Balarāma magnificent Mount Gomanta par ascend hue.
+
+Bhāgavata mountain ki extraordinary beauty vividly describe karta hai:
+
+towering trees
+flowering creepers
+waterfalls
+cool crystal streams
+dense shadows
+joyful cuckoos singing
+humming bees
+monkeys leaping through branches"""
         create_image_text_layout(
             "attached_assets/chapter10/10.50d.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Mountain covered tha with:
+
+Śāla
+Tāla
+Tamāla
+Kadamba
+Aśoka
+Nimba
+Punnāga
+plantain groves
+
+Entire landscape heavenly paradise jaisa appear ho raha tha.
+
+🌧️ The Peak Called Pravarṣaṇa
+
+Mountain par dono brothers specially ek famous summit par gaye:
+
+Pravarṣaṇa Peak
+
+Ye peak unique thi because:
+
+➡️ clouds constantly rain karte rehte the there.
+
+Kṛṣṇa aur Balarāma us peak se all directions survey karte hue peacefully enjoy karne lage.
+
+🌊 The Crown of Viṣṇu is Stolen
+
+Meanwhile another extraordinary event simultaneously ho raha tha.
+
+Milk Ocean mein — jo Viṣṇu ka divine abode maana jata hai — mighty Daitya king Bali (son of Virocana) arrived.
+
+There he stole:
+
+the celestial crown of Lord Viṣṇu.
+
+💎 Description of the Divine Crown
+
+Bhāgavata crown ko unbelievably magnificent describe karta hai.
+
+It was adorned with:
+
+sapphires
+Gomeda gems
+rubies
+pearls
+corals
+Puṣparāga stones
+celestial gold
+
+The crown blazed brilliantly like the Sun itself.
+
+🦅 Garuḍa Pursues Bali
+
+Jab crown theft ka pata chala, Garuḍa instantly Bali ke piche chase karne laga.
+
+A terrible aerial battle hua.
+
+Finally:
+
+➡️ Garuḍa defeated Bali and recovered the crown.
+
+👑 Kṛṣṇa is Crowned on Gomanta
+
+Return journey ke dauraan Garuḍa suddenly Mount Gomanta par Kṛṣṇa ko seated dekhta hai beside Balarāma.
+
+Immediately he understood:
+
+“This is the Supreme Lord Himself.”
+
+Then Garuḍa respectfully:
+
+placed the celestial crown on Kṛṣṇa’s head
+bowed at His feet
+began offering prayers
+
+🙏 Garuḍa Glorifies Kṛṣṇa
+
+Garuḍa declared:
+
+“I repeatedly bow to Lord Nārāyaṇa who has assumed human form for a divine mission.”
+
+“You are the destroyer of the enemies of the gods.”
+
+“You create the universe as Brahmā…”
+
+“You preserve it as Viṣṇu…”
+
+“And ultimately dissolve it through Śiva.”
+
+He openly acknowledged:
+
+“You are that same Supreme Viṣṇu now born in the Yadu race.”
+🦅 Garuḍa Offers Service
+
+Then Garuḍa humbly introduced himself:
+
+“I am Garuḍa, son of Vinatā and your servant.”
+
+“O Lord, command me what I should do.”
+
+After saying this he knelt before Kṛṣṇa with folded palms.
+
+🌸 Kṛṣṇa Blesses Garuḍa
+
+Kṛṣṇa affectionately touched Garuḍa’s head with His hand.
+
+Then lovingly said:
+
+“You may go wherever you wish.”
+
+“When I remember you, come immediately.”
+
+Thus Garuḍa respectfully departed.
+
+🌿 Life on Gomanta
+
+Kṛṣṇa aur Balarāma some time tak Mount Gomanta par peacefully rahe.
+
+They lived simply on:
+
+fruits
+roots
+stream water
+
+while enjoying mountain forests and natural beauty.
+
+🏙️ Return to Karavīrapura
+
+Eventually both brothers descended from the mountain and returned to Karavīrapura.
+
+They remained there for:
+
+four months.
+
+Then with a large army they finally began journey back toward Mathurā.
+
+😠 Jarāsandha Attacks Again
+
+But hearing that Śṛgāla Vāsudeva had been killed…
+
+Jarāsandha once again became furious.
+
+He assembled another vast army and marched against Kṛṣṇa and Balarāma.
+
+⚔️ Seven-Day War
+
+This time intense battle continued for:
+
+seven full days.
+
+Again Jarāsandha’s gigantic forces suffered complete defeat.
+
+🏃 Jarāsandha Flees Once More
+
+After devastating losses:
+
+➡️ Jarāsandha retreated back to Magadha with surviving Kṣatriyas.
+
+Kṛṣṇa aur Balarāma victorious state mein Mathurā return hue while:
+
+Sūtas
+Māgadhas
+bards
+
+sang their heroic glories everywhere."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 51
     with st.expander("Chapter 51 - Mucukunda’s Eulogy of the Lord"):
-        text1 = """ """
+        text1 = """ 
+        🌙 Kālayavana Sees Kṛṣṇa
+
+Śrī Śuka continued,
+
+Jab Kālayavana ne Mathurā gates se Kṛṣṇa ko bahar aate dekha, woh instantly stunned ho gaya.
+
+Bhāgavata beautifully Lord ka divine form describe karta hai:
+
+dark cloud-like complexion
+yellow silk garments
+Śrīvatsa mark on chest
+Kaustubha jewel shining on neck
+four mighty arms
+reddish lotus-like eyes
+smiling moonlike face
+makara-shaped earrings
+Vanamālā garland"""
         create_image_text_layout(
             "attached_assets/chapter10/10.51.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Kṛṣṇa rising moon ki tarah appear ho rahe the.
+
+🧠 Kālayavana Recognizes Him
+
+Kālayavana immediately thought:
+
+“This must be Vāsudeva Kṛṣṇa.”
+
+Because Nārada previously usko Kṛṣṇa ke divine signs describe kar chuke the.
+
+Lekin usne notice kiya:
+
+Kṛṣṇa foot par chal rahe hain
+unarmed appear ho rahe hain
+
+So Kālayavana decided:
+
+“Main bhi unarmed hi fight karunga.”
+
+🏃 Kṛṣṇa Leads Him Away
+
+Then strange event hua.
+
+Instead of directly fighting…
+
+Kṛṣṇa rapidly running start kar dete hain with Kālayavana chasing behind Him.
+
+Bhāgavata says:
+
+➡️ Lord deliberately appeared always “almost within reach,”
+
+yet Kālayavana kabhi pakad nahi paaya.
+
+⚠️ “Coward! Why Are You Running?”
+
+While chasing, Kālayavana mocked:
+
+“O Kṛṣṇa! Born in Yadu race hokar enemy se kyun bhaag rahe ho?”
+
+Lekin despite insults:
+
+➡️ he still could not catch the Lord.
+
+Bhāgavata explains:
+
+because his sinful karmas were not exhausted.
+
+🕳️ The Mysterious Cave
+
+Finally Kṛṣṇa entered a deep mountain cave.
+
+Kālayavana bhi andar ghus gaya.
+
+Inside cave usne ek sleeping man dekha.
+
+👣 Kālayavana’s Fatal Mistake
+
+Kālayavana foolishly assumed:
+
+“Kṛṣṇa pretending to sleep after luring me here.”
+
+Angrily usne sleeping person ko kick maar diya.
+
+🔥 Mucukunda Burns Kālayavana
+
+Sleeping king slowly awakened and opened his eyes.
+
+The moment uski angry gaze Kālayavana par padi:
+
+fire erupted from his body.
+
+And instantly:
+
+➡️ Kālayavana reduced to ashes.
+
+👑 Who Was Mucukunda?
+
+Parīkṣit curiously asked:
+
+“Ye extraordinary king kaun tha?”
+
+Śuka explained:
+
+He was:
+
+King Mucukunda
+
+— son of mighty emperor Māndhātṛ from Ikṣvāku dynasty.
+
+He was:
+
+truthful
+protector of Brahmaṇas
+heroic warrior
+⚔️ Protector of the Gods
+
+Long ago devas Asuras se heavily oppressed ho rahe the.
+
+Indra aur gods ne Mucukunda se help maangi.
+
+For a very long time:
+
+➡️ Mucukunda continuously protected the gods in celestial wars.
+
+😔 Time Destroyed Everything
+
+Eventually gods obtained Kārttikeya as their new commander.
+
+Then they told Mucukunda:
+
+“You may now rest.”
+
+Lekin tragic truth reveal hua:
+
+During his long absence:
+
+his kingdom vanished
+sons died
+queens died
+ministers died
+relatives gone
+entire generation destroyed by Time
+
+⏳ The Power of Time
+
+Gods explained:
+
+“Time is stronger than the strongest.”
+
+Just as cowherd cattle ko drive karta hai…
+
+Time effortlessly all beings ko move aur destroy karta hai.
+
+😴 Mucukunda Requests Sleep
+
+Gods offered boon except mokṣa, because only Viṣṇu can grant liberation.
+
+Exhausted Mucukunda requested:
+
+“I only desire long uninterrupted sleep.”
+
+Then another special boon mila:
+
+“Whoever disturbs your sleep will instantly burn to ashes.”
+
+Thus Mucukunda entered the cave and slept for ages.
+
+✨ Kṛṣṇa Reveals Himself
+
+After Kālayavana burned, Kṛṣṇa manifested before Mucukunda.
+
+Mucukunda beheld:
+
+dark blue cloud-like form
+yellow silk garments
+Kaustubha jewel
+Śrīvatsa mark
+Vanamālā garland
+four arms
+smiling compassionate face
+
+Lord’s radiance entire cave ko illuminate kar rahi thi.
+
+🙏 Mucukunda Questions the Lord
+
+Overwhelmed by divine brilliance, Mucukunda respectfully asked:
+
+“Who are You?”
+
+“Are You:
+
+Fire-god?
+Sun-god?
+Moon-god?
+Indra?
+
+or some supreme deity?”
+
+Then he concluded:
+
+“I believe You are Lord Viṣṇu Himself.”
+
+🌌 Kṛṣṇa Explains His Incarnation
+
+Kṛṣṇa replied:
+
+“My incarnations, names and deeds are infinite.”
+
+“No one can fully count them.”
+
+Then He explained His present appearance:
+
+“I have descended in Yadu dynasty as son of Vasudeva.”
+
+“So people call Me Vāsudeva.”
+
+⚔️ Slaying of Demons
+
+Kṛṣṇa declared:
+
+“I have slain:
+
+Kaṃsa
+Pralamba
+other enemies of dharma.”
+
+“This Yavana too was destroyed through your fiery glance.”
+
+💛 “I Came Here for You”
+
+Then Lord revealed something deeply beautiful:
+
+“Long ago you repeatedly prayed to Me.”
+
+“So out of affection for My devotee…”
+
+“I personally came to this cave to bless you.”
+🌸 Kṛṣṇa Offers Boons
+
+Lord lovingly said:
+
+“Ask whatever boon you desire.”
+
+“No one who takes refuge in Me suffers misery again.”
+
+😢 Mucukunda’s Great Realization
+
+Hearing Lord’s words, Mucukunda became overwhelmed with devotion.
+
+He realized:
+
+“This is Nārāyaṇa Himself.”
+
+Then he began offering profound philosophical prayers.
+
+🕸️ Delusion of Material Life
+
+Mucukunda lamented:
+
+“Humans become deluded by Your māyā.”
+
+Thinking family, wealth and worldly pleasures will bring happiness…
+
+they actually enter deeper suffering.
+
+🐄 “Like an Animal Falling Into a Well”
+
+He gave powerful analogy:
+
+Human birth extremely rare hai.
+
+Yet person who ignores Lord’s feet is like:
+
+an animal falling into a grass-covered well while seeking grass.
+👑 Regret Over Kingship
+
+Mucukunda confessed:
+
+“My whole life wasted ho gaya.”
+
+“I became intoxicated by:
+
+kingdom
+armies
+power
+wealth
+wives
+sons.”
+
+He forgot the Lord completely.
+
+☠️ The Horror of Time
+
+He reflected:
+
+Body once praised as:
+
+“god among men”
+
+eventually becomes:
+
+ashes
+worms
+excrement for animals
+
+Such is inevitable power of Time.
+
+💔 Worldly Success Cannot Satisfy
+
+Even kings who conquer the earth become slaves of:
+
+desire
+pride
+sensual pleasure
+
+Austerities and heavenly ambitions bhi true peace nahi dete.
+
+🌟 Association with Saints Leads to Liberation
+
+Mucukunda declared:
+
+Only when liberation-time approaches…
+
+person gains association with saints and turns toward God.
+
+He recognized losing his kingdom itself as:
+
+Kṛṣṇa’s hidden grace.
+🙏 Mucukunda Rejects All Material Boons
+
+Then he made his final prayer:
+
+“I desire no worldly boon.”
+
+“I only seek service to Your lotus feet.”
+
+“What wise person would ask for temporary pleasures after attaining the Lord of Liberation?”
+
+🌌 Complete Surrender
+
+Mucukunda surrendered fully:
+
+“I take refuge in You alone…”
+
+“You who are:
+
+beyond guṇas
+pure consciousness
+supreme reality
+fearless refuge.”
+💎 Kṛṣṇa Praises Mucukunda
+
+The Lord replied lovingly:
+
+“O emperor, your mind is pure and steady.”
+
+“Even when tempted with boons, you were not distracted.”
+
+Kṛṣṇa explained He had actually tested Mucukunda’s devotion.
+
+🧘 True Devotion vs Mere Yoga
+
+Lord said:
+
+Non-devotees may externally control mind through yoga practices…
+
+But hidden desires still remain inside them.
+
+Whereas true devotees remain steady even amidst temptations.
+
+🌿 Final Blessing
+
+Finally Kṛṣṇa blessed him:
+
+“Roam freely on Earth with mind fixed on Me.”
+
+“Your devotion shall remain eternal.”
+
+Then He instructed:
+
+“As a Kṣatriya you accumulated violence through hunting and war.”
+
+“So now perform austerities and meditation.”
+
+🔱 Promise of Liberation
+
+Kṛṣṇa concluded:
+
+“In your next birth you will become a great Brāhmaṇa devoted to all beings…”
+“And thereafter you shall attain Me completely.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
