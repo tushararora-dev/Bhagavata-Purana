@@ -6948,13 +6948,13 @@ Then lotus-garland pehne hue, completely unarmed, Kṛṣṇa Mathurā gates se 
     # Chapter 50(a)
     with st.expander("Chapter 50(a) - Jarāsandha’s Second Expedition"):
         text1 = """ 
-        ⚔️ Jarāsandha’s Humiliation Burns Within Him
+Jarāsandha naam ka ek bahut powerful raja tha. Jarāsandha
+Pehli haar ke baad bhi woh bahut gusse me tha. Din-raat uske mann me bas badla tha.
 
-Śrī Śuka continued,
+Teen mahine baad usne bahut saare rajaon ko bulaya. Sabne milkar ek bahut badi sena tayyar ki. Sena me haathi, ghode, rath aur lakhon sainik the.
 
-Previous defeat ke baad mighty king Jarāsandha day and night humiliation aur anger se burn ho raha tha.
-
-Exactly third month mein usne once again all allied kings ko war ke liye summon kiya."""
+Jarāsandha apni vishal sena ke saath Mathurā ki taraf chala. Mathura
+Yamunā nadi ke paas usne apna camp lagaya. Yamuna River"""
         create_image_text_layout(
             "attached_assets/chapter10/10.50a.jpg",
             text1,
@@ -6962,250 +6962,59 @@ Exactly third month mein usne once again all allied kings ko war ke liye summon 
             image_position="left"
         )
         text2 = """ 
-        🌍 Massive Alliance of Kings
+Raat ko sab log aaram kar rahe the. Kuch log geet gaa rahe the. Kuch so rahe the. Kisi ko andaza nahi tha ki kya hone wala hai.
 
-Jarāsandha ke saath enormous coalition gather hui including rulers of:
+Udhar Krishna ne sabhi Yādava veeron ke saath baithkar yudh ki planning ki. Unke saath Balarama, Uddhava aur Sātyaki bhi the.
 
-Matsya
-Mālava
-Cedi
-Kuru
-Pāñcāla
-Kerala
-Avanti
-Kāśī
-Gandhāra
-Kaliṅga
-Andhra
-Sindhu
-Madra
-Sauvīra
-Trigarta
+Subah suraj nikalne se pehle, Kṛṣṇa ne apni sena ko teen hisson me baant diya.
 
-and many mountain warriors.
+Balarāma aur kuch veer left side se gaye.
+Sātyaki aur doosre yoddha right side se gaye.
+Aur khud Kṛṣṇa saamne se dushman ki sena me ghus gaye.
 
-Entire force totaled:
+Us waqt Jarāsandha ki sena bilkul ready nahi thi.
+Ghodo par saddle nahi the.
+Haathiyon ne armour nahi pehna tha.
+Sainik abhi so kar uthe bhi nahi the.
 
-➡️ 23 Akṣauhiṇīs
+Tabhi achanak teen taraf se hamla hua.
 
-again.
+Sab raja ghabra gaye. Kuch sainik bhaag gaye. Kuch ne jaldi se hathiyaar uthaye aur ladne lage.
 
-🏕️ Encampment Near Mathurā
+Bahut bhayanak yudh hua.
+Kṛṣṇa apne rath par akela hi bahut saare yoddhaon ko harane lage.
+Balarāma ne bhi apni sena ke saath dushman ko peeche dhakel diya.
+Sātyaki ne bhi zor se hamla kiya.
 
-Huge army westward march karke finally Mathurā pahunchi.
+Thodi hi der me Jarāsandha ki sena toot gayi. Dar kar sab alag-alag disha me bhaagne lage.
 
-Yamunā riverbank par massive war-camp establish hua:
+Sātyaki ne bhaagte hue sainikon ka kaafi door tak peecha kiya aur vijay paakar wapas aaye.
 
-royal tents
-elephants
-cavalry
-chariots
-infantry
-camp followers
+Kṛṣṇa ne bahut saare haathi, rath, ghode aur dhan-daulat jeet li.
+Sundar mukut, sone ke gehne aur mehange vastra bhi mile.
 
-everywhere spread out the.
+Balarāma ne bhi dushman ka khazana aur anya saamaan jeet kar laaya.
+Phir sab dhan Yādavo ke raja Ugrasena ko de diya gaya.
 
-Jarāsandha relaxed while:
-
-Sūtas
-Māgadhas
-royal bards
-
-uski praises sing kar rahe the.
-
-🧠 Kṛṣṇa’s Strategic War Council
-
-Enemy preparations sunkar Kṛṣṇa immediately war council convene kiya.
-
-Meeting mein present the:
-
-Balarāma
-Vasudeva
-Uddhava
-Akrūra
-Śaineya (Sātyaki)
-Āhuka
-Sāraṇa
-
-Entire night strategy discuss hoti rahi.
-
-🌅 Surprise Attack at Dawn
-
-Before sunrise Kṛṣṇa ne Yādava army ko mobilize kiya.
-
-He divided the fourfold army into:
-
-elephants
-cavalry
-chariots
-infantry
-
-and arranged them in three divisions.
-
-🛡️ Deployment of the Yādavas
-Left Wing
-
-Kṛṣṇa sent:
-
-Balarāma
-Hārdikya
-Gada
-Sāraṇa
-
-Right Wing
-
-He deployed:
-
-Sātyaki
-Vipṛthu
-Pṛthu
-Uddhava
-
-with strong forces.
-
-Center
-
-Kṛṣṇa personally entered from the front directly into Jarāsandha’s vast army.
-
-😴 Enemy Army Completely Unprepared
-
-At that early dawn enemy camp still deeply relaxed and unprepared tha.
-
-Bhāgavata vividly describes:
-
-horses unsaddled the
-elephants armourless the
-soldiers ne weapons tak nahi uthaye the
-hair untied the
-coats of mail nahi pehne the
-chariots yoked nahi the
-battle-flags raised nahi the
-
-Entire army unsuspectingly sleeping ya casually resting thi.
-
-☀️ Kṛṣṇa Enters at Sunrise
-
-As sunrise eastern mountains par glow kar raha tha…
-
-birds singing
-lotuses blooming
-bees humming
-
-usi moment yellow-clad Kṛṣṇa directly enemy camp ke andar enter hue.
-
-😱 Total Chaos in the Camp
-
-Suddenly three sides se attack hote hi allied kings panic mein aa gaye.
-
-Nobody samajh nahi pa raha tha:
-
-“Kya ho raha hai?”
-
-Some:
-
-rallied together
-grabbed weapons
-counterattacked
-
-while others fear mein flee kar gaye.
-
-🩸 Brutal Battlefield
-
-Battle instantly horrifying ban gaya.
-
-Some soldiers:
-
-armour shattered
-limbs severed
-thighs cut
-arms destroyed
-
-Even in chaos, brave warriors mounted unsaddled horses aur desperate resistance dene lage.
-
-⚔️ Kṛṣṇa Fights Single-Handedly
-
-Govinda apne chariot par almost single-handedly enemy formations ke andar penetrate kar gaye.
-
-Jo bhi warriors unke against aaye:
-
-➡️ Kṛṣṇa rapidly unhe destroy karte gaye.
-
-🌪️ Balarāma’s Devastation
-
-Meanwhile mighty Balarāma left flank se enemy forces par toot pade.
-
-Unhone Magadhan army ko heavily rout kar diya.
-
-🏹 Sātyaki’s Assault
-
-Right side par Sātyaki ne:
-
-elephants
-cavalry
-infantry
-chariots
-
-ke saath violent attack launch kiya.
-
-Enemy ko “sound drubbing” diya gaya.
-
-🏃 Complete Collapse of Jarāsandha’s Army
-
-Soon entire Magadhan alliance terror se break ho gayi.
-
-Army every direction mein flee karne lagi.
-
-Sātyaki ne fleeing enemies ko:
-
-5 yojanas tak pursue kiya
-
-aur immense destruction ke baad victorious return kiya.
-
-🐘 Immense War Spoils
-
-Kṛṣṇa ne battlefield se huge spoils seize kiye:
-
-giant elephants
-weapons
-chariots
-horses
-flags
-armour
-
-He also captured:
-
-jewel-studded umbrellas
-crowns
-belts
-earrings
-gold ornaments
-luxurious garments
-
-👑 Balarāma Seizes Jarāsandha’s Wealth
-
-Kṛṣṇa ke instruction par Balarāma enormous wealth collect kar laaye:
-
-treasury
-vehicles
-weapons
-ornaments
-women of Jarāsandha’s harem
-captured subjects
-
-Entire spoils finally king Ugrasena ko present kiye gaye."""
+Is tarah Kṛṣṇa aur Balarāma ne buddhi aur sahas se Jarāsandha ki doosri sena ko bhi hara diya.
+Moral yeh hai ki sirf badi sena se jeet nahi milti, samajhdari aur sahi planning bhi bahut zaroori hoti hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 50(b)
     with st.expander("Chapter 50(b) - The Third Siege of Mathura: Jarāsandha’s defeat"):
         text1 = """ 
-        😠 Jarāsandha Seeks Help from Bāṇa
+Jarāsandha fir se haar gaya tha. Jarāsandha
+Uska gussa aur badh gaya.
 
-Śrī Śuka continued,
+Is baar woh madad maangne gaya apne dost Bāṇa ke paas. Bana
+Bāṇa ek bahut shaktishaali raja tha jiske hazaar haath the.
 
-Second defeat ke baad Jarāsandha ka pride completely wounded ho gaya tha.
-
-Humiliated king directly Śoṇitapura gaya — mighty thousand-armed demon king Bāṇa ke paas help maangne."""
+Jab Bāṇa ko pata chala ki uska dost aa raha hai, toh usne bahut grand welcome kiya.
+Haathi sajaye gaye.
+Ghode aur rath taiyaar the.
+Dhol baj rahe the.
+Har taraf jhande aur deepak chamak rahe the."""
         create_image_text_layout(
             "attached_assets/chapter10/10.50b.jpg",
             text1,
@@ -7213,285 +7022,95 @@ Humiliated king directly Śoṇitapura gaya — mighty thousand-armed demon king
             image_position="left"
         )
         text2 = """ 
-        🏰 Grand Welcome in Śoṇitapura
+Dono dost ek dusre se mile aur baithkar baat karne lage.
 
-Jab Bāṇa ko pata chala ki uska close friend Jarāsandha aa raha hai, woh personally huge royal procession ke saath welcome karne nikla.
+Jarāsandha bola,
+“Krishna ne achanak hamla karke meri sena ko hara diya. Mere haathi, ghode aur rath sab loot liye gaye. Mujhe tumhari madad chahiye.”
 
-Procession mein the:
+Yeh sunkar Bāṇa ne turant madad dene ka wada kiya.
 
-decorated elephants
-caparisoned horses
-splendid chariots
-banners and flags
-umbrellas
-drums and trumpets
-dancers and courtesans
-Sūtas and bards
+Usne Jarāsandha ko hazaaron haathi, lakhon ghode aur bahut bade sainik diye.
+Saath hi kuch powerful dānava yoddha bhi bheje jo māyā aur jadui yudh me expert the.
 
-Entire city festival atmosphere se fill ho gayi.
+Phir Jarāsandha apni aur bhi badi sena lekar Mathurā pahunch gaya. Mathura
 
-🤝 Friendship Between Bāṇa and Jarāsandha
+Usne shehar ko charo taraf se gher liya.
+Deeware todne ke liye bade-bade hathiyaar use kiye gaye.
 
-Bhāgavata emphasizes ki dono rulers extremely close friends aur mutual well-wishers the.
+Jab Krishna aur Balarama ko yeh pata chala, toh dono gusse me aa gaye.
 
-Royal assembly mein respectfully seat lene ke baad Jarāsandha apni humiliation narrate karne laga.
+Turant yudh ke nagade bajne lage.
 
-⚡ Jarāsandha Complains About Kṛṣṇa
+Sātyaki, Kṛtavarmā aur doosre Yādava veer bhi sena ke saath taiyaar ho gaye.
 
-Jarāsandha bitterly bola:
+Kṛṣṇa aur Balarāma do sher ki tarah yudh bhoomi me nikle.
 
-“That wicked cowherd Kṛṣṇa attacked me through surprise tactics.”
+Bahar aate hi Kṛṣṇa ne apna shankh Pāñcajanya zor se bajaya.
+Uski awaaz sunkar dushman ki sena darr gayi.
 
-“He plundered my:
+Phir bhayanak yudh shuru hua.
 
-elephants
-horses
-chariots
-weapons
+Bāṇa ke dānava jadui māyā se ladne lage.
+Kabhi ajeeb cheeze dikhate, kabhi sainikon ko confuse karte.
 
-and huge war resources.”
+Lekin Kṛṣṇa ne apni divya shakti se ek pal me sab māyā khatam kar di.
 
-Then he added:
+Phir unhone Sātyaki aur Kṛtavarmā ko kaha,
+“Tum dono in dānavo se ladho.”
 
-“My allied kings prevented me from fighting him single-handedly.”
+Dono veer turant yudh me kud pade.
 
-“So now I seek your military assistance.”
+Udhar Kṛṣṇa akela hi bahut saare rajaon se lad rahe the.
+Unke teer bijli ki tarah chal rahe the.
 
-💎 Bāṇa’s Generous Promise
+Haathi girne lage.
+Ghode aur rath tootne lage.
+Yudh bhoomi puri tarah hil gayi.
 
-Bāṇa immediately declared:
+Tab Jarāsandha khud gusse me bhar kar Balarāma ke saamne aaya.
 
-“Nothing I possess is separate from you.”
+Usne challenge diya,
+“Aao Balarāma! Apni taakat dikhao!”
 
-“These elephants, horses, subjects, kingdom — all are at your disposal.”
+Balarāma bhi gusse me aa gaye.
+Unhone apna bhayanak gadā uthaya aur sher ki tarah garje.
 
-🐘 Massive Reinforcements
+Dono ke beech zabardast gadā-yudh hua.
 
-Then Bāṇa supplied Jarāsandha with enormous military support:
+Kabhi Jarāsandha hamla karta.
+Kabhi Balarāma use zor se dhakka dete.
+Kabhi dono zameen par gir jaate aur fir uthkar ladne lagte.
 
-60,000 elephants
-100,000 chariots
-1 million swift horses
+Dono ki takkar do pagal haathiyon jaisi lag rahi thi.
 
-Aur bhi dangerous:
+Itni zor ki ladai hui ki aas-paas ke ped aur pathar bhi toot gaye.
 
-➡️ 300 expert Dānavas skilled in magical warfare.
+Dusri taraf Sātyaki ne dānava Kumbhāṇḍa ko teeron se buri tarah ghayal kar diya.
+Dānava behosh hokar gir gaya.
 
-👹 Kumbhāṇḍa and Kūpakarṇa
+Yeh dekhkar doosra dānava Kūpakarṇa darr gaya aur battlefield chhodkar bhaag gaya.
 
-Bāṇa ne apne two powerful ministers bhi bheje:
+Dono dānava apni bachi hui sena ke saath wapas Śoṇitapura laut gaye. Sonitapura
 
-Kumbhāṇḍa
-Kūpakarṇa
+Is tarah fir se Jarāsandha ki sena toot gayi.
 
-These Daityas black magic warfare mein specialists the.
-
-Bhāgavata comments ki unki power Lord Hari ke saamne insignificant thi.
-
-⚔️ Third Siege of Mathurā
-
-Supreme power of Viṣṇu ko na samajh paane ki wajah se all kings again war preparations mein lag gaye.
-
-Jarāsandha gigantic fourfold army lekar phir Mathurā pahunch gaya.
-
-City ko completely surround kar diya gaya.
-
-🏙️ Attack on Mathurā’s Walls
-
-Enemy forces:
-
-spears
-clubs
-pickaxes
-catapults
-huge stones
-
-use karke Mathurā ke fortifications destroy karne lage.
-
-🥁 War Drums of the Yādavas
-
-Attack ki news sunkar enraged Kṛṣṇa aur Balarāma ne war-drums beat karwaye.
-
-Army rapidly assemble hui.
-
-Leading Yādava warriors included:
-
-Sātyaki
-Kṛtavarmā
-Ugrasena
-Gada
-Āhuka
-Vasudeva
-
-Then Kṛṣṇa aur Balarāma lion-like fury ke saath battlefield ki taraf nikle.
-
-🐚 Blast of Pāñcajanya
-
-Mathurā se bahar nikalte hi lotus-eyed Kṛṣṇa ne loudly Pāñcajanya conch blow kiya.
-
-Its terrifying sound enemy hearts mein fear bharne laga.
-
-👹 Demonic Illusion Warfare
-
-Battle begin hote hi Bāṇa ke demon ministers:
-
-Kumbhāṇḍa
-Kūpakarṇa
-
-apni māyā-based magical warfare use karne lage.
-
-Illusions aur supernatural tactics ki wajah se Yādava army disturbed hone lagi.
-
-🌟 Kṛṣṇa Destroys the Illusions
-
-Kṛṣṇa ne instantly situation understand kar li.
-
-Using:
-
-“Knowledge-Missile” (Jñāna-astra)
-
-Lord ne ek moment mein saari illusions destroy kar di.
-
-Then he ordered:
-
-“Sātyaki aur Kṛtavarmā — you engage those Daityas.”
-
-⚔️ Fierce Duels Begin
-
-Immediately:
-
-Sātyaki vs Kumbhāṇḍa
-Kṛtavarmā vs Kūpakarṇa
-
-terrible battles start hue.
-
-🏹 Kṛṣṇa’s Impossible Archery
-
-Bhāgavata marvelously describes Kṛṣṇa’s combat skill.
-
-With just one bow in hand, he single-handedly fought hundreds of Kṣatriyas simultaneously.
-
-From Śārṅga bow:
-
-10 arrows per soldier
-100 per horse
-1000 per chariot
-10,000 per elephant
-
-release ho rahe the!
-
-The text calls it:
-
-“a tremendously aweful miracle.”
-🩸 Battlefield Carnage
-
-Battlefield horrific ban gaya:
-
-trunks of elephants severed
-horses neck-cut dead pade the
-shattered chariots everywhere scattered the
-bleeding soldiers uprooted Kiṃśuka trees jaise lag rahe the
-
-😡 Jarāsandha Challenges Balarāma
-
-Apni army ko collapsing dekhkar Jarāsandha directly Balarāma ki taraf charge hua.
-
-He remembered previous humiliation and shouted:
-
-“Take up your pestle if you dare!”
-
-“Show me your strength before I crush you with my mace!”
-
-⚡ Balarāma’s Terrifying Rage
-
-Challenge sunkar Balarāma’s eyes rage se blaze karne lage.
-
-He grasped his lightning-like pestle exactly like Yama lifting his rod at cosmic destruction.
-
-Then:
-
-thousand circles mein whirl kiya
-fiery pestle hurl kiya
-lion-like roar kiya
-
-🏔️ The Titanic Duel
-
-Jarāsandha ka chariot shaken ho gaya.
-
-Lekin he jumped down and rushed with giant iron mace.
-
-Balarāma bhi chariot leave karke foot combat mein aa gaye.
-
-Then gigantic duel begin hua:
-
-mace blows
-grappling
-wrestling
-chest collisions
-ground rolling
-
-Bhāgavata compares them to:
-
-two maddened elephants.
-🌲 Trees and Rocks Pulverized
-
-Dono warriors ek dusre ko drag karte hue battlefield mein move kar rahe the.
-
-Their strength se:
-
-nearby trees
-rocks
-ground itself
-
-powder banne laga.
-
-😨 Allied Kings Lose Courage
-
-Jarāsandha aur Balarāma ki terrifying duel dekhkar many kings mentally collapse hone lage.
-
-They started thinking:
-
-“Jarāsandha may actually die today.”
-
-Fear ki wajah se unka enthusiasm for battle disappear hone laga.
-
-🏹 Sātyaki Defeats Kumbhāṇḍa
-
-Meanwhile Kumbhāṇḍa ne Sātyaki ko three arrows se wound kiya.
-
-Angry serpent ki tarah breathing karte hue Sātyaki ne:
-
-five iron arrows liye
-bowstring ears tak pull ki
-Kumbhāṇḍa ko chest, forehead, throat aur crown par strike kiya
-
-Daitya unconscious hoke chariot mein gir gaya.
-
-His frightened charioteer immediately battlefield se usse le gaya.
-
-👹 Daityas Flee the Battlefield
-
-Kumbhāṇḍa ko defeated dekhkar Kūpakarṇa bhi battle abandon kar gaya.
-
-Both demon ministers:
-
-remaining troops lekar
-without even informing Jarāsandha
-
-directly Śoṇitapura return kar gaye."""
+Moral yeh hai ki ghamand aur buri niyat zyada der tak nahi tikti. Sachchi shakti buddhi, himmat aur dharma me hoti hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 50(c)
     with st.expander("Chapter 50(c) - Conquest of Karvīrapura"):
         text1 = """ 
-        😨 Jarāsandha’s Army Collapses
+Yudh bahut bhayanak ho chuka tha.
+Jarāsandha ki sena tootne lagi.
+Bāṇa ke dānava sainik bhi battlefield chhodkar bhaag gaye.
 
-Śrī Śuka continued,
+Yeh dekhkar sab raja dar gaye aur unka hausla toot gaya.
 
-Jab Bāṇa ke demon forces battlefield abandon karke bhaag gaye, tab remaining allied kings completely demoralized ho gaye.
+Balarama ko laga ki ab jeet pakki hai.
+Woh gusse me Jarāsandha ke paas pahunch gaye.
 
-Yādava weapon-showers ki wajah se entire enemy army exhausted aur terrified feel karne lagi.    """
+Unhone Jarāsandha ke baal pakad liye aur apne bhayanak gadā se use maarne wale the."""
         create_image_text_layout(
             "attached_assets/chapter10/10.50c.jpg",
             text1,
@@ -7499,298 +7118,89 @@ Yādava weapon-showers ki wajah se entire enemy army exhausted aur terrified fee
             image_position="left"
         )
         text2 = """ 
-        ⚡ Balarāma Overpowers Jarāsandha
+Tabhi aasman se ek zor ki awaaz aayi,
+“Balarāma, Jarāsandha ki mrityu tumhare haath se nahi hogi. Use chhod do.”
 
-Battlefield mein Balarāma suddenly realized ki enemy strength almost collapse ho chuki hai.
+Yeh sunkar Balarāma ruk gaye.
+Unhone Jarāsandha ko chhod diya aur apne rath par wapas laut aaye.
 
-Enraged Balarāma ne:
+Jarāsandha sharminda ho gaya.
+Sir jhukakar woh apni bachi hui sena ke saath wapas apne rajya chala gaya.
 
-➡️ Jarāsandha ke hair pakad liye with his left hand.
+Udhar Krishna ne dushman sena par teeron ki baarish kar di.
+Bahut saare raja bhaag gaye.
 
-Then he prepared to smash Jarāsandha’s head with his terrible pestle.
+Jab Kṛṣṇa aur Balarāma Mathurā laut kar aaye, toh poore shehar me khushi chha gayi. Mathura
 
-🌌 Divine Voice from Heaven
+Logon ne phool barsaye.
+Mahilaye mahal ki chhaton se unka swagat karne lagi.
+Sab log unki jai-jai kar kar rahe the.
 
-Exactly us moment sky se thundercloud-like incorporeal voice sunai di:
+Baad me Kṛṣṇa aur Balarāma ne socha ki woh dakshin taraf jaakar prasiddh Gomanta parvat dekhenge. Gomanta
 
-“O Balarāma, Jarāsandha tumhare dwara marne ke liye destined nahi hai.”
-“Battle se peacefully return karo.”
+Dono bhai safar par nikal pade.
+Raaste me unhone nadiyan, pahaad aur jungle dekhe.
 
-🙏 Balarāma Obeys the Divine Command
+Ek din jungle me unhe ek mahaan rishi dikhe.
+Unke baal jataon me the.
+Woh ped ke neeche shaant baithkar tapasya kar rahe the.
 
-Hearing heavenly order, mighty Balarāma immediately stopped.
+Woh aur koi nahi, balki Parashurama the.
 
-He released Jarāsandha and returned to his chariot.
+Kṛṣṇa aur Balarāma ne unhe pranām kiya.
 
-Meanwhile:
+Kṛṣṇa bole,
+“Hey Mahārishi, hum Gomanta parvat dekhna chahte hain.”
 
-Siddhas
-sages
-bards
-singers
-Brahmaṇas
+Paraśurāma muskuraaye aur bole,
+“Tum dono aam log nahi ho. Main tumhari asli shakti jaanta hoon.”
 
-unke glory praises karne lage.
+Phir unhone kaha,
+“Gomanta ke paas Karavīra naam ka ek shehar hai. Wahan Śṛgāla Vāsudeva naam ka ghamandi raja rehta hai. Woh tumhe nahi rokega. Pehle use harana hoga.”
 
-😔 Jarāsandha Retreats in Shame
+Yeh sunkar dono bhai aage badhe.
 
-Jarāsandha:
+Jald hi unhone sundar Karavīra nagari dekhi. Karavirapura
+Shehar ke bade dwar aur unche mahal bahut sundar lag rahe the.
 
-head lowered
-tiny surviving force ke saath
-defeated kings se surrounded
+Tab Kṛṣṇa ne apna shankh zor se bajaya.
 
-battlefield leave karke apni capital return kar gaya.
+Shankh ki awaaz sunkar Śṛgāla Vāsudeva bahut gusse me aa gaya.
+Woh apni badi sena lekar hamla karne aa gaya.
 
-🏹 Kṛṣṇa Continues the Slaughter
+Usne teeron ki tez baarish kar di.
+Lekin Kṛṣṇa aur Balarāma bina dare ladte rahe.
 
-While Jarāsandha retreat kar raha tha, Kṛṣṇa still battlefield mein enemy kings ko devastate karte rahe.
+Yudh aur bhi tez ho gaya.
 
-Bhāgavata says:
+Ant me Kṛṣṇa ne ek shaktishaali vaar kiya aur Śṛgāla Vāsudeva ka sir kaat diya.
 
-➡️ He routed and killed the majority of hostile kings.
+Apne raja ko marte dekhkar uski sena darr kar bhaag gayi.
 
-🎉 Triumphant Return to Mathurā
+Phir Kṛṣṇa aur Balarāma Karavīra shehar me pravesh kiye.
+Wahan ke logon ne unka bahut samman kiya.
 
-Victory ke baad Kṛṣṇa grand procession ke saath Mathurā return hue.
+Kṛṣṇa ne shehar ka dhan, haathi, ghode aur khazana sambhal liya aur sab kuch surakshit kar diya.
 
-Unke saath:
+Is tarah dono bhaiyon ne apni buddhi, himmat aur dharma se ek aur dusht raja ko hara diya.
 
-Sūtas
-Māgadhas
-bards
-praising Brahmaṇas
-
-constantly victory songs ga rahe the.
-
-🏙️ Mathurā Celebrates
-
-Bhāgavata beautifully describes Mathurā:
-
-high fortification walls
-lofty gates
-banners waving
-lamps shining everywhere
-
-As Kṛṣṇa entered city:
-
-flowers shower kiye gaye
-fried grains scatter hue
-women rooftops se folded palms ke saath blessings dene lagi
-
-Citizens ne:
-
-garlands
-perfumes
-gifts
-precious presents
-
-offer kiye to Kṛṣṇa aur Balarāma.
-
-👑 Royal Assembly of the Yādavas
-
-Assembly hall mein Kṛṣṇa seated hue together with:
-
-Balarāma
-Sātyaki
-Ugrasena
-Uddhava
-Akrūra
-
-Yādavas aur Brahmaṇas ne Lord ko Indra-like honours diye.
-
-🏔️ Desire to Visit Gomanta
-
-Some time later Kṛṣṇa aur Balarāma ne southern direction travel karne ka decision liya.
-
-Unka goal tha:
-
-Mount Gomanta
-
-— famous inaccessible mountain fortress.
-
-🌍 Journey Through Many Lands
-
-Dono brothers crossed:
-
-Yamunā
-rivers
-hills
-mountains
-forests
-many kingdoms
-
-during their southern journey.
-
-🌲 Encounter with Paraśurāma
-
-Travelling ke dauraan they suddenly saw:
-
-➡️ a radiant sage beneath a tree.
-
-He had:
-
-matted hair
-bark garments
-deer-skin clothing
-kamaṇḍalu beside him
-hundreds of disciples
-
-and shone like the Sun itself.
-
-This sage was:
-
-Paraśurāma.
-
-🙏 Kṛṣṇa Greets Paraśurāma
-
-Kṛṣṇa aur Balarāma respectfully bowed before him.
-
-Then Kṛṣṇa said:
-
-“I bow to you, O Paraśurāma, son of Jamadagni.”
-
-“We are known as Balarāma and Kṛṣṇa.”
-
-“Have you heard of us?”
-
-🌟 Paraśurāma Recognizes the Supreme Lord
-
-Paraśurāma lovingly gazed upon both brothers and replied:
-
-“I know you are the Supreme transcendent Lord born in the Yadu dynasty.”
-
-He further glorified Kṛṣṇa:
-
-cause of all creation
-ancient supreme person
-source of all worlds
-
-❓ Why Have You Come Here?
-
-Paraśurāma then asked:
-
-“What purpose brings you both here?”
-
-Kṛṣṇa replied:
-
-“We desire to see Mount Gomanta and its fortress.”
-
-⚔️ Warning About Karavīra
-
-Paraśurāma warned them:
-
-“At Gomanta’s foot lies city Karavīra.”
-
-“It is ruled by Śṛgāla Vāsudeva.”
-
-“He will not tolerate your presence.”
-
-“So first defeat him in battle.”
-
-🏔️ Arrival at Gomanta and Karavīra
-
-After taking leave of Paraśurāma, both brothers continued southward.
-
-Soon they saw:
-
-gigantic sky-touching trees
-Mount Gomanta
-fortified city Karavīra
-
-with:
-
-towers
-ramparts
-palaces
-huge gates
-
-🐚 Kṛṣṇa Blows the Conch
-
-Upon arrival Kṛṣṇa loudly blew his conch.
-
-Hearing the blast:
-
-Śṛgāla Vāsudeva became furious.
-
-He immediately marched out with massive:
-
-infantry
-cavalry
-elephants
-chariot divisions
-
-⚔️ Battle at Karavīra
-
-Śṛgāla attacked fiercely and covered Kṛṣṇa-Balarāma with torrents of arrows.
-
-But both Yādava heroes fought calmly on foot and threw enemy formations into confusion.
-
-🌊 Kṛṣṇa Stops Śṛgāla Like a Shore Stops the Sea
-
-Bhāgavata gives a beautiful comparison:
-
-As Śṛgāla rushed forward in rage,
-
-Kṛṣṇa stopped him just as the coastline restrains the ocean tide.
-
-☠️ Śṛgāla Vāsudeva Killed
-
-Then fierce duel begin hua between the two Vāsudevas.
-
-But very quickly:
-
-➡️ Lord Govinda cut off Śṛgāla’s crowned head.
-
-🏃 Enemy Army Flees
-
-Apne king ko dead dekhkar surviving soldiers panic mein every direction bhaag gaye.
-
-👑 Kṛṣṇa Enters Karavīra
-
-After victory:
-
-Kṛṣṇa
-Balarāma
-
-entered Karavīra city.
-
-Brāhmaṇas aur merchants ne unhe apne beloved lords ki tarah worship kiya.
-
-💎 Seizure of the Royal Wealth
-
-Finally Kṛṣṇa ordered Śṛgāla’s:
-
-elephants
-horses
-soldiers
-chariots
-treasure
-royal wealth
-
-to be secured under guard."""
+Moral yeh hai ki sachchai aur dharma ke saamne ghamand zyada der tak nahi tikta."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 50(d)
     with st.expander("Chapter 50(d) - Kṛṣṇa Crowned: Jarāsandha’s Defeat"):
         text1 = """ 
-        🏔️ Kṛṣṇa and Balarāma Ascend Mount Gomanta
+Krishna aur Balarama Gomanta parvat par chadh gaye. Gomanta
 
-Śrī Śuka continued,
+Woh pahaad bahut sundar tha.
+Har taraf bade-bade ped the.
+Jharnon ka thanda paani beh raha tha.
+Pakshi gaane gaa rahe the.
+Bandar pedon par kood rahe the.
+Madhumakkhiyan gun-guna rahi thi.
 
-Karavīra victory ke baad Kṛṣṇa aur Balarāma magnificent Mount Gomanta par ascend hue.
-
-Bhāgavata mountain ki extraordinary beauty vividly describe karta hai:
-
-towering trees
-flowering creepers
-waterfalls
-cool crystal streams
-dense shadows
-joyful cuckoos singing
-humming bees
-monkeys leaping through branches"""
+Dono bhai prakriti ka anand lene lage."""
         create_image_text_layout(
             "attached_assets/chapter10/10.50d.jpg",
             text1,
@@ -7798,194 +7208,81 @@ monkeys leaping through branches"""
             image_position="left"
         )
         text2 = """ 
-        Mountain covered tha with:
+Parvat ke sabse upar ek jagah thi jiska naam Pravarṣaṇa tha.
+Wahan hamesha baarish hoti rehti thi.
 
-Śāla
-Tāla
-Tamāla
-Kadamba
-Aśoka
-Nimba
-Punnāga
-plantain groves
+Kṛṣṇa aur Balarāma wahan kuch samay shaanti se rahe.
+Woh phal, jad aur pahaadi paani se apna jeevan chala rahe the.
 
-Entire landscape heavenly paradise jaisa appear ho raha tha.
+Isi beech ek ajeeb ghatna hui.
 
-🌧️ The Peak Called Pravarṣaṇa
+Samudra ke paas ek bahut keemti divya mukut tha jo Bhagavān Viṣṇu ka mana jata tha. Vishnu
+Woh mukut heere-moti aur neele ratno se chamak raha tha.
 
-Mountain par dono brothers specially ek famous summit par gaye:
+Ek dānava raja Bali us mukut ko lekar bhaag gaya. Mahabali
 
-Pravarṣaṇa Peak
+Yeh dekhkar Garuda turant uske peeche uda.
 
-Ye peak unique thi because:
+Garuḍa ne us dānava ko yudh me hara diya aur mukut wapas le liya.
 
-➡️ clouds constantly rain karte rehte the there.
+Wapas aate waqt usne Gomanta parvat par Kṛṣṇa ko dekha.
 
-Kṛṣṇa aur Balarāma us peak se all directions survey karte hue peacefully enjoy karne lage.
+Garuḍa samajh gaya ki Kṛṣṇa koi aam vyakti nahi hain.
+Woh Bhagavān Nārāyaṇa ka hi roop hain.
 
-🌊 The Crown of Viṣṇu is Stolen
+Bahut shraddha se Garuḍa ne woh divya mukut Kṛṣṇa ke sir par rakh diya.
 
-Meanwhile another extraordinary event simultaneously ho raha tha.
+Phir woh jhukkar bola,
+“Hey Prabhu, aap sabke rakshak hain. Main aapka sevak hoon.”
 
-Milk Ocean mein — jo Viṣṇu ka divine abode maana jata hai — mighty Daitya king Bali (son of Virocana) arrived.
+Kṛṣṇa muskuraaye aur pyar se Garuḍa ke sir par haath rakha.
 
-There he stole:
+Unhone kaha,
+“Jab bhi mujhe zarurat hogi, tum aa jana.”
 
-the celestial crown of Lord Viṣṇu.
+Garuḍa pranām karke wahan se chale gaye.
 
-💎 Description of the Divine Crown
+Kuch samay baad Kṛṣṇa aur Balarāma Gomanta se neeche utar kar Karavīrapura aaye. Karavirapura
 
-Bhāgavata crown ko unbelievably magnificent describe karta hai.
+Wahan woh chaar mahine tak rahe.
+Phir ek badi sena ke saath Mathurā lautne lage. Mathura
 
-It was adorned with:
+Lekin jab Jarāsandha ko pata chala ki Śṛgāla mar gaya hai, toh woh fir se gusse me aa gaya.
 
-sapphires
-Gomeda gems
-rubies
-pearls
-corals
-Puṣparāga stones
-celestial gold
+Is baar bhi woh bahut badi sena lekar aa gaya.
 
-The crown blazed brilliantly like the Sun itself.
+Phir se bhayanak yudh hua.
 
-🦅 Garuḍa Pursues Bali
+Saat din tak lagataar ladai chalti rahi.
+Kṛṣṇa aur Balarāma bahaduri se ladte rahe.
 
-Jab crown theft ka pata chala, Garuḍa instantly Bali ke piche chase karne laga.
+Aakhir me Jarāsandha fir haar gaya.
+Uski sena toot gayi aur woh sharminda hokar Magadha wapas chala gaya.
 
-A terrible aerial battle hua.
+Kṛṣṇa aur Balarāma vijay paakar Mathurā laut aaye.
+Log unki jai-jai karne lage.
+Sab taraf khushi aur utsav ka mahaul tha.
 
-Finally:
+Is tarah dharma aur sachchai ne ek baar fir ahankaar ko hara diya.
 
-➡️ Garuḍa defeated Bali and recovered the crown.
-
-👑 Kṛṣṇa is Crowned on Gomanta
-
-Return journey ke dauraan Garuḍa suddenly Mount Gomanta par Kṛṣṇa ko seated dekhta hai beside Balarāma.
-
-Immediately he understood:
-
-“This is the Supreme Lord Himself.”
-
-Then Garuḍa respectfully:
-
-placed the celestial crown on Kṛṣṇa’s head
-bowed at His feet
-began offering prayers
-
-🙏 Garuḍa Glorifies Kṛṣṇa
-
-Garuḍa declared:
-
-“I repeatedly bow to Lord Nārāyaṇa who has assumed human form for a divine mission.”
-
-“You are the destroyer of the enemies of the gods.”
-
-“You create the universe as Brahmā…”
-
-“You preserve it as Viṣṇu…”
-
-“And ultimately dissolve it through Śiva.”
-
-He openly acknowledged:
-
-“You are that same Supreme Viṣṇu now born in the Yadu race.”
-🦅 Garuḍa Offers Service
-
-Then Garuḍa humbly introduced himself:
-
-“I am Garuḍa, son of Vinatā and your servant.”
-
-“O Lord, command me what I should do.”
-
-After saying this he knelt before Kṛṣṇa with folded palms.
-
-🌸 Kṛṣṇa Blesses Garuḍa
-
-Kṛṣṇa affectionately touched Garuḍa’s head with His hand.
-
-Then lovingly said:
-
-“You may go wherever you wish.”
-
-“When I remember you, come immediately.”
-
-Thus Garuḍa respectfully departed.
-
-🌿 Life on Gomanta
-
-Kṛṣṇa aur Balarāma some time tak Mount Gomanta par peacefully rahe.
-
-They lived simply on:
-
-fruits
-roots
-stream water
-
-while enjoying mountain forests and natural beauty.
-
-🏙️ Return to Karavīrapura
-
-Eventually both brothers descended from the mountain and returned to Karavīrapura.
-
-They remained there for:
-
-four months.
-
-Then with a large army they finally began journey back toward Mathurā.
-
-😠 Jarāsandha Attacks Again
-
-But hearing that Śṛgāla Vāsudeva had been killed…
-
-Jarāsandha once again became furious.
-
-He assembled another vast army and marched against Kṛṣṇa and Balarāma.
-
-⚔️ Seven-Day War
-
-This time intense battle continued for:
-
-seven full days.
-
-Again Jarāsandha’s gigantic forces suffered complete defeat.
-
-🏃 Jarāsandha Flees Once More
-
-After devastating losses:
-
-➡️ Jarāsandha retreated back to Magadha with surviving Kṣatriyas.
-
-Kṛṣṇa aur Balarāma victorious state mein Mathurā return hue while:
-
-Sūtas
-Māgadhas
-bards
-
-sang their heroic glories everywhere."""
+Moral yeh hai ki jo vyakti dharma aur sachchai ke saath chalta hai, ant me jeet usi ki hoti hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 51
     with st.expander("Chapter 51 - Mucukunda’s Eulogy of the Lord"):
         text1 = """ 
-        🌙 Kālayavana Sees Kṛṣṇa
+Ek din Kalayavana naam ka ek bahut khatarnak Yavana raja Mathurā par hamla karne aaya. Mathura
 
-Śrī Śuka continued,
+Jab usne Krishna ko dekha, toh woh hairaan reh gaya.
 
-Jab Kālayavana ne Mathurā gates se Kṛṣṇa ko bahar aate dekha, woh instantly stunned ho gaya.
+Kṛṣṇa ka roop bahut sundar tha.
+Unhone peele vastra pehne the.
+Unke gale me chamakta hua Kaustubha mani tha.
+Unke chehre par pyari muskaan thi.
 
-Bhāgavata beautifully Lord ka divine form describe karta hai:
-
-dark cloud-like complexion
-yellow silk garments
-Śrīvatsa mark on chest
-Kaustubha jewel shining on neck
-four mighty arms
-reddish lotus-like eyes
-smiling moonlike face
-makara-shaped earrings
-Vanamālā garland"""
+Kālayavana samajh gaya,
+“Yeh zaroor Vāsudeva Kṛṣṇa hi hain.”"""
         create_image_text_layout(
             "attached_assets/chapter10/10.51.jpg",
             text1,
@@ -7993,454 +7290,595 @@ Vanamālā garland"""
             image_position="left"
         )
         text2 = """ 
-        Kṛṣṇa rising moon ki tarah appear ho rahe the.
+        Woh bina hathiyaar ke Kṛṣṇa ke peeche bhaagne laga.
 
-🧠 Kālayavana Recognizes Him
+Lekin Kṛṣṇa usse pakadne nahi de rahe the.
+Woh use dheere-dheere ek door pahaadi gufa ki taraf le gaye.
 
-Kālayavana immediately thought:
+Kālayavana gusse me chillaya,
+“Yādava hoke tum bhaag kyun rahe ho?”
 
-“This must be Vāsudeva Kṛṣṇa.”
+Lekin Kṛṣṇa chup-chaap gufa me chale gaye.
 
-Because Nārada previously usko Kṛṣṇa ke divine signs describe kar chuke the.
+Andar ek aadmi gehri neend me so raha tha.
 
-Lekin usne notice kiya:
+Kālayavana ne socha,
+“Kṛṣṇa mujhse bachne ke liye sone ka natak kar rahe hain.”
 
-Kṛṣṇa foot par chal rahe hain
-unarmed appear ho rahe hain
+Gusse me usne soye hue vyakti ko pair se laat maar di.
 
-So Kālayavana decided:
+Jaise hi woh vyakti utha, usne aankhen kholi aur Kālayavana ki taraf dekha.
 
-“Main bhi unarmed hi fight karunga.”
+Uski aankhon me itni tej agni thi ki Kālayavana turant jal kar raakh ban gaya.
 
-🏃 Kṛṣṇa Leads Him Away
+Woh soya hua vyakti tha Mucukunda.
 
-Then strange event hua.
+Raja Mucukunda bahut purane samay ke mahaan raja the.
+Woh sachche, bahadur aur dharmic the.
 
-Instead of directly fighting…
+Kabhi devtaon ne unse madad maangi thi kyunki dānava unhe pareshan kar rahe the.
+Mucukunda ne bahut saalon tak devtaon ki raksha ki.
 
-Kṛṣṇa rapidly running start kar dete hain with Kālayavana chasing behind Him.
+Lekin itni lambi ladai ke baad woh bahut thak gaye the.
 
-Bhāgavata says:
+Tab devtaon ne unhe ek vardaan diya,
+“Tum aaraam se so sakte ho. Jo bhi tumhari neend todhega, woh turant jal kar bhasm ho jayega.”
 
-➡️ Lord deliberately appeared always “almost within reach,”
+Isliye Mucukunda us gufa me gehri neend so rahe the.
 
-yet Kālayavana kabhi pakad nahi paaya.
+Kālayavana ke jalne ke baad Kṛṣṇa unke saamne aaye.
 
-⚠️ “Coward! Why Are You Running?”
+Mucukunda ne Kṛṣṇa ko dekha aur hairaan reh gaye.
+Unhone itna divya aur shant roop pehle kabhi nahi dekha tha.
 
-While chasing, Kālayavana mocked:
+Woh bole,
+“Aap kaun hain? Aapka tej suraj jaisa chamak raha hai.”
 
-“O Kṛṣṇa! Born in Yadu race hokar enemy se kyun bhaag rahe ho?”
+Tab Kṛṣṇa ne muskuraakar kaha,
+“Mere roop aur janm anek hain. Main Yadu vansh me Vāsudeva ke ghar janma hoon. Log mujhe Vāsudeva Kṛṣṇa kehte hain.”
 
-Lekin despite insults:
+Mucukunda samajh gaye ki yeh koi aam vyakti nahi, swayam Bhagavān Nārāyaṇa hain. Narayana
 
-➡️ he still could not catch the Lord.
+Woh bahut vinamr hokar bole,
+“Prabhu, duniya ke log dhan, rajya aur sukh ke peeche bhaagte rehte hain. Lekin yeh sab ek din khatam ho jata hai.”
 
-Bhāgavata explains:
+“Main bhi kabhi apne rajya aur shakti par garv karta tha. Lekin ab samajh aaya ki asli shanti sirf aapki bhakti me hai.”
 
-because his sinful karmas were not exhausted.
+“Main aapse koi dhan ya rajya nahi maangta. Mujhe sirf aapke charno ki seva chahiye.”
 
-🕳️ The Mysterious Cave
+Kṛṣṇa unki baat sunkar bahut prasann hue.
 
-Finally Kṛṣṇa entered a deep mountain cave.
+Unhone kaha,
+“Mucukunda, tumhara mann ab pavitra ho gaya hai. Tumhari bhakti kabhi kam nahi hogi.”
 
-Kālayavana bhi andar ghus gaya.
+“Agale janm me tum ek gyani Brāhmaṇa banoge aur ant me mujhe prapt karoge.”
 
-Inside cave usne ek sleeping man dekha.
+Mucukunda ne khushi se Kṛṣṇa ko pranām kiya.
 
-👣 Kālayavana’s Fatal Mistake
+Is tarah Raja Mucukunda ko samajh aa gaya ki duniya ki shakti aur dhan temporary hote hain, lekin Bhagavān ki bhakti hamesha saath rehti hai.
 
-Kālayavana foolishly assumed:
-
-“Kṛṣṇa pretending to sleep after luring me here.”
-
-Angrily usne sleeping person ko kick maar diya.
-
-🔥 Mucukunda Burns Kālayavana
-
-Sleeping king slowly awakened and opened his eyes.
-
-The moment uski angry gaze Kālayavana par padi:
-
-fire erupted from his body.
-
-And instantly:
-
-➡️ Kālayavana reduced to ashes.
-
-👑 Who Was Mucukunda?
-
-Parīkṣit curiously asked:
-
-“Ye extraordinary king kaun tha?”
-
-Śuka explained:
-
-He was:
-
-King Mucukunda
-
-— son of mighty emperor Māndhātṛ from Ikṣvāku dynasty.
-
-He was:
-
-truthful
-protector of Brahmaṇas
-heroic warrior
-⚔️ Protector of the Gods
-
-Long ago devas Asuras se heavily oppressed ho rahe the.
-
-Indra aur gods ne Mucukunda se help maangi.
-
-For a very long time:
-
-➡️ Mucukunda continuously protected the gods in celestial wars.
-
-😔 Time Destroyed Everything
-
-Eventually gods obtained Kārttikeya as their new commander.
-
-Then they told Mucukunda:
-
-“You may now rest.”
-
-Lekin tragic truth reveal hua:
-
-During his long absence:
-
-his kingdom vanished
-sons died
-queens died
-ministers died
-relatives gone
-entire generation destroyed by Time
-
-⏳ The Power of Time
-
-Gods explained:
-
-“Time is stronger than the strongest.”
-
-Just as cowherd cattle ko drive karta hai…
-
-Time effortlessly all beings ko move aur destroy karta hai.
-
-😴 Mucukunda Requests Sleep
-
-Gods offered boon except mokṣa, because only Viṣṇu can grant liberation.
-
-Exhausted Mucukunda requested:
-
-“I only desire long uninterrupted sleep.”
-
-Then another special boon mila:
-
-“Whoever disturbs your sleep will instantly burn to ashes.”
-
-Thus Mucukunda entered the cave and slept for ages.
-
-✨ Kṛṣṇa Reveals Himself
-
-After Kālayavana burned, Kṛṣṇa manifested before Mucukunda.
-
-Mucukunda beheld:
-
-dark blue cloud-like form
-yellow silk garments
-Kaustubha jewel
-Śrīvatsa mark
-Vanamālā garland
-four arms
-smiling compassionate face
-
-Lord’s radiance entire cave ko illuminate kar rahi thi.
-
-🙏 Mucukunda Questions the Lord
-
-Overwhelmed by divine brilliance, Mucukunda respectfully asked:
-
-“Who are You?”
-
-“Are You:
-
-Fire-god?
-Sun-god?
-Moon-god?
-Indra?
-
-or some supreme deity?”
-
-Then he concluded:
-
-“I believe You are Lord Viṣṇu Himself.”
-
-🌌 Kṛṣṇa Explains His Incarnation
-
-Kṛṣṇa replied:
-
-“My incarnations, names and deeds are infinite.”
-
-“No one can fully count them.”
-
-Then He explained His present appearance:
-
-“I have descended in Yadu dynasty as son of Vasudeva.”
-
-“So people call Me Vāsudeva.”
-
-⚔️ Slaying of Demons
-
-Kṛṣṇa declared:
-
-“I have slain:
-
-Kaṃsa
-Pralamba
-other enemies of dharma.”
-
-“This Yavana too was destroyed through your fiery glance.”
-
-💛 “I Came Here for You”
-
-Then Lord revealed something deeply beautiful:
-
-“Long ago you repeatedly prayed to Me.”
-
-“So out of affection for My devotee…”
-
-“I personally came to this cave to bless you.”
-🌸 Kṛṣṇa Offers Boons
-
-Lord lovingly said:
-
-“Ask whatever boon you desire.”
-
-“No one who takes refuge in Me suffers misery again.”
-
-😢 Mucukunda’s Great Realization
-
-Hearing Lord’s words, Mucukunda became overwhelmed with devotion.
-
-He realized:
-
-“This is Nārāyaṇa Himself.”
-
-Then he began offering profound philosophical prayers.
-
-🕸️ Delusion of Material Life
-
-Mucukunda lamented:
-
-“Humans become deluded by Your māyā.”
-
-Thinking family, wealth and worldly pleasures will bring happiness…
-
-they actually enter deeper suffering.
-
-🐄 “Like an Animal Falling Into a Well”
-
-He gave powerful analogy:
-
-Human birth extremely rare hai.
-
-Yet person who ignores Lord’s feet is like:
-
-an animal falling into a grass-covered well while seeking grass.
-👑 Regret Over Kingship
-
-Mucukunda confessed:
-
-“My whole life wasted ho gaya.”
-
-“I became intoxicated by:
-
-kingdom
-armies
-power
-wealth
-wives
-sons.”
-
-He forgot the Lord completely.
-
-☠️ The Horror of Time
-
-He reflected:
-
-Body once praised as:
-
-“god among men”
-
-eventually becomes:
-
-ashes
-worms
-excrement for animals
-
-Such is inevitable power of Time.
-
-💔 Worldly Success Cannot Satisfy
-
-Even kings who conquer the earth become slaves of:
-
-desire
-pride
-sensual pleasure
-
-Austerities and heavenly ambitions bhi true peace nahi dete.
-
-🌟 Association with Saints Leads to Liberation
-
-Mucukunda declared:
-
-Only when liberation-time approaches…
-
-person gains association with saints and turns toward God.
-
-He recognized losing his kingdom itself as:
-
-Kṛṣṇa’s hidden grace.
-🙏 Mucukunda Rejects All Material Boons
-
-Then he made his final prayer:
-
-“I desire no worldly boon.”
-
-“I only seek service to Your lotus feet.”
-
-“What wise person would ask for temporary pleasures after attaining the Lord of Liberation?”
-
-🌌 Complete Surrender
-
-Mucukunda surrendered fully:
-
-“I take refuge in You alone…”
-
-“You who are:
-
-beyond guṇas
-pure consciousness
-supreme reality
-fearless refuge.”
-💎 Kṛṣṇa Praises Mucukunda
-
-The Lord replied lovingly:
-
-“O emperor, your mind is pure and steady.”
-
-“Even when tempted with boons, you were not distracted.”
-
-Kṛṣṇa explained He had actually tested Mucukunda’s devotion.
-
-🧘 True Devotion vs Mere Yoga
-
-Lord said:
-
-Non-devotees may externally control mind through yoga practices…
-
-But hidden desires still remain inside them.
-
-Whereas true devotees remain steady even amidst temptations.
-
-🌿 Final Blessing
-
-Finally Kṛṣṇa blessed him:
-
-“Roam freely on Earth with mind fixed on Me.”
-
-“Your devotion shall remain eternal.”
-
-Then He instructed:
-
-“As a Kṣatriya you accumulated violence through hunting and war.”
-
-“So now perform austerities and meditation.”
-
-🔱 Promise of Liberation
-
-Kṛṣṇa concluded:
-
-“In your next birth you will become a great Brāhmaṇa devoted to all beings…”
-“And thereafter you shall attain Me completely.”"""
+Moral yeh hai ki asli sukh dhan aur shakti me nahi, vinamrata, bhakti aur sachchai me hota hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 52
     with st.expander("Chapter 52 - Kṛṣṇa and Balarāma escape to Dvārakā"):
-        text1 = """ """
+        text1 = """ 
+        Mucukunda ko aashirvaad dene ke baad Krishna wapas Mathurā laut aaye. Mathura
+
+Wahan Yavana sena ab bhi maujood thi.
+Kṛṣṇa ne unhe hara diya aur unka dhan le kar Dvārakā bhejne lage. Dvaraka
+
+Lekin tabhi Jarāsandha fir se bahut badi sena lekar aa gaya."""
         create_image_text_layout(
             "attached_assets/chapter10/10.52.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Usne Kṛṣṇa aur Balarama ko charo taraf se gher liya.
+
+Bahut bhayanak yudh hua.
+Kṛṣṇa ne ped ukhaad kar haathiyon aur rathon ko gira diya.
+Balarāma ne apni taakat se dushman sena ko hila diya.
+
+Lekin Jarāsandha ki sena bahut zyada thi.
+
+Tab Kṛṣṇa aur Balarāma ne ek alag yojana banayi.
+Woh aam insaanon ki tarah battlefield se bhaagne lage.
+
+Jarāsandha unhe dekhkar zor-zor se hasne laga.
+Usne socha,
+“Ab ye dono dar gaye hain!”
+
+Lekin asal me Kṛṣṇa kuch aur hi soch rahe the.
+
+Dono bhai door bhaagte hue Gomanta parvat pahunch gaye. Gomanta
+
+Wahan woh pahaad ke sabse upar chadh gaye.
+
+Jarāsandha bhi apni sena ke saath wahan pahunch gaya.
+Usne poore pahaad ko gher liya.
+
+Bahut saare raja bhi uske saath the.
+Sabne milkar pahaad ke ped kaat diye aur charo taraf aag laga di.
+
+Aag bahut tez jalne lagi.
+Sabko laga Kṛṣṇa aur Balarāma ab bach nahi payenge.
+
+Lekin dono bhai chupke se pahaad ki unchai se neeche kood gaye aur surakshit bahar nikal aaye.
+
+Kisi ko pata bhi nahi chala.
+
+Phir dono seedhe Dvārakā laut gaye.
+Jarāsandha ko laga ki dono jal kar mar gaye hain.
+
+Khush hokar woh apni sena ke saath wapas chala gaya.
+
+Dvārakā me sab log Kṛṣṇa aur Balarāma ko dekhkar bahut khush hue.
+
+Kuch samay baad Balarama ka vivaah Revatī se hua. Revati
+
+Aur phir ek bahut sundar rajkumari ki kahani shuru hui — Rukmini ki.
+
+Vidarbha desh ke raja Bhīṣmaka ki ek sundar aur gunvān beti thi Rukmiṇī. Vidarbha
+
+Woh jab bhi Kṛṣṇa ki bahaduri aur sundarta ki kahani sunti, unhe mann hi mann apna pati maan leti.
+
+Udhar Kṛṣṇa ko bhi lagta tha ki Rukmiṇī ek uttam patni banengi.
+
+Lekin Rukmiṇī ka bhai Rukmi Kṛṣṇa se nafrat karta tha.
+Woh chahta tha ki Rukmiṇī ki shaadi Shishupala se ho.
+
+Yeh sunkar Rukmiṇī bahut dukhi ho gayi.
+
+Unhone chupke se ek vishwas-patra Brāhmaṇa ko Kṛṣṇa ke paas bheja.
+
+Woh Brāhmaṇa Dvārakā pahunch gaya.
+
+Kṛṣṇa ne uska bahut samman kiya.
+Unhe baithne ko jagah di, bhojan karvaya aur pyar se poocha,
+“Aap kis kaam se aaye hain?”
+
+Tab Brāhmaṇa ne Rukmiṇī ka sandesh diya.
+
+Rukmiṇī ne apne patra me likha tha,
+“Hey Kṛṣṇa, aap duniya ke sabse uttam purush hain. Main aapko hi apna pati maan chuki hoon.”
+
+“Agar aap mujhe nahi le gaye, toh meri shaadi zabardasti Śiśupāla se kar di jayegi.”
+
+“Kripya vivaah ke din aakar mujhe apne saath le jaiye.”
+
+“Main mandir jaane wali hoon. Wahi se mujhe apne saath le jaiye.”
+
+Patra ke antim shabdon me Rukmiṇī ne likha,
+“Agar mujhe aapka saath nahi mila, toh main jeena nahi chahungi.”
+
+Kṛṣṇa ne poora patra dhyan se padha.
+Unke chehre par halki si muskaan aa gayi.
+
+Ab ek nayi aur romanchak kahani shuru hone wali thi."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 52(a)
     with st.expander("Chapter 52(a) - Kṛtavarmā Deputed to Hastināpura"):
-        text1 = """ """
+        text1 = """ 
+        Ek din Krishna Dvārakā ki rajsabha me baithe the. Dvaraka
+Unke saath Balarama aur Satyaki bhi the.
+
+Bahut saare raja aur Brāhmaṇa wahan maujood the.
+
+Tab kuch Brāhmaṇon ne ek khabar sunayi."""
         create_image_text_layout(
             "attached_assets/chapter10/10.52a.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Unhone bataya ki Drupada, jo Pāñcāla desh ke raja the, unhe Kuntī ke putron ne yudh me hara diya tha. Kunti
+
+Yeh sunkar Kṛṣṇa ke chehre par khushi aa gayi.
+Unhe Pāṇḍavo ki bahaduri par garv hua.
+
+Phir unhone Kritavarma ko Hastināpura bheja taaki woh poori sachchai jaan sake. Hastinapur
+
+Kṛtavarmā Hastināpura pahunch gaye.
+
+Wahan unhone sabse pehle buzurg aur gyani Bhishma ko pranām kiya.
+Saath hi Drona, Vidura, Dhritarashtra aur Kripa se bhi mile.
+
+Uske baad woh Yudhishthira aur unke chaaron bhaiyon se mile.
+Kuntī ko bhi unhone bahut samman diya.
+
+Yudhiṣṭhira ne pyar se poocha,
+“Kṛṣṇa kaise hain? Dvārakā me sab theek hai?”
+
+Phir unhone Kālayavana ki haar, Jarāsandha par vijay aur Karavīrapura ki ghatnaon ke baare me bhi poocha.
+
+Kṛtavarmā ne sab kahani detail me sunayi.
+
+Yeh sab sunkar Yudhiṣṭhira bahut prasann hue.
+Unhe laga ki dharma aur satya ki shakti badh rahi hai.
+
+Pāṇḍavo aur Kuntī ne Kṛtavarmā ka bahut adar-satkar kiya.
+Sabne milkar unse pyar aur apnapan se baat ki.
+
+Kuntī ki aankhon me apne rishtedaron ko yaad karke aansu aa gaye.
+
+Kuch samay baad Kṛtavarmā ne sabse vida li.
+Unhone Bhīṣma, Dhṛtarāṣṭra, Vidura, Karna, Ashwatthama aur Duryodhana ko pranām kiya.
+
+Phir woh shaam ke samay Dvārakā laut aaye.
+
+Rajsabha me jaakar unhone Kṛṣṇa ko sab kuch bata diya jo unhone dekha aur suna tha.
+
+Jab Kṛṣṇa ne Pāṇḍavo ki bahaduri aur safalta ke baare me suna, toh woh bahut khush hue.
+
+Unhe pata tha ki aage chal kar Pāṇḍav dharma ka saath denge aur duniya me nyaay ki raksha karenge.
+
+Moral yeh hai ki sachche aur dharmic log hamesha ek dusre ka samman karte hain aur khushi baantte hain."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 52(b)
     with st.expander("Chapter 52(b) - Balarāma marries Revatī"):
-        text1 = """ """
+        text1 = """ 
+        Raja Parīkṣit ne ek din poocha,
+“Hey Maharishi, mujhe batayiye ki Revata kaun the aur unki beti Revatī ki shaadi Balarama se kaise hui?”
+
+Tab Śuka Muni ne kahani sunani shuru ki.
+
+Bahut purane samay me Revata naam ke ek buddhimaan aur dharmic raja the.
+Unki ek bahut sundar beti thi jiska naam Revati tha.
+
+Revatī itni sundar aur gunvān thi ki bahut saare raja usse shaadi karna chahte the."""
         create_image_text_layout(
             "attached_assets/chapter10/10.52b.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Lekin Raja Revata confuse the.
+Unhe samajh nahi aa raha tha ki apni beti ki shaadi kis se karayein.
+
+Isliye woh seedhe Brahma ke paas salah lene chale gaye.
+
+Jab woh Brahmā ji ke lok me pahuche, tab wahan do Gandharva — Hāhā aur Hūhū — madhur sangeet gaa rahe the.
+
+Raja Revata chup-chaap baithkar unka sangeet sunne lage.
+
+Thodi der baad jab sangeet khatam hua, tab unhone Brahmā ji ko pranām kiya aur bole,
+“Prabhu, meri beti ke liye sabse accha var kaun hoga?”
+
+Brahmā ji muskuraaye aur poocha,
+“Tum kin-kin rajaon ko pasand karte ho?”
+
+Raja Revata ne bahut saare rajaon ke naam bataye.
+
+Yeh sunkar Brahmā ji hans pade.
+
+Woh bole,
+“Raja, jab tak tum yahan sangeet sun rahe the, tab tak prithvi par bahut saare yug beet gaye.”
+
+“Jin rajaon ke naam tum le rahe ho, woh sab kab ke ja chuke.”
+
+Raja Revata hairaan reh gaye.
+
+Phir Brahmā ji bole,
+“Ab prithvi par Krishna aur Balarāma janm le chuke hain.”
+
+“Tum apni beti Revatī ki shaadi Balarāma se kar do.”
+
+Raja Revata ne khushi se Brahmā ji ko pranām kiya aur wapas laut aaye.
+
+Phir unhone Revatī ka vivaah Balarāma se kar diya.
+
+Lekin ek choti si baat thi.
+
+Revatī bahut purane yug me janmi thi, isliye unki height aur sharir us samay ke logon ke hisaab se bahut bada tha.
+
+Balarāma ne pyar se apna hal unke kandhe par rakha aur unki height ko apne barabar kar diya.
+
+Iske baad dono ka vivaah bahut khushi se hua.
+
+Sab log bahut prasann hue.
+
+Is tarah Revatī aur Balarāma ek pavitra aur sundar jodi ban gaye.
+
+Moral yeh hai ki sahi samay aur sahi margdarshan se hi jeevan ke bade faisle safal hote hain."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 53
     with st.expander("Chapter 53 - Rukmiṇī’s Marriage: Rukmiṇī carried away by Kṛṣṇa"):
-        text1 = """ """
+        text1 = """ 
+        Jab Krishna ne Rukmini ka sandesh suna, toh woh muskura diye.
+
+Unhone Brāhmaṇa ka haath pakadkar kaha,
+“Jaise Rukmiṇī ne apna mann mujhpar laga diya hai, waise hi maine bhi use apne hriday me basa liya hai.”
+
+“Kuch raaton se mujhe bhi neend nahi aa rahi.”
+
+Kṛṣṇa samajh gaye the ki Rukmiṇī ka bhai Rukmi hi shaadi me rukawat daal raha hai.
+
+Phir Kṛṣṇa ne turant apne saarathi Dāruka ko rath taiyaar karne ko kaha."""
         create_image_text_layout(
             "attached_assets/chapter10/10.53.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Jaldi hi sundar ghodon se juda hua rath taiyaar ho gaya.
+
+Kṛṣṇa Brāhmaṇa ko saath lekar raat bhar me hi Vidarbha pahunch gaye. Vidarbha
+
+Udhar Kuṇḍina nagari me shaadi ki taiyariyan zor-shor se chal rahi thi. Kundinapura
+
+Sadkon par paani chhidka gaya tha.
+Har taraf rang-birange jhande aur phool lage the.
+Log naye kapde pehne hue the.
+
+Rukmiṇī ko sundar vastra aur gehno se sajaya gaya.
+
+Lekin uske mann me sirf Kṛṣṇa the.
+
+Woh baar-baar soch rahi thi,
+“Kya Kṛṣṇa sach me aayenge?”
+
+“Ya shayad unhe mujh me koi kami lag gayi?”
+
+Yeh sochkar uski aankhon me aansu aa gaye.
+
+Lekin tabhi uska baaya haath aur aankh halki si phadki.
+Yeh ek shubh sanket tha.
+
+Thodi der baad wahi Brāhmaṇa wapas aaya.
+
+Uske chehre ki khushi dekhkar hi Rukmiṇī samajh gayi ki Kṛṣṇa aa chuke hain.
+
+Brāhmaṇa ne muskuraakar kaha,
+“Kṛṣṇa Vidarbha pahunch gaye hain. Woh apna vachan zaroor nibhayenge.”
+
+Yeh sunkar Rukmiṇī bahut khush ho gayi.
+
+Udhar Shishupala bhi apni sena ke saath shaadi ke liye aa gaya tha.
+
+Uske saath Jarāsandha aur bahut saare raja bhi aaye the.
+
+Sabne milkar faisla kiya,
+“Agar Kṛṣṇa Rukmiṇī ko le jaane aaye, toh hum sab milkar unse ladenge.”
+
+Yeh sunkar Balarama bhi badi sena lekar wahan pahunch gaye taaki Kṛṣṇa ki madad kar sakein.
+
+Shaadi se pehle Rukmiṇī mandir me Devi Ambikā ki pooja karne gayi. Parvati
+
+Uske saath sainik, saheliyan aur bahut si mahilaye thi.
+Dhol aur shankh baj rahe the.
+
+Mandir me jaakar Rukmiṇī ne aankhen band karke prarthana ki,
+“Hey Mata, bas Kṛṣṇa hi mere pati banein.”
+
+Pooja ke baad jab woh mandir se bahar nikli, toh sab raja use dekhkar hairaan reh gaye.
+
+Rukmiṇī bahut sundar lag rahi thi.
+Uski chal hans ki tarah komal thi.
+Uske chehre par pyari si muskaan thi.
+
+Bahut se raja use dekhkar apne hosh kho baithe.
+
+Lekin Rukmiṇī ki nazar sirf ek vyakti ko dhoondh rahi thi — Kṛṣṇa ko.
+
+Aur tab usne Kṛṣṇa ko dekha.
+
+Agla pal sabke liye chaukane wala tha.
+
+Kṛṣṇa seedhe aage badhe, Rukmiṇī ko pyar se apne rath par bithaya aur sab rajaon ke saamne use lekar chal diye.
+
+Yeh sab itni jaldi hua ki koi kuch samajh hi nahi paya.
+
+Kṛṣṇa sher ki tarah apni priya ko lekar nikal gaye, aur baaki raja bas dekhte reh gaye.
+
+Yeh dekhkar Jarāsandha aur doosre raja gusse se bhar gaye.
+
+Woh chillaye,
+“Ek gwala hamare saamne se rajkumari ko le gaya!”
+
+Aur phir ek naya yudh shuru hone wala tha."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 54
     with st.expander("Chapter 54 - Celebration of Rukmiṇī’s Marriage"):
-        text1 = """ """
+        text1 = """ 
+        Jab Krishna Rukmini ko apne rath me bithakar le gaye, tab sab raja gusse se bhar gaye.
+
+Sabne apne kavach pehne aur sena ke saath Kṛṣṇa ka peecha karne lage.
+
+Udhar Yādava sena bhi taiyaar khadi thi.
+Balarama, Gaḍa aur doosre veer dhanush lekar saamne aa gaye."""
         create_image_text_layout(
             "attached_assets/chapter10/10.54.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Bahut bhayanak yudh shuru hua.
+
+Dushman sena teeron ki baarish karne lagi.
+Haathi, ghode aur rath zor se daudne lage.
+
+Rukmiṇī yeh sab dekhkar thodi dar gayi.
+Usne chup-chaap Kṛṣṇa ki taraf dekha.
+
+Kṛṣṇa muskuraaye aur bole,
+“Dar mat. Hamari sena jaldi hi sabko hara degi.”
+
+Phir Yādava veeron ne zabardast hamla kiya.
+Bahut saare rath toot gaye.
+Haathi aur ghode girne lage.
+
+Jarāsandha aur doosre raja haar kar battlefield se bhaag gaye.
+
+Sab raja udaas Shishupala ke paas gaye aur use samjhane lage,
+“Jeet aur haar hamesha badalte rehte hain. Dukhi mat ho.”
+
+Lekin Rukmi ka gussa abhi bhi shaant nahi hua tha.
+
+Woh apni sena lekar akela hi Kṛṣṇa ke peeche bhaaga.
+
+Usne kasam khai,
+“Jab tak main Kṛṣṇa ko hara kar apni behen ko wapas nahi laata, tab tak Kuṇḍina nahi lautunga.” Kundinapura
+
+Rukmī ne Kṛṣṇa ko Narmadā nadi ke paas pakad liya. Narmada River
+
+Woh chillaya,
+“Ruko Kṛṣṇa! Aaj main tumhara ghamand tod dunga!”
+
+Usne teer chala diye.
+
+Lekin Kṛṣṇa shaant rahe.
+Unhone aasani se Rukmī ka dhanush tod diya.
+
+Rukmī baar-baar naye hathiyaar uthata, aur Kṛṣṇa unhe turant tod dete.
+
+Aakhir me Rukmī talwar lekar seedha Kṛṣṇa par toot pada.
+
+Kṛṣṇa ne uski talwar bhi tod di aur khud apni talwar lekar uski taraf badhe.
+
+Rukmiṇī yeh dekhkar bahut darr gayi.
+
+Woh turant Kṛṣṇa ke charno me gir padi aur boli,
+“Prabhu, mere bhai ko mat maariye.”
+
+Rukmiṇī ka dukh dekhkar Kṛṣṇa ka hriday pighal gaya.
+
+Unhone Rukmī ko jeevit chhod diya.
+Lekin saza ke roop me uske baal aur mooch ajeeb tarah se kaat diye.
+
+Tabhi Balarāma wahan aaye.
+
+Unhone Rukmī ki haalat dekhi aur Kṛṣṇa se bole,
+“Rishta chahe jaisa bhi ho, apno ko itna apmaanit nahi karna chahiye.”
+
+Phir unhone Rukmiṇī ko samjhaya,
+“Dukh aur sukh insaan ko apne karmon se milte hain.”
+
+“Is duniya me sharir alag-alag lagte hain, lekin sabke andar ek hi ātmā hai.”
+
+Balarāma ki baatein sunkar Rukmiṇī ka mann shaant ho gaya.
+
+Rukmī sharminda tha.
+Usne wapas Kuṇḍina na jaakar ek naya shehar basaya jiska naam Bhojakaṭa tha. Bhojakata
+
+Udhar Kṛṣṇa Rukmiṇī ko lekar Dvārakā pahunch gaye. Dvaraka
+
+Wahan bahut bada utsav hua.
+Har ghar sajaya gaya.
+Phool, deepak aur rang-birange jhande har taraf lage the.
+
+Log naye kapde pehne hue the aur sab bahut khush the.
+
+Sabko lag raha tha jaise swayam Lakṣmī ji Dvārakā aayi ho. Lakshmi
+
+Phir shastron ke anusaar Kṛṣṇa aur Rukmiṇī ka vivaah bade dhoom-dhaam se hua.
+
+Poora Dvārakā nagar khushi se jagmaga utha.
+
+Moral yeh hai ki sachcha prem aur dharma har rukawat ko paar kar leta hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 55
     with st.expander("Chapter 55 - The Story of Pradyumna’s Birth"):
-        text1 = """ """
+        text1 = """ 
+        Yeh adhyāya Pradyumna ke janm aur unke adbhut jeevan ki kahani batata hai.
+Pradyumna ko Krishna aur Rukmini ka putra bataya gaya hai, aur ve punarjanm liye hue Kāma-deva the. Kamadeva
+
+Pehle Kāma-deva ko Shiva ke krodh se bhasm hona pada tha.
+Baad me wahi Kāma-deva Pradyumna ke roop me janme."""
         create_image_text_layout(
             "attached_assets/chapter10/10.55.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Jab Pradyumna sirf kuch din ke the, tab Shambara nām ke asura ne unhe chura liya.
+Usse pata tha ki yahi bachcha future me uska vinaash karega.
+
+Usne bachche ko samundar me phenka diya.
+
+Ek badi machhli ne us shishu ko nigal liya.
+
+Baad me machhuaare us machhli ko pakadkar Śambara ke mahal me le aaye.
+
+Jab rasoi me us machhli ko kaata gaya, tab uske andar se ek jeevit sundar bachcha nikla.
+
+Wahan ek stri thi jiska naam Māyāvatī tha. Mayavati
+
+Use bachcha de diya gaya.
+
+Tab divine sage Narada aaye aur unhone Māyāvatī ko sach bataya:
+
+“Yeh koi aam bachcha nahi hai.
+Yeh Kṛṣṇa aur Rukmiṇī ka putra Pradyumna hai.
+Aur tum asal me Rati ho, Kāma-deva ki patni.” Rati
+
+Māyāvatī ne bahut prem se Pradyumna ko paala.
+
+Samay ke saath Pradyumna jawaan hue aur bilkul Kṛṣṇa jaise sundar dikhne lage.
+
+Sab striyan unhe dekhkar mohit ho jaati thi.
+
+Tab Māyāvatī ne unhe unki asli pehchaan batayi.
+
+Usne kaha:
+“Tum Kāma-deva ka punarjanm ho.
+Śambara ne tumhe bachpan me churaya tha.”
+
+Usne Pradyumna ko mahā-māyā vidyā bhi sikhayi, jo sabhi jaadu aur illusion ko tod sakti thi.
+
+Pradyumna ne fir Śambara ko yuddh ke liye lalkara.
+
+Bahut bhayanak yuddh hua.
+
+Śambara ne aasman me jaakar kai prakaar ki māyā aur jaadu ka prayog kiya.
+
+Lekin Pradyumna ne sab tod diya.
+
+Aakhir me Pradyumna ne talwar se Śambara ka sir kaat diya.
+
+Devatāo ne phool barsaaye aur Pradyumna vijayi hue.
+
+Uske baad Māyāvatī ke saath ve aakash mārg se Dvaraka laut aaye.
+
+Jab Dvārakā ki mahilāon ne unhe dekha, to ve samajh baithi ki swayam Kṛṣṇa aa gaye hain, kyunki Pradyumna bilkul apne pita jaise dikhte the.
+
+Phir Rukmini ne unhe dekha.
+
+Unka hriday achanak mātr̥-prem se bhar gaya.
+Unhe laga:
+“Agar mera kho gaya putra zinda hota, to bilkul aisa hi dikhta.”
+
+Tab Narada ne poori kahani sabko sunayi.
+
+Sab log bahut khush hue.
+
+Devaki, Vasudeva, Balarama aur Rukmiṇī ne Pradyumna ko gale laga liya.
+
+Dvārakā me khushi ki lehar daud gayi.
+
+Log kehne lage:
+“Jo putra mar gaya samjha ja raha tha, woh phir se jeevit hokar laut aaya hai!”
+
+Is kahani ka ek bada sandesh yeh hai ki bhagya aur divine plan ko koi nahi rok sakta.
+Jo Bhagavān ki ichchhā hoti hai, wahi ant me satya hota hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
