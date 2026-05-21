@@ -7884,117 +7884,265 @@ Jo Bhagavān ki ichchhā hoti hai, wahi ant me satya hota hai."""
 
     # Chapter 56
     with st.expander("Chapter 56 - Kṛṣṇa’s marriage with Jāmbavatī and Satyabhāmā"):
-        text1 = """ """
+        text1 = """ 
+        Satrajit ko Surya Dev ne ek magical Syamantaka jewel diya tha. Woh jewel bahut bright tha. Jab bhi Satrajit usse pehenta, log use Surya Dev samajh lete the.
+
+Ek din Krishna ne us jewel ko raja Ugrasena ke liye maanga. Lekin Satrajit bahut greedy tha. Usne mana kar diya."""
         create_image_text_layout(
             "attached_assets/chapter10/10.56.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Baad mein Satrajit ka bhai Prasena jewel pehenkar jungle gaya. Wahan ek sher ne usse maar diya aur jewel le gaya. Phir Jambavan ne sher ko hara diya aur jewel apne ghar le aaya. Uska chhota beta us jewel se toy ki tarah khelne laga.
+
+Jab Prasena wapas nahi aaya, Satrajit ne bina soche Krishna par ilzaam laga diya. Krishna ko bura laga. Sach sabit karne ke liye woh jungle gaye.
+
+Krishna Jambavan ki cave mein gaye. Wahan dono ke beech bahut lambi fight hui. Kai din tak yudh chalta raha. Aakhir mein Jambavan samajh gaya ki Krishna koi aam insan nahi, balki Bhagwan hain.
+
+Jambavan ne respect ke saath jewel Krishna ko de diya aur apni daughter Jambavati ki shaadi bhi Krishna se kar di.
+
+Krishna jewel lekar Dwaraka wapas aaye aur sabko sach bata diya. Satrajit ko apni galti ka bahut pachtawa hua. Usne maafi maangi aur apni daughter Satyabhama ki shaadi Krishna se kar di.
+
+Lekin Krishna ne jewel wapas kar diya. Unhone dikhaya ki sachchai aur daya sabse bada dhan hota hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 57
     with st.expander("Chapter 57 - Murder of Satājit for Syamantaka"):
-        text1 = """ """
+        text1 = """ 
+        Krishna aur Balaram ek din Hastinapur gaye the, kyunki sabko laga tha ki Pandav jal gaye hain. Unke jaane ka fayda uthakar kuch bure logon ne Syamantaka jewel churaane ka plan banaya.
+
+Shatadhanva naam ka ek lalchi aadmi bahut gussa tha. Usne socha ki Satrajit ne uski beizzati ki hai. Ek raat woh chupke se Satrajit ke ghar gaya aur sote waqt uska murder kar diya. Phir Syamantaka jewel lekar bhaag gaya."""
         create_image_text_layout(
             "attached_assets/chapter10/10.57.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Satyabhama ne jab apne pita ko mara hua dekha, woh bahut royi. Woh turant Krishna ke paas gayi aur sab sach bata diya.
+
+Krishna aur Balaram ko bahut dukh hua. Dono turant Dwaraka wapas aaye aur Shatadhanva ko pakadne nikle.
+
+Dar ke maare Shatadhanva ne jewel Akrura ke paas chhupa diya aur khud bhaagne laga. Krishna aur Balaram uske peeche gaye. Aakhir Krishna ne use pakad liya aur apne Sudarshan Chakra se uska ant kar diya.
+
+Lekin jab Krishna ne uske kapde check kiye, jewel wahan nahi tha. Tab unhe samajh aaya ki kisi aur ke paas hai.
+
+Baad mein Krishna ne pyaar aur samajhdari se Akrura se baat ki. Akrura ne sach maan liya aur Syamantaka jewel sabke saamne dikha diya. Isse Krishna par laga har ilzaam khatam ho gaya.
+
+Phir Krishna ne woh jewel wapas Akrura ko de diya. Unhone dikhaya ki sachchai, shanti aur daya hi sabse badi jeet hoti hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 58
     with st.expander("Chapter 58 - Espousals of Lord Kṛṣṇa"):
-        text1 = """ """
+        text1 = """ 
+        Ek baar Krishna Pandavo se milne Indraprastha gaye. Sabhi Pandav unhe dekhkar bahut khush hue. Draupadi ne bhi sharmate hue Krishna ka swagat kiya.
+
+Kunti ne Krishna ko apne purane dukh yaad karke bataya ki unki presence hamesha unhe himmat deti hai. Krishna ne bhi unse pyaar se baat ki aur sabko comfort diya.
+
+Ek din Krishna aur Arjun jungle gaye. Wahan unhe ek sundar ladki mili jiska naam Kalindi tha. Woh Surya Dev ki beti thi aur sirf Krishna ko apna pati banana chahti thi."""
         create_image_text_layout(
             "attached_assets/chapter10/10.58.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Krishna ne Kalindi ki sachchi bhakti dekhi aur usse apne saath le aaye. Baad mein dono ki shaadi ho gayi.
+
+Phir Krishna ne Mitravinda ko bhi swayamvar se apne saath le aaye, kyunki woh dil se Krishna ko hi chahti thi.
+
+Uske baad Krishna Ayodhya gaye. Wahan Raja Nagnajit ki beti Satya rehti thi. Shaadi ke liye ek mushkil challenge tha — saat khatarnak bulls ko control karna.
+
+Bahut se raja fail ho chuke the. Lekin Krishna ne aasani se sab bulls ko shaant kar diya, jaise koi bachcha toys se khel raha ho.
+
+Sab log hairaan reh gaye. Raja bahut khush hua aur Satya ki shaadi Krishna se kar di. Pure rajya mein celebration hua. Music baja, log nachne lage aur sabne khushi manayi.
+
+Baad mein Krishna ne Bhadra aur Lakshmana se bhi shaadi ki. Unhone bahut si rajkumariyon ko buri shaktiyon se bachaya aur unhe respect aur suraksha di. """
         create_image_text_layout(text_content=text2, layout="full")
         
         # Chapter 59
     with st.expander("Chapter 59 - Narakāsura slain—The Pārijāta tree brought to Dvārakā"):
-        text1 = """ """
+        text1 = """ 
+        Raja Parikshit ne ek din poocha, “Krishna ne Narakasura naam ke raakshas ko kaise haraya?”
+
+Narakasura bahut cruel tha. Usne devtaon ki cheezein chura li thi aur bahut si rajkumariyon ko bandi bana rakha tha. Indra ne jaakar Krishna se madad maangi.
+
+Krishna apni wife Satyabhama ke saath Garuda par baithkar Narakasura ke sheher gaye. Sheher bahut strong security se ghira hua tha. Lekin Krishna ne apni shakti se saare traps tod diye."""
         create_image_text_layout(
             "attached_assets/chapter10/10.59.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Sabse pehle Krishna ka saamna Mura naam ke bhayanak demon se hua. Uske paanch sir the aur woh bahut dangerous tha. Lekin Krishna ne himmat se fight ki aur Sudarshan Chakra se uska ant kar diya.
+
+Phir Narakasura aur uski sena yudh ke liye aaye. Bahut bada battle hua. Krishna ne shaant mann se uski saari weapons rok di. Aakhir mein Krishna ne Narakasura ko bhi hara diya.
+
+Dharti Mata Krishna ke paas aayi aur unki praise ki. Unhone Narakasura ke bete ko Krishna ki protection mein de diya.
+
+Jab Krishna mahal ke andar gaye, wahan unhe 16,000 rajkumariyan mili jo Narakasura ne bandi bana rakhi thi. Sabne Krishna ko apna rakshak maana aur unse help maangi.
+
+Krishna ne sabko azaad kar diya aur respect ke saath Dwaraka bhej diya.
+
+Baad mein Krishna Indra ke swarg gaye aur churaayi hui cheezein wapas kar di. Satyabhama ki ichchha par Krishna swarg se Parijata tree bhi Dwaraka le aaye.
+
+Krishna ne sab rajkumariyon se shaadi ki aur sabko pyaar, suraksha aur samman diya. Woh hamesha sabki help karte the aur bure logon ko rok kar duniya mein shanti laate the."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 59(a)
     with st.expander("Chapter 59(a) - The Pārijāta Tree Taken by Śrī Kṛṣṇa"):
-        text1 = """ """
+        text1 = """ 
+        Narakasura ko haraane ke baad Krishna apni wife Satyabhama ke saath Garuda par baithkar swarg gaye. Wahan sab devtaon ne unka respect ke saath swagat kiya.
+
+Krishna Aditi Mata se milne gaye aur unke churaaye hue earrings wapas diye. Aditi bahut khush hui aur Satyabhama ko pyar se aashirwad diya.
+
+Wapas aate waqt Satyabhama ne ek bahut sundar garden dekha. Us garden mein ek magical Parijata tree tha. Uski khushboo aur chamak dekhkar woh hairaan reh gayi."""
         create_image_text_layout(
             "attached_assets/chapter10/10.59a.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Satyabhama ne Krishna se kaha, “Mujhe yeh tree bahut pasand hai. Agar aap mujhse sach mein pyar karte ho, toh ise Dwaraka le chaliye.”
+
+Krishna ne pehle samjhaya ki yeh tree Indra ka hai aur ise le jaana sahi nahi hoga. Unhone kaha ki isse devta naraz ho sakte hain.
+
+Lekin Satyabhama ne zid ki. Tab Krishna ne pyar se uski baat maan li. Unhone Parijata tree ko jad se nikala aur Garuda par rakh diya.
+
+Garden ke guards gussa ho gaye aur Indra ko jaakar sab bata diya. Indra ko laga ki uska apmaan hua hai.
+
+Phir Indra aur bahut se devta apni sena lekar Krishna ko rokne nikle. Sab taraf shankh, dhol aur yudh ki awaazein goonj uthi.
+
+Lekin Krishna bilkul shaant the. Unhone dikhaya ki sachcha bal sirf power mein nahi, balki himmat aur dharma mein hota hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 59(b)
     with st.expander("Chapter 59(b) - Satyabhāmā defeats Gods"):
-        text1 = """ """
+        text1 = """ 
+        Jab Krishna Parijata tree lekar ja rahe the, tab bahut saare devta unhe rokne aaye. Krishna ne muskura kar Satyabhama se kaha, “Dekho, tumhare guests aa gaye.”
+
+Tabhi devtaon ne teer chalane shuru kar diye. Satyabhama bhi bahadur thi. Usne turant dhanush uthaya aur saare arrows rok diye.
+
+Sabse pehle dhan ke devta Kubera attack karne aaye. Woh zor zor se chillate hue battle karne lage. Lekin Satyabhama ne himmat se unka saamna kiya aur unke arrows ka jawab diya."""
         create_image_text_layout(
             "attached_assets/chapter10/10.59b.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Kubera bahut gussa ho gaya aur bola, “Aaj main tumhe hara dunga!” Lekin Satyabhama ne uska bow tod diya. Jab usne bada club pheka, Krishna ne use aasani se pakad liya aur hans pade. Kubera darr kar wahan se bhaag gaya.
+
+Uske baad Varuna dev aaye. Unhone Garuda ko pakadne ki koshish ki. Lekin Garuda bahut powerful tha. Usne Varuna aur unke crocodile ko samundar mein phek diya. Varuna bhi bhaag gaye.
+
+Phir Agni Dev aur Vayu Dev ne milkar Krishna par attack kiya. Krishna ne shaant rehkar unhe bhi hara diya. Dono samajh gaye ki Krishna aam insan nahi hain, aur woh battle chhodkar chale gaye.
+
+Baad mein Yamraj bhi aaye, lekin Krishna ne unka hathiyaar gira diya. Yamraj bhi darr kar wapas chale gaye.
+
+Aakhir mein Bhagwan Shiva bhi apni sena ke saath battle mein aaye. Krishna aur Shiva ke beech bahut powerful yudh hua. Dono ne bahut shakti dikhayi.
+
+Lekin Garuda ne Shiva ke bull ko door phek diya. Tab Shiva samajh gaye ki yeh ladai aur badhana theek nahi hai. Woh shaanti se wapas chale gaye.
+
+Is kahani se yeh seekh milti hai ki himmat aur sachchai ke saath shanti bhi zaroori hoti hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 59(c)
     with st.expander("Chapter 59(c) - Pārijāta planted in Satyabhāmā’s Palace"):
-        text1 = """ """
+        text1 = """ 
+        Indra ne apna crown pehna, dhanush uthaya aur apne bade elephant Airavat par baithkar Krishna ko rokne ke liye battle shuru ki.
+
+Krishna ne shaant hokar shankh bajaya. Indra ne un par teer chalaye, lekin Krishna ne aasani se un sabko rok diya aur muskura kar bola, “Bahut accha, Indra!”
+
+Battle aur tez ho gaya. Indra baar baar attack karta raha, lekin Krishna har baar uske arrows ka jawab dete rahe."""
         create_image_text_layout(
             "attached_assets/chapter10/10.59c.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Phir Indra ne apna sabse powerful weapon Vajra pheka. Lekin Krishna ne use apne haath mein pakad liya aur zor se hans pade.
+
+Yeh dekhkar Indra sharminda ho gaya. Uska elephant bhi Garuda se pareshaan ho chuka tha. Isliye Indra ne battle chhod diya.
+
+Satyabhama ne hasi mein Indra ko chhedte hue kaha, “Itni jaldi wapas ja rahe ho?”
+
+Tab Indra ko samajh aa gaya ki Krishna koi aam raja nahi, balki sabke rakshak hain. Usne haath jodkar Krishna se maafi maangi.
+
+Krishna ne pyar se kaha, “Tumhari koi galti nahi. Hum sab ek hi taraf hain.” Yeh sunkar Indra ka mann shaant ho gaya.
+
+Phir Krishna, Satyabhama aur Garuda Parijata tree lekar Dwaraka laut aaye. Puri nagri ko phoolon, music aur khushi se sajaya gaya tha.
+
+Krishna ne Parijata tree Satyabhama ke mahal mein lagwaya. Sab log us heavenly tree ko dekhkar hairaan aur khush ho gaye.
+
+Is kahani se yeh seekh milti hai ki maafi, vinamrata aur prem sabse bade gun hote hain."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 60
     with st.expander("Chapter 60 - Conversation between Kṛṣṇa and Rukmiṇī (A Sweet Quarrel)"):
-        text1 = """ """
+        text1 = """ 
+        Ek din Rukmini apne mahal mein Krishna ki seva kar rahi thi. Mahal bahut sundar tha, phoolon ki khushboo aur chandni se pura room chamak raha tha.
+
+Krishna Rukmini ko pyaar se dekhkar muskuraaye. Phir mazaak mein bole, “Tum toh kisi bhi bade raja se shaadi kar sakti thi. Phir tumne mujhe kyun chuna?”
+
+Krishna ne hasi hasi mein aur bhi kaha, “Main toh simple hoon, mere bahut enemies bhi hain. Shayad tumhe kisi aur raja ko choose karna chahiye tha.”"""
         create_image_text_layout(
             "attached_assets/chapter10/10.60.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Rukmini ne pehle kabhi Krishna se aisi baat nahi suni thi. Woh bahut dukhi ho gayi. Unki aankhon mein aansu aa gaye aur woh darr gayi ki kahin Krishna unhe chhod na dein.
+
+Krishna ne dekha ki Rukmini sach mein udaas ho gayi hai. Woh turant uthkar unke paas aaye, unke aansu pochhe aur pyaar se unhe sambhala.
+
+Krishna ne softly kaha, “Main sirf mazaak kar raha tha. Main jaanta hoon ki tum mujhse sachcha pyaar karti ho.”
+
+Tab Rukmini ne shanti se jawab diya, “Aap duniya ke sabse special aur mahaan hain. Maine sirf aapko hi apna maana hai.”
+
+Unhone kaha ki Krishna jaise dayalu aur powerful koi nahi hai. Jo unke charnon ka pyaar samajh leta hai, woh kabhi kisi aur ko choose nahi karta.
+
+Krishna Rukmini ki baatein sunkar bahut khush hue. Unhone kaha, “Tumhara pyaar aur vishwas bahut pavitra hai.”
+
+Phir dono haste hue pyaar se baat karne lage. Unka rishta aur bhi strong ho gaya."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 60(a)
     with st.expander("Chapter 60(a) - Slaying of Pauṇḍraka and others"):
-        text1 = """ """
+        text1 = """ 
+        Ek samay Paundraka naam ka ek raja tha. Woh Kashi desh ka raja tha aur bahut proud aur powerful tha.
+
+Uska janm Vasudeva ke ghar hua tha, isliye log use bhi “Vasudeva” bulate the. Dheere dheere uske mann mein ahankaar aa gaya.
+
+Jab Krishna Dwaraka mein nahi the, tab Paundraka ne socha ki yeh sahi mauka hai. Woh apni badi sena lekar Dwaraka par attack karne aa gaya."""
         create_image_text_layout(
             "attached_assets/chapter10/10.60a.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Lekin Dwaraka akeli nahi thi. Balaram, Satyaki aur dusre Yadava warriors ne himmat se sheher ki raksha ki.
+
+Bahut bhayanak yudh hua. Paundraka ki sena ko bhaari nuksaan hua. Uske bahut saare ghode, haathi aur soldiers haar gaye.
+
+Aakhir mein woh darr kar raat ko hi wapas Kashi bhaag gaya.
+
+Subah Krishna Badarikashram se Dwaraka laut aaye. Sab Yadavo ne unka swagat kiya aur unhe poori kahani batayi.
+
+Krishna shaant hokar sab sunte rahe. Unhe pata tha ki ahankaar aur jhooti shaan zyada der tak nahi tikti."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
