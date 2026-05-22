@@ -8683,144 +8683,690 @@ Uddhav vinamrata se Krishna ka aadesh maankar jawab dene ke liye taiyaar ho gaye
         
         # Chapter 71
     with st.expander("Chapter 71 - Śrī Kṛṣṇa’s visit to Indraprastha"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shukadev bole, “Narad ji ki baat aur sabha ke logon ki salah sunkar Uddhav ne Krishna se kaha,
+
+“Hey Prabhu, aapko Yudhishthira ki Rajasuya yagya mein madad bhi karni chahiye aur Jarasandh ke bandi rajaon ko bhi bachana chahiye.”
+
+Uddhav ne samjhaaya, “Rajasuya yagya wahi raja kar sakta hai jo sab dishaon ko jeet chuka ho. Isliye pehle Jarasandh ko harana zaroori hai.”"""
         create_image_text_layout(
             "attached_assets/chapter10/10.71.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Phir Uddhav bole, “Jarasandh bahut shaktishaali hai. Uske paas bahut badi sena hai. Use sena se haraana mushkil hai. Lekin Bhima uske barabar balwaan hain.”
+
+“Isliye Bhima ko Brahman ka roop lekar Jarasandh se ekal yudh maangna chahiye. Aapke saath hone par Bhima zaroor jeetenge.”
+
+Sabko Uddhav ki baat sahi lagi. Narad ji aur Yadav sab khush hue.
+
+Phir Krishna ne yatra ki taiyaari karne ka aadesh diya.
+
+Unhone apni raniyon, putron aur sevakon ko pehle hi bhej diya. Uske baad Balarama aur Raja Ugrasena se anumati lekar Krishna apne Garud chinh waale rath par baith gaye.
+
+Krishna ki badi sena bhi saath chal padi. Har taraf shankh, nagade aur turhiyon ki awaaz gunj rahi thi.
+
+Krishna ki raniyan sundar vastra aur gehne pehne hue sone ki palkiyon mein chal rahi thi.
+
+Raaste mein Krishna kai deshon, nadiyon aur gaonon se guzarte hue Indraprastha pahunch gaye.
+
+Jab Yudhishthira ko pata chala ki Krishna aa rahe hain, toh woh bahut khush hue. Woh apne bhaiyon aur purohiton ke saath Krishna ka swagat karne bahar aaye.
+
+Yudhishthira ne Krishna ko dekhte hi gale laga liya. Unki aankhon mein khushi ke aansu aa gaye.
+
+Bhima ne bhi Krishna ko zor se gale lagaya. Arjuna, Nakula aur Sahadeva bhi bahut khush hue.
+
+Krishna ne sab bade logon aur Brahmano ko pranam kiya.
+
+Indraprastha nagari ko sundar phoolon, jhandon aur sugandhit paani se sajaya gaya tha. Nagar ki sab mahilaayein Krishna ko dekhne ke liye gharon ki chhaton aur raaston par aa gayin.
+
+Woh Krishna aur unki raniyon ko dekhkar bahut prasann hui.
+
+Kunti bua Krishna ko dekhkar bahut khush hui. Unhone pyar se Krishna ko gale lagaya.
+
+Draupadi ne Krishna ki raniyon ka adar aur satkar kiya.
+
+Yudhishthira ne Krishna aur unke saath aaye sab logon ke rehne ka bahut achcha prabandh kiya.
+
+Krishna kai mahine tak Indraprastha mein rahe. Woh Arjuna ke saath van aur nagar mein ghoomte aur sabko khushi dete the."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 72
     with st.expander("Chapter 72 - Jarāsandha slain"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shukadev bole, “Ek din Raja Yudhishthira apni sabha mein baithe the. Unke saath rishi, Brahman, bhai aur bade-buzurg sab maujood the.
+
+Tab Yudhishthira ne Krishna se kaha,
+
+“Hey Govind, main Rajasuya yagya karna chahta hoon. Kripya aap humein is mahaan yagya ko poora karne mein madad kijiye.”
+
+Yudhishthira bole, “Jo log aapke charanon ki seva karte hain, unka jeevan safal ho jaata hai. Main chahta hoon ki duniya bhi yeh dekhe.”"""
         create_image_text_layout(
             "attached_assets/chapter10/10.72.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Krishna muskuraaye aur bole, “Hey Raja, tumhara sankalp bahut achcha hai. Lekin Rajasuya yagya tabhi ho sakta hai jab sabhi raja tumhare adhin ho jaayein.”
+
+Phir Yudhishthira ne apne bhaiyon ko alag-alag dishaon mein vijay yatra ke liye bhej diya.
+
+Bhima poorab gaye, Arjuna uttar, Nakula pashchim aur Sahadeva dakshin ki taraf gaye.
+
+Sabhi Pandav bahut saara dhan aur vijay lekar wapas aaye.
+
+Lekin Jarasandh ab bhi ajey tha. Yudhishthira usse lekar chintit ho gaye.
+
+Tab Krishna, Bhima aur Arjuna ne Brahman ka roop dharan kiya aur Magadh ki rajdhani Girivraj pahunch gaye.
+
+Woh seedha Raja Jarasandh ke paas gaye.
+
+Jarasandh Brahmano ka bahut samman karta tha. Usne kaha, “Maango, tumhe kya chahiye? Main apna sir bhi de sakta hoon.”
+
+Tab Krishna bole, “Hum Brahman nahi hain. Hum Kshatriya hain aur tumse yudh maangne aaye hain.”
+
+Krishna ne apna parichay diya aur Bhima ki taraf dekhkar kaha, “Yeh Bhimasena hain. Yeh tumse ekal yudh karenge.”
+
+Jarasandh zor se hasa aur bola, “Krishna, tum toh Mathura chhodkar bhaag gaye the. Main tumse nahi ladunga. Lekin Bhima mere barabar balwaan hai. Main usse yudh karunga.”
+
+Dono ne bade-bade gada uthaye aur yudh shuru hua.
+
+Bhima aur Jarasandh ka yudh bahut bhayankar tha. Dono ek doosre par zor-zor se vaar kar rahe the.
+
+Kai din tak yudh chalta raha. Na Bhima haar rahe the aur na Jarasandh.
+
+27 din beet gaye.
+
+Ek din Bhima ne Krishna se kaha, “Main ise hara nahi paa raha.”
+
+Krishna Jarasandh ke janm ka rahasya jaante the. Unhone ek patli si lakdi ko beech se phaadkar Bhima ko sanket diya.
+
+Bhima samajh gaye.
+
+Unhone Jarasandh ko zameen par gira diya. Ek pair apne pair se dabaaya aur doosra pair pakadkar uske sharir ko beech se cheer diya.
+
+Is baar Jarasandh dobara zinda nahi ho paaya.
+
+Sab log hairaan reh gaye.
+
+Krishna aur Arjuna ne Bhima ko gale lagakar badhaai di.
+
+Phir Krishna ne Jarasandh ke bete Sahadeva ko Magadh ka raja bana diya.
+
+Uske baad Jarasandh ke kaid kiye hue sabhi rajaon ko azaad kar diya gaya. Sab raja Krishna ke prati kritagya ho gaye."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 73
     with st.expander("Chapter 73 - Return of Kṛṣṇa and others to Indraprastha"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shukadev bole, “Jab Jarasandh maara gaya, tab uske kaid kiye hue 20,800 raja azaad kiye gaye.
+
+Woh sab bahut kamzor ho chuke the. Kai dinon se bandi rehne ki wajah se unke kapde gande ho gaye the aur sharir sukhe hue lag rahe the.
+
+Jab unhone Krishna ko dekha, toh unki aankhon mein khushi bhar gayi.
+
+Krishna megh jaise saawle rang ke the. Unhone peele vastra pehne the aur unke haath mein shankh, chakra, gada aur kamal tha. Unke gale mein vanmala aur Kaustubh mani chamak rahi thi.
+
+Sab raja Krishna ko dekhte hi unke charanon mein jhuk gaye."""
         create_image_text_layout(
             "attached_assets/chapter10/10.73.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Woh bole, “Hey Prabhu, hum aapko pranam karte hain. Aapne humein bahut bade dukh se bachaya hai.”
+
+Rajaon ne kaha, “Hum apne raj aur dhan ke ghamand mein andhe ho gaye the. Hum duniya ko hi sab kuch samajhne lage the.”
+
+“Lekin ab humein samajh aa gaya hai ki rajya aur dhan sab kuch ek sapne ki tarah hai. Sirf aapke charan hi sachcha sahara hain.”
+
+Krishna unki baatein sunkar prasann hue.
+
+Unhone pyar se kaha, “Ab tumhara mann mere prati sthir rahega. Hamesha yaad rakho ki dhan, sharir aur shakti sab ek din khatam ho jaate hain.”
+
+Krishna ne unhe seekh di, “Apni praja ki raksha dharma ke saath karo. Sukh-dukh mein samaan raho aur apna mann Bhagwan mein lagao.”
+
+Uske baad Krishna ne sevakon ko aadesh diya ki sab rajaon ko snaan karaya jaaye aur naye vastra, gehne aur bhojan diya jaaye.
+
+Magadh ke naye raja Sahadeva ne bhi sabka bahut adar kiya.
+
+Phir Krishna ne sab rajaon ko sundar rathon mein bitha kar unke rajya wapas bhej diya.
+
+Woh sab raja Krishna ki mahima gaate hue apne-apne desh laut gaye.
+
+Iske baad Krishna, Bhima aur Arjuna Indraprastha ki taraf chale.
+
+Jab woh nagar ke paas pahunche, tab unhone apne shankh bajaaye.
+
+Shankh ki awaaz sunkar Indraprastha ke log samajh gaye ki Jarasandh haar gaya hai.
+
+Sab log bahut khush hue.
+
+Bhima, Arjuna aur Krishna ne Yudhishthira ko poori kahani sunaayi.
+
+Yeh sunkar Yudhishthira ki aankhon mein khushi ke aansu aa gaye. Woh itne prasann hue ki kuch der tak kuch bol hi nahi paaye."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 74
     with st.expander("Chapter 74 - Yudhiṣṭhira’s Rājasūya: Śiśupāla slain"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shukadev bole, “Jab Yudhishthira ne Jarasandh ki mrityu aur Krishna ki mahima suni, toh woh bahut prasann hue.
+
+Unhone Krishna se kaha, “Hey Prabhu, teenon lok ke devta aur mahan rishi bhi aapke aadesh ko maante hain. Phir bhi aap hum jaise saamanya logon ke saath itne prem se rehte hain. Yeh aapki mahaanta hai.”
+
+Iske baad Yudhishthira ne Rajasuya yagya ki taiyaari shuru kar di.
+
+Vyasa ji, Vashishtha, Vishwamitra, Parashurama aur bahut saare mahan rishi yagya mein bulaaye gaye. Bhishma, Drona, Kripacharya, Dhritarashtra aur Kaurav bhi aaye."""
         create_image_text_layout(
             "attached_assets/chapter10/10.74.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Har taraf utsav jaisa mahaul tha.
+
+Yagya ke din ek bada prashn utha — sabse pehle samman kis vyakti ko diya jaaye? Sabha mein bahut saare mahan log baithe the.
+
+Tab Sahadeva khade hue aur bole,
+
+“Sabse pehla samman Bhagwan Krishna ko milna chahiye. Woh sabke swami hain. Yeh poora jagat unhi se chalta hai.”
+
+Sahadeva ne kaha, “Krishna hi yagya hain, mantra hain aur sabke hriday mein rehne wale Parmatma hain.”
+
+Sabha ke adhiktar log Sahadeva ki baat se sehmat ho gaye.
+
+Yudhishthira bahut khush hue. Unhone Krishna ke charan dhoye aur us pavitra jal ko apne sir par rakha. Unke bhaiyon aur parivaar ne bhi waise hi kiya.
+
+Sab log “Jai Krishna!” kehkar unka samman karne lage. Aasmaan se phoolon ki varsha hone lagi.
+
+Lekin yeh sab dekhkar Chedi raja Shishupala ko bahut gussa aa gaya.
+
+Woh khada hokar chillane laga,
+
+“Yahan itne mahan rishi aur buzurg baithe hain. Phir bhi tum log ek gwale Krishna ko sabse bada samman de rahe ho?”
+
+Usne Krishna ko bahut buri baatein kahi aur unka apmaan karne laga.
+
+Sabha mein baithe logon ko yeh baat bahut buri lagi. Kai logon ne apne kaan band kar liye aur kuch log gusse mein uth khade hue.
+
+Bhima aur doosre yoddha Shishupala ko maarne ke liye taiyaar ho gaye.
+
+Lekin Krishna shaant rahe.
+
+Jab Shishupala hadh paar kar gaya, tab Krishna ne Sudarshan Chakra chala diya.
+
+Ek pal mein Chakra ne Shishupala ka sir kaat diya.
+
+Sab log hairaan reh gaye.
+
+Tab sabne dekha ki Shishupala ke sharir se ek tej nikla aur seedha Krishna mein sama gaya.
+
+Rishi Shukadev bole, “Shishupala teen janmon tak Krishna se dvesh karta raha, lekin uska mann hamesha Krishna mein laga raha. Isi wajah se antim samay mein usse bhi moksha mil gaya.”
+
+Rajasuya yagya safalta se poora hua. Yudhishthira ne sabhi mehmano aur Brahmano ko bahut saare uphaar diye.
+
+Sab log Krishna aur Yudhishthira ki prashansa karte hue apne ghar laut gaye.
+
+Lekin Duryodhana andar hi andar jalan se bhar gaya. Woh Pandavo ki shaan aur samriddhi dekhkar khush nahi tha."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 75
     with st.expander("Chapter 75 - Discomfiture of Duryodhana"):
-        text1 = """ """
+        text1 = """ 
+        Raja Parikshit ne poocha, “Rajasuya yagya ke baad sab log khush the, lekin Duryodhana hi udaas aur jalan se bhara hua kyun tha?”
+
+Rishi Shukadev bole, “Rajasuya yagya bahut shaan se poora hua tha. Har vyakti ko koi na koi zimmedaari di gayi thi.”
+
+Bhima rasoi sambhaal rahe the. Duryodhana khazane ki dekhbhaal kar raha tha. Sahadeva mehmano ka swagat kar rahe the aur Nakula samaan ki vyavastha dekh rahe the.
+
+Arjuna bade-buzurgon ki seva kar rahe the aur Krishna swayam mehmano ke pair dho rahe the.
+
+Draupadi sabko bhojan parosne ka kaam dekh rahi thi. Karna daan aur uphaar baant rahe the."""
         create_image_text_layout(
             "attached_assets/chapter10/10.75.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Yagya poora hone ke baad sab log Ganga ji mein avabhrita snaan ke liye gaye.
+
+Har taraf shankh, dhol aur sangeet ki awaaz gunj rahi thi. Raja, raniyan aur sab log sundar vastra aur gehne pehne hue the.
+
+Log khushi mein ek doosre par sugandhit paani aur kesar chhidak rahe the.
+
+Yudhishthira Draupadi ke saath rath par bahut tejomay lag rahe the. Snaan ke baad unhone sabhi mehmano ko vastra, gehne aur uphaar diye.
+
+Sab log Rajasuya yagya ki safalta dekhkar bahut prasann hue.
+
+Krishna bhi Yudhishthira ko khush karne ke liye kuch aur samay Indraprastha mein ruk gaye.
+
+Lekin Duryodhana ke mann mein jalan bharne lagi.
+
+Usne Pandavo ka bada mahal dekha, jo Maya danav ne banaya tha. Mahal itna adbhut tha ki wahan zameen aur paani mein farq samajhna mushkil ho jaata tha.
+
+Ek din Duryodhana us mahal mein ghoom raha tha.
+
+Jahan saaf zameen thi, usne use paani samajhkar apne kapde upar utha liye. Yeh dekhkar log hans pade.
+
+Thodi der baad jahan sach mein paani tha, usne use zameen samjha aur seedha paani mein gir gaya.
+
+Bhima zor se hansne lage. Doosre raja aur mahal ki mahilaayein bhi muskuraane lagi.
+
+Yudhishthira ne sabko rokne ki koshish ki, lekin Krishna chup rahe.
+
+Duryodhana ka chehra sharm aur gusse se bhar gaya. Usne sir jhuka liya aur bina kuch kahe Hastinapur laut gaya.
+
+Uske mann mein jalan aur dvesh aur bhi badh gaya. Yahi jalan aage chal kar bahut bade sangharsh ka kaaran bani."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 76
     with st.expander("Chapter 76 - Fight with Śālva"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shukadev bole, “Ab main tumhe Krishna ki ek aur adbhut leela sunata hoon — Shalva ke vinaash ki kahani.”
+
+Shalva, Shishupala ka bahut kareebi dost tha. Jab Krishna Rukmini ko swayamvar se le gaye the, tab Shalva bhi wahan maujood tha aur Yadavo se haar gaya tha.
+
+Us din se woh Krishna se badla lena chahta tha."""
         create_image_text_layout(
             "attached_assets/chapter10/10.76.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Sab rajaon ke saamne usne gusse mein kaha, “Main poori prithvi se Yadavo ka naam mita dunga!”
+
+Iske baad Shalva ne Bhagwan Shiva ki kathin tapasya ki. Woh sirf thodi si dhool khaakar jeevit raha.
+
+Ek saal baad Shiva ji usse prasann ho gaye aur bole, “Maango, kya chahiye?”
+
+Shalva bola, “Mujhe ek aisa udne wala nagar chahiye jise koi devta, manushya ya rakshas na tod sake.”
+
+Shiva ji ne “Tathastu” kaha.
+
+Phir Maya danav ne Shalva ke liye ek lohe ka adbhut vimaan-nagar banaya, jiska naam tha Saubha.
+
+Woh kabhi aasman mein udta, kabhi gayab ho jaata aur kabhi achanak kahin bhi dikhai deta tha.
+
+Kuch samay baad Shalva ko pata chala ki Shishupala aur Jarasandh dono mare gaye hain. Yeh sunkar woh bahut gusse mein bhar gaya.
+
+Usne apni sena ke saath Dwaraka par hamla kar diya.
+
+Saubha vimaan se bade-bade pathar, ped aur hathiyaar barsne lage. Tez aandhi aur dhool se poori Dwaraka pareshan ho gayi.
+
+Log darr gaye.
+
+Tab Pradyumna ne sabko himmat di aur kaha, “Darro mat!”
+
+Pradyumna, Satyaki, Samba, Akrura aur doosre Yadav yoddha sena lekar yudh ke liye nikle.
+
+Bahut bhayankar yudh hua.
+
+Shalva ka Saubha vimaan bahut jadui tha. Kabhi ek jagah dikhai deta, kabhi dusri jagah. Kabhi woh aasman mein hota aur kabhi paani ke upar.
+
+Yadav sena ko samajhna mushkil ho raha tha ki asli Saubha kahaan hai.
+
+Lekin Pradyumna ne apne divya astron se Shalva ki maya ko todna shuru kar diya.
+
+Unhone Shalva aur uski sena par teeron ki baarish kar di. Sab log Pradyumna ki veerta dekhkar hairaan ho gaye.
+
+Tab Shalva ka senapati Dyuman achanak Pradyumna ke paas aaya aur usne lohe ki gada se zor ka vaar kiya.
+
+Pradyumna gambhir roop se ghaayal ho gaye aur kuch der ke liye behosh ho gaye.
+
+Unke saarathi ne turant unhe yudh bhoomi se door le gaya.
+
+Hosh aane par Pradyumna gusse mein bole, “Tum mujhe yudh se bahar kyun laaye? Hamare vansh mein koi yoddha kabhi peeth dikhakar nahi bhaagta!”
+
+Saarathi ne vinamrata se kaha, “Prabhu, yeh mera kartavya tha. Jab yoddha sankat mein ho, toh saarathi ko uski raksha karni chahiye.”
+
+Yeh sunkar Pradyumna shaant ho gaye aur fir se yudh ke liye taiyaar hone lage."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 77
     with st.expander("Chapter 77 - Slaying of King Śālva"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shukadev bole, “Jab Pradyumna ko hosh aaya, toh unhone fir se apna kavach pehna aur dhanush uthaya. Phir woh bole, “Mujhe turant Dyuman ke paas le chalo!”
+
+Pradyumna fir se yudh bhoomi mein laut aaye.
+
+Unhone haste hue Dyuman par teer chalaaye. Kuch teeron se uske ghodon ko maara, kuch se uska dhanush tod diya aur ek tez teer se uska sir kaat diya."""
         create_image_text_layout(
             "attached_assets/chapter10/10.77.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Doosri taraf Satyaki, Samba, Gada aur doosre Yadav yoddha bhi Shalva ki sena ko haraane lage.
+
+Yeh bhayankar yudh 27 din aur raat tak chalta raha.
+
+Isi beech Krishna Indraprastha se Dwaraka laut rahe the. Raaste mein unhe bure sanket dikhai diye. Unhe laga ki Dwaraka mein kuch bura hua hai.
+
+Jab Krishna Dwaraka pahunche, toh unhone dekha ki nagar toot-phoot gaya hai. Bagiche barbaad ho gaye the aur kai imaaratein toot chuki thi.
+
+Yeh sab dekhkar Krishna dukhi hue.
+
+Tab unhone pratigya ki, “Main Shalva ko maare bina Dwaraka mein pravesh nahi karunga.”
+
+Krishna turant apne Garud chinh waale rath par baithkar Shalva ke peeche nikle.
+
+Jaldi hi unhone aasman mein Saubha vimaan ko dekh liya.
+
+Krishna ne apne saarathi Daruk se kaha, “Mera rath seedha Shalva ke paas le chalo. Darne ki zaroorat nahi.”
+
+Yudh shuru hua.
+
+Shalva ne Krishna ke saarathi par ek bhayanak bhala pheka. Lekin Krishna ne apne teeron se use tukde-tukde kar diya.
+
+Krishna ne kai teer chalaakar Saubha vimaan ko hila diya.
+
+Tab Shalva ne Krishna ke baaye haath par vaar kiya. Ek pal ke liye Krishna ka dhanush neeche gir gaya. Yeh dekhkar sab log hairaan reh gaye.
+
+Shalva ghamand se bola, “Tumne hamare dost Shishupala ko maara tha. Aaj main tumhe bhi khatam kar dunga!”
+
+Krishna shaant swar mein bole, “Asli veer zyada baatein nahi karte. Woh apni shakti yudh mein dikhate hain.”
+
+Itna kehkar Krishna ne apni gada se Shalva par zor ka vaar kiya. Shalva khoon ugalne laga.
+
+Tab Shalva ne apni maya ka prayog kiya.
+
+Achanak ek aadmi Krishna ke paas aaya aur rota hua bola, “Hey Krishna, Shalva ne aapke pita Vasudev ko pakad liya hai!”
+
+Thodi der baad Shalva ek aadmi ko lekar aaya jo bilkul Vasudev ji jaisa lag raha tha.
+
+Shalva chillaya, “Dekho, main tumhare pita ko maar deta hoon!”
+
+Aur usne us aadmi ka sir kaat diya.
+
+Yeh dekhkar Krishna ek pal ke liye dukhi ho gaye, jaise koi aam insaan ho.
+
+Lekin phir unhone samajh liya ki yeh sab Shalva ki jadui maya hai.
+
+Asli Vasudev ji surakshit the.
+
+Tab Krishna ka gussa aur badh gaya.
+
+Unhone Sudarshan Chakra uthaya. Chakra suraj ki tarah chamak raha tha.
+
+Krishna ne use Saubha vimaan ki taraf chala diya.
+
+Ek hi pal mein Sudarshan Chakra ne Saubha ko tukde-tukde kar diya. Vimaan samundar mein girkar toot gaya.
+
+Shalva fir bhi gada lekar Krishna par hamla karne dauda.
+
+Lekin Krishna ne ek teer se uska haath kaat diya.
+
+Uske baad Krishna ne Sudarshan Chakra se Shalva ka sir kaat diya, bilkul waise hi jaise Indra ne Vritrasur ko maara tha.
+
+Aasmaan mein devtaon ne dhol bajaaye aur phool barsaaye.
+
+Krishna vijay paakar Dwaraka laut aaye. Nagar ke log bahut khush hue aur unka bada swagat kiya.
+
+Krishna fir apni raniyon aur Yadavo ke saath khushi se rehne lage."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 78
     with st.expander("Chapter 78 - Dantavaktra and Vidūratha Slain: Balarāma’s Pilgrimage"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shukadev bole, “Shalva ke marne ke baad uska dost Dantavakra bahut gusse mein bhar gaya. Woh Shishupala, Shalva aur Paundraka ka badla lena chahta tha.
+
+Woh akela hi gada lekar Krishna ki taraf dauda. Uske kadam se zameen hilne lagi.
+
+Krishna ne bhi turant apni Kaumodaki gada uthayi aur uska saamna karne lage.
+
+Dantavakra gusse mein bola, “Krishna! Tum hamare rishtedaar hoke bhi apne doston ko maarte ho. Aaj main tumhe khatam kar dunga!”
+
+Itna kehkar usne Krishna ke sir par zor se gada maari."""
         create_image_text_layout(
             "attached_assets/chapter10/10.78.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Lekin Krishna bilkul nahi hile.
+
+Phir Krishna ne apni gada se Dantavakra ke seene par bahut zor ka prahar kiya.
+
+Dantavakra khoon ugalta hua zameen par gir gaya aur uski mrityu ho gayi.
+
+Sabne dekha ki uske sharir se ek chamakta hua tej nikla aur Krishna mein sama gaya, bilkul Shishupala ki tarah.
+
+Dantavakra ka bhai Viduratha yeh dekhkar bahut dukhi aur gusse mein aa gaya. Woh talwar aur dhal lekar Krishna par hamla karne dauda.
+
+Lekin Krishna ne Sudarshan Chakra se uska sir bhi kaat diya.
+
+Is tarah Krishna ne Dantavakra aur Viduratha dono ka ant kar diya.
+
+Devtaon ne aasman se phool barsaaye aur Krishna ki jai-jaikaar karne lage.
+
+Krishna vijay paakar Dwaraka laut aaye. Nagar ke log bahut khush hue aur bade prem se unka swagat kiya.
+
+Raja Parikshit ne fir poocha, “Jab Mahabharat ka yudh hone wala tha, tab Balarama ji ne kya kiya?”
+
+Rishi Shukadev bole, “Jab Balarama ne dekha ki Kaurav aur Pandav yudh karne par tule hue hain aur koi bhi shanti nahi chahta, tab unhone yudh se door rehne ka faisla kiya.”
+
+Woh bole, “Main dono pakshon se prem karta hoon. Main kisi ek ka saath nahi dunga.”
+
+Isliye Balarama teerth yatra par nikal gaye.
+
+Woh Prabhas, Saraswati nadi aur kai pavitra sthalon par gaye. Har jagah snaan kiya, devtaon aur rishiyon ko pranam kiya aur Brahmano ko daan diya.
+
+Aakhir mein woh Naimisharanya pahunche, jahan bahut saare rishi yagya kar rahe the.
+
+Sabhi rishi Balarama ko dekhkar khade ho gaye aur unka samman kiya.
+
+Lekin Romaharshana Suta naam ka ek kathavachak apni jagah par hi baitha raha. Usne na pranam kiya aur na hi samman dikhaya.
+
+Yeh dekhkar Balarama ko gussa aa gaya.
+
+Unhone kaha, “Sirf gyaan hona hi kaafi nahi hota. Vinamrata aur achcha vyavahar bhi zaroori hai.”
+
+Phir Balarama ne ek chhoti si kush ghaas uthayi aur usse hi Romaharshana ko maar diya.
+
+Sab rishi darr gaye aur bole, “Hey Balarama, yeh theek nahi hua. Woh hamare dwara sammanit vyakti tha.”
+
+Balarama shaant hokar bole, “Agar mujhse galti hui hai, toh main iska prayaschit karunga. Aap jo kahenge, main wahi karunga.”
+
+Rishiyon ne kaha, “Balvala naam ka ek dusht danav humein pareshaan karta hai. Har poornima aur amavasya ko woh hamare yagya ko ashuddh kar deta hai. Aap uska vadh kijiye.”
+
+Balarama ne unki baat maan li aur danav ko maarne ke liye taiyaar ho gaye."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 79
     with st.expander("Chapter 79 - Balvala Killed: Balarāma’s Pilgrimage"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shukadev bole, “Jab agla poornima ka din aaya, tab achanak tez aandhi chalne lagi. Har taraf dhool aur buri badboo fail gayi.
+
+Phir aasman se gandagi, khoon aur gandi cheezein yagya bhoomi par girne lagi. Yeh sab dusht danav Balvala kar raha tha.
+
+Kuch der baad Balvala khud saamne aaya. Woh bahut bada aur bhayanak lag raha tha. Uska sharir kaale pahad jaisa tha aur uske daant aur aankhen darawni thi.
+
+Yeh dekhkar Balarama ne apna hal aur musal yaad kiya. Dono divya hathiyaar turant unke paas aa gaye.
+
+Balvala aasman mein ud raha tha. Balarama ne apne hal se use kheenchkar neeche gira diya.
+
+Phir unhone apne musal se uske sir par bahut zor ka vaar kiya."""
         create_image_text_layout(
             "attached_assets/chapter10/10.79.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Balvala zor se cheekha aur khoon bahaate hue zameen par gir gaya, bilkul vajra se toote pahad ki tarah.
+
+Sabhi rishi bahut khush ho gaye. Unhone Balarama ki jai-jaikaar ki aur pavitra jal se unka abhishek kiya.
+
+Rishiyon ne Balarama ko sundar Vaijayanti mala, vastra aur gehne bhi diye.
+
+Uske baad Balarama ne apni teerth yatra jaari rakhi.
+
+Woh Kaushiki nadi, Sarayu, Prayag, Gomati, Gandaki aur kai pavitra nadiyon aur teerthon par gaye. Har jagah snaan kiya, devtaon aur pitron ko jal arpit kiya aur Brahmano ko daan diya.
+
+Woh Shri Rangam, Kanchi, Venkat parvat aur Rameshwaram jaise pavitra sthalon par bhi gaye.
+
+Setu par Balarama ne Brahmano ko hazaaron gaayein daan mein di.
+
+Baad mein woh Agastya rishi se mile aur unka aashirvaad liya.
+
+Yatra karte-karte Balarama ko pata chala ki Mahabharat ka yudh lagbhag samaapt ho gaya hai aur adhiktar Kshatriya maare ja chuke hain.
+
+Yeh sunkar woh Kurukshetra pahunche.
+
+Wahan Bhima aur Duryodhana gada yudh kar rahe the. Dono bahut gusse mein the.
+
+Balarama ne unhe rokne ki koshish ki.
+
+Woh bole, “Tum dono bahut shaktishaali ho. Yeh yudh ab band kar do. Isse kisi ka bhala nahi hoga.”
+
+Lekin Bhima aur Duryodhana ne unki baat nahi maani.
+
+Balarama samajh gaye ki ab yeh sab bhagya ka hissa hai. Isliye woh chup-chaap Dwaraka laut gaye.
+
+Baad mein woh fir Naimisharanya gaye aur wahan rishiyon ke saath milkar yagya kiya.
+
+Balarama ne rishiyon ko adhyatmik gyaan bhi diya. Unhone samjhaaya ki poora jagat Bhagwan mein hi basa hai.
+
+Rishi Shukadev bole, “Jo vyakti subah-shaam Balarama ji ki in pavitra leelaon ko yaad karta hai, woh Bhagwan Vishnu ka priya ban jaata hai.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 80(a)
     with st.expander("Chapter 80(a) - The Story of the Brāhmaṇa Śrīdāman (introductory)"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shukadev bole, “Jab Bhima ne gada yudh mein Duryodhana ko hara diya, tab Mahabharat ka yudh samaapt ho gaya. Krishna ka dharti ka bojh kam karne ka uddeshya bhi poora ho chuka tha.
+
+Kauravo ki sena mein sirf Kripacharya, Kritavarma aur Ashwatthama jaise kuch hi bade yoddha bache the. Pandavo ki taraf se paanch Pandav, Satyaki aur kuch anya veer bach gaye the.
+
+Yudh ke baad Krishna Hastinapur gaye."""
         create_image_text_layout(
             "attached_assets/chapter10/10.80a.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Wahan unhone andhe raja Dhritarashtra, dukhi Gandhari aur buddhimaan Vidura ko santvana di. Sab apne putron aur parivaar ke vinaash se bahut dukhi the.
+
+Krishna ne pyar aur dhairya se sabko sambhala.
+
+Uske baad unhone Yudhishthira ko rajya sambhalne ke liye taiyaar kiya.
+
+Phir Krishna Dwaraka lautne lage.
+
+Pandav unse bichhadte waqt bahut udaas ho gaye. Unki aankhon mein aansu aa gaye.
+
+Krishna suraj ki tarah chamakne wale rath par baithkar Dwaraka ki taraf chale.
+
+Jab Dwaraka ke logon ko pata chala ki Krishna laut rahe hain, tab poori nagari ko sajaya gaya.
+
+Har taraf jhande, phool aur sundar toran lagaye gaye. Raaston par sugandhit paani chhidka gaya.
+
+Brahman, mahilaayein aur bachche sab Krishna ka swagat karne aaye. Sabke haath mein phool, deepak aur kalash the.
+
+Shankh aur dhol ki awaaz se poori Dwaraka gunj uthi.
+
+Krishna nagar mein pravesh karte hue bahut tejomay lag rahe the.
+
+Sabse pehle woh Sudharma sabha mein gaye. Wahan unhone Vasudev ji, Balarama aur apni sabhi maataon ko pranam kiya.
+
+Yadav logon ne bade prem aur samman se Krishna ka swagat kiya.
+
+Krishna sabke beech waise chamak rahe the jaise taare aur grahon ke beech poornima ka chand chamakta hai.
+
+Mahabharat ke baad jo raja bach gaye the, woh bhi Krishna ka adar karte the. Krishna ne Yudhishthira ko dharti ka sachcha samrat bana diya aur unki madad se dharma ke saath rajya chalne laga.
+
+Is tarah Krishna Dwaraka mein shaanti aur prem ke saath rehne lage."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 80(b)
     with st.expander("Chapter 80(b) - The Story of the Brāhmaṇa Śrīdāman"):
-        text1 = """ """
+        text1 = """ 
+        Raja Parikshit ne kaha, “Hey Rishi, Krishna ki aur pavitra leelaayein sunaaiye. Unki kathayein sunne se mann ko shanti milti hai.”
+
+Rishi Shukadev bole, “Sach mein, wahi jeebh safal hai jo Bhagwan ki mahima gaaye. Wahi kaan safal hain jo unki kathayein sune.”
+
+Phir Shukadev ji ne ek gareeb Brahman ki kahani sunani shuru ki.
+
+Woh Brahman Krishna ka purana mitra tha. Kuch log use Shridaman ke naam se jaante the."""
         create_image_text_layout(
             "attached_assets/chapter10/10.80b.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Woh bahut gyani aur shaant swabhav ka tha. Lekin woh aur uski patni bahut gareebi mein jeevan bita rahe the.
+
+Unke paas achche kapde aur poora bhojan bhi nahi hota tha. Fir bhi woh imaandari aur santosh ke saath jeete the.
+
+Ek din uski patni ne dheere se kaha,
+
+“Hey Swami, aapke mitra Krishna ab Dwaraka ke raja hain. Woh Brahmano aur bhakton se bahut prem karte hain. Aap unse milne kyun nahi jaate?”
+
+Woh boli, “Krishna dayaalu hain. Shayad woh hamari madad kar dein.”
+
+Brahman ne shaant swar mein kaha, “Mujhe dhan nahi chahiye. Lekin Krishna ka darshan zaroor karna chahta hoon.”
+
+Phir usne poocha, “Lekin hum Krishna ke liye uphaar mein kya le jaa sakte hain?”
+
+Uski patni pados ke Brahmano ke ghar gayi aur mushkil se chaar mutthi poha maangkar laayi.
+
+Usne un poho ko ek purane kapde mein baandh diya aur kaha, “Yahi Krishna ko prem se de dijiyega.”
+
+Brahman poha lekar Dwaraka ki taraf chal diya. Raaste bhar woh bas Krishna ke baare mein sochta raha.
+
+Dwaraka pahunchkar woh Krishna ke mahal tak gaya.
+
+Krishna ne door se hi apne purane dost ko dekh liya.
+
+Woh turant apne singhasan se uth gaye aur daudkar Brahman ko gale laga liya.
+
+Krishna ki aankhon mein khushi ke aansu aa gaye.
+
+Phir Krishna ne apne mitra ko apne hi aasana par bithaya aur swayam unke pair dhoye.
+
+Unhone us pavitra jal ko apne sir par rakha.
+
+Rukmini ji bhi pankha lekar Brahman ki seva karne lagi.
+
+Mahal ki sab mahilaayein hairaan thi. Woh sochne lagi, “Yeh gareeb aur saadhaaran Brahman kaun hai, jise Krishna itna adar de rahe hain?”
+
+Krishna aur Brahman dono purane din yaad karne lage.
+
+Krishna muskuraakar bole, “Kya tumhe apne Guru Sandipani ka ashram yaad hai?”
+
+Phir Krishna ne ek purani ghatna sunayi.
+
+Woh bole, “Ek baar Guru Mata ne humein jungle se lakdiyaan laane bheja tha. Tab achanak tez aandhi aur baarish shuru ho gayi.”
+
+“Har taraf andhera ho gaya tha. Hum dono jungle mein raasta bhatak gaye the.”
+
+“Humne ek doosre ka haath pakadkar poori raat mushkil mein bitaayi.”
+
+“Subah Guru Sandipani humein dhoondte hue aaye. Unhone humari guru-bhakti dekhkar bahut khushi se aashirvaad diya tha.”
+
+Krishna bole, “Guru ki seva aur aashirvaad se hi jeevan safal hota hai.”
+
+Brahman vinamrata se bola, “Hey Krishna, aap toh sabke Guru aur Bhagwan hain. Aapke saath rehkar hi sab kuch safal ho jaata hai.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
