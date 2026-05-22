@@ -8148,131 +8148,537 @@ Krishna shaant hokar sab sunte rahe. Unhe pata tha ki ahankaar aur jhooti shaan 
 
     # Chapter 61
     with st.expander("Chapter 61 - Aniruddha s Marriage: Rukmī Slain"):
-        text1 = """ """
+        text1 = """ 
+        Raja Parikshit ne poocha, “Rukmi toh Krishna se haar chuka tha aur unse dushmani rakhta tha. Phir usne apni beti ki shaadi Krishna ke bete se kaise kar di?”
+
+Rishi Shukadev bole, “Bhagwan Krishna ki har rani ke das putra the. Sabhi bahadur aur gunvaan the. Krishna apni har patni ke saath itne prem se rehte the ki har rani ko lagta tha ki Krishna unhe sabse zyada pyaar karte hain.”
+
+Krishna ki raniyan unki madhur baatein, muskaan aur sundar roop dekhkar bahut khush rehti thi. Woh swayam seva karti thi, jaise unke pair dhona, phool chadhana aur bhojan dena."""
         create_image_text_layout(
             "attached_assets/chapter10/10.61.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Rukmini ke sabse bade putra ka naam Pradyumna tha. Woh bahut sundar aur veer the.
+
+Ek din Rukmi ki beti Rukmavati ka swayamvar hua. Bahut saare raja aur yoddha wahan aaye. Lekin Rukmavati ne Pradyumna ko hi apna pati chuna.
+
+Pradyumna ne sabhi yoddhao ko hara diya aur Rukmavati ko apne saath le gaye.
+
+Rukmi ab bhi Krishna se dushmani rakhta tha, lekin apni behen Rukmini ko khush karne ke liye usne yeh vivaah maan liya.
+
+Baad mein Pradyumna aur Rukmavati ke ghar ek bahadur putra paida hua, jiska naam Aniruddha tha.
+
+Samay beetne ke baad Rukmi ne apni poti Rocana ki shaadi Aniruddha se karne ka faisla kiya. Is shaadi ke liye Krishna, Balarama, Pradyumna aur doosre Yadav Bhojakata nagar gaye.
+
+Shaadi bahut dhoom-dhaam se hui.
+
+Lekin shaadi ke baad kuch ghamandi rajaon ne Rukmi ko bhadkaaya. Unhone kaha, “Balarama ko paasay ke khel mein harao.”
+
+Balarama ko dice ka khel pasand tha, isliye woh maan gaye.
+
+Khel shuru hua. Pehle Rukmi jeeta aur Kalinga ka raja zor-zor se hansne laga. Yeh dekhkar Balarama ko bura laga.
+
+Phir ek bade daav mein Balarama sach mein jeet gaye. Lekin Rukmi jhooth bolkar bola, “Jeet meri hui hai!”
+
+Tab aasman se awaaz aayi, “Is khel mein Balarama hi jeete hain. Rukmi jhooth bol raha hai.”
+
+Lekin Rukmi fir bhi hansne laga aur Balarama ka mazaak udaate hue bola, “Tum toh sirf gwale ho. Rajaon jaise khel tumhe nahi aate.”
+
+Yeh sunkar Balarama ka gussa bahut badh gaya. Unhone lohe ka gada uthaya aur sabke saamne Rukmi ko maar diya.
+
+Phir unhone Kalinga ke raja ko bhi pakadkar uske daant tod diye, kyunki woh hans raha tha.
+
+Baaki raja darr kar wahan se bhaag gaye.
+
+Krishna chup rahe, kyunki woh na toh apne bhai Balarama ko dukhi karna chahte the aur na hi apni patni Rukmini ko.
+
+Uske baad sab log Aniruddha aur Rocana ko saath lekar Dwaraka laut aaye."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 62
     with st.expander("Chapter 62 - Aniruddha taken captive by Bāṇāsura"):
-        text1 = """ """
+        text1 = """ 
+        Raja Parikshit ne poocha, “Aniruddha ki shaadi Banasura ki beti Usha se kaise hui? Aur Bhagwan Shiva aur Krishna ke beech yudh kyun hua?”
+
+Rishi Shukadev bole, “Banasura Raja Bali ka bada beta tha. Woh Bhagwan Shiva ka bahut bada bhakt tha. Shiva ji usse prasann hokar uske nagar Shonitapura ke rakshak ban gaye the.
+
+Banasura ke hazaar haath the. Woh apni shakti par bahut ghamand karta tha. Ek din usne Shiva ji se kaha, “Mere hazaar haath bekaar ja rahe hain, kyunki mujhe koi takkar dene wala milta hi nahi.”
+
+Yeh sunkar Shiva ji thoda naraaz hue aur bole, “Jab tumhara dhwaj tootega, tab tumhe ek aisa yoddha milega jo tumhara ghamand tod dega.”"""
         create_image_text_layout(
             "attached_assets/chapter10/10.62.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Banasura ki ek sundar beti thi, jiska naam Usha tha.
+
+Ek raat Usha ne sapne mein ek sundar rajkumar ko dekha. Uska rang saawla tha, aankhen kamal jaisi thi aur usne peele vastra pehne the. Sapne mein Usha ko usse prem ho gaya.
+
+Subah uthte hi Usha udaas hokar boli, “Woh kahan chale gaye?”
+
+Uski sabse achchi saheli Chitralekha ne poocha, “Kaun?”
+
+Usha ne sapne wale rajkumar ka varnan kiya. Tab Chitralekha ne bahut saare rajkumaron aur devtaon ki tasveerein banaayi.
+
+Jab usne Krishna, Balarama aur Pradyumna ki tasveer banaayi, tab Usha chup rahi. Lekin jaise hi Aniruddha ki tasveer saamne aayi, Usha sharma kar boli, “Yehi hain! Yehi mere sapne wale rajkumar hain!”
+
+Chitralekha ke paas yog shakti thi. Woh hawa mein udkar Dwaraka pahunch gayi. Wahan Aniruddha so rahe the. Chitralekha chupke se unhe utha kar Usha ke mahal mein le aayi.
+
+Aniruddha aur Usha ek doosre ko dekhkar bahut khush hue. Dheere-dheere dono ek doosre se prem karne lage aur mahal mein chupkar rehne lage.
+
+Lekin kuch samay baad mahal ki dasiyon ko shak ho gaya. Unhone Banasura ko jaakar bata diya.
+
+Banasura turant gusse mein Usha ke mahal pahunch gaya. Wahan usne Aniruddha ko dekha. Woh bahut sundar aur veer lag rahe the.
+
+Aniruddha ne dekha ki sainik unhe pakadne aa rahe hain, toh unhone lohe ka gada uthaya aur sabko haraane lage. Bahut saare sainik bhaag gaye.
+
+Lekin Banasura bahut shaktishaali tha. Usne jadui Naagpaash se Aniruddha ko baandh diya.
+
+Yeh dekhkar Usha bahut royi aur dukhi ho gayi."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 63
     with st.expander("Chapter 63 - Bāṇa Vanquished—Aniruddha brought to Dvārakā"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shukadev bole, “Aniruddha ko bandi banaye hue chaar mahine beet gaye. Dwaraka mein sab log bahut pareshaan the. Kisi ko nahi pata tha ki Aniruddha kahan hain.
+
+Tab Devarshi Narad ne Krishna ko sab sach bataya — kaise Aniruddha ne veerta se yudh kiya aur kaise Banasura ne unhe bandi bana liya.
+
+Yeh sunkar Krishna, Balarama, Pradyumna, Samba aur bahut bade Yadav yoddha sena lekar Shonitapura ki taraf chal pade.
+
+Jab Banasura ne dekha ki Krishna ki sena uske nagar ke dwar aur bageeche tod rahi hai, toh woh gusse se bhar gaya. Woh bhi apni sena lekar yudh ke liye aa gaya."""
         create_image_text_layout(
             "attached_assets/chapter10/10.63.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Bhagwan Shiva bhi apne putra Kartikeya aur apne ganon ke saath Banasura ki madad ke liye aaye, kyunki Banasura unka bhakt tha.
+
+Phir ek mahaan yudh shuru hua.
+
+Krishna aur Shiva ke beech bhayankar yudh hua. Pradyumna ne Kartikeya se yudh kiya aur Balarama ne doosre asuro ko hara diya.
+
+Aasmaan mein Brahma ji, rishi aur devta sab yeh adbhut yudh dekhne aaye.
+
+Krishna ne apne teeron aur astron se Shiva ji ke ganon ko peeche hata diya. Shiva ji bhi divya astr chala rahe the, lekin Krishna har astra ka jawab de rahe the.
+
+Ant mein Krishna ne ek vishesh astra chala kar Shiva ji ko kuch der ke liye sust kar diya. Tab Krishna ne Banasura ki sena ko hara diya.
+
+Banasura bahut gusse mein tha. Usne ek saath apne kai haathon se dhanush uthakar Krishna par teer barsa diye.
+
+Lekin Krishna ne apne Sudarshan Chakra se Banasura ke ek-ek haath kaatne shuru kar diye, jaise ped ki shaakha kaati jaati hai.
+
+Jab Banasura haarne laga, tab Bhagwan Shiva Krishna ke paas aaye aur bole, “Banasura mera bhakt hai. Kripya uspar daya kijiye.”
+
+Krishna muskura kar bole, “Main ise nahi maarunga. Sirf iska ghamand tod raha hoon.”
+
+Krishna ne Banasura ke adhiktar haath kaat diye, lekin chaar haath chhod diye.
+
+Banasura ne vinamrata se sir jhukaya aur Aniruddha ko Usha ke saath Krishna ke paas le aaya.
+
+Phir Krishna, Balarama aur sab Yadav Aniruddha aur Usha ko lekar Dwaraka laut aaye.
+
+Dwaraka nagari ko sundar jhandon aur phoolon se sajaya gaya tha. Sab log khushi se unka swagat karne lage.
+
+Rishi Shukadev bole, “Jo vyakti Krishna aur Shiva ke is mahaan yudh ki kahani shraddha se sunta hai, usse jeevan mein haar ka saamna kam karna padta hai.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 64
     with st.expander("Chapter 64 - The Story of Nṛga"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shukadev bole, “Ek din Samba, Pradyumna aur Yadu vansh ke doosre rajkumar bagiche mein khelne gaye. Bahut der tak khelne ke baad sabko pyaas lagi.
+
+Woh paani dhoondhne lage. Tab unhe ek sookha kuaan dikha. Jab unhone andar jhaank kar dekha, toh wahan ek bahut bada ajeeb sa girgit jaisa prani pada tha.
+
+Sab rajkumar hairaan ho gaye. Unhone us bechare prani ko bahar nikaalne ki koshish ki. Rassi aur chamde ki pattiyan bhi use nikaal nahi paayi.
+
+Phir woh sab Krishna ke paas gaye aur unhe sab bataya."""
         create_image_text_layout(
             "attached_assets/chapter10/10.64.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Bhagwan Krishna khud kuaan ke paas aaye. Unhone aasani se apne baaye haath se us bade girgit ko bahar nikaal liya.
+
+Jaise hi Krishna ka sparsh hua, woh girgit turant ek sundar devta jaisa purush ban gaya. Uska sharir sone ki tarah chamak raha tha.
+
+Woh Krishna ke charanon mein jhuk gaya.
+
+Krishna ne poocha, “Aap kaun hain? Aur aapko yeh ajeeb janm kyun mila?”
+
+Woh purush vinamrata se bola, “Prabhu, mera naam Raja Nriga hai. Main Ikshvaku vansh ka raja tha. Maine bahut daan aur punya kiye the.”
+
+Raja Nriga ne bataya, “Main hazaaron gaayein Brahmano ko daan mein deta tha. Sab gaayein sundar, swasth aur doodh dene wali hoti thi.”
+
+“Lekin ek din galti se ek Brahman ki gaay meri gaayon mein mil gayi. Mujhe pata nahi tha aur maine wahi gaay doosre Brahman ko daan mein de di.”
+
+“Jab asli malik ne apni gaay dekhi, toh dono Brahman jhagda karne lage. Main bahut pareshaan ho gaya.”
+
+“Maine unse maafi maangi aur badle mein hazaaron gaayein dene ki baat kahi. Lekin dono ne mana kar diya.”
+
+“Kuch samay baad meri mrityu ho gayi. Yamraj ne mujhse poocha, ‘Pehle punya ka phal chahte ho ya paap ka?’”
+
+“Maine kaha, ‘Pehle paap ka phal bhugta hoon.’ Tab mujhe girgit ka janm mila.”
+
+“Lekin Prabhu, main hamesha aapko yaad karta raha. Aaj aapke sparsh se mujhe mukti mil gayi.”
+
+Raja Nriga ne Krishna ko pranam kiya aur swarg jaane ke liye divya vimaan mein baith gaye.
+
+Uske baad Krishna ne sabko seekh dete hue kaha,
+
+“Brahman ya kisi bhi achche vyakti ki cheez galat tareeke se lena bahut bada paap hota hai. Chahe galti se hi kyun na ho, humein hamesha satark rehna chahiye.”
+
+Krishna ne sabko daya, imaandari aur dharma ka paalan karne ki seekh di.
+
+Yeh kahani sunkar sab log gahri soch mein pad gaye."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 65
     with st.expander("Chapter 65 - Balarāma’s Visit to Gokula—The Course of the Yamunā diverted"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shukadev bole, “Ek din Balarama ji ko apne purane dost aur Gokul ke logon ki yaad aayi. Woh turant rath par baithkar Gokul chale gaye.
+
+Gokul pahunchte hi Nanda Baba aur Yashoda Maiya unhe dekhkar bahut khush hue. Unhone Balarama ko gale lagaya aur aansuon ke saath aashirvaad diya.
+
+Gokul ke sab gop aur gopiyan bhi unse milne aaye. Sabne pyar se unka swagat kiya."""
         create_image_text_layout(
             "attached_assets/chapter10/10.65.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Gop log bole, “Hey Balarama, kya Krishna humein yaad karte hain? Kya woh kabhi Gokul wapas aayenge?”
+
+Gopiyan bhi dukhi swar mein boli, “Humne Krishna ke liye sab kuch chhod diya tha. Lekin woh humein chhodkar chale gaye.”
+
+Kuch gopiyan boli, “Krishna ki baatein bahut madhur thi. Isi liye humne unpar vishwas kiya.”
+
+Yeh sab yaad karke gopiyan ro padi.
+
+Balarama ne sabko shaant kiya aur Krishna ke prem bhare sandesh sunaye. Yeh sunkar gopiyon ka mann halka hua.
+
+Balarama do mahine tak Gokul mein rahe. Woh sabke saath prem aur khushi se samay bitaane lage.
+
+Ek raat poornima ka chand chamak raha tha. Yamuna ke kinare thandi hawa chal rahi thi aur phoolon ki sugandh faili hui thi.
+
+Tab Varun dev ki taraf se ek madhur sugandhit पेय “Varuni” ped ke andar se nikalne laga. Balarama ne gopiyon ke saath uska aanand liya.
+
+Khushi mein Balarama geet gaane lage aur sabke saath van mein ghoomne lage.
+
+Us samay Balarama ne Yamuna ji ko bulaya aur kaha, “Yahan aao, mujhe jal-kreeda karni hai.”
+
+Lekin Yamuna ji turant nahi aayi.
+
+Balarama ko laga ki Yamuna unki baat nahi maan rahi. Woh thoda gusse mein aa gaye.
+
+Unhone apna hal uthaya aur Yamuna ko kheenchna shuru kar diya. Yamuna ka paani zor se mudne laga.
+
+Yamuna devi darr gayi. Woh turant Balarama ke charanon mein girkar boli,
+
+“Hey Prabhu, mujhe maaf kijiye. Main aapki shakti ko pehchaan nahi paayi.”
+
+Balarama ka gussa shaant ho gaya. Unhone Yamuna ko maaf kar diya.
+
+Phir Balarama gopiyon ke saath Yamuna mein jal-kreeda karne lage. Sab log bahut khush the.
+
+Baad mein Lakshmi ji ne Balarama ko sundar neele vastra aur gehne diye. Unhe pehenkar Balarama aur bhi tejomay lagne lage.
+
+Rishi Shukadev bole, “Aaj bhi Yamuna ka pravah usi jagah se mudta hai, jahan Balarama ne use apne hal se kheench liya tha. Yeh unki mahaan shakti ka pramaan hai.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 66
     with st.expander("Chapter 66 - Slaying of Pauṇḍraka and others"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shukadev bole, “Jab Balarama Gokul gaye hue the, tab Karusha desh ka ek murkh raja Paundraka khud ko asli Vasudeva samajhne laga.
+
+Kuch chaploos log uski tarif karte rehte the. Dheere-dheere usse sach mein lagne laga ki wahi Bhagwan Vasudeva hai.
+
+Usne Krishna ke paas ek doot bheja. Doot ne sabha mein jaakar kaha,
+
+“Mere raja hi asli Vasudeva hain. Tum jhoothi tarah se unka roop dharan kar rahe ho. Shankh, Chakra aur doosre chinh chhod do. Ya phir yudh karo.”
+
+Yeh baat sunkar Ugrasena aur sab log zor se hans pade."""
         create_image_text_layout(
             "attached_assets/chapter10/10.66.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Krishna muskuraaye aur bole, “Jaakar apne raja se kehna ki main jaldi hi uske nakli chinh aur ghamand dono chheen lunga.”
+
+Doot ne jaakar Paundraka ko sab bata diya.
+
+Phir Krishna apna rath lekar Kashi ki taraf chale gaye, jahan Paundraka apne dost Kashi ke raja ke saath tha.
+
+Paundraka bhi yudh ke liye nikla. Usne Krishna ki tarah nakli peele vastra pehne the, nakli Sudarshan Chakra, gada aur shankh bhi liya hua tha. Woh bilkul natak karne wale kalakar jaisa lag raha tha.
+
+Usse dekhkar Krishna zor se hans pade.
+
+Yudh shuru hua. Paundraka aur Kashi ke raja ki sena ne Krishna par teeron aur hathiyaaron ki baarish kar di.
+
+Lekin Krishna ne apne divya astron se poori sena ko tabaah kar diya.
+
+Phir Krishna ne Paundraka se kaha, “Tumne mujhe apne chinh chhodne ko kaha tha. Ab main tumhara jhootha roop khatam karta hoon.”
+
+Itna kehkar Krishna ne Sudarshan Chakra chala diya. Chakra ne Paundraka ka sir kaat diya.
+
+Uske baad Krishna ne Kashi ke raja ka bhi sir kaat diya. Woh sir udta hua Kashi nagar mein ja gira.
+
+Krishna vijay paakar Dwaraka laut aaye.
+
+Kashi ke log bahut dukhi hue. Raja ka beta Sudakshina badla lena chahta tha.
+
+Usne Bhagwan Shiva ki tapasya ki. Shiva ji prasann hue aur usse ek khatarnak yagya karne ka upay bataya.
+
+Sudakshina ne jadui yagya kiya. Yagya se ek bhayanak aag ka rakshas nikla. Uski aankhon aur muh se aag nikal rahi thi.
+
+Woh seedha Dwaraka ki taraf badha.
+
+Dwaraka ke log bahut darr gaye aur Krishna ke paas bhaage.
+
+Krishna shaant hokar bole, “Dar mato. Main sab theek kar dunga.”
+
+Phir Krishna ne apna Sudarshan Chakra bheja.
+
+Sudarshan Chakra suraj ki tarah chamak raha tha. Usne us bhayanak aag ko turant rok diya.
+
+Woh jadui aag wapas mud gayi aur Kashi pahunchkar Sudakshina aur uske purohit ko hi jala diya.
+
+Uske baad Sudarshan Chakra ne poori Kashi nagari ko bhi jala diya aur phir Krishna ke paas laut aaya.
+
+Rishi Shukadev bole, “Jo vyakti Krishna ke in divya kaaryon ko shraddha se sunta ya sunata hai, uske paap dheere-dheere door ho jaate hain.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 67
     with st.expander("Chapter 67 - Balarāma slays Dvivida"):
-        text1 = """ """
+        text1 = """ 
+        Raja Parikshit bole, “Mujhe Balarama ji ke aur adbhut kaam sunne ki ichchha hai. Kripya bataaiye unhone aur kya mahaan kaarya kiye?”
+
+Rishi Shukadev bole, “Dvivida naam ka ek bahut shaktishaali vanar tha. Woh Narakasura ka dost tha aur Sugriva ka mantri bhi reh chuka tha.
+
+Jab Krishna ne Narakasura ko maara, tab Dvivida badla lena chahta tha.
+
+Usne desh bhar mein tabahi machani shuru kar di. Kabhi gaon jala deta, kabhi pahaad ukhaad deta aur kabhi samundar ka paani uchaal kar kinaare waale ilaakon ko dubo deta."""
         create_image_text_layout(
             "attached_assets/chapter10/10.67.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Woh rishiyon ke ashram bhi barbaad karta tha aur logon ko pareshaan karta rehta tha.
+
+Ek din Dvivida ne madhur sangeet suna. Woh Raivataka parvat ki taraf gaya.
+
+Wahan usne Balarama ko dekha. Balarama sundar phoolon ki mala pehne hue the aur gopiyon ke saath khushi se samay bita rahe the.
+
+Dvivida shararat karne laga. Woh pedon par chadhkar unhe zor-zor se hilane laga aur ajeeb awaazein nikaalne laga.
+
+Gopiyan uski harkatein dekhkar hansne lagi.
+
+Lekin Dvivida aur badtameezi karne laga. Woh gopiyon ka mazaak udaane laga aur Balarama ko chidhane laga.
+
+Balarama ko gussa aa gaya. Unhone ek bada pathar uski taraf pheka.
+
+Lekin Dvivida bahut chaalak tha. Woh bach gaya aur neeche aakar Balarama ka madira ka ghada uthakar bhaag gaya.
+
+Usne ghada tod diya aur gopiyon ke kapde bhi kheenchne laga.
+
+Ab Balarama ka gussa bahut badh gaya. Unhone apna hal aur musal uthaya aur Dvivida ko maarne ke liye taiyaar ho gaye.
+
+Dvivida ne ek bada saal ka ped ukhaad liya aur Balarama par hamla kar diya.
+
+Lekin Balarama pahaad ki tarah mazboot khade rahe. Unhone apne musal se Dvivida ke sir par zor se vaar kiya.
+
+Dvivida ke sir se khoon behne laga, lekin woh fir bhi ladta raha.
+
+Woh baar-baar naye ped ukhaadkar Balarama par fekta raha. Balarama har ped ko tod dete.
+
+Poora jungle dheere-dheere pedon se khaali ho gaya.
+
+Phir Dvivida ne bade-bade pathar fekne shuru kiye. Balarama ne sab patharon ko choor-choor kar diya.
+
+Aakhir mein Dvivida ne apni muthi se Balarama ke seene par zor se vaar kiya.
+
+Tab Balarama ne bhi apne dono haathon se uske kandhon par bahut zor se prahar kiya.
+
+Dvivida khoon ugalta hua zameen par gir gaya. Uske girte hi poora pahaad hilne laga.
+
+Aasmaan se devtaon aur rishiyon ne “Bahut achcha!” kehkar phool barsaaye.
+
+Is tarah Balarama ne dusht Dvivida ka ant kiya aur phir apni nagari laut aaye."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 68
     with st.expander("Chapter 68 - Hastināpura dragged by Balarāma"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shukadev bole, “Jambavati ke putra Samba bahut veer the. Ek din Duryodhana ki beti Lakshmana ka swayamvar tha. Samba usse bahut prem karte the, isliye woh use swayamvar se hi apne rath mein bitha kar le gaye.
+
+Yeh dekhkar Kaurav bahut gusse mein aa gaye. Woh bole, “Yeh ladka hadd paar kar raha hai. Isse pakdo!”
+
+Karna, Shalya aur doosre bade yoddha Samba ke peeche bhaage.
+
+Samba akela tha, lekin sher ki tarah bahaduri se lada. Usne apne teeron se kai yoddhao ko rok diya. Sab uski veerta dekhkar hairaan ho gaye."""
         create_image_text_layout(
             "attached_assets/chapter10/10.68.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Lekin Kaurav bahut zyada the. Unhone milkar Samba ka rath tod diya, ghodon ko maar diya aur use pakad liya. Phir use Lakshmana ke saath Hastinapur le gaye.
+
+Jab Narad ji ne yeh baat Dwaraka mein bataayi, tab Yadav sena yudh ke liye taiyaar ho gayi.
+
+Lekin Balarama shanti chahte the. Woh nahi chahte the ki Kaurav aur Yadavon ke beech bada yudh ho.
+
+Isliye Balarama khud Hastinapur gaye. Unke saath Uddhav aur kuch bade log bhi the.
+
+Balarama ne pehle shanti se sandesh bheja. Unhone kaha,
+
+“Samba ne akela ladte hue bahaduri dikhayi. Tum sabne milkar use pakda, jo dharm ke khilaaf hai. Ab use aur Lakshmana ko humein wapas de do.”
+
+Lekin Kaurav ghamand mein aa gaye. Woh bole,
+
+“Yadav humari wajah se rajsi jeevan jeete hain. Aur ab woh humein aadesh de rahe hain?”
+
+Unhone Balarama ki bhi beizzati kar di.
+
+Yeh sunkar Balarama ko bahut gussa aa gaya.
+
+Woh bole, “Main yahan shanti se baat karne aaya tha. Lekin tum log ghamand mein andhe ho gaye ho.”
+
+Phir Balarama ne apna hal uthaya.
+
+Unhone poori Hastinapur nagari ko apne hal se kheenchna shuru kar diya, jaise use Ganga mein gira denge.
+
+Poora shehar hilne laga. Log darr ke maare kaanpne lage.
+
+Tab Kaurav samajh gaye ki Balarama ki shakti kitni mahaan hai.
+
+Woh turant Samba aur Lakshmana ko lekar Balarama ke paas aaye. Sabne haath jodkar maafi maangi.
+
+Woh bole, “Hey Balarama, humein maaf kar dijiye. Hum aapki shakti ko nahi samajh paaye.”
+
+Balarama ka gussa shaant ho gaya. Unhone sabko maaf kar diya.
+
+Duryodhana ne apni beti Lakshmana ko bahut saare uphaar aur dahej ke saath Samba ko de diya.
+
+Uske baad Balarama, Samba aur Lakshmana ko lekar Dwaraka laut aaye.
+
+Rishi Shukadev bole, “Aaj bhi Hastinapur ki zameen thodi jhuki hui maani jaati hai. Log kehte hain ki yeh Balarama ke us mahaan bal ka pramaan hai.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 69
     with st.expander("Chapter 69 - Śrī Kṛṣṇa’s Household Life"):
-        text1 = """ """
+        text1 = """ 
+        Raja Parikshit ne poocha, “Bhagwan Krishna ek hi samay mein itni saari raniyon ke saath kaise rehte the? Yeh kaise sambhav tha?”
+
+Rishi Shukadev bole, “Yeh Bhagwan Krishna ki divya Yogmaya thi.”
+
+Jab Devarshi Narad ne suna ki Krishna ne 16,000 raniyon se vivaah kiya hai, toh woh bhi hairaan ho gaye. Unhone socha, “Ek vyakti sabko ek saath kaise khush rakh sakta hai?”
+
+Isliye Narad ji Dwaraka gaye.
+
+Dwaraka bahut sundar nagari thi. Wahan bade-bade mahal, sundar bagiche aur kamal se bhare talaab the. Har taraf pakshiyon ki madhur awaaz gunj rahi thi."""
         create_image_text_layout(
             "attached_assets/chapter10/10.69.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Krishna ki raniyon ke 16,000 alag-alag mahal the. Sab mahal heere, moti aur sundar ratnon se sajaaye gaye the.
+
+Narad ji pehle Rukmini ji ke mahal mein gaye.
+
+Wahan unhone dekha ki Krishna Rukmini ji ke saath baithe hain. Rukmini ji swayam Krishna ko pankha kar rahi thi.
+
+Jaise hi Krishna ne Narad ji ko dekha, woh turant khade ho gaye. Unhone Narad ji ko pranam kiya, unke pair dhoye aur bade adar se baithne ko kaha.
+
+Narad ji yeh dekhkar bahut prabhavit hue.
+
+Phir Narad ji doosre mahal mein gaye.
+
+Wahan Krishna Satyabhama ke saath paasay ka khel khel rahe the.
+
+Teesre mahal mein Krishna apne bachchon ke saath khel rahe the.
+
+Kahin woh yagya kar rahe the, kahin Brahmano ko bhojan kara rahe the, kahin dhyaan kar rahe the aur kahin rajya ke kaam sambhaal rahe the.
+
+Kahin woh yudh ki yojana bana rahe the aur kahin shanti ki baat kar rahe the.
+
+Narad ji har mahal mein Krishna ko alag-alag kaam karte dekhkar hairaan reh gaye.
+
+Unhone samajh liya ki Bhagwan Krishna aam manushya nahi, balki sarvashaktimaan Bhagwan hain.
+
+Narad ji muskuraakar bole, “Hey Prabhu, aapki Yogmaya ko samajhna bahut mushkil hai. Aap sach mein adbhut hain.”
+
+Krishna muskuraaye aur bole, “Main duniya ko dharma ka raasta dikhane ke liye manushya jaisa jeevan jeeta hoon.”
+
+Narad ji Krishna ki mahima gaate hue wahan se chale gaye.
+
+Rishi Shukadev bole, “Jo vyakti Krishna ki in divya leelaon ko shraddha se sunta hai, uske mann mein Bhagwan ke prati bhakti badhti hai.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 70
     with st.expander("Chapter 70 - Deputation from Captive Kings of Jarāsandha"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shukadev bole, “Subah hone par Krishna ki raniyan udaas ho jaati thi, kyunki unhe lagta tha ki ab Krishna unse kuch der ke liye door ho jayenge. Murge ki awaaz sunkar woh mann hi mann use kosne lagti thi.
+
+Bhagwan Krishna Brahma Muhurat mein uth jaate the. Woh haath-muh dhokar shaant mann se dhyaan karte the.
+
+Uske baad woh snaan karte, Sandhya-vandan aur Gayatri mantra ka jap karte. Phir Surya dev, rishi aur apne purvajon ko jal arpit karte."""
         create_image_text_layout(
             "attached_assets/chapter10/10.70.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Krishna har din Brahmano ko hazaaron sundar gaayein daan mein dete the. Gaayon ke singh sone se sajaaye jaate aur unke gale mein motiyon ki mala hoti.
+
+Uske baad Krishna sundar vastra aur gehne pehnte. Woh sabhi logon ki ichchha poori karte aur sabko khush rakhte.
+
+Phir Krishna Satyaki aur Uddhav ke saath Sudharma sabha mein jaate. Wahan gaane, nritya aur purani kahaniyon ka paath hota tha.
+
+Ek din ek anjaan doot sabha mein aaya. Usne haath jodkar kaha,
+
+“Hey Krishna, Magadh ka raja Jarasandh bahut atyachaari ho gaya hai. Usne 20,000 rajaon ko bandi bana rakha hai. Woh sab aapse madad maang rahe hain.”
+
+Doot ne kaha, “Hey Prabhu, hum sab aapki sharan mein hain. Kripya humein Jarasandh ke bandhan se mukt kijiye.”
+
+Jab yeh baat ho hi rahi thi, tab Devarshi Narad wahan aa gaye. Krishna ne turant uthkar unka samman kiya.
+
+Narad ji bole, “Hey Prabhu, Yudhishthira Rajasuya yagya karna chahte hain. Woh chahte hain ki aap us yagya mein aayein.”
+
+Narad ji ne kaha, “Aapki mahima teenon lokon mein faili hui hai. Aapka naam sunne se bhi log pavitra ho jaate hain.”
+
+Sabha mein baithe Yadav sochne lage ki pehle Jarasandh ka saamna kiya jaaye ya Rajasuya yagya ki taiyaari.
+
+Tab Krishna ne muskuraakar Uddhav se poocha, “Tum batao, humein kya karna chahiye?”
+
+Uddhav vinamrata se Krishna ka aadesh maankar jawab dene ke liye taiyaar ho gaye."""
         create_image_text_layout(text_content=text2, layout="full")
         
         # Chapter 71
