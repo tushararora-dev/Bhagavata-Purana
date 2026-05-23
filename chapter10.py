@@ -9372,129 +9372,935 @@ Brahman vinamrata se bola, “Hey Krishna, aap toh sabke Guru aur Bhagwan hain. 
 
     # Chapter 81
     with st.expander("Chapter 81 - The Story of the Parched Rice (The story of Śrīdāman continued)"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shukadev bole, “Jab Krishna apne gareeb Brahman mitra se purani baatein kar rahe the, tab woh muskuraakar bole,
+
+‘Hey Brahman mitra, tum mere liye ghar se kya uphaar laaye ho?’
+
+Krishna haste hue bole,
+
+‘Mere bhakt prem se agar ek patta, phool, phal ya thoda sa paani bhi dete hain, toh mujhe woh bahut priya lagta hai.’"""
         create_image_text_layout(
             "attached_assets/chapter10/10.81.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Brahman yeh sunkar sharma gaye. Unke paas sirf thoda sa poha tha, jo unki patni ne mushkil se maangkar diya tha.
+
+Woh use dene mein jhijhak rahe the aur chupchaap sir jhuka kar baithe rahe.
+
+Lekin Krishna toh sabke mann ki baat jaante the.
+
+Unhone mann hi mann socha,
+
+‘Mera yeh mitra dhan ke liye kabhi mere paas nahi aaya. Yeh sirf apni patni ko khush karne ke liye yahaan aaya hai. Main ise aisa dhan dunga jo devtaon ko bhi mushkil se milta hai.’
+
+Yeh sochkar Krishna ne khud Brahman ke kapde ke andar bandha hua pohe ka potli nikaal li.
+
+Krishna khushi se bole,
+
+‘Arey! Yeh toh poha hai. Mujhe yeh bahut pasand hai!’
+
+Phir Krishna ne prem se ek mutthi poha kha liya.
+
+Jab woh doosri mutthi lene lage, tab Rukmini ji ne pyar se unka haath pakad liya.
+
+Woh boli,
+
+‘Prabhu, bas ek mutthi hi kaafi hai. Isse hi inhe iss janm aur agle janm ki saari samriddhi mil jaayegi.’
+
+Us raat Brahman Krishna ke mahal mein bade sukh se rahe. Unhe swarg jaisa anubhav ho raha tha.
+
+Agli subah woh ghar ke liye nikal pade.
+
+Krishna kuch door tak khud unke saath chale aur mitra ki tarah pyar se baatein karte rahe.
+
+Raaste mein Brahman sochne lage,
+
+‘Krishna ne mujhe kitna prem diya. Main toh bahut gareeb hoon, phir bhi unhone mujhe gale lagaya.’
+
+‘Rukmini ji ne bhi meri seva ki. Krishna ne mere pair dhoye aur mujhe devta jaise samman diya.’
+
+Phir Brahman ne socha,
+
+‘Shayad Krishna ne mujhe dhan isliye nahi diya, kyunki adhik dhan se insaan ghamandi ho jaata hai aur Bhagwan ko bhool jaata hai.’
+
+Aisa sochte-sochte woh apne ghar ke paas pahunche.
+
+Lekin wahan pahunchkar woh hairaan reh gaye.
+
+Jahan pehle unki chhoti si jhopdi thi, wahan ab ek bada sundar mahal khada tha. Woh suraj aur chand ki tarah chamak raha tha.
+
+Uske aas-paas sundar bagiche, talaab aur phool khile hue the. Pakshi madhur awaaz mein gaa rahe the.
+
+Sundar sevak aur sevikaayein unka swagat karne bahar aaye.
+
+Brahman samajh hi nahi paaye ki yeh sab kaise ho gaya.
+
+Tab unki patni bahar aayi. Ab woh bhi Devi Lakshmi ki tarah sundar aur tejomayi lag rahi thi.
+
+Uski aankhon mein khushi ke aansu bhar aaye.
+
+Brahman apni patni ke saath us bade mahal mein gaye. Andar sab kuch heere, moti aur sundar ratnon se saja hua tha.
+
+Lekin itni samriddhi milne ke baad bhi Brahman ka mann vinamr aur shaant raha.
+
+Woh sochne lage,
+
+‘Yeh sab Krishna ki kripa hai. Woh apne bhakton ko bina maange bhi sab kuch de dete hain.’
+
+‘Krishna bahut dayaalu hain. Woh chhoti si bhent ko bhi bahut bada maan lete hain, agar usmein prem ho.’
+
+Brahman ne prarthana ki,
+
+‘Har janm mein mujhe Krishna ka prem, unki mitrata aur unki bhakti milti rahe.’
+
+Rishi Shukadev bole, “Is tarah Krishna ke Brahman mitra ne prem aur bhakti ke bal par ant mein Bhagwan ka divya dham prapt kiya.”
+
+“Jo vyakti is pavitra kahani ko shraddha se sunta hai, uske mann mein bhi Bhagwan ke prati bhakti badhne lagti hai.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 82
     with st.expander("Chapter 82 - Meeting of Vṛṣṇis and Gopas of Vṛndāvana"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shukadev bole, “Ek baar Dwaraka mein rehte hue Krishna aur Balarama ko pata chala ki jaldi hi surya grahan hone wala hai.
+
+Dharmik log ise bahut pavitra samay maante the, isliye Bharat ke har kone se log Kurukshetra ke pavitra teerth Syamantapanchaka jaane lage.
+
+Yahi wahi jagah thi jahan Bhagwan Parashurama ne purane samay mein Kshatriyo ke vinaash ke baad yagya kiya tha."""
         create_image_text_layout(
             "attached_assets/chapter10/10.82.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Krishna bhi apni 16,000 raniyon, putron, sena aur Yadav parivaar ke saath wahan gaye.
+
+Raaste bhar shankh, dhol aur Vedic mantron ki awaaz gunj rahi thi. Sab log “Krishna! Govinda!” ka naam ga rahe the.
+
+Kurukshetra pahunchkar logon ne snaan kiya, vrat rakha aur Brahmano ko gaayein, vastra aur sona daan diya.
+
+Wahan desh ke bahut saare raja aur rishi bhi aaye hue the.
+
+Krishna aur Yadav logon ne Matsya, Kuru, Kekaya, Madra aur kai anya deshon ke rajaon se milkar unka swaagat kiya.
+
+Tabhi Nanda Baba aur Gokul ke gop bhi Krishna se milne aaye. Unke saath doodh aur makhan se bhari bail-gaadiyaan thi.
+
+Krishna aur Balarama ne jaise hi Nanda Baba aur Yashoda Maiya ko dekha, woh bahut khush ho gaye.
+
+Dono bhai turant unke paas gaye aur prem se unhe gale laga liya.
+
+Yashoda Maiya ne dono ko apni god mein bithaya aur unhe gale lagakar aansuon se bhigone lagi. Bahut saalon baad apne laadle bachchon ko dekhkar unka dukh door ho gaya.
+
+Devaki aur Rohini bhi Yashoda ko gale lagakar boli,
+
+“Hey Vraja ki rani, tumhara upkaar kabhi nahi chukaya ja sakta.”
+
+“Tumne Krishna aur Balarama ko apne bachchon ki tarah paala aur hamesha unki raksha ki.”
+
+Udhar Gopiyan bhi Krishna ko dekhkar bhaavuk ho gayin.
+
+Woh itni der tak Krishna ko dekhna chahti thi ki unhe palkein jhapakna bhi bura lag raha tha.
+
+Unhone mann hi mann Krishna ko gale laga liya.
+
+Krishna ne un sabse alag-alag milkar prem se baat ki.
+
+Woh muskuraakar bole,
+
+“Hey priya saathiyon, kya tum humein yaad karti ho? Hum apne parivaar aur dushmano ke kaam mein uljhe rahe, isliye tumse door rahe.”
+
+“Lekin milna aur bichhadna sab Bhagwan ki ichchha se hota hai.”
+
+“Tumhare mann mein jo prem aur bhakti mere liye hai, wahi tumhe antim sachchai aur moksha tak pahunchayegi.”
+
+Krishna ne unhe samjhaaya ki Bhagwan har jeev ke andar aur baahar dono jagah hote hain.
+
+Yeh adhyatmik gyaan sunkar Gopiyon ka mann shaant ho gaya. Unka prem aur bhakti aur bhi gehra ho gaya.
+
+Phir sab log prem aur khushi ke saath ek doosre ki baatein sunte aur Krishna ki leelaon ko yaad karte rahe.
+
+Rishi Shukadev bole, “Jo vyakti Krishna aur Gopiyon ke is pavitra milan ki kahani shraddha se sunta hai, uske mann mein bhi Bhagwan ke prati shuddh bhakti jagti hai.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 83
     with st.expander("Chapter 83 - Narration of Their Marriage Episodes by Kṛṣṇa’s Consorts"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shukadev bole, “Kurukshetra mein sab log Krishna ki mahima ga rahe the aur unki leelaon ki baatein kar rahe the.
+
+Tab Draupadi ne Krishna ki raniyon se pyaar se poocha,
+
+‘Hey Rukmini, Satyabhama, Jambavati aur Krishna ki sabhi priya raniyon, humein bataaiye ki Krishna ne aapse vivaah kaise kiya?’
+
+Sab raniyan muskuraane lagi aur ek-ek karke apni kahani sunane lagi.
+
+Sabse pehle Rukmini ji boli,"""
         create_image_text_layout(
             "attached_assets/chapter10/10.83.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        “Jab mere bhai mujhe zabardasti Shishupala se vivaah karwana chahte the, tab Krishna sher ki tarah aaye aur mujhe sab rajao ke beech se utha kar le gaye.”
+
+Satyabhama boli,
+
+“Mere pita ne galti se Krishna par Syamantak mani churaane ka ilzaam lagaya tha. Lekin Krishna ne sach saamne laakar mani wapas de di.”
+
+“Tab mere pita ko apni galti ka ehsaas hua aur unhone mera vivaah Krishna se kar diya.”
+
+Jambavati boli,
+
+“Mere pita Jambavan pehle Krishna ko pehchaan nahi paaye. Unhone 27 din tak Krishna se yudh kiya.”
+
+“Baad mein unhe samajh aaya ki Krishna hi Bhagwan Ram hain. Tab unhone mujhe Krishna ko samarpit kar diya.”
+
+Kalindi boli,
+
+“Main Krishna ko pati ke roop mein paane ke liye tapasya kar rahi thi. Krishna ne mujhe dekha aur apna liya.”
+
+Bhadra boli,
+
+“Krishna ne mere swayamvar mein sab rajao ko hara diya aur mujhe Dwaraka le aaye.”
+
+Satya boli,
+
+“Mere pita ne saat bahut balwaan saand rakhe the. Jo unhe kabu kar leta, wahi mujhse vivaah kar sakta tha.”
+
+“Krishna ne bachchon ki tarah aasani se un saandon ko niyantrit kar liya aur mujhe jeet liya.”
+
+Mitravinda boli,
+
+“Mera mann pehle se hi Krishna mein laga hua tha. Isliye mere pita ne khushi se mera vivaah unse kar diya.”
+
+Phir Lakshmana apni kahani sunane lagi.
+
+Woh boli,
+
+“Main Narad ji se Krishna ki mahaan leelaayein sunkar unse prem karne lagi thi.”
+
+“Mere pita ne mere swayamvar mein ek kathin pareeksha rakhi.”
+
+“Ek machhli ko upar ghumaya gaya aur neeche paani mein uski parchhaai dikh rahi thi. Jo dhanurdhari us parchhaai ko dekhkar machhli ko maar deta, wahi mujhse vivaah karta.”
+
+“Bahut saare mahan raja aaye — Jarasandh, Shishupala, Duryodhana aur Karna bhi.”
+
+“Kuch dhanush bhi nahi chadha paaye. Kuch machhli ko dekh hi nahi paaye.”
+
+“Arjuna ne bhi prayas kiya, lekin teer sirf machhli ko chhoo kar nikal gaya.”
+
+“Tab Krishna uthkar aaye.”
+
+“Unhone aasani se dhanush uthaya, paani mein parchhaai dekhi aur ek hi teer mein machhli ko gira diya.”
+
+“Sab jagah shankh aur dhol bajne lage. Devtaon ne phool barsaaye.”
+
+“Main sharmaate hue Krishna ke paas gayi aur unke gale mein varmala daal di.”
+
+“Lekin doosre raja gusse mein aa gaye aur Krishna par hamla kar diya.”
+
+“Krishna mujhe rath mein bithakar sher ki tarah sabke beech se nikal gaye aur sab rajao ko hara diya.”
+
+Uske baad 16,000 raniyon ki taraf se kuch raniyan boli,
+
+“Humein Bhaumasura ne bandi bana rakha tha. Krishna ne us dusht ko maar kar humein azaad kiya.”
+
+“Krishna ne daya karke hum sabse vivaah kiya.”
+
+“Hum na swarg maangti hain, na rajya aur na moksha. Humein sirf Krishna ke charanon ki seva chahiye.”
+
+“Wahi hamare liye sabse bada sukh hai.”
+
+Rishi Shukadev bole, “Is tarah Krishna ki sabhi raniyon ne prem aur bhakti se apni vivaah ki kahaniyaan sunaayi. Unka mann hamesha Krishna mein hi laga rehta tha.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 84
     with st.expander("Chapter 84 - Vasudeva’s Sacrifice"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shukadev bole, “Jab sab raniyon ne Krishna ke vivaah ki kahaniyaan sunaayi, tab Kunti, Gandhari, Draupadi aur sab Gopiyan bahut bhaavuk ho gayin. Unki aankhon mein khushi ke aansu aa gaye.
+
+Isi samay bahut saare mahan rishi Krishna aur Balarama se milne aaye.
+
+Unmein Vyasa ji, Narad ji, Vishwamitra, Parashurama, Vashishtha, Bhrigu, Kashyap, Atri, Markandeya aur kai mahan tapasvi shamil the.
+
+Sab raja, Pandav, Krishna aur Balarama turant khade ho gaye aur bade adar se rishiyon ko pranam kiya.
+
+Krishna ne unhe aasan, phool, chandan aur pair dhone ke liye jal arpit kiya.
+
+Jab sab shaant hokar baith gaye, tab Krishna vinamrata se bole,"""
         create_image_text_layout(
             "attached_assets/chapter10/10.84.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        “Aaj hum bahut dhanya ho gaye hain. Aap jaise mahan yogiyon ka darshan devtaon ko bhi mushkil se milta hai.”
+
+Krishna ne kaha,
+
+“Teerth aur murtiyaan dheere-dheere pavitra karti hain, lekin mahan sant toh sirf apne darshan se hi logon ko pavitra kar dete hain.”
+
+“Jo vyakti sirf shareer aur sansaar ko sach maanta hai aur santon ka adar nahi karta, woh moorkh hai.”
+
+Krishna ki gehri baatein sunkar sab rishi kuch der chup ho gaye.
+
+Phir woh muskuraakar bole,
+
+“Hey Prabhu, aap sach mein adbhut hain. Aap sabke swami hoke bhi aam manushya ki tarah vyavahar karte hain.”
+
+“Aap hi sansaar ko rachate, sambhalte aur samaapt karte hain. Fir bhi aap kisi cheez se bandhe nahi hote.”
+
+“Bhakton ki raksha aur dushton ko rokne ke liye hi aap yug-yug mein avataar lete hain.”
+
+Rishiyon ne Krishna ko pranam kiya aur apne ashramon ko lautne lage.
+
+Tab Krishna ke pita Vasudev vinamrata se unke paas aaye aur bole,
+
+“Hey mahan rishiyon, kripya bataaiye ki kaise insaan apne karmo ke bandhan se mukt ho sakta hai?”
+
+Narad ji bole,
+
+“Yeh koi aashcharya nahi hai ki aap Krishna ko apna beta samajhkar yeh prashn pooch rahe hain.”
+
+“Bhagwan paas hote hue bhi log unki asli mahima ko nahi samajh paate.”
+
+Rishiyon ne kaha,
+
+“Bhagwan Vishnu ki bhakti aur yagya se mann pavitra hota hai.”
+
+“Grihastha ko imaandari se kamaaye dhan se yagya, daan aur dharma karna chahiye.”
+
+“Insaan par devtaon, rishiyon aur purvajon ka rin hota hai. Inhe dharm se poora karna chahiye.”
+
+“Hey Vasudev, aapne Bhagwan Krishna ki bhakti ki hai. Isi wajah se Bhagwan swayam aapke putra bane.”
+
+Yeh sunkar Vasudev bahut prasann hue.
+
+Unhone rishiyon se yagya karvaane ki prarthana ki.
+
+Phir Kurukshetra mein bade-bade yagya hue. Har taraf dhol, shankh aur Vedic mantron ki awaaz gunjne lagi.
+
+Vasudev aur unki raniyon ne sundar vastra aur gehne pehne.
+
+Krishna, Balarama, Yadav aur sab raja bhi utsav mein shaamil hue.
+
+Yagya ke baad Vasudev ne Brahmano ko gaayein, bhoomi, sona aur bahut saare uphaar daan diye.
+
+Sab logon ko bhojan karaya gaya — Brahman, raja, aam log aur jaanwaron tak ko bhi.
+
+Uske baad sab raja aur rishi Krishna ki prashansa karte hue apne-apne rajyon ko lautne lage.
+
+Nanda Baba bhi kuch samay tak Krishna aur Balarama ke paas rahe.
+
+Ek din Vasudev ne pyar se Nanda Baba ka haath pakadkar kaha,
+
+“Bhai Nanda, tumhara prem aur mitrata bahut mahaan hai. Tumne hamesha hamara saath diya.”
+
+“Hum tumhara upkaar kabhi nahi chuka sakte.”
+
+“Rajya aur dhan kabhi-kabhi insaan ko andha bana dete hain. Isi wajah se hum tumhari seva poori tarah nahi kar paaye.”
+
+Yeh kehkar Vasudev ki aankhon mein aansu aa gaye.
+
+Nanda Baba bhi Krishna aur Balarama se bichhadne ka sochkar udaas ho gaye.
+
+Kuch samay baad woh Gopon aur Gopiyon ke saath Vraj laut gaye.
+
+Lekin unka mann hamesha Krishna ke charanon mein hi laga raha."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 85
     with st.expander("Chapter 85 - Restoration of his Elder Brothers by Kṛṣṇa (from the Realm of Death)"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shukadev bole, “Kurukshetra ke yagya ke baad ek din Krishna aur Balarama apne mata-pita Vasudev aur Devaki ko pranam karne gaye.
+
+Vasudev ne prem se dono ko gale lagaya. Ab unhe poori tarah samajh aa chuka tha ki Krishna aur Balarama aam putra nahi, balki swayam Parmatma hain.
+
+Woh bhaavuk hokar bole,
+
+“Hey Krishna, hey Balarama! Ab mujhe samajh aa gaya hai ki aap dono hi is poore brahmand ke kaaran hain.”
+
+“Surya ka prakash, agni ki garmi, chand ki shitalta aur dharti ki sugandh — sab aap hi hain.”
+
+“Sab jeev aapki Maya mein bandhkar sansaar mein bhatak rahe hain.”
+
+“Main bhi moha mein padkar aapko sirf apna beta samajhta raha.”"""
         create_image_text_layout(
             "attached_assets/chapter10/10.85.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        “Ab main aapke charanon mein sharan leta hoon.”
+
+Krishna muskuraaye aur vinamrata se bole,
+
+“Pitashri, aapne bahut gehri gyaan ki baat kahi hai.”
+
+“Sab jeev ek hi Parmatma ke roop hain. Farq sirf shareer aur Maya ki wajah se dikhai deta hai.”
+
+Rishi Shukadev bole, “Krishna ki baatein sunkar Vasudev ka mann shaant ho gaya.”
+
+Tab Devaki wahan baithi hui thi. Unhe yaad aaya ki Krishna aur Balarama ne apne Guru Sandipani ke mare hue putra ko wapas lauta diya tha.
+
+Unki aankhon mein aansu aa gaye.
+
+Devaki boli,
+
+“Hey Krishna, hey Balarama! Kans ne mere chhe bachchon ko janm lete hi maar diya tha.”
+
+“Agar aap chahein, toh kripya mujhe mere un bachchon ka ek baar darshan kara dijiye.”
+
+Krishna aur Balarama ne turant Yogmaya ka sahara liya aur Sutal lok chale gaye.
+
+Wahan Raja Bali rehte the.
+
+Jaise hi Bali ne Krishna aur Balarama ko dekha, woh turant khade ho gaye aur unke charanon mein gir pade.
+
+Unhone bade prem se unke pair dhoye aur unka swagat kiya.
+
+Bali bhaavuk hokar bole,
+
+“Hey Prabhu, aapka darshan devtaon ko bhi mushkil se milta hai. Aaj hum bahut dhanya ho gaye.”
+
+Krishna ne Bali se kaha,
+
+“Devaki ke jo chhe putra Kans ne maare the, woh ab tumhare paas hain. Hum unhe apni mata ko dikhane ke liye le jaana chahte hain.”
+
+Krishna ne bataya ki woh bachche pehle ek purane shraap ki wajah se Asur yoni mein janme the.
+
+Ab unhe mukti dene ka samay aa gaya tha.
+
+Bali ne vinamrata se un chhe bachchon ko Krishna ko saunp diya.
+
+Phir Krishna aur Balarama un bachchon ko lekar Dwaraka laut aaye.
+
+Jab Devaki ne apne bachchon ko dekha, toh unki aankhon se khushi ke aansu behne lage.
+
+Unhone sab bachchon ko gale laga liya aur baar-baar unka sir choomne lagi.
+
+Maa ka prem dekhkar unke stanon se doodh bhi bahne laga.
+
+Bachchon ne woh doodh piya jo pehle Krishna ne bhi piya tha.
+
+Krishna ke sparsh aur us pavitra doodh ke prabhav se unhe apna asli divya gyaan wapas mil gaya.
+
+Phir un chhe bachchon ne Krishna, Balarama, Vasudev aur Devaki ko pranam kiya.
+
+Sabke dekhte hi dekhte woh divya roop dharan karke swarg ki taraf chale gaye.
+
+Devaki yeh sab dekhkar hairaan reh gayin. Woh samajh gayin ki Krishna ki Maya aur shakti sach mein adbhut hai.
+
+Rishi Shukadev bole, “Krishna ki aisi anek adbhut leelaayein hain, jinhe gin paana mushkil hai.”
+
+“Jo vyakti shraddha se Krishna ki in pavitra kathaaon ko sunta ya sunaata hai, uska mann Bhagwan mein lagne lagta hai aur use antim mein param shanti milti hai.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 86
     with st.expander("Chapter 86 - Elopement of Subhadrā: The Lord’s Grace on Śrutadeva"):
-        text1 = """ """
+        text1 = """ 
+        Raja Parikshit ne poocha, “Hey Rishi, mere dada Arjuna ne Krishna aur Balarama ki behen Subhadra se vivaah kaise kiya?”
+
+Rishi Shukadev bole, “Ek samay Arjuna teerth yatra par nikle hue the. Yatra karte-karte woh Prabhas kshetra pahunche.”
+
+Wahan unhe pata chala ki Balarama Subhadra ka vivaah Duryodhana se karna chahte hain.
+
+Yeh sunkar Arjuna chintit ho gaye, kyunki woh Subhadra se prem karte the.
+
+Isliye Arjuna ne ek sanyasi ka roop dharan kar liya. Woh trishul nahi, balki teen dand waale tapasvi jaise kapde pehenkar Dwaraka pahunch gaye."""
         create_image_text_layout(
             "attached_assets/chapter10/10.86.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Barish ke chaar mahine woh wahin chupkar rahe.
+
+Balarama unhe pehchaan nahi paaye aur bade adar se unki seva karte rahe.
+
+Ek din Balarama ne unhe mahal mein bhojan ke liye bulaya.
+
+Wahin Arjuna ne pehli baar Subhadra ko dekha.
+
+Subhadra bhi Arjuna ko dekhkar unse prem karne lagi. Dono chup-chaap ek doosre ko dekhkar muskuraane lage.
+
+Arjuna mann hi mann sochne lage ki Subhadra ko kaise apna banaya jaaye.
+
+Krishna sab samajh rahe the. Unhone bhi Arjuna ka saath diya.
+
+Ek din ek bade utsav ke samay Subhadra mandir darshan ke liye rath par nikli.
+
+Tab Arjuna turant rath par chadh gaye aur Subhadra ko lekar wahan se nikal pade.
+
+Jab Yadav sainikon ne rokne ki koshish ki, tab Arjuna ne dhanush uthakar sabko peeche hata diya.
+
+Woh sher ki tarah Subhadra ko lekar chale gaye.
+
+Yeh khabar sunkar Balarama bahut gusse mein aa gaye.
+
+Lekin Krishna aur doosre logon ne unhe shaant kiya.
+
+Unhone samjhaaya ki Arjuna bahut mahaan yoddha hain aur Subhadra bhi unse prem karti hain.
+
+Yeh sunkar Balarama ka gussa shaant ho gaya.
+
+Phir unhone khushi se Subhadra aur Arjuna ko bahut saare uphaar bheje — haathi, ghode, rath, dhan aur sevak-sevikaayein bhi.
+
+Is tarah Arjuna aur Subhadra ka vivaah prem aur khushi ke saath sampann hua.
+
+Rishi Shukadev bole, “Ab main Krishna ke do mahaan bhakton ki kahani sunata hoon.”
+
+Mithila nagari mein Shrutadeva naam ke ek gareeb Brahman rehte the.
+
+Woh bahut gyani, shaant aur santusht the. Unke paas zyada dhan nahi tha, lekin woh hamesha Krishna ki bhakti mein khush rehte the.
+
+Usi Mithila mein Bahulashva naam ke raja bhi rehte the. Woh bhi Krishna ke bahut bade bhakt the.
+
+Krishna dono bhakton se bahut prem karte the.
+
+Ek din Krishna Narad ji, Vyasa ji aur kai mahan rishiyon ke saath Mithila ki taraf chale.
+
+Raaste mein har gaon aur nagar ke log phool aur uphaar lekar Krishna ka swagat karne aaye.
+
+Jab Mithila ke logon ko pata chala ki Krishna aa rahe hain, tab poori nagari khushi se bhar gayi.
+
+Raja Bahulashva aur Brahman Shrutadeva dono Krishna ko apne ghar bulana chahte the.
+
+Krishna sabko khush karna chahte the.
+
+Isliye unhone apni Yogmaya se ek saath do roop dharan kiye.
+
+Ek roop Raja Bahulashva ke mahal gaya aur doosra roop gareeb Brahman Shrutadeva ke ghar.
+
+Raja Bahulashva ne bade aadar se Krishna aur rishiyon ke pair dhoye, unhe sundar aasan diye aur bahut saare uphaar arpit kiye.
+
+Woh bole,
+
+“Hey Prabhu, aapka mere ghar aana hi meri sabse badi kripa hai.”
+
+Udhar Shrutadeva apne chhote se ghar mein itne khush hue ki woh naachne lage.
+
+Unhone ghaas ki chatai bichhaayi aur prem se Krishna aur rishiyon ko baithaya.
+
+Unhone saadhaaran phal, Tulsi aur sugandhit jal se Krishna ki pooja ki.
+
+Shrutadeva bhaavuk hokar bole,
+
+“Hey Prabhu, aaj mera jeevan safal ho gaya.”
+
+Krishna muskuraakar bole,
+
+“Hey Shrutadeva, yeh mahan rishi tum par kripa karne ke liye mere saath aaye hain.”
+
+“Teerth aur murtiyaan dheere-dheere pavitra karti hain, lekin santon ka darshan turant mann ko pavitra kar deta hai.”
+
+“Jo bhakti aur samman tum mujhe dete ho, wahi in mahan Brahmano ko bhi do. Mujhe wahi sabse adhik priya hai.”
+
+Shrutadeva ne Krishna aur sab rishiyon ki poori shraddha se seva ki.
+
+Rishi Shukadev bole, “Krishna ne Raja Bahulashva aur Shrutadeva dono ko samaan prem diya.”
+
+“Dono ne sachchi bhakti ke bal par antim mein Bhagwan ka divya dham prapt kiya.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 87
     with st.expander("Chapter 87 - Śruti Gītā (Hyman of Praise by The Vedas)"):
-        text1 = """ """
+        text1 = """ 
+        Raja Parikshit ne poocha, “Hey Rishi, Ved jo prakriti aur gunon se jude hue hain, woh nirgun aur anant Parmatma ka varnan kaise kar sakte hain?”
+
+Rishi Shukadev bole, “Hey Raja, yeh bahut gehra prashn hai. Ab main tumhe ek purani pavitra katha sunata hoon.”
+
+“Ek samay Devarshi Narad Badarikashram gaye. Wahan Maharishi Narayan tapasya kar rahe the.”
+
+Narad ji ne unse bhi yahi prashn poocha."""
         create_image_text_layout(
             "attached_assets/chapter10/10.87.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Tab Narayan Rishi bole,
+
+“Bahut pehle Janalok mein Brahma ji ke manas putron — Sanak, Sanandan aur anya mahan rishiyon — ne Parmatma ke baare mein charcha ki thi.”
+
+“Us sabha mein Sanandan ne Vedon ka gehra rahasya samjhaya tha.”
+
+Sanandan bole,
+
+“Pralay ke samay jab poora sansaar samaapt ho jaata hai, tab sirf Parmatma hi bache rehte hain.”
+
+“Tab Ved swayam Bhagwan ki stuti karte hain, jaise raja ke gayak subah unhe jagate hain.”
+
+Ved bole,
+
+“Hey Prabhu, kripya sab jeevon ki agyaanata ko door kijiye. Aap hi sachche, anant aur sarvashaktimaan hain.”
+
+“Aapki Maya ki wajah se jeev apne asli roop ko bhool jaate hain aur sansaar mein dukh paate hain.”
+
+“Yeh poora jagat aapse hi bana hai aur antim mein aap mein hi sama jaata hai.”
+
+“Jaise mitti se bartan bante hain aur tootkar fir mitti ban jaate hain, waise hi sab kuch aapse hi aata hai aur aap mein hi laut jaata hai.”
+
+Vedon ne kaha,
+
+“Buddhimaan log aapki kathaaon ko sunte aur sunaate hain. Aapki leelaayein mann ko pavitra kar deti hain.”
+
+“Jo log aapki bhakti karte hain, wahi sach mein jeevit hain. Jo Bhagwan ko bhool jaate hain, unka jeevan bas saans lene jaisa hai.”
+
+“Bhagwan har jeev ke hriday mein rehte hain, lekin jo log sirf sansaarik kaamon mein uljhe rehte hain, woh unhe pehchaan nahi paate.”
+
+“Jo sant aur bhakt prem se Bhagwan ka naam lete hain, Bhagwan unke bahut paas hote hain.”
+
+Vedon ne aur kaha,
+
+“Hey Prabhu, jo vyakti aapke charanon mein sharan leta hai, woh janm-mrityu ke dukh se paar ho jaata hai.”
+
+“Lekin jo log shareer aur dhan ko hi sab kuch samajhte hain, woh Maya mein bhatak jaate hain.”
+
+“Yog aur tapasya bhi tab tak adhuri hai jab tak mann mein Bhagwan ke prati prem na ho.”
+
+“Bhagwan ke bhakt sant is dharti ko pavitra karte hain.”
+
+“Unke charanon ki dhool bhi teerth ke samaan pavitra hoti hai.”
+
+Ved bole,
+
+“Yeh sansaar ek sapne ki tarah hai. Sirf Bhagwan hi sachchi aur sada rehne wali sachchai hain.”
+
+“Jo vyakti Bhagwan Hari ka dhyaan karta hai, woh Maya ke bandhan se mukt ho jaata hai.”
+
+Rishi Narayan ne Narad ji se kaha,
+
+“Yeh Vedon ka gehra rahasya hai. Isse mann ke sab vikar dheere-dheere jal jaate hain.”
+
+Rishi Shukadev bole, “Narad ji ne is pavitra gyaan ko shraddha se suna aur fir Vyasa ji ko sunaaya.”
+
+“Hey Raja Parikshit, isi tarah Ved nirgun Parmatma ka varnan seedhe shabdon se nahi, balki unki leela, mahima aur tattva ko samjhaakar karte hain.”
+
+“Jo vyakti shraddha se Bhagwan Hari ka naam, gun aur kathaaon ka smaran karta hai, uska mann pavitra ho jaata hai aur dheere-dheere use param shanti milti hai.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 88
     with st.expander("Chapter 88 - God Rudra Saved"):
-        text1 = """ """
+        text1 = """ 
+        Raja Parikshit ne poocha, “Hey Rishi, ek ajeeb baat samajh nahi aati. Bhagwan Shiva toh vairaagi hain, fir bhi unke bhakt aksar dhan aur sukh pa lete hain. Lekin Bhagwan Vishnu, jo Lakshmi ji ke pati hain, unke bhakt kai baar gareebi aur kashton ka saamna karte hain. Aisa kyun?”
+
+Rishi Shukadev bole, “Yeh prashn pehle Yudhishthira ne bhi Krishna se poocha tha.”
+
+Tab Krishna ne kaha,
+
+“Jis vyakti par main sachchi kripa karta hoon, uska dhan dheere-dheere chheen leta hoon.”
+
+“Jab uska dhan chala jaata hai, tab rishtedaar aur dost bhi usse door ho jaate hain.”
+
+“Fir woh dukhi hokar duniya ki asliyat samajhne lagta hai.”"""
         create_image_text_layout(
             "attached_assets/chapter10/10.88.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        “Uske baad woh mere bhakton ka sang karta hai aur dheere-dheere mera sachcha gyaan paata hai.”
+
+Krishna bole,
+
+“Meri sabse badi kripa dhan nahi, balki apna divya gyaan dena hai. Lekin yeh bahut gehra hota hai, isliye log jaldi samajh nahi paate.”
+
+“Isi wajah se kai log doosre devtaon ki pooja karte hain, kyunki wahan unhe jaldi vardaan mil jaate hain.”
+
+Rishi Shukadev bole, “Bhagwan Shiva aur Brahma ji bahut jaldi prasann ya krodhit ho jaate hain. Lekin Vishnu ji soch-samajhkar vardaan dete hain.”
+
+“Ab main tumhe ek purani kahani sunata hoon.”
+
+Ek raakshas tha jiska naam tha Vrikasura. Woh Shakuni ka beta tha.
+
+Ek din usne Narad ji se poocha,
+
+“Brahma, Vishnu aur Shiva mein kaun sabse jaldi vardaan deta hai?”
+
+Narad ji bole,
+
+“Shiva ji bahut jaldi prasann ho jaate hain. Tum unki tapasya karo.”
+
+Yeh sunkar Vrikasura Himalaya ke Kedarnath kshetra gaya aur Shiva ji ko prasann karne ke liye kathin tapasya karne laga.
+
+Woh apne sharir ka maans kaat-kaatkar agni mein chadhaane laga.
+
+Saat din beet gaye, lekin Shiva ji prakat nahi hue.
+
+Tab Vrikasura ne apna sir kaatne ka faisla kar liya.
+
+Jaise hi woh yeh karne wala tha, Shiva ji turant agni se prakat ho gaye aur uska haath pakad liya.
+
+Unhone pyar se kaha,
+
+“Bas karo! Main tumse prasann hoon. Jo vardaan chaho maang lo.”
+
+Vrikasura ne bahut bhayanak vardaan maanga.
+
+Woh bola,
+
+“Jiske sir par main haath rakh doon, woh turant mar jaaye.”
+
+Shiva ji ek pal ke liye chintit hue, lekin fir bhi unhone “Tathastu” keh diya.
+
+Vrikasura ne socha, “Chalo pehle Shiva par hi is vardaan ko aazmaata hoon!”
+
+Woh Shiva ji ke sir par haath rakhne ke liye unke peeche dauda.
+
+Yeh dekhkar Shiva ji ghabra gaye aur bhaagne lage.
+
+Woh dharti, swarg aur kai lokon mein bhaagte rahe, lekin koi bhi unki madad nahi kar paaya.
+
+Aakhir mein Shiva ji Vishnu Bhagwan ke paas pahunche.
+
+Bhagwan Vishnu ne sab samajh liya.
+
+Unhone ek sundar chhote Brahmachari ladke ka roop dharan kiya aur Vrikasura ke saamne aaye.
+
+Woh bade vinamr swar mein bole,
+
+“Hey raakshas raj, tum bahut thak gaye lagte ho. Thoda aaram karo.”
+
+“Waise tum itni jaldi mein kahaan ja rahe ho?”
+
+Vrikasura ne saari kahani bata di.
+
+Tab Vishnu bole,
+
+“Tum sach mein Shiva ji ki baat par vishwas karte ho? Daksha ke shraap ke baad woh Pret aur Pishaachon ke swami ban gaye hain.”
+
+“Ho sakta hai unhone jhooth bola ho.”
+
+“Tum chaho toh abhi apne sir par haath rakhkar vardaan ki sachchai jaan sakte ho.”
+
+Vrikasura Vishnu ji ki meethi baaton mein aa gaya.
+
+Usne bina soche apne hi sir par haath rakh diya.
+
+Jaise hi usne aisa kiya, uska sir phat gaya aur woh turant mar gaya.
+
+Aasmaan mein devta “Jai!” bolne lage aur phool barsane lage.
+
+Shiva ji ki jaan bach gayi.
+
+Tab Vishnu ji muskuraakar bole,
+
+“Hey Mahadev, jo mahan logon ka apmaan karta hai, uska vinaash uske apne paapon se hi ho jaata hai.”
+
+Rishi Shukadev bole, “Jo vyakti Vishnu ji dwara Shiva ji ki raksha ki yeh pavitra kahani shraddha se sunta hai, woh bhay aur paapon se mukt ho jaata hai.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 89
     with st.expander("Chapter 89 - Restoration to Life of Brāhmaṇa’s Sons"):
-        text1 = """ """
+        text1 = """ 
+        Raja Parikshit ne poocha, “Hey Rishi, Brahma, Vishnu aur Shiva mein sabse mahaan kaun hain?”
+
+Rishi Shukadev bole, “Ek baar bahut saare rishi ek bade yagya mein yahi prashn charcha kar rahe the.”
+
+“Sabne milkar Maharishi Bhrigu ko sach jaanne ke liye bheja.”
+
+Sabse pehle Bhrigu ji Brahma ji ke paas gaye.
+
+Unhone jaan-bujhkar Brahma ji ko pranam nahi kiya."""
         create_image_text_layout(
             "attached_assets/chapter10/10.89.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Yeh dekhkar Brahma ji ko gussa aa gaya, lekin woh samajh gaye ki Bhrigu unke putra hain. Isliye unhone apna krodh rok liya.
+
+Phir Bhrigu ji Kailash par Shiva ji ke paas gaye.
+
+Shiva ji bade prem se unhe gale lagane aaye.
+
+Lekin Bhrigu ji peeche hat gaye aur kathor shabdon mein bole,
+
+“Aap ajeeb reeti se rehte hain. Main aapko sparsh nahi karna chahta.”
+
+Yeh sunkar Shiva ji ko bahut gussa aa gaya. Woh trishul lekar unki taraf badhe.
+
+Tab Mata Parvati ne madhur shabdon se Shiva ji ko shaant kiya.
+
+Uske baad Bhrigu ji Vaikunth gaye, jahan Bhagwan Vishnu Lakshmi ji ke saath virajmaan the.
+
+Bhrigu ji ne wahan jaakar Vishnu ji ke seene par pair se laat maari.
+
+Lekin Vishnu ji turant uth khade hue aur vinamrata se bole,
+
+“Hey Brahman dev, humein maaf kijiye. Hum aapke aane ka pata nahi laga paaye.”
+
+Phir Vishnu ji ne bade prem se Bhrigu ji ke pair dabaaye aur bole,
+
+“Aapke komal pair ko mere kathor seene se chot toh nahi lagi?”
+
+“Kripya apne charan jal se mujhe pavitra kijiye.”
+
+Yeh dekhkar Bhrigu ji ka hriday bhakti se bhar gaya. Unki aankhon mein aansu aa gaye.
+
+Woh wapas yagya mein gaye aur sab rishiyon ko poori kahani sunaayi.
+
+Tab sabne samajh liya ki Vishnu ji sabse shaant, dayaalu aur sarvottam hain.
+
+Rishi Shukadev bole, “Ab main tumhe Krishna aur Arjuna ki ek adbhut leela sunata hoon.”
+
+Dwaraka mein ek Brahman ka har bachcha janm lete hi gayab ho jaata tha.
+
+Dukhi Brahman har baar rajmahal ke paas jaakar rota aur kehta,
+
+“Yeh sab bure rajaon ki wajah se ho raha hai!”
+
+Ek din Arjuna ne uski baat suni aur garv se bola,
+
+“Main tumhare agle bachche ki raksha karunga. Agar nahi kar paaya, toh agni mein pravesh kar lunga.”
+
+Brahman bola,
+
+“Jab Krishna, Balarama aur Pradyumna mere bachche nahi bacha paaye, toh tum kaise bachaoge?”
+
+Arjuna ne kaha,
+
+“Main Gandiva dhanush dhaaran karne wala Arjuna hoon. Main maut se bhi lad sakta hoon!”
+
+Krishna muskuraaye, lekin Arjuna ko anumati de di.
+
+Jab Brahman ki patni ko bachcha hone wala tha, tab Arjuna ne poore ghar ko divya baanon se gher diya.
+
+Har taraf suraksha ka chakra bana diya gaya.
+
+Thodi der baad bachcha paida hua aur zor-zor se rona laga.
+
+Lekin agle hi pal woh achanak aasman mein gayab ho gaya.
+
+Brahman gusse se chillane laga,
+
+“Dekho! Arjuna bhi kuch nahi kar paaya!”
+
+Arjuna bahut sharminda hue.
+
+Woh Yamlok, Indralok aur kai lokon mein bachche ko dhoondhne gaye, lekin kahin nahi mila.
+
+Apni pratigya yaad karke woh agni mein pravesh karne wale the.
+
+Tab Krishna ne unhe rok liya.
+
+Krishna bole,
+
+“Chalo, main tumhe sach dikhaata hoon.”
+
+Dono Krishna aur Arjuna ek divya rath par baithkar brahmand ke paar nikle.
+
+Woh andhere aur samudron ko paar karte hue ek adbhut prakashmay lok mein pahunche.
+
+Wahan unhone Anant Shesh ko dekha, jinke hazaar phan chamak rahe the.
+
+Unke upar ek divya roop mein Maha Vishnu virajmaan the.
+
+Unka sharir megh jaisa shyam tha aur woh peele vastra pehne hue the.
+
+Krishna aur Arjuna ne haath jodkar pranam kiya.
+
+Tab Maha Vishnu muskuraakar bole,
+
+“Maine hi Brahman ke bachchon ko yahaan bulaya tha, kyunki main tum dono ka darshan karna chahta tha.”
+
+“Tum dono Nara aur Narayana ke roop mein dharti par dharm ki raksha ke liye aaye ho.”
+
+Uske baad Maha Vishnu ne sab bachchon ko Krishna aur Arjuna ko wapas de diya.
+
+Dono un bachchon ko lekar Dwaraka laut aaye.
+
+Brahman apne sab bachchon ko dekhkar khushi se ro pada.
+
+Arjuna bhi yeh sab dekhkar samajh gaye ki unki saari shakti Krishna ki kripa se hi hai.
+
+Rishi Shukadev bole, “Krishna ne dharti par rehkar anek adbhut leelaayein ki aur dharm ko fir se sthapit kiya.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 90
     with st.expander("Chapter 90 - The Song of Queens: Resume of Kṛṣṇa’s Sports"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shukadev bole, “Dwaraka nagari bahut sundar aur samriddh thi. Wahan har taraf khushi, utsav aur samriddhi dikhai deti thi.
+
+Raaste haathiyon, ghodon, rathon aur veer Yadav yoddhaon se bhare rehte the.
+
+Bagiche phoolon aur madhur awaaz waale pakshiyon se sajhe rehte the."""
         create_image_text_layout(
             "attached_assets/chapter10/10.90.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Krishna apni 16,000 raniyon ke saath alag-alag mahalon mein rehte the. Apni Yogmaya se woh ek saath sabhi ke paas upasthit ho jaate the.
+
+Har mahal mein sundar talaab the, jinmein kamal khile rehte aur pakshi madhur sur mein gaate rehte the.
+
+Krishna apni raniyon ke saath jal-kreeda karte, hans-te aur prem bhari baatein karte the.
+
+Kabhi raniyan un par sugandhit paani chhidakti aur kabhi Krishna un par paani daalte. Sab jagah hansi aur khushi ka mahaul hota.
+
+Sangeetkar dhol, veena aur mridang bajaakar Krishna ki mahima gaate rehte.
+
+Krishna ki madhur baatein, pyari muskaan aur prem bhari nazar dekhkar sab raniyan unmein hi kho jaati thi.
+
+Kabhi-kabhi Krishna door hote, toh raniyan virah mein prakriti se baatein karne lagti thi.
+
+Ek rani ne samundar se kaha,
+
+“Hey samundar, tum raat bhar kyun garajte rehte ho? Kya tum bhi Krishna ke virah mein udaas ho?”
+
+Doosri rani ne chand se kaha,
+
+“Hey chand, tum itne kamzor aur pheeke kyun lag rahe ho? Kya tum bhi Krishna ki yaad mein dukhi ho?”
+
+Ek rani ne badal se kaha,
+
+“Hey megh, tum Krishna jaise shyam ho. Kya tum bhi unki yaad mein aansu barsa rahe ho?”
+
+Kisi ne koel se kaha,
+
+“Tumhari madhur awaaz humein Krishna ki pyari baatein yaad dilati hai.”
+
+Aur ek rani ne hans se kaha,
+
+“Aao hans ji, baitho aur humein Krishna ki koi khabar sunaao.”
+
+Raniyan Krishna ke prem mein itni doobi rehti thi ki kabhi hansne lagti, kabhi chup ho jaati aur kabhi virah mein bhaavuk ho jaati.
+
+Rishi Shukadev bole, “Krishna ki raniyon ka prem bahut pavitra tha. Isi prem aur bhakti ke bal par unhone antim mein Bhagwan ka param dham prapt kiya.”
+
+“Krishna ne grihastha jeevan jeete hue bhi dharm ka adarsh dikhaya.”
+
+“Unke har mahal mein dharm, prem aur khushi ka vaas tha.”
+
+Krishna ke bahut saare putra hue. Pradyumna unmein sabse bade aur Krishna ke samaan veer the.
+
+Pradyumna ke putra Aniruddha hue aur Aniruddha ke putra Vajra hue, jo baad mein Yadu vansh ke bache hue vanshaj bane.
+
+Rishi Shukadev bole, “Yadav log Krishna mein itne leen rehte the ki khaate, bolte, chalte ya sote waqt bhi unka mann Krishna mein hi laga rehta tha.”
+
+“Krishna ne dharti ka bojh kam kiya, dusht rajaon ka vinaash kiya aur dharm ko fir se sthapit kiya.”
+
+“Jo vyakti Krishna ki in pavitra leelaon ko shraddha se sunta ya sunaata hai, uske mann mein bhi dheere-dheere Bhagwan ke prati prem aur bhakti jagne lagti hai.”"""
         create_image_text_layout(text_content=text2, layout="full")
