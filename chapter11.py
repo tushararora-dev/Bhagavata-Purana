@@ -652,53 +652,419 @@ Rishi Shukadev bole, “Uddhav ki prem bhari baatein sunkar Bhagwan Krishna unse
 
     # Chapter 7
     with st.expander("Chapter 7 - The Legend of the Avadhūta and his Preceptors"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Shukadev bole, “Bhagwan Krishna ne Uddhav se kaha,
+
+‘Hey Uddhav, jo tumne kaha, wahi ab hone wala hai.’
+
+‘Devta aur Brahma ji chahte hain ki main jaldi apne divya dham Vaikunth laut jaun.’
+
+‘Dharti ka bojh kam karne ke liye main aur Balram is sansaar mein aaye the. Ab woh kaarya poora ho chuka hai.’"""
         create_image_text_layout(
             "attached_assets/chapter11/11.7.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        ‘Yadav vansh bhi Brahmano ke shraap se jaldi hi apne hi jhagdon mein samaapt ho jaayega.’
+
+‘Aur mere jaane ke baad samundar Dwaraka nagari ko dubo dega.’
+
+Krishna ne fir kaha,
+
+‘Mere prithvi se jaate hi Kaliyug ka prabhav badhne lagega.’
+
+‘Log dheere-dheere adharm aur buri aadaton mein phans jaayenge.’
+
+‘Isliye tum yahaan zyada der mat rukna.’
+
+‘Sab rishton aur moh ko chhodkar sirf mujh mein apna mann lagaana.’
+
+‘Sabko samaan drishti se dekhte hue dharti par bhraman karna.’
+
+Krishna bole,
+
+‘Jo kuch hum aankhon, kaanon aur mann se dekhte aur mehsoos karte hain, woh sab Maya ka khel hai aur ek din samaapt ho jaata hai.’
+
+‘Asli sach toh aatma hai, jo amar hai.’
+
+‘Jo vyakti sab jeevon mein mujhe dekhta hai aur apne mann ko shaant rakhta hai, woh sansaar ke dukh se bach jaata hai.’
+
+Rishi Shukadev bole, “Krishna ki baatein sunkar Uddhav aur bhi adhik gyaan paana chahte the.”
+
+Woh vinamrata se bole,
+
+“Hey Prabhu, aapne jo vairagya aur tyag ka maarg bataya hai, woh bahut kathin lagta hai.”
+
+“Jin logon ka mann sansaar ke sukh mein laga ho, unke liye yeh bahut mushkil hai.”
+
+“Mera mann bhi abhi ‘main’ aur ‘mera’ ke moh mein phansa hua hai.”
+
+“Kripya mujhe aisa gyaan dijiye jisse main bhi iss Maya se paar ho jaun.”
+
+“Hey Krishna, aapke bina koi bhi mujhe sachcha gyaan nahi de sakta.”
+
+“Devta bhi aapki Maya se poori tarah pare nahi hain.”
+
+“Main toh aapki sharan mein aaya hoon.”
+
+Tab Bhagwan Krishna bole,
+
+“Hey Uddhav, buddhimaan vyakti apne anubhav aur vivek se bhi gyaan paa sakta hai.”
+
+“Insaan ka apna aatma hi uska sabse bada guru ban sakta hai.”
+
+“Manushya janm bahut anmol hai, kyunki isi mein jeev Bhagwan ko samajh sakta hai.”
+
+Krishna ne fir ek purani katha sunaayi.
+
+Woh bole,
+
+“Ek baar Raja Yadu ne ek avadhut Brahman ko dekha.”
+
+“Woh yuva tha, lekin bilkul nishchint aur anand mein rehta tha.”
+
+“Na usse dhan ki chinta thi aur na kisi cheez ka moh.”
+
+Raja Yadu ne poocha,
+
+‘Hey Brahman, aap itne nishchint aur anandit kaise rehte hain?’
+
+‘Duniya ke log toh kaam, dhan aur sukh ke peeche bhaagte rehte hain.’
+
+‘Lekin aap bina kisi chinta ke ek bachche ki tarah ghoom rahe hain.’
+
+‘Aapne yeh gyaan kahaan se paaya?’
+
+Tab Avadhut bole,
+
+‘Maine prakriti aur jeev-jantuon se seekh li hai.’
+
+‘Mere 24 guru hain.’
+
+‘Dharti, hawa, aakash, paani, agni, suraj, chand, samundar, madhumakkhi, hiran, machhli aur kai anya jeev mere guru bane.’
+
+Avadhut ne samjhaaya,
+
+‘Dharti se maine dhairya aur sahanshilta seekhi.’
+
+‘Pedon aur pahaadon se maine doosron ke liye jeena seekha.’
+
+‘Hawa se maine seekha ki duniya mein rehkar bhi kisi cheez se chipakna nahi chahiye.’
+
+‘Aakash se maine seekha ki aatma sab jagah hai, lekin kisi cheez se bandhati nahi.’
+
+‘Paani se maine pavitrata aur madhur swabhav seekha.’
+
+‘Agni se maine tej aur pavitrata seekhi.’
+
+‘Suraj se maine seekha ki lena aur dena dono bina moh ke karna chahiye.’
+
+Phir Avadhut ne kabootar ki kahani sunaayi.
+
+Woh bole,
+
+“Ek kabootar apni patni aur bachchon se bahut adhik moh karta tha.”
+
+“Ek din shikaari ne uske bachchon ko jaal mein pakad liya.”
+
+“Unhe bachane ke chakkar mein pehle maa kabootri aur fir pita kabootar bhi jaal mein phans gaye.”
+
+“Is tarah poora parivaar vinaash ho gaya.”
+
+Avadhut bole,
+
+“Jo vyakti sansaarik moh mein zyada phans jaata hai, uska haal bhi us kabootar jaisa ho jaata hai.”
+
+“Manushya janm moksha paane ka ek khula dwar hai.”
+
+“Lekin jo sirf ghar-parivaar aur moh mein hi phansa rahe, woh apne jeevan ka sachcha uddeshya kho deta hai.”
+
+Rishi Shukadev bole, “Bhagwan Krishna Uddhav ko dheere-dheere gehra aatma-gyaan aur vairagya ka maarg samjha rahe the.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 8
     with st.expander("Chapter 8 - What the Avadhūta learnt from the Nine-Preceptors"):
-        text1 = """ """
+        text1 = """ 
+        Avadhut Brahman ne Raja Yadu se kaha,
+
+“Hey Raja, sukh aur dukh har jeev ke jeevan mein aate hain.”
+
+“Isliye buddhimaan vyakti ko unke peeche bhaagna nahi chahiye.”
+
+“Maine अजगर yani boa-constrictor se seekha ki jo kuch bina adhik mehnat ke mil jaaye, usi mein santusht rehna chahiye.”"""
         create_image_text_layout(
             "attached_assets/chapter11/11.8.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        “Jaise ajgar chupchaap pada rehta hai aur jo bhojan milta hai wahi kha leta hai, waise hi sant vyakti ko bhi adhik lalach nahi karna chahiye.”
+
+“Kabhi bhojan kam mile ya na mile, tab bhi shaant rehna chahiye.”
+
+Avadhut bole,
+
+“Maine samundar se seekha ki mann ko gehra aur shaant rakhna chahiye.”
+
+“Jaise bahut saari nadiyan samundar mein girti hain, fir bhi samundar apni seema nahi todta, waise hi buddhimaan vyakti ko sukh ya dukh mein zyada hilna nahi chahiye.”
+
+“Maine patange se seekha ki sundarta aur vasna ke peeche bhaagna vinaash ka kaaran ban sakta hai.”
+
+“Patanga aag ki roshni dekhkar usmein jal jaata hai.”
+
+“Waise hi insaan bhi moh mein padkar dukh paata hai.”
+
+“Maine madhumakkhi se seekha ki thoda-thoda lekar jeevan chalana chahiye aur adhik sangrah nahi karna chahiye.”
+
+“Lekin maine yeh bhi dekha ki madhumakkhi saara jeevan shahad jama karti hai aur aakhir mein koi aur aakar use le jaata hai.”
+
+“Isliye dhan ka adhik lalach aur sangrah dukhad hota hai.”
+
+Avadhut ne kaha,
+
+“Maine hathi se seekha ki kaam vasna insaan ko bandh leti hai.”
+
+“Jaise hathi maada hathi ke moh mein phanskar pakad liya jaata hai, waise hi manushya bhi vasna mein phans sakta hai.”
+
+“Maine hiran se seekha ki madhur sangeet bhi kabhi-kabhi vinaash ka kaaran ban sakta hai.”
+
+“Shikaari madhur awaaz se hiran ko phansa leta hai.”
+
+“Isliye mann ko sada saavdhaan rakhna chahiye.”
+
+“Maine machhli se seekha ki jeebh ka lalach bahut khatarnak hota hai.”
+
+“Machhli swaad ke lalach mein kaante ko nigal leti hai aur pakdi jaati hai.”
+
+“Jo vyakti jeebh par niyantran kar leta hai, woh dheere-dheere sab indriyon ko jeet leta hai.”
+
+Uske baad Avadhut ne Pingala naam ki ek vaishya ki kahani sunaayi.
+
+Woh bole,
+
+“Ek raat Pingala sundar kapde aur gehne pehenkar apne ghar ke baahar khadi thi.”
+
+“Woh kisi dhanwaan grahak ka intezaar kar rahi thi.”
+
+“Bahut log aaye aur chale gaye, lekin koi uske paas nahi aaya.”
+
+“Raat bahut beet gayi aur uski umeedein tootne lagi.”
+
+“Woh dukhi aur thaki hui ho gayi.”
+
+Fir achanak uske mann mein ek gehra vichaar aaya.
+
+Pingala boli,
+
+‘Main kitni moorkh thi jo jhoothe sukh aur swarthi logon ke peeche bhaag rahi thi.’
+
+‘Sachcha sukh toh Bhagwan mein hai.’
+
+‘Sansaar ke log na kabhi poori khushi de sakte hain aur na sada saath reh sakte hain.’
+
+‘Ab main Bhagwan Narayan ko hi apna sachcha priya maanungi.’
+
+‘Main jo kuch bhi Bhagwan ki ichchha se milega, usi mein santusht rahungi.’
+
+Rishi Shukadev bole, “Jaise hi Pingala ne duniya ki jhoothi aasha chhod di, uske mann ko shaanti mil gayi.”
+
+“Us raat woh bahut sukoon se soyi.”
+
+Avadhut Brahman bole,
+
+“Sabse bada dukh jhoothi umeed aur lalach hai.”
+
+“Aur sabse bada sukh hai — ichchhaon ko chhodkar Bhagwan mein santusht rehna.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 9
     with st.expander("Chapter 9 - The Discourse of the Avadhūta Concluded"):
-        text1 = """ """
+        text1 = """ 
+        Avadhut Brahman ne Raja Yadu se kaha,
+
+“Hey Raja, jis cheez ko log bahut sambhaal kar rakhna chahte hain, wahi kai baar dukh ka kaaran ban jaati hai.”
+
+“Jo vyakti adhik moh aur sangrah chhod deta hai, wahi sachcha sukh paata hai.”
+
+“Maine ek cheel se seekha ki chhod dene mein hi shaanti hai.”
+
+“Ek cheel maans ka tukda lekar udd rahi thi. Doosre pakshi us par hamla karne lage.”
+
+“Jab usne maans ka tukda chhod diya, tab use turant shaanti mil gayi.”"""
         create_image_text_layout(
             "attached_assets/chapter11/11.9.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Avadhut bole,
+
+“Maine bachche se seekha ki nirdosh aur chinta se mukt rehna kitna sukh deta hai.”
+
+“Jo vyakti duniya ke ghamand aur moh se pare ho jaata hai, woh bachche ki tarah nishchint ho jaata hai.”
+
+“Maine ek kanya se bhi seekha.”
+
+“Ek din uske ghar mehmaan aaye, lekin ghar mein aur koi nahi tha.”
+
+“Woh akeli chaawal pees rahi thi. Uski choodiyan aapas mein takraakar awaaz kar rahi thi.”
+
+“Usne ek-ek karke saari choodiyan tod di aur har haath mein sirf ek choodi chhod di.”
+
+“Fir awaaz band ho gayi.”
+
+“Tab maine samjha ki zyada log saath rahenge toh jhagda aur baatein badhengi.”
+
+“Isliye saadhak ko akela aur shaant rehkar Bhagwan ka dhyaan karna chahiye.”
+
+Avadhut ne kaha,
+
+“Maine baan banane waale ek kaarigar se seekha ki mann ko ekagra kaise karte hain.”
+
+“Woh apne kaam mein itna dhyaan lagaaye hua tha ki usse raja ki badi sawaari ke guzarne ka bhi pata nahi chala.”
+
+“Waise hi yogi ko bhi apna mann poori tarah Bhagwan mein laga dena chahiye.”
+
+“Maine saanp se seekha ki akela rehna aur bina adhik ghar-grihasthi ke jeena achha hai.”
+
+“Saanp doosron ke banaye hue bill mein reh leta hai aur bina shor ke apna jeevan bitaata hai.”
+
+“Maine makdi se seekha ki Bhagwan hi iss sansaar ko rachate aur fir samay aane par use apne andar sama lete hain.”
+
+“Jaise makdi apna jaal khud banati aur wapas sama leti hai.”
+
+“Maine bhanwre aur keede se bhi seekha.”
+
+“Keeda darr aur dhyaan mein lagataar bhanwre ko yaad karta hai aur dheere-dheere uske jaise roop mein badal jaata hai.”
+
+“Waise hi insaan jiska dhyaan baar-baar jis cheez par lagata hai, dheere-dheere usi jaise gun apna leta hai.”
+
+Avadhut bole,
+
+“Mera apna sharir bhi mera guru bana.”
+
+“Yeh sharir janm leta hai, budha hota hai aur ek din samaapt ho jaata hai.”
+
+“Isliye maine samjha ki ispar adhik moh karna theek nahi.”
+
+“Insaan sharir ke sukh ke liye dhan, ghar aur parivaar mein uljha rehta hai.”
+
+“Lekin antim samay mein sab yahin chhoot jaata hai.”
+
+“Maine yeh bhi dekha ki indriyan insaan ko alag-alag disha mein kheenchti rehti hain.”
+
+“Jeebh swaad ke peeche bhaagti hai, aankhen sundarta ke peeche aur mann ichchhaon ke peeche.”
+
+“Isliye jo vyakti apne mann aur indriyon ko sambhaal leta hai, wahi sachchi shaanti paata hai.”
+
+Avadhut ne fir kaha,
+
+“Bahut janmon ke baad insaan ko yeh anmol manushya janm milta hai.”
+
+“Yeh sharir nashwar hai, lekin isi ke dwaara Bhagwan ko paaya ja sakta hai.”
+
+“Isliye buddhimaan vyakti ko maut aane se pehle hi Bhagwan ki bhakti aur aatma-gyaan mein lag jaana chahiye.”
+
+“Sansaar ke sukh toh har janm mein mil sakte hain, lekin moksha ka maarg manushya jeevan mein hi khulta hai.”
+
+Rishi Shukadev bole, “Avadhut Brahman ki baatein sunkar Raja Yadu ka moh door ho gaya.”
+
+“Woh sab jeevon ko samaan drishti se dekhne lage aur unka mann shaant ho gaya.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 10
     with st.expander("Chapter 10 - How the Jīva is Ensnared in Saṃsāra"):
-        text1 = """ """
+        text1 = """ 
+        Bhagwan Krishna ne Uddhav se kaha,
+
+“Hey Uddhav, jo vyakti bina kisi swaarth ke apne kartavya karta hai aur sab kuch mujhe samarpit kar deta hai, uska mann dheere-dheere pavitra ho jaata hai.”
+
+“Insaan ko apne varn aur aashram ke anusaar dharm ka paalan karna chahiye, lekin phal ki ichchha nahi rakhni chahiye.”
+
+“Duniya ke log sukh ke peeche bhaagte hain, lekin aksar unhe dukh hi milta hai.”"""
         create_image_text_layout(
             "attached_assets/chapter11/11.10.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        “Jaise sapne mein dekhi hui cheezein sach nahi hoti, waise hi sansaar ke bahut se sukh bhi ek bhram jaise hain.”
+
+Krishna bole,
+
+“Jo vyakti sirf meri bhakti mein laga rehta hai, use ahimsa, satya aur indriya niyantran jaise gun apnaane chahiye.”
+
+“Use ek sache aur shaant guru ki seva karni chahiye.”
+
+“Use ghamand, irsha aur adhik bolne se bachna chahiye.”
+
+“Dheere-dheere use ghar, dhan aur parivaar ke prati adhik moh bhi chhodna chahiye.”
+
+Krishna ne samjhaaya,
+
+“Sharir aur aatma alag hain.”
+
+“Sharir janm leta hai, badalta hai aur ek din samaapt ho jaata hai.”
+
+“Lekin aatma sada amar aur prakashmay rehti hai.”
+
+“Jaise agni lakdi mein rehkar bhi lakdi se alag hoti hai, waise hi aatma sharir mein rehkar bhi usse alag hai.”
+
+“Lekin agyaan ki wajah se jeev khud ko sharir samajhne lagta hai. Isi se sansaar ka bandhan shuru hota hai.”
+
+Krishna bole,
+
+“Guru aur shishya ka sambandh bhi pavitra hota hai.”
+
+“Jaise do lakdiyon ko ragadne se agni nikalti hai, waise hi guru ke gyaan se shishya ke mann mein satya ka prakash hota hai.”
+
+“Fir yeh gyaan dheere-dheere Maya aur moh ko jala deta hai.”
+
+Bhagwan ne fir kaha,
+
+“Log sochte hain ki swarg aur bhog se sukh milega.”
+
+“Lekin swarg ka sukh bhi ek din samaapt ho jaata hai.”
+
+“Jab punya khatam ho jaata hai, tab jeev ko fir se neeche aana padta hai.”
+
+“Isliye jo sukh shuru aur ant waala ho, woh sachcha sukh nahi ho sakta.”
+
+Krishna ne samjhaaya,
+
+“Jo vyakti adharm aur buri sangat mein pad jaata hai, woh dheere-dheere lalchi, kaami aur kathor ban jaata hai.”
+
+“Fir woh paap karta hai aur dukh paata hai.”
+
+“Lekin jo vyakti bhakti aur satya ka maarg pakadta hai, woh Maya ke bandhan se dheere-dheere bahar aa jaata hai.”
+
+Bhagwan bole,
+
+“Indriyan aur mann hi karm karwaate hain.”
+
+“Jab tak jeev gunon aur ichchhaon mein uljha rehta hai, tab tak use janm-mrityu aur dukh ka darr bana rehta hai.”
+
+“Lekin jo vyakti mujhe sab jagah dekhta hai aur mere charanon mein sharan leta hai, uska darr door ho jaata hai.”
+
+Rishi Shukadev bole, “Krishna ki gehri baatein sunkar Uddhav ke mann mein aur prashn jagne lage.”
+
+Uddhav vinamrata se bole,
+
+“Hey Prabhu, agar aatma sach mein azaad aur amar hai, toh fir woh Maya mein bandh kaise jaati hai?”
+
+“Ek bandha hua aur ek mukt vyakti kaise pehchaana jaata hai?”
+
+“Woh kaise jeete hain, kaise chalte-phirte hain aur duniya ko kaise dekhte hain?”
+
+“Hey Krishna, kripya meri is uljhan ko door kijiye.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
