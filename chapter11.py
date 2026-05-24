@@ -1525,142 +1525,849 @@ Ant mein Bhagwan ne kaha, “Sabse bada raasta desireless bhakti ka hai. Jo bina
 
     # Chapter 21
     with st.expander("Chapter 21 - Criteria for determining the good and the evil"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 21 – Achha aur Bura Samajhne ki Seekh
+
+Bhagwan Krishna ne Uddhava se kaha, “Jo log bhakti, gyaan aur bina swarth wale karm ka raasta chhod dete hain aur sirf chhote sukh ke peeche bhaagte hain, woh janam-maran ke chakkar mein phanse rehte hain.”
+
+Unhone samjhaya ki har insaan ko apna dharm aur kartavya imaandari se nibhana chahiye. Apna sahi kaam karna hi achchai hai, aur galat raaste par chalna burai hai.
+
+Krishna bole, “Kabhi-kabhi ek hi cheez kisi ke liye achhi hoti hai aur kisi aur ke liye buri. Yeh sab samay, jagah aur paristhiti par depend karta hai.” """
         create_image_text_layout(
             "attached_assets/chapter11/11.21.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Bhagwan ne kaha ki duniya mein niyam isliye banaye gaye hain taaki log sahi aur galat ka farq samajh sakein.
+
+Unhone samjhaya ki sabhi jeev ek hi Parmatma se bane hain. Phir bhi har vyakti ka kaam aur zimmedari alag hoti hai.
+
+Krishna bole, “Insaan jab kisi cheez mein zyada sukh dekhne lagta hai, tab usmein moh paida hota hai.”
+
+Moh se ichchha paida hoti hai. Ichchha se jhagda aur gussa badhta hai. Aur gusse se buddhi dheere-dheere khatam hone lagti hai.
+
+Bhagwan ne kaha, “Jiska mann duniya ki ichchhaon mein phans jata hai, woh apne asli swaroop ko bhool jata hai.”
+
+Unhone ek simple example diya.
+
+“Jaise bachche ko dawa dene ke liye pehle mithai ka lalach diya jaata hai, waise hi Vedo mein bhi kabhi-kabhi swarg aur sukh ki baat karke logon ko dharm ki taraf laaya jaata hai.”
+
+Lekin Krishna ne samjhaya ki asli lakshya sirf swarg ya sukh nahi, balki moksha aur Bhagwan ko paana hai.
+
+Bhagwan bole, “Jo log sirf bhog aur sukh ke peeche bhaagte hain, woh sachchai ko samajh nahi paate.”
+
+Unhone kaha ki kuch log Vedo ka galat matlab samajhkar bina wajah jaanwaron ko dukh dete hain aur sirf apni ichchha poori karna chahte hain.
+
+Krishna ne saaf kaha, “Asli gyaan wahi hai jo insaan ko daya, self-control aur bhakti ki taraf le jaaye.”
+
+Phir Bhagwan ne Vedo ki mahima batayi.
+
+“Vedo ka asli arth bahut gehra hai. Unka antim sandesh yeh hai ki sab jagah ek hi Parmatma hai.”
+
+Krishna bole, “Main hi Vedo ka saar hoon. Shuru mein Vedas duniya ki alag-alag cheezein samjhate hain, lekin ant mein sabko ek hi sachchai tak le jaate hain — Bhagwan.”
+
+Ant mein Bhagwan ne kaha, “Jo vyakti moh aur lalach chhodkar bhakti aur sachchai ka raasta chunta hai, wahi asli shanti aur mukti paata hai.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 22
     with st.expander("Chapter 22 - Enumeration of Principles (Tattvas)"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 22 – Prakriti aur Atma ka Rahasya
+
+Uddhava ne Krishna se poocha, “Hey Prabhu, alag-alag rishi tattvon ki alag sankhya kyun batate hain? Koi 25 kehta hai, koi 26 aur koi aur sankhya.”
+
+Bhagwan Krishna muskuraaye aur bole, “Sab apni samajh aur drishti ke hisaab se baat karte hain. Isliye alag-alag ginti sahi ho sakti hai.”
+
+Unhone samjhaya ki duniya mein jo bhi dikh raha hai, woh Prakriti aur Purush se bana hai.
+
+Prakriti matlab prakritik duniya — shareer, mann aur indriyaan.
+Purush matlab Atma — jo sab dekhne wala aur hamesha amar hai."""
         create_image_text_layout(
             "attached_assets/chapter11/11.22.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Krishna bole, “Atma kabhi badalti nahi. Lekin shareer har samay badalta rehta hai.”
+
+Unhone kaha ki Maya aur teen gun — Sattva, Rajas aur Tamas — insaan ko uljha dete hain.
+
+Inhi ke kaaran log alag-alag soch aur jhagde mein phans jaate hain.
+
+Bhagwan ne samjhaya, “Jab mann shaant ho jaata hai aur indriyaan control mein aa jaati hain, tab jhagda aur confusion khatam ho jaata hai.”
+
+Phir Krishna ne tattvon ko simple tareeke se bataya.
+
+Paanch mahabhoot — dharti, jal, agni, hawa aur aakash.
+Phir mann, buddhi, ahankaar aur indriyaan.
+
+Yeh sab milkar shareer aur sansar banate hain.
+
+Lekin Atma in sabse alag hai.
+
+Krishna bole, “Atma sirf dekhne wali hai. Woh kabhi janam nahi leti aur kabhi marti nahi.”
+
+Uddhava ne phir poocha, “Agar Atma aur shareer alag hain, toh log dono ko ek kyun samajhte hain?”
+
+Bhagwan ne jawab diya, “Maya ke kaaran insaan shareer ko hi apna asli roop maan leta hai.”
+
+Unhone ek example diya.
+
+“Jaise sapne mein insaan khud ko alag roop mein dekhता hai aur sapna sach lagta hai, waise hi sansar bhi Maya ki wajah se sach jaisa lagta hai.”
+
+Krishna bole, “Janam aur mrityu shareer ke hote hain, Atma ke nahi.”
+
+Shareer bachpan, jawaani aur budhape se guzarta hai. Lekin Atma hamesha waise hi rehti hai.
+
+Bhagwan ne kaha, “Jo vyakti shareer aur duniya se bahut moh kar leta hai, woh baar-baar janam leta rehta hai.”
+
+Achhe karm aur Sattva gun se upar ki yoni milti hai. Rajas aur Tamas se dukh aur neeche ki yoniyan milti hain.
+
+Krishna ne samjhaya ki Atma asal mein azaad hai. Lekin ahankaar aur moh ki wajah se woh khud ko bandh hua samajhne lagti hai.
+
+Phir Bhagwan ne ek gehri baat kahi.
+
+“Jaise behte paani ke paas khade ped humein hilte hue lagte hain, waise hi Atma bhi shareer ke saath judi hui lagti hai. Lekin asal mein Atma kabhi nahi badalti.”
+
+Krishna bole, “Sansar ka sukh aur dukh sapne ki tarah hai. Jab tak mann unmein phansa rahega, tab tak insaan dukhi rahega.”
+
+Isliye Bhagwan ne Uddhava ko salah di,
+
+“Indriyon ke peeche mat bhaago. Apne mann ko sachchai aur bhakti mein lagao.”
+
+Ant mein Krishna ne kaha, “Jo vyakti apne mann ko control karke Bhagwan ki sharan leta hai, wahi Maya aur sansar ke dukh se bahar nikal paata hai.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 23
     with st.expander("Chapter 23 - The Song of a Recluse (Bhikṣu Gītā)"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 23 – Bhikshu Gita ki Gehri Seekh
+
+Shukdev ji ne kaha, “Jab Uddhava ne Krishna se mann ko shaant rakhne ka raasta poocha, tab Bhagwan ne ek purani kahani sunayi.”
+
+Krishna bole, “Kathor shabdon ka dard kabhi-kabhi teer ke ghaav se bhi zyada hota hai.”
+
+Phir unhone Avanti nagar ke ek Brahman ki kahani batayi.
+
+Woh Brahman bahut ameer tha, lekin bahut kanjoos aur gusse wala bhi tha. Woh apne parivaar, mehmaan aur sevakon tak ka dhyaan nahi rakhta tha.
+
+Uska mann sirf dhan jama karne mein laga rehta tha.
+
+Dheere-dheere uske apne hi log usse nafrat karne lage."""
         create_image_text_layout(
             "attached_assets/chapter11/11.23.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Phir ek din uska saara dhan chala gaya. Kuch rishtedaron ne le liya, kuch chor chura le gaye aur kuch samay ke saath khatam ho gaya.
+
+Brahman bahut dukhi ho gaya.
+
+Woh sochne laga, “Maine poori zindagi dhan ke liye mehnat ki, lekin na mujhe sukh mila aur na dharm.”
+
+Usne samjha ki dhan ke saath darr, jhagda aur dukh bhi aate hain.
+
+Krishna ne bataya ki lalach se kai buraiyaan paida hoti hain — jhooth, gussa, dushmani, ahankaar aur dhokha.
+
+Brahman ne socha, “Ab jo zindagi bachi hai, use Bhagwan aur tapasya mein lagaunga.”
+
+Usne sab kuch chhod diya aur ek shaant sanyasi ban gaya.
+
+Woh gaon-gaon bhiksha maangkar jeene laga.
+
+Lekin log uska mazaak udaate the. Kuch uski cheezein chheen lete, kuch use gaali dete aur kuch us par thook dete.
+
+Kayi log use maarte aur pareshaan karte the.
+
+Phir bhi woh shaant raha.
+
+Woh samajh chuka tha ki asli dukh ka kaaran baahar ke log nahi, balki apna mann hai.
+
+Tab us Brahman ne ek gehri baat kahi:
+
+“Na log, na devta, na samay aur na hi kismat — sukh aur dukh ka asli kaaran sirf mann hai.”
+
+Usne samjhaya ki mann hi moh, gussa aur dukh paida karta hai.
+
+Agar mann control mein ho, toh insaan mushkilon mein bhi shaant reh sakta hai.
+
+Brahman bola, “Jo apne mann ko jeet leta hai, wahi sabse bada vijeta hai.”
+
+Usne kaha, “Hum dusron ko dushman samajhte hain, lekin asal mein hum apne mann ke hi gulaam hote hain.”
+
+Krishna ne Uddhava se kaha, “Isliye mann ko Bhagwan mein lagao aur use control karna seekho. Yahi Yoga ka saar hai.”
+
+Ant mein Bhagwan bole, “Jo vyakti is Bhikshu Gita ko samajhta aur yaad rakhta hai, woh sukh aur dukh dono mein shaant rehna seekh jaata hai.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 24
     with st.expander("Chapter 24 - Elucidation of Sāṃkhya Yoga"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 24 – Sankhya Yoga ka Gyaan
+
+Bhagwan Krishna ne Uddhava se kaha, “Ab main tumhe Sankhya Yoga ka sachcha gyaan samjhaunga. Isse insaan moh aur bhram se bahar aa sakta hai.”
+
+Krishna bole, “Shuru mein sirf ek hi sachchai thi — Brahman. Na alag duniya thi aur na alag jeev.”
+
+Phir Maya ke kaaran sab alag-alag dikhne laga.
+
+Bhagwan ne samjhaya ki do mukhya tattva hain — Prakriti aur Purush.
+
+Prakriti matlab poori material duniya — shareer, mann aur prakritik cheezein.
+Purush matlab Atma — jo hamesha dekhne wali aur amar hai."""
         create_image_text_layout(
             "attached_assets/chapter11/11.24.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Krishna bole, “Prakriti se teen gun paida hote hain — Sattva, Rajas aur Tamas.”
+
+Sattva shanti aur gyaan deta hai.
+Rajas ichchha aur kaam karne ki shakti deta hai.
+Tamas andhkaar aur alasya laata hai.
+
+Inhi teen gunon se poora sansar chalta hai.
+
+Bhagwan ne bataya ki pehle Mahat tattva paida hua, phir Ahankaar aur uske baad indriyaan aur paanch mahabhoot — aakash, hawa, agni, jal aur prithvi.
+
+Yeh sab milkar poori srishti banaate hain.
+
+Krishna bole, “Meri shakti se yeh sab tattva milkar brahmand ka nirmaan karte hain.”
+
+Phir unhone bataya ki Brahma ji ka janm kaise hua.
+
+“Cosmic jal mein main Narayan roop mein tha. Mere nabhi se ek kamal nikla aur us kamal se Brahma ji prakat hue.”
+
+Brahma ji ne phir devta, lok aur praja ka nirmaan kiya.
+
+Bhagwan ne samjhaya ki alag-alag lok bhi hain — Swarg lok, Prithvi lok aur neeche ke lok.
+
+Lekin unhone ek khaas baat kahi:
+
+“Jo bhakti ka raasta chunta hai, uska antim ghar Vaikunth hota hai.”
+
+Krishna ne phir sansar ke ant ka rahasya bataya.
+
+Jab pralaya aata hai, tab dheere-dheere sab kuch wapas apne mool tattvon mein milne lagta hai.
+
+Prithvi jal mein, jal agni mein, agni hawa mein aur hawa aakash mein sama jaati hai.
+
+Aakhir mein sab kuch Prakriti aur phir Brahman mein vilin ho jaata hai.
+
+Bhagwan bole, “Jo vyakti samajh leta hai ki Atma alag hai aur duniya sirf badalne wali Maya hai, uska bhram toot jaata hai.”
+
+Unhone ek simple example diya.
+
+“Jaise Suraj nikalte hi andhera khatam ho jaata hai, waise hi sachcha gyaan aate hi moh aur confusion khatam ho jaata hai.”
+
+Ant mein Krishna ne kaha,
+
+“Sankhya Yoga ka asli uddeshya yeh samajhna hai ki Atma amar hai aur Bhagwan hi sabka antim sach hain.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 25
     with st.expander("Chapter 25 - The Three Guṇas and Their Workings"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 25 – Teen Gunon ka Rahasya
+
+Bhagwan Krishna ne Uddhava se kaha, “Ab main tumhe teen gunon — Sattva, Rajas aur Tamas — ke baare mein samjhaunga. Yeh teenon hi insaan ke sochne aur jeene ka tareeka badalte hain.”
+
+Sattva Guna – Shanti aur Gyaan
+
+Krishna bole, “Sattva guna mann ko shaant aur pavitra banata hai.”
+
+Isse insaan mein daya, sachchai, patience, self-control aur santosh aata hai.
+
+Aisa vyakti dusron ki madad karta hai aur galat kaam se door rehta hai.
+
+Uska mann Bhagwan aur sachchai ki taraf jaata hai."""
         create_image_text_layout(
             "attached_assets/chapter11/11.25.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+Rajas Guna – Ichchha aur Bechaini
+
+Bhagwan ne kaha, “Rajas guna insaan ko hamesha kuch paane ki ichchha deta hai.”
+
+Isse lalach, ahankaar, competition aur zyada kaam karne ki aadat badhti hai.
+
+Aisa vyakti fame, paisa aur sukh ke peeche bhaagta rehta hai.
+
+Uska mann kabhi shaant nahi rehta.
+
+Tamas Guna – Andhkaar aur Aalas
+
+Krishna bole, “Tamas guna mann ko andhera aur sust bana deta hai.”
+
+Isse gussa, jhooth, alasya, confusion aur dukh badhte hain.
+
+Aisa vyakti sahi aur galat ka farq samajhne mein mushkil mehsoos karta hai.
+
+Teenon Gun Sab Mein Hain
+
+Bhagwan ne samjhaya ki har insaan mein yeh teenon gun hote hain, bas kisi mein ek zyada hota hai aur kisi mein doosra.
+
+Jab Sattva badhta hai, toh insaan shaant aur gyaani banta hai.
+Jab Rajas badhta hai, toh mann restless ho jaata hai.
+Aur jab Tamas badhta hai, toh alasya aur andhkaar badhne lagta hai.
+
+Mann ki Pehchaan
+
+Krishna ne kaha,
+
+“Agar mann shaant ho, indriyaan control mein ho aur darr kam ho, toh samajh lo Sattva guna badh raha hai.”
+
+“Agar mann hamesha bechain rahe aur ichchhaon mein uljha ho, toh Rajas ka prabhav hai.”
+
+“Agar mann udaas, sust aur confused rahe, toh Tamas ka asar hai.”
+
+Bhakti Sabse Upar Hai
+
+Bhagwan ne ek bahut gehri baat kahi.
+
+“Jo vyakti bina kisi swarth ke sirf meri bhakti karta hai, woh teenon gunon se upar uth jaata hai.”
+
+Unhone bataya ki khaana, jagah, kaam, soch aur vishwas — sab par gunon ka asar hota hai.
+
+Achha aur pavitra bhojan Sattvik hota hai.
+Bahut teekha aur sirf taste ke liye khaaya gaya bhojan Rajasic hota hai.
+Ganda aur unhealthy bhojan Tamasic hota hai.
+
+Mukti ka Raasta
+
+Krishna bole, “Insaan ko pehle Sattva guna badhana chahiye. Phir dheere-dheere teenon gunon se upar uthkar Bhagwan mein mann lagana chahiye.”
+
+Unhone Uddhava se kaha,
+
+“Yeh manushya janm bahut keemti hai. Iska use gyaan, bhakti aur self-control ke liye karo.”
+
+Ant mein Bhagwan ne kaha,
+
+“Jo vyakti indriyon ko control karke bhakti mein sthir ho jaata hai, woh janam-maran aur Maya ke bandhan se azaad ho jaata hai.” """
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 26
     with st.expander("Chapter 26 - The Song of Aila (Purūravas)"):
-        text1 = """ """
+        text1 = """ 
+Chapter 26 – Raja Pururava ki Seekh
+
+Bhagwan Krishna ne Uddhava se kaha, “Jo vyakti bhakti ka raasta pakadta hai aur mujhe apne mann mein paata hai, woh dheere-dheere Maya aur moh se azaad ho jaata hai.”
+
+Phir Krishna ne Raja Pururava ki kahani sunayi.
+
+Pururava ek bahut mahaan aur shaktishaali raja tha. Lekin woh apsara Urvashi ke prem mein itna doob gaya ki apne aap ko hi bhool baitha.
+
+Jab Urvashi usse chhodkar chali gayi, tab Pururava pagal ki tarah uske peeche bhaagne laga.”"""
         create_image_text_layout(
             "attached_assets/chapter11/11.26.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Woh rota hua kehta, “Ruko Urvashi, mujhe chhodkar mat jao!”
+
+Prem aur moh mein doobe hone ke kaaran use samay ka bhi pata nahi chala. Kai saal beet gaye, lekin uska mann kabhi shaant nahi hua.
+
+Phir ek din usse apni galti samajh aayi.
+
+Pururava bola, “Mera moh kitna bada tha! Main poori duniya ka raja hote hue bhi ek prem ke jaal mein phans gaya.”
+
+Usne samjha ki vasna aur moh insaan ki buddhi ko andha bana dete hain.
+
+Woh bola, “Meri shakti, mera rajya aur mera gyaan sab bekaar ho gaya, kyunki main apne mann ko control nahi kar paaya.”
+
+Pururava ne apni galti ka dosh Urvashi ko nahi diya.
+
+Usne kaha, “Galti meri hi thi. Maine apni indriyon ko sambhala nahi.”
+
+Krishna ne samjhaya ki shareer dekhne mein sundar lag sakta hai, lekin asal mein woh sirf maans, haddiyan aur khoon se bana hai.
+
+Moh aur Maya hi use khoobsurat dikhate hain.
+
+Bhagwan ne kaha, “Jo vyakti sirf shareer aur sukh ke peeche bhaagta hai, woh kabhi asli shanti nahi paa sakta.”
+
+Pururava ko dheere-dheere samajh aa gaya ki sansarik sukh kabhi mann ko poori tarah santusht nahi karte.
+
+Tab usne duniya ke moh ko chhod diya aur Bhagwan ki taraf mann laga diya.
+
+Krishna ne Uddhava ko ek bahut zaroori baat samjhayi:
+
+“Buri sangat insaan ko andhkaar ki taraf le jaati hai. Isliye hamesha achhe aur sant logon ka saath karna chahiye.”
+
+Bhagwan bole, “Sant log hi insaan ko sansar ke dukh aur moh se bahar nikaalte hain.”
+
+Unhone santon ki tareef karte hue kaha,
+
+“Jaise doobte hue vyakti ko naav bachati hai, waise hi sant insaan ko sansar ke samundar se paar kara dete hain.”
+
+Ant mein Krishna ne kaha,
+
+“Jo vyakti bhakti, satsang aur self-control ka raasta chunta hai, woh dheere-dheere mann ki shanti aur Bhagwan ka sachcha anand pa leta hai.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 27
     with st.expander("Chapter 27 - The Yoga of Active Service"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 27 – Bhagwan ki Seva aur Bhakti ka Yoga
+
+Uddhava ne Krishna se poocha, “Hey Prabhu, log aapki pooja kaise karein? Kaunsi bhakti aur seva se insaan moksha paa sakta hai?”
+
+Bhagwan Krishna bole, “Meri pooja ke bahut saare tareeke hain. Main tumhe simple roop mein samjhata hoon.”
+
+Unhone kaha ki bhakti teen tareekon se ki ja sakti hai — Vedic, Tantric aur dono ka mila hua roop.
+
+Krishna bole, “Sabse zaroori cheez hai shraddha aur sachcha mann.”
+
+Bhagwan Har Jagah Hain"""
         create_image_text_layout(
             "attached_assets/chapter11/11.27.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Krishna ne samjhaya ki unki pooja sirf murti mein hi nahi hoti.
+
+Insaan Bhagwan ko agni, Suraj, jal, hriday aur pavitra Brahman mein bhi dekh sakta hai.
+
+Woh bole, “Jo bhi bhakti aur prem se mujhe yaad karta hai, main uske paas hota hoon.”
+
+Pooja se Pehle Shuddhi
+
+Bhagwan ne bataya ki pooja se pehle sharir aur mann dono ko saaf rakhna chahiye.
+
+Snan, prarthana aur shaant mann ke saath pooja karni chahiye.
+
+Unhone kaha ki murti alag-alag cheezon ki ho sakti hai — pathar, lakdi, mitti, chandan ya mann mein sochi hui roop mein bhi.
+
+Bhakti Mein Prem Sabse Zaroori
+
+Krishna bole, “Agar koi bhakt sirf ek boond paani bhi prem se chadhaaye, toh mujhe bahut khushi hoti hai.”
+
+Lekin bina bhakti ke diye gaye bade-bade uphaar mujhe khush nahi karte.
+
+Unhone phool, chandan, dhoop, deepak aur bhojan chadhaane ki baat bhi samjhayi.
+
+Dhyaan aur Mantra
+
+Bhagwan ne kaha ki pooja ke waqt mann ko un par lagaana chahiye.
+
+Bhakt ko unka sundar roop yaad karna chahiye — shankh, chakra, gada aur kamal dharan kiye hue.
+
+Krishna bole, “Mann se ki hui pooja bhi utni hi mahatvapurn hai jitni baahar ki pooja.”
+
+Bhajan aur Katha
+
+Bhagwan ne kaha,
+
+“Meri pooja ke baad mere gun gaao, meri kathayein suno aur khushi se bhajan karo.”
+
+Dance, music aur Bhagwan ki leelaon ka smaran bhi bhakti ka hissa hai.
+
+Sachchi Prarthana
+
+Krishna ne ek gehri prarthana batayi:
+
+“Hey Prabhu, main sansar ke dukh aur darr se ghabraya hua hoon. Mujhe apni sharan mein rakhiye.”
+
+Mandir aur Seva ka Mahatva
+
+Bhagwan ne kaha ki jo log mandir banaate hain, pooja aur seva ka intezaam karte hain, woh bahut punya paate hain.
+
+Lekin jo log Bhagwan ya Brahman ke liye di hui cheez churaate hain, woh paap ke bhaagi bante hain.
+
+Bhakti ka Asli Phal
+
+Ant mein Krishna ne Uddhava se kaha,
+
+“Jo vyakti bina swarth ke prem aur shraddha se meri seva karta hai, woh dheere-dheere mere paas aa jaata hai.”
+
+Bhagwan bole,
+
+“Sachchi bhakti sirf pooja nahi, balki prem, shraddha aur mann ki pavitrata hai.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 28
     with st.expander("Chapter 28 - The Essence of the Path of Knowledge (Jñāna Yoga)"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 28 – Gyaan Yoga ka Saar
+
+Bhagwan Krishna ne Uddhava se kaha, “Jo vyakti sachcha gyaan pa leta hai, woh duniya mein kisi ki burai ya zyada tareef nahi karta.”
+
+Krishna bole, “Yeh poora sansar Prakriti aur Atma ka khel hai. Isliye samajhdaar vyakti sab mein ek hi Parmatma ko dekhta hai.”
+
+Duniya ek Sapne Jaisi Hai
+
+Bhagwan ne samjhaya ki duniya ki bahut si cheezein asli lagti hain, lekin waise hi hain jaise sapne ya mirage.
+
+Jaise sapne mein dukh aur khushi sach lagte hain, waise hi Maya insaan ko sansar mein uljha deti hai.
+
+Krishna bole, “Jo vyakti sirf baahari farq dekhta hai, woh andhkaar mein phans jaata hai.”"""
         create_image_text_layout(
             "attached_assets/chapter11/11.28.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Atma aur Shareer Alag Hain
+
+Uddhava ne poocha, “Agar Atma alag hai aur shareer alag, toh dukh aur janam-maran kis ko hota hai?”
+
+Bhagwan ne jawab diya,
+
+“Atma kabhi janam nahi leti aur kabhi marti nahi. Janam aur mrityu shareer aur ahankaar se jude hote hain.”
+
+Unhone samjhaya ki jab Atma mann, indriyon aur shareer ko hi apna roop maan leti hai, tab sansar ka dukh shuru hota hai.
+
+Ahankaar hi Bandhan Hai
+
+Krishna bole, “Dukh, gussa, darr, lalach aur moh — yeh sab ahankaar se paida hote hain, Atma se nahi.”
+
+Atma toh hamesha shuddh aur prakash roop hai.
+
+Sona aur Gehno ka Example
+
+Bhagwan ne ek simple example diya.
+
+“Jaise sona alag-alag gehno mein badal jaata hai, lekin asal mein sona hi rehta hai, waise hi poora sansar Bhagwan ka hi roop hai.”
+
+Naam aur roop alag lagte hain, lekin sachchai ek hi hai.
+
+Gyaan ki Talwar
+
+Krishna ne kaha, “Insaan ko gyaan ki talwar se moh aur bhram ko kaat dena chahiye.”
+
+Jab sachcha gyaan aa jaata hai, tab insaan samajh leta hai ki duniya ki zyada cheezein temporary hain.
+
+Sachcha Gyani Kaise Hota Hai
+
+Bhagwan bole, “Jo vyakti sachchai ko jaan leta hai, woh duniya mein rehte hue bhi usmein phasta nahi.”
+
+Woh sukh aur dukh dono mein shaant rehta hai.
+
+Maya ka Asar
+
+Krishna ne samjhaya ki jab tak mann mein ichchha aur vasna rehti hai, tab tak Maya ka asar bana rehta hai.
+
+Isliye bhakti aur mann ka control bahut zaroori hai.
+
+Yog aur Sharir
+
+Bhagwan ne kaha ki kuch log sirf sharir ko strong aur young banane mein lage rehte hain.
+
+Lekin shareer ek din khatam ho hi jaata hai.
+
+Isliye samajhdaar vyakti shareer se zyada Atma aur Bhagwan par dhyaan deta hai.
+
+Antim Seekh
+
+Krishna ne Uddhava se kaha,
+
+“Jo vyakti bhakti, gyaan aur self-control ke saath jeevan jeeta hai, woh Maya ke bandhan se azaad ho jaata hai.”
+
+Aur jo apna mann Bhagwan mein laga deta hai, woh asli shanti aur anand pa leta hai।"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 29
     with st.expander("Chapter 29 - Bhakti Yoga Recapitulated: Departure of Uddhava to Badarikāśrama"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 29 – Uddhava ki Vidai aur Bhakti ka Saar
+
+Uddhava ne Krishna se kaha, “Hey Prabhu, mann ko control karna bahut mushkil hai. Aam logon ke liye koi simple raasta batayiye jisse woh aasani se aap tak pahunch sakein.”
+
+Bhagwan Krishna muskuraaye aur pyaar se bole, “Main tumhe sabse achha aur simple raasta batata hoon — Bhakti.”
+
+Har Kaam Bhagwan ko Samarpit Karo
+
+Krishna ne kaha,
+
+“Jo bhi kaam karo, mujhe yaad karke karo. Apne mann aur dil ko mujhme lagao.”"""
         create_image_text_layout(
             "attached_assets/chapter11/11.29.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Unhone samjhaya ki bhakti sirf mandir tak simit nahi hai.
+
+Bhagwan bole, “Mere bhakton ke saath raho, pavitra jagahon par jao aur milkar bhajan, utsav aur kirtan karo.”
+
+Sab Mein Bhagwan Ko Dekho
+
+Krishna ne ek bahut gehri baat kahi.
+
+“Har jeev mein mujhe dekho — chahe woh achha ho ya bura, ameer ho ya gareeb.”
+
+Jo vyakti sabko samaan nazar se dekhta hai, wahi sachcha gyani hai.
+
+Bhagwan bole, “Jab insaan sab mein mujhe dekhne lagta hai, tab uska gussa, jalan aur ahankaar dheere-dheere khatam ho jaata hai.”
+
+Namrata aur Prem
+
+Krishna ne kaha ki insaan ko itna vinamra banna chahiye ki woh har jeev ka samman kare — chahe woh janwar ho ya koi gareeb vyakti.
+
+Unhone kaha, “Mann, vaani aur karm — teeno se meri bhakti karo.”
+
+Bhakti Sabse Aasaan Raasta
+
+Bhagwan bole, “Mere paas pahunchne ke bahut raaste hain, lekin sabse asaan aur shaktishaali raasta hai sab mein Bhagwan ko dekhna.”
+
+Unhone samjhaya ki bhakti mein ki gayi chhoti si mehnat bhi kabhi bekaar nahi jaati.
+
+Krishna ka Vachan
+
+Krishna ne kaha,
+
+“Jo vyakti mera gyaan doosre bhakton ko samjhata hai, main khud uspar kripa karta hoon.”
+
+Aur jo shraddha se is gyaan ko sunta hai, woh karmon ke bandhan se dheere-dheere azaad ho jaata hai.
+
+Uddhava ka Moh Toot Gaya
+
+Krishna ki baatein sunkar Uddhava ki aankhon mein aansu aa gaye.
+
+Woh bole, “Prabhu, aapne mere mann ka andhkaar mita diya. Ab mera moh aur dukh khatam ho gaya.”
+
+Uddhava ne Krishna ke charanon mein sir jhuka diya.
+
+Badarikashram Jaane ka Aadesh
+
+Tab Krishna ne kaha,
+
+“Hey Uddhava, ab tum Badarikashram jao. Wahan tapasya aur dhyaan karo.”
+
+Unhone kaha ki Uddhava pavitra Ganga aur Alaknanda ke jal se apne mann ko aur pavitra kare.
+
+Krishna bole, “Simple jeevan jeeyo, indriyon ko control mein rakho aur jo gyaan maine diya hai uspar hamesha manan karo.”
+
+Bhavuk Vidai
+
+Yeh sunkar Uddhava bahut bhavuk ho gaya.
+
+Woh Krishna se door nahi jaana chahta tha. Aankhon mein aansu lekar usne baar-baar Krishna ko pranam kiya.
+
+Krishna ne apni khadaun Uddhava ko di. Uddhava ne unhe apne sir par rakha aur bhaari mann se Badarikashram ki taraf chal diya.
+
+Wahan pahunchkar usne Krishna ke bataye hue bhakti aur gyaan ke raaste par jeevan bitaya.
+
+Ant mein Uddhava ne Bhagwan ko hi apna sab kuch maan kar unka divya dhaam prapt kar liya."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 30
     with st.expander("Chapter 30 - Extermination of the Race of Yādavas"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 30 – Yadavo ka Ant aur Krishna ka Prasthan
+
+Raja Parikshit ne poocha, “Jab Uddhava Badarikashram chale gaye, tab Krishna ne Dwarka mein kya kiya? Aur Yadav vansh ka ant kaise hua?”
+
+Shukdev ji ne kahani shuru ki.
+
+Ashubh Sanket
+
+Krishna ne Dwarka mein bahut bure sanket dekhe — aasman, dharti aur hawa sab ajeeb lag rahe the.
+
+Tab Krishna ne Yadavo se kaha,"""
         create_image_text_layout(
             "attached_assets/chapter11/11.30.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        “Yeh achhe sanket nahi hain. Humein turant Dwarka chhod dena chahiye.”
+
+Unhone mahilaon, bachchon aur buzurgon ko surakshit jagah bhej diya.
+
+Baaki sab Prabhas teerth gaye, jahan unhone snan, daan aur pooja ki.
+
+Vinash ki Shuruaat
+
+Lekin kismat kuch aur hi thi.
+
+Yadav yoddhaon ne ek bahut tez sharab pee li. Usse unka hosh aur samajh dono khatam ho gaye.
+
+Dheere-dheere mazaak jhagdon mein badal gaya.
+
+Phir bhayankar yudh shuru ho gaya.
+
+Bhai bhai se ladne laga. Dost dost par hamla karne lage. Pita aur putra bhi ek doosre ke saamne aa gaye.
+
+Krishna ki Maya ke kaaran sab apna hosh kho baithe the.
+
+Eraka Ghaas ka Loha Ban Jana
+
+Jab unke hathiyaar khatam ho gaye, tab unhone zameen ki Eraka ghaas ukhaadi.
+
+Lekin woh ghaas turant lohe ke gadaon jaise sakht ban gayi.
+
+Sab ek doosre ko maarne lage.
+
+Krishna aur Balram ne unhe rokna chaha, lekin woh un par bhi hamla karne lage.
+
+Tab Krishna aur Balram ne bhi ghaas uthayi aur usi se yudh karna pada.
+
+Dheere-dheere poora Yadav vansh khatam ho gaya.
+
+Balram ka Prayan
+
+Yeh sab dekhkar Balram samundar ke kinaare chale gaye.
+
+Wahan unhone yog dhyaan lagaya aur shaanti se apna sharir chhod diya.
+
+Krishna ka Antim Samay
+
+Uske baad Krishna ek peepal ke ped ke neeche shaant hokar baith gaye.
+
+Unka divya roop chamak raha tha — neele megh jaisa rang, vanmala, mukut aur Kaustubh mani ke saath.
+
+Tab Jara naam ka ek shikari wahan aaya.
+
+Usne Krishna ke pair ko door se hiran samajh liya aur teer chala diya.
+
+Jab woh paas aaya, tab usne dekha ki usne Bhagwan Krishna ko teer maara hai.
+
+Woh darr gaya aur Krishna ke charanon mein gir pada.
+
+Woh rota hua bola, “Prabhu, mujhse yeh galti anjaane mein ho gayi. Kripya mujhe maaf kar dijiye.”
+
+Krishna ne shaant swar mein kaha,
+
+“Dar mat, Jara. Yeh sab meri ichchha se hi hua hai.”
+
+Krishna ne use maaf kar diya aur swarg jaane ka aashirvaad diya.
+
+Daruka ka Dukh
+
+Krishna ke saarathi Daruka unhe dhoondte hue wahan pahunch gaye.
+
+Krishna ko dekhkar unki aankhon mein aansu aa gaye.
+
+Krishna ne unse kaha,
+
+“Dwarka jao aur sabko bata do ki Yadav vansh ka ant ho chuka hai. Jaldi hi samundar Dwarka ko bhi dubo dega.”
+
+Unhone kaha ki sab log Arjun ke saath Indraprastha chale jaayein.
+
+Antim Seekh
+
+Krishna ne Daruka ko samjhaya,
+
+“Yeh duniya aur sansar Maya ka khel hai. Isliye mann ko Bhagwan aur sachchai mein sthir rakho.”
+
+Is tarah Krishna ne apni dharti ki leela samaapt ki.
+
+Aur duniya ko yeh seekh dekar chale gaye ki ahankaar, gussa aur adharm aakhir mein vinaash hi laate hain."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 31
     with st.expander("Chapter 31 - Lord Kṛṣṇa’s Return to Vaikuṇṭha"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 31 – Krishna ka Vaikunth Wapsi
+
+Shukdev ji ne kaha, “Jab Daruka Dwarka laut gaya, tab aasman mein ek adbhut drishya dikhai diya.”
+
+Brahma ji, Shiv ji aur Mata Parvati ke saath bahut se devta, rishi, Gandharv aur divya jeev Krishna ke paas aaye.
+
+Sab Krishna ke Vaikunth wapas jaane ka drishya dekhna chahte the.
+
+Aasman divya vimaano se bhar gaya. Devta Krishna ki mahima gaate hue un par phool barsa rahe the.
+
+Krishna ka Divya Roop"""
         create_image_text_layout(
             "attached_assets/chapter11/11.31.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Krishna ne sab devtaon ko dekha aur shaant hokar dhyaan mein baith gaye.
+
+Unhone apni aankhen bandh kar li aur gehri samadhi mein chale gaye.
+
+Phir bina apna divya shareer chhode, woh apne asli dhaam Vaikunth ki taraf chale gaye.
+
+Us samay aasman mein dundubhi bajne lagi aur phoolon ki baarish hone lagi.
+
+Satya, Dharma, Tej aur Lakshmi jaise divya gun bhi Krishna ke saath dharti chhodkar chale gaye.
+
+Devta bhi Hairaan Reh Gaye
+
+Brahma aur doosre devta Krishna ke is adbhut prasthan ko poori tarah samajh nahi paaye.
+
+Krishna itni divya tarah se antardhyaan hue jaise badalon mein chamakti bijli pal bhar mein gayab ho jaaye.
+
+Sab devta unki mahima gaate hue apne-apne lok laut gaye.
+
+Krishna ki Leela
+
+Shukdev ji ne samjhaya,
+
+“Bhagwan ka janm, karm aur ant sab unki divya leela hai.”
+
+Woh sansar ko rachkar usmein leela karte hain aur phir sab kuch apne andar sama lete hain.
+
+Krishna chaahte toh apne shareer ko hamesha rak sakte the, kyunki unhone maut ke lok se bhi logon ko wapas laaya tha.
+
+Lekin unhone duniya ko yeh dikhaya ki jo Atma mein sthir ho jaata hai, woh sharir ke bandhan se pare ho jaata hai.
+
+Dwarka mein Dukh
+
+Udhar Daruka Dwarka pahunch gaya.
+
+Woh rote hue Vasudev aur Ugrasen ke charanon mein gir pada aur Yadav vansh ke vinaash ki khabar di.
+
+Yeh sunkar poori Dwarka dukh mein doob gayi.
+
+Devaki, Rohini aur Vasudev Krishna aur Balram ke bina jee nahi paaye aur shok mein apne praan chhod diye.
+
+Yadav vansh ki mahilaayein bhi apne pati aur parivaar ke saath agni mein pravesh kar gayin.
+
+Rukmini aur Krishna ki doosri raniyon ne bhi Krishna ko yaad karte hue apna sharir tyaag diya.
+
+Arjun ka Dukh
+
+Arjun apne priya mitra Krishna ke bichhadne se bahut dukhi tha.
+
+Lekin usne Krishna ke diye hue Gita ke gyaan ko yaad karke apne mann ko sambhala.
+
+Usne sab Yadavo ke antim sanskaar karvaaye aur bache hue logon ko surakshit Indraprastha le gaya.
+
+Dwarka ka Doobna
+
+Krishna ke chale jaane ke baad samundar dheere-dheere Dwarka nagari ko dubone laga.
+
+Sirf Krishna ka mahal paani mein nahi dooba.
+
+Arjun ne Yadav vansh ke bache hue logon ki raksha ki aur Vajra ko unka naya raja bana diya.
+
+Antim Seekh
+
+Shukdev ji ne kaha,
+
+“Jo vyakti Krishna ki leelaon aur unke gyaan ko shraddha se sunta ya sunata hai, uska mann pavitra ho jaata hai.”
+
+Aur jo sachche prem se Bhagwan ko yaad karta hai, woh dheere-dheere sansar ke dukh aur paapon se mukta ho jaata hai."""
         create_image_text_layout(text_content=text2, layout="full")
