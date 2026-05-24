@@ -1070,131 +1070,456 @@ Uddhav vinamrata se bole,
 
     # Chapter 11
     with st.expander("Chapter 11 - Characteristics of Bondage and Liberation and of Devotion"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 11 – Bandhan, Mukti aur Bhakti ki Kahani
+
+Bhagwan Krishna ne Uddhava se kaha, “Insaan sochta hai ki woh bandhan mein hai ya azaad hai. Lekin asli Atma kabhi bandhi nahi hoti. Yeh sab Maya ka khel hai.”
+
+Unhone samjhaya ki dukh, sukh, darr aur moh sab sapne ki tarah hote hain. Jaise sapna sach nahi hota, waise hi duniya ka bahut saara dukh bhi sirf bhram hota hai.
+
+Krishna ne kaha, “Gyaan aur agyaan dono meri shaktiyan hain. Agyaan insaan ko baandhta hai, aur gyaan use azaad karta hai.”"""
         create_image_text_layout(
             "attached_assets/chapter11/11.11.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Phir Bhagwan ne ek sundar misaal di. Ek ped par do pakshi baithe the. Ek pakshi phal kha raha tha. Kabhi meetha, kabhi kadwa. Dusra pakshi bas shaant hokar dekh raha tha.
+Pehla pakshi Jiva tha, jo duniya ke sukh-dukh mein uljha rehta hai. Dusra Bhagwan tha, jo hamesha shaant aur azaad rehte hain.
+
+Bhagwan ne kaha, “Jo vyakti samajh leta hai ki woh sirf shareer nahi, balki Atma hai, woh dheere-dheere dukh se door ho jata hai.”
+
+Ek gyani vyakti kisi ki burai ya tareef mein zyada nahi padta. Woh sabko ek samaan dekhta hai. Uska mann shaant rehta hai.
+
+Krishna ne bataya ki sirf kitab padhne se sachcha gyaan nahi milta. Agar dil mein bhakti aur prem na ho, toh sab mehnat adhuri reh jaati hai.
+
+Phir Uddhava ne poocha, “Bhagwan, sachcha sant kaun hota hai?”
+
+Bhagwan muskuraaye aur bole, “Jo sab par daya karta hai, kisi se jalan nahi rakhta, sach bolta hai aur apne mann ko shaant rakhta hai, wahi sachcha sant hai.”
+
+Unhone kaha ki sachcha bhakt hamesha Bhagwan ki kahaniyan sunta hai, unka naam leta hai, dusron ki madad karta hai aur bina swarth ke seva karta hai.
+
+Bhagwan ne samjhaya, “Jo vyakti apni sabse pyari cheez bhi prem se mujhe arpan karta hai, uska jeevan safal ho jata hai.”
+
+Ant mein Krishna ne kaha, “Sabse bada raasta bhakti ka hai. Achhe aur sant logon ki sangat se hi sachchi bhakti paida hoti hai.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 12
     with st.expander("Chapter 12 - The Performance and Renunciation of Prescribed Karmas"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 12 – Santon ki Sangat aur Sachchi Bhakti
+
+Bhagwan Krishna ne Uddhava se kaha, “Sirf yoga, tapasya, daan ya Vedas padhne se mujhe paana aasaan nahi hota. Sabse bada raasta hai achhe santon ki sangat.”
+
+Unhone samjhaya ki jab insaan achhe aur bhakt logon ke saath rehta hai, tab uska mann dheere-dheere pavitra ho jata hai.
+
+Bhagwan ne bahut examples diye. Unhone bataya ki Prahlad, Hanuman, Gajendra haathi, Jatayu pakshi aur Vrindavan ki Gopiyan sabne bhakti aur santon ki sangat se unhe paaya."""
         create_image_text_layout(
             "attached_assets/chapter11/11.12.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Krishna ne kaha, “Inme se kai logon ne bade yagya ya kathin tapasya nahi ki thi. Phir bhi unhone mujhe paa liya, kyunki unka prem sachcha tha.”
+
+Vrindavan ki Gopiyan Krishna se bahut prem karti thi. Jab Krishna Mathura chale gaye, toh unhe bahut dukh hua. Unka mann hamesha Krishna mein hi laga rehta tha.
+
+Bhagwan ne kaha, “Sachchi bhakti mein insaan apne aap ko bhi bhool jata hai. Sirf Bhagwan ka prem reh jata hai.”
+
+Phir Krishna ne Uddhava ko samjhaya ki duniya ek bade vriksh ki tarah hai. Is vriksh ki jad hai ichchha aur karm. Is par sukh aur dukh dono phal lagte hain.
+
+Jo log sirf duniya ke sukh ke peeche bhaagte hain, woh dukhi rehte hain. Lekin jo gyaan aur bhakti ka raasta chunte hain, woh shanti pa lete hain.
+
+Bhagwan ne kaha, “Guru ki seva aur sachcha gyaan ek tez kulhadi ki tarah hai. Yeh janam-maran ke bandhan ko kaat deta hai.”
+
+Unhone akhir mein kaha, “Mere prati poori shraddha aur prem rakho. Santon ki sangat karo. Tab tumhe asli shanti aur moksha milega.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 13
     with st.expander("Chapter 13 - The Spiritual Knowledge Imparted by the Divine Swan"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 13 – Divine Hans ki Gyaan Bhari Seekh
+
+Bhagwan Krishna ne Uddhava se kaha, “Sattva, Rajas aur Tamas yeh teen gun insaan ke mann aur buddhi ke hote hain, Atma ke nahi.”
+
+Unhone samjhaya ki Sattva guna shanti, sachchai aur bhakti ko badhata hai. Rajas insaan ko ichchha aur lalach mein daalta hai. Tamas आलस aur andhkaar laata hai.
+
+Krishna ne kaha, “Jo vyakti achhi cheezein, achhe vichaar aur achha sang chunta hai, uska Sattva badhta hai. Phir uske andar bhakti aur gyaan aata hai.”"""
         create_image_text_layout(
             "attached_assets/chapter11/11.13.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Uddhava ne poocha, “Log jaante hue bhi galat cheezon ke peeche kyun bhaagte hain?”
+
+Bhagwan bole, “Jab mann par Rajas ka asar hota hai, toh insaan baar-baar sukh dene wali cheezon ke baare mein sochta hai. Dheere-dheere uski ichchha bahut strong ho jaati hai aur woh apne aap ko rok nahi paata.”
+
+Krishna ne samjhaya ki gyani vyakti ko apne mann ko dhyaan aur saans par control karke shaant banana chahiye.
+
+Phir Uddhava ne poocha, “Aapne purane rishiyon ko yeh gyaan kaise diya tha?”
+
+Bhagwan ne ek purani kahani sunayi.
+
+Bahut pehle Sanak aur dusre rishiyon ne Brahma ji se poocha, “Mann aur duniya ek dusre mein itne uljhe kyun hain? Insaan inse azaad kaise ho?”
+
+Brahma ji kuch der sochte rahe, lekin jawab poori tarah samajh nahi paaye. Tab Bhagwan ek sundar hans ke roop mein wahan aaye.
+
+Rishiyon ne poocha, “Aap kaun hain?”
+
+Bhagwan muskuraaye aur bole, “Jab sab mein ek hi Atma hai, toh ‘tum kaun ho’ aur ‘main kaun hoon’ ka farq sirf mann ka bhram hai.”
+
+Unhone samjhaya ki yeh duniya sapne ki tarah hai. Jaise sapna tootne par sab gayab ho jata hai, waise hi duniya ke bahut saare dukh aur farq bhi ek din mit jaate hain.
+
+Bhagwan ne kaha, “Jo vyakti apne andar mujhe mehsoos karta hai, woh darr aur moh se azaad ho jata hai.”
+
+Unhone bataya ki mann ko dheere-dheere duniya ki ichchhaon se hata kar Bhagwan mein lagana chahiye. Tab insaan ko asli shanti milti hai.
+
+Ant mein Bhagwan ne kaha, “Gyaan, yoga aur dharma ka asli lakshya main hi hoon. Jo mujhe apne dil mein pa leta hai, uske sab doubts khatam ho jaate hain.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 14
     with st.expander("Chapter 14 - The Path of Devotion and the Method of Meditation"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 14 – Bhakti ka Raasta aur Dhyaan ki Vidhi
+
+Uddhava ne Krishna se poocha, “Log kehte hain ki moksha paane ke bahut raaste hain. Kya sab barabar hain ya koi ek sabse bada hai?”
+
+Bhagwan Krishna bole, “Sabse uttam raasta Bhakti ka hai. Jab insaan sachche prem se mujhe yaad karta hai, uska mann dheere-dheere duniya ki ichchhaon se door ho jata hai.”
+
+Krishna ne bataya ki prachin samay mein unhone yeh gyaan Brahma ji ko diya tha. Brahma ji ne ise Manu aur rishiyon ko sikhaya. Phir yeh gyaan duniya mein phail gaya."""
         create_image_text_layout(
             "attached_assets/chapter11/11.14.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Lekin har insaan ka swabhav alag tha. Isliye logon ne alag-alag raaste chun liye.
+Kisi ne dhan ko sabse bada maana. Kisi ne tapasya ko. Kisi ne sukh aur bhog ko.
+
+Bhagwan ne kaha, “Yeh sab cheezein kuch samay ke liye khushi deti hain, lekin hamesha ki shanti nahi deti.”
+
+Unhone samjhaya ki jo vyakti bina kisi swarth ke Bhagwan se prem karta hai, wahi asli anand paata hai.
+
+Krishna bole, “Mera sachcha bhakt mujhe chhodkar aur kuch nahi chahta. Na swarg, na shakti, na dhan.”
+
+Bhagwan ne kaha ki bhakti ek jalti hui agni ki tarah hai. Jaise aag lakdi ko jala kar raakh bana deti hai, waise hi bhakti paapon aur bure sanskaron ko mita deti hai.
+
+Jo bhakt prem se Bhagwan ka naam leta hai, kabhi gaata hai, kabhi ro padta hai aur kabhi khushi se nachne lagta hai, uska dil pavitra ho jata hai.
+
+Krishna ne samjhaya, “Jis tarah mann baar-baar duniya ki cheezon ko sochkar unmein phans jata hai, waise hi agar mann mujhe yaad kare, toh woh mujh mein hi lag jata hai.”
+
+Phir Uddhava ne poocha, “Dhyaan ka sahi tareeka kya hai?”
+
+Bhagwan ne bade shaant mann se bataya:
+
+“Ek saaf aur shaant jagah par seedha baitho. Saans ko dheere-dheere control karo. Mann ko shaant banao.”
+
+Phir unhone kaha ki dhyaan mein Bhagwan ke sundar roop ko mann mein dekhna chahiye — unka komal chehra, madhur muskaan, shankh, chakra aur unka daya se bhara roop.
+
+Krishna bole, “Dheere-dheere mann ko duniya se hata kar sirf mujhmein laga do. Tab insaan ko asli shanti aur anand milta hai.”
+
+Ant mein Bhagwan ne kaha, “Jab mann poori tarah Bhagwan mein sama jata hai, tab saare darr, dukh aur bhram khatam ho jaate hain.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 15
     with st.expander("Chapter 15 - The Super-normal Powers Attained by Yoga"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 15 – Yog ki Shaktiyan aur Asli Raasta
+
+Bhagwan Krishna ne Uddhava se kaha, “Jo yogi apne mann, indriyon aur saans par control kar leta hai aur mujhmein dhyaan lagata hai, usse bahut adbhut shaktiyan mil sakti hain.”
+
+Uddhava ne poocha, “Yeh shaktiyan kaunsi hoti hain?”
+
+Bhagwan ne bataya ki yog se kai siddhiyan milti hain. Kuch yogi apne shareer ko bahut chhota ya bahut bada bana sakte hain. Kuch door ki cheezein dekh aur sun sakte hain. Kuch mann ki speed se kahin bhi pahunch sakte hain."""
         create_image_text_layout(
             "attached_assets/chapter11/11.15.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Kuch yogi apni ichchha se alag roop le sakte hain. Kuch dusron ke mann ko samajh sakte hain. Yeh sab yog ki shaktiyan thi.
+
+Lekin Krishna ne ek bahut zaroori baat kahi.
+
+Unhone bola, “Yeh siddhiyan dekhne mein bahut badi lagti hain, lekin asli yog ka lakshya sirf shakti paana nahi hai.”
+
+Bhagwan ne samjhaya ki agar yogi in shaktiyon mein hi phans jaye, toh uska dhyaan Bhagwan se hat sakta hai.
+
+Krishna bole, “Sachcha yog wahi hai jo insaan ko Bhagwan ke aur kareeb le aaye.”
+
+Phir unhone alag-alag dhyaan ke tareeke bataye.
+Kisi yogi ko Bhagwan ko prakriti mein dekhna chahiye. Kisi ko unhe apne hriday mein mehsoos karna chahiye. Kisi ko unki shant aur prakashmay roop par dhyaan lagana chahiye.
+
+Bhagwan ne kaha, “Jo vyakti poore mann se mujhmein dhyaan lagata hai, uske andar dheere-dheere pavitrata aur gyaan jagta hai.”
+
+Unhone samjhaya ki yog se mili shaktiyan temporary hoti hain, lekin Bhagwan ka prem aur moksha sabse bada dhan hai.
+
+Krishna bole, “Jo bhakt sirf mujhe paana chahta hai, uske liye siddhiyan bhi rukawat ban sakti hain.”
+
+Ant mein Bhagwan ne kaha, “Main sabke andar hoon aur sab jagah maujood hoon. Jo mujhe har jeev mein dekhta hai, wahi asli yog ko samajhta hai.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 16
     with st.expander("Chapter 16 - Description of Viṣṇu’s Glorious Manifestations"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 16 – Bhagwan Vishnu ki Divya Mahima
+
+Uddhava ne Krishna se kaha, “Hey Prabhu, aap har jagah kaise maujood hain? Log aapko kin-kin roopon mein yaad karein?”
+
+Bhagwan Krishna muskuraaye aur bole, “Main hi sabka creator, protector aur guide hoon. Har jeev aur har sundar cheez mein mera hi ek hissa chhupa hai.”
+
+Krishna ne samjhaya ki duniya ki har khaas aur shaktishaali cheez unki mahima ka ek chhota sa roop hai.
+
+Unhone kaha, “Vedo mein main Om hoon. Devtaon mein main Indra hoon. Pahadon mein Himalaya hoon. Nadiyon mein Ganga hoon.”"""
         create_image_text_layout(
             "attached_assets/chapter11/11.16.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Bhagwan bole, “Pedon mein main Peepal hoon. Pashuon mein sher hoon. Pakshiyon mein Garuda hoon. Hathi mein Airavat hoon.”
+
+Krishna ne kaha, “Rishiyon mein Narad hoon. Veeron mein Arjun hoon. Bhakton mein Prahlad hoon.”
+
+Unhone samjhaya ki jahan bhi shakti, sundarta, daya, gyaan ya himmat dikhe, samajh lo wahan Bhagwan ka ek ansh hai.
+
+Krishna bole, “Jo bhi cheez logon ko achchai aur sachchai ki taraf le jaaye, usmein meri chamak hoti hai.”
+
+Phir Bhagwan ne ek zaroori baat kahi.
+
+“Sirf duniya ki sundar cheezon mein ulajh mat jaana. Un sabke peeche jo ek sachchai hai, mujhe pehchaano.”
+
+Unhone kaha ki mann, vaani aur indriyon ko control karna bahut zaroori hai. Agar insaan apne mann ko sambhal nahi paata, toh uska gyaan dheere-dheere bekaar ho jata hai.
+
+Krishna ne samjhaya, “Jaise kaccha ghada paani nahi sambhal sakta, waise hi bina mann ko control kiye tapasya aur gyaan tik nahi paate.”
+
+Ant mein Bhagwan bole, “Apna mann aur dil poori tarah mujhmein laga do. Tab tum janam-maran ke dukh se azaad ho jaoge.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 17
     with st.expander("Chapter 17 - The Sacred Duties of a Celibate and a Householder"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 17 – Brahmachari aur Grihastha ke Kartavya
+
+Uddhava ne Krishna se kaha, “Hey Prabhu, log kaise jeevan jeeyein ki unke andar bhakti badhe aur woh sahi raaste par chalein?”
+
+Bhagwan Krishna bole, “Har insaan ke jeevan ka ek dharm aur zimmedari hoti hai. Agar woh imaandari aur bhakti se apne kartavya nibhaye, toh uska mann pavitra ho jata hai.”
+
+Krishna ne bataya ki purane yug mein log bahut simple aur pavitra the. Unka mann sirf Bhagwan ki bhakti mein laga rehta tha."""
         create_image_text_layout(
             "attached_assets/chapter11/11.17.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Phir dheere-dheere society mein alag-alag zimmedariyan bani. Kuch log gyaan aur shiksha dene lage, kuch raksha karne lage, kuch vyapar karne lage aur kuch seva karne lage.
+
+Bhagwan ne kaha, “Sabse zaroori baat hai achha swabhav.”
+
+Unhone samjhaya ki sachchai, daya, santosh, self-control aur bhakti har insaan ke liye zaroori hain.
+
+Phir Krishna ne Brahmachari yani student jeevan ke baare mein bataya.
+
+Unhone kaha, “Ek vidyarthi ko discipline mein rehna chahiye. Guru ka samman karna chahiye. Mann aur indriyon ko control mein rakhna chahiye.”
+
+Student ko simple jeevan jeena chahiye, dhyaan aur padhai par focus karna chahiye aur ahankaar se door rehna chahiye.
+
+Bhagwan ne kaha, “Guru ko sirf teacher nahi, balki Bhagwan ka roop samajhna chahiye.”
+
+Uske baad Krishna ne Grihastha jeevan samjhaya.
+
+Unhone kaha, “Ek householder ko imaandari se kamaana chahiye, parivaar ka dhyaan rakhna chahiye aur dusron ki madad karni chahiye.”
+
+Lekin Krishna ne ek important baat bhi kahi.
+
+“Parivaar se prem karo, lekin itna attached mat ho jao ki Bhagwan ko bhool jao.”
+
+Unhone samjhaya ki duniya ke rishte safar mein mile musafiron jaise hote hain. Kuch samay saath rehte hain, phir alag ho jaate hain.
+
+Bhagwan bole, “Jo vyakti ghar mein rehkar bhi mann se shaant aur detached rehta hai, wahi sach mein azaad hai.”
+
+Krishna ne bataya ki insaan ko paisa aur sukh ke peeche andha nahi banna chahiye. Zyada moh aur chinta insaan ko dukhi kar dete hain.
+
+Ant mein Bhagwan ne kaha, “Chahe student ho, householder ho ya sanyasi — agar koi apne kartavya bhakti aur sachchai se karta hai, toh woh dheere-dheere mujhe paa leta hai.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 18
     with st.expander("Chapter 18 - Duties of Hermits (Vānaprastha) and Sannyāsins"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 18 – Vanaprastha aur Sanyasi ka Jeevan
+
+Bhagwan Krishna ne Uddhava se kaha, “Jab insaan dheere-dheere budhape ki taraf badhta hai, toh use duniya ke moh ko kam karke Bhagwan ki taraf mann lagana chahiye.”
+
+Unhone bataya ki Vanaprastha jeevan mein vyakti ghar ki zimmedari apne bachchon ko dekar shaant aur simple jeevan jeeta hai.
+
+Woh jungle ya shaant jagah mein rehkar phal, jad aur prakriti ki simple cheezon se jeevan chalata hai. Dheere-dheere uska mann duniya se alag hone lagta hai."""
         create_image_text_layout(
             "attached_assets/chapter11/11.18.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Krishna ne kaha, “Vanaprasthi ko tapasya, self-control aur dhyaan se apne mann ko pavitra banana chahiye.”
+
+Lekin Bhagwan ne ek important baat bhi samjhayi.
+
+“Bahut kathin tapasya sirf dikhawa ya chhoti ichchhaon ke liye karna moorkhta hai. Asli lakshya Bhagwan ko paana hai.”
+
+Phir Krishna ne Sanyasi ke jeevan ke baare mein bataya.
+
+Unhone kaha, “Jab insaan ke mann mein sachcha vairagya aa jaye aur duniya ke sukh bekaar lagne lage, tab woh sanyas le sakta hai.”
+
+Ek sanyasi ko bahut simple jeevan jeena chahiye. Zyada samaan, paisa ya comfort nahi rakhna chahiye.
+
+Woh sirf zarurat bhar ka khaana aur kapde rakhe aur bina ahankaar ke jeevan bitaye.
+
+Bhagwan bole, “Sachcha sanyasi wahi hai jo mann aur indriyon ko control kare. Sirf sanyasi ke kapde pehen lene se koi mahaan nahi ban jaata.”
+
+Krishna ne samjhaya ki sanyasi ko sab logon ko ek samaan dekhna chahiye. Kisi se dushmani ya gussa nahi rakhna chahiye.
+
+Unhone kaha, “Yeh duniya aur shareer ek sapne ki tarah hain. Isliye inmein zyada moh nahi rakhna chahiye.”
+
+Bhagwan ne bataya ki jo vyakti sachche guru ki seva karta hai aur bhakti ke saath gyaan seekhta hai, woh dheere-dheere Bhagwan ko mehsoos karne lagta hai.
+
+Krishna bole, “Har ashram ka apna dharm hai — student ka guru seva, householder ka parivaar aur samaj ki raksha, vanaprasthi ka tapasya aur sanyasi ka self-control.”
+
+Lekin sabke liye ek cheez sabse important hai — Bhagwan ki bhakti.
+
+Ant mein Bhagwan ne kaha, “Jo vyakti apne kartavya imaandari aur bhakti se karta hai aur har jeev mein mujhe dekhta hai, woh jaldi hi mujhe paa leta hai.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 19
     with st.expander("Chapter 19 - Exposition of Spiritual Knowledge"):
-        text1 = """ """
+        text1 = """ 
+        Krishna ne kaha, “Vanaprasthi ko tapasya, self-control aur dhyaan se apne mann ko pavitra banana chahiye.”
+
+Lekin Bhagwan ne ek important baat bhi samjhayi.
+
+“Bahut kathin tapasya sirf dikhawa ya chhoti ichchhaon ke liye karna moorkhta hai. Asli lakshya Bhagwan ko paana hai.”
+
+Phir Krishna ne Sanyasi ke jeevan ke baare mein bataya.
+
+Unhone kaha, “Jab insaan ke mann mein sachcha vairagya aa jaye aur duniya ke sukh bekaar lagne lage, tab woh sanyas le sakta hai.”
+
+Ek sanyasi ko bahut simple jeevan jeena chahiye. Zyada samaan, paisa ya comfort nahi rakhna chahiye.
+
+Woh sirf zarurat bhar ka khaana aur kapde rakhe aur bina ahankaar ke jeevan bitaye.
+
+Bhagwan bole, “Sachcha sanyasi wahi hai jo mann aur indriyon ko control kare. Sirf sanyasi ke kapde pehen lene se koi mahaan nahi ban jaata.”
+
+Krishna ne samjhaya ki sanyasi ko sab logon ko ek samaan dekhna chahiye. Kisi se dushmani ya gussa nahi rakhna chahiye.
+
+Unhone kaha, “Yeh duniya aur shareer ek sapne ki tarah hain. Isliye inmein zyada moh nahi rakhna chahiye.”
+
+Bhagwan ne bataya ki jo vyakti sachche guru ki seva karta hai aur bhakti ke saath gyaan seekhta hai, woh dheere-dheere Bhagwan ko mehsoos karne lagta hai.
+
+Krishna bole, “Har ashram ka apna dharm hai — student ka guru seva, householder ka parivaar aur samaj ki raksha, vanaprasthi ka tapasya aur sanyasi ka self-control.”
+
+Lekin sabke liye ek cheez sabse important hai — Bhagwan ki bhakti.
+
+Ant mein Bhagwan ne kaha, “Jo vyakti apne kartavya imaandari aur bhakti se karta hai aur har jeev mein mujhe dekhta hai, woh jaldi hi mujhe paa leta hai.”"""
         create_image_text_layout(
             "attached_assets/chapter11/11.19.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        Uddhava ne vinamrata se kaha, “Hey Prabhu, sansar ke dukh bahut bade hain. Aap hi meri raksha kar sakte hain. Kripya mujhe bhakti aur gyaan ka sahi raasta samjhaiye.”
+
+Tab Krishna ne Bhishma Pitamah ki seekh yaad dilayi.
+
+Unhone kaha, “Asli gyaan yeh hai ki har jeev aur har cheez mein ek hi Parmatma ko dekha jaye.”
+
+Jo vyakti har jagah ek hi Atma ko mehsoos karta hai, uska darr aur moh dheere-dheere khatam ho jata hai.
+
+Phir Bhagwan ne Bhakti ka simple raasta bataya.
+
+“Prem se meri kahaniyan suno, mera naam lo, meri stuti karo, dusron ki seva karo aur har kaam mujhe samarpit karo.”
+
+Krishna ne kaha, “Jab mann Bhagwan mein lagta hai, tab woh shaant aur pavitra ho jata hai. Lekin jab mann duniya ki ichchhaon mein phans jata hai, tab dukh badhne lagta hai.”
+
+Uske baad Uddhava ne poocha, “Asli self-control aur achchai kya hoti hai?”
+
+Bhagwan ne bahut simple jawab diya.
+
+“Dusron ko dukh na dena, sach bolna, lalach se door rehna aur mann ko control karna hi asli dharm hai.”
+
+Krishna bole, “Asli daan dusron ko suraksha aur daya dena hai. Asli bahaduri apni buri ichchhaon ko jeetna hai.”
+
+Unhone kaha, “Jo har jagah ek hi Bhagwan ko dekhta hai, wahi sach mein gyani hai.”
+
+Bhagwan ne samjhaya ki sirf bahar ka dikhawa important nahi hota. Asli pavitrata mann ki hoti hai.
+
+Krishna bole, “Jiska mann indriyon ka gulaam hai, woh dukhi rehta hai. Lekin jo mann ko control kar leta hai, wahi sachcha swami hai.”
+
+Ant mein Bhagwan ne kaha, “Achha aur bura samajhne ka sabse bada tareeka yeh hai — dusron ki kamiyaan dekhne ki aadat chhod do aur apna mann Bhagwan mein laga do.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 20
     with st.expander("Chapter 20 - Elucidation of Karma, Jñāna and Bhakti Yogas"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 20 – Karma, Gyaan aur Bhakti ka Asli Arth
+
+Uddhava ne Krishna se poocha, “Agar Vedas achhe aur bure karm bataate hain, toh phir aap kyun kehte hain ki achha-bura sochne mein hi ulajhna theek nahi?”
+
+Bhagwan Krishna bole, “Logon ki alag-alag soch aur swabhav ke liye maine teen raaste bataye hain — Karma Yoga, Gyaan Yoga aur Bhakti Yoga.”
+
+Unhone samjhaya:"""
         create_image_text_layout(
             "attached_assets/chapter11/11.20.jpg",
             text1,
             layout="side",
             image_position="left"
         )
-        text2 = """ """
+        text2 = """ 
+        “Jo duniya aur karmon se thak chuka hai, uske liye Gyaan ka raasta hai.
+Jo abhi bhi ichchhaon mein laga hai, uske liye Karma ka raasta hai.
+Aur jiske dil mein mere liye prem jag gaya hai, uske liye Bhakti ka raasta sabse sundar hai.”
+
+Krishna ne kaha ki insaan ko apne kartavya karte rehna chahiye jab tak uske mann mein sachchi bhakti ya vairagya na aa jaye.
+
+Bhagwan bole, “Yeh manushya janam bahut keemti hai. Swarg ke devta bhi is janam ko paana chahte hain, kyunki isi jeevan mein moksha mil sakta hai.”
+
+Unhone ek sundar misaal di.
+
+“Yeh shareer ek nauka ki tarah hai. Guru uska maajhi hai aur Bhagwan ki kripa hawa ki tarah madad karti hai. Jo insaan is mauke ka use nahi karta, woh apne aap ko nuksan pahunchata hai.”
+
+Krishna ne samjhaya ki mann bahut chanchal hota hai. Kabhi-kabhi dhyaan karte waqt bhi woh duniya ki taraf bhaagta hai.
+
+Lekin yogi ko himmat nahi harni chahiye. Dheere-dheere pyaar aur practice se mann ko wapas Bhagwan ki taraf lana chahiye.
+
+Bhagwan bole, “Jaise ghode ko pyaar aur control se sambhala jaata hai, waise hi mann ko bhi sambhalna chahiye.”
+
+Unhone kaha ki jab insaan Bhagwan ki bhakti karta rehta hai, toh uske mann ki buri ichchhaayein dheere-dheere khatam hone lagti hain.
+
+Krishna ne bataya, “Jab Bhagwan dil mein mehsoos hone lagte hain, tab saare doubts toot jaate hain aur purane karmon ka bandhan bhi khatam ho jata hai.”
+
+Phir Bhagwan ne ek bahut pyari baat kahi.
+
+“Sachche bhakt ko na swarg chahiye, na shakti aur na hi moksha. Use sirf Bhagwan ka prem chahiye.”
+
+Krishna bole, “Jo kuch bhi karma, tapasya, gyaan ya yoga se milta hai, woh sab ek sachcha bhakt aasani se pa leta hai.”
+
+Ant mein Bhagwan ne kaha, “Sabse bada raasta desireless bhakti ka hai. Jo bina kisi lalach ke mujhe prem karta hai, wahi sachchi shanti aur moksha paata hai.” """
         create_image_text_layout(text_content=text2, layout="full")
 
 
